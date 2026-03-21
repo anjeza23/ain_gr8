@@ -479,9 +479,20 @@ class BeamSearchScheduler:
                             break
                         continue
                     
+                       
                     # Optimized: Use score density heuristic
                     candidates.sort(key=lambda x: x[0] + (self.instance_data.closing_time - x[5]) * self.avg_score_per_min, reverse=True)
-                    seg_score, ch_idx, ch_id, prog, seg_start, seg_end = candidates[0]
+                    # Randomized greedy:
+                    # Most of the time pick best candidate (greedy),
+                    # but sometimes explore among top-k to escape local optima.
+                    if len(candidates) == 1:
+                        chosen = candidates[0]
+                    elif self.rng.random() < self.random_explore_prob:
+                        k = min(self.random_top_k, len(candidates))
+                        chosen = self.rng.choice(candidates[:k])
+                    else:
+                        chosen = candidates[0]
+                    seg_score, ch_idx, ch_id, prog, seg_start, seg_end = chosen
                     
                     new_sched.append(Schedule(
                         program_id=prog.program_id,
@@ -534,9 +545,18 @@ class BeamSearchScheduler:
             print("Running Beam Search...")
         sol = self._beam_search_core()
         
-        # Always run local search, but with fewer iterations for large instances
+        # Run local search; for larger instances we use fewer iterations.
+        # Then run a few randomized local-search restarts and keep the best.
         iter_limit = 50 if self.n_channels <= 50 else 20
         sol = self._local_search(sol, max_iter=iter_limit)
+        
+        restarts = 2 if self.n_channels <= 50 else 1
+        best = sol
+        for _ in range(restarts):
+            trial = self._local_search(sol, max_iter=iter_limit // 2)
+            if trial.total_score > best.total_score:
+                best = trial
+        sol = best
         
         if self.verbose:
             print(f"  Score: {sol.total_score}")
@@ -545,3 +565,4 @@ class BeamSearchScheduler:
             print(f"{'='*70}\n")
         
         return sol
+
