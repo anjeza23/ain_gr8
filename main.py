@@ -9,9 +9,12 @@ import argparse
 def main():
     parser_arg = argparse.ArgumentParser(description="Run TV scheduling algorithms")
     parser_arg.add_argument("--input", "-i", dest="input_file", help="Path to input JSON (optional)")
+    parser_arg.add_argument("--seed", type=int, default=42, help="Random seed for reproducible randomized local search")
+    parser_arg.add_argument("--explore-prob", type=float, default=0.15, help="Probability of random exploration in local search")
+    parser_arg.add_argument("--top-k", type=int, default=3, help="Top-k candidates for random exploration")
     
     args = parser_arg.parse_args()
-    file_path = select_file()
+    file_path = args.input_file if args.input_file else select_file()
     parser = Parser(file_path)
     instance = parser.parse()
     Utils.set_current_instance(instance)
@@ -32,7 +35,10 @@ def main():
         beam_width=beam_width,
         lookahead_limit=lookahead,
         density_percentile=percentile,
-        verbose=False
+        verbose=False,
+        random_seed=args.seed,
+        random_explore_prob=args.explore_prob,
+        random_top_k=args.top_k
     )
 
     solution = scheduler.generate_solution()
