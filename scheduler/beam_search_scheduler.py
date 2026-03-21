@@ -2,6 +2,7 @@ from typing import List, Dict, Tuple, Optional, Set
 from collections import defaultdict
 import bisect
 import heapq
+import random
 
 from models.instance_data import InstanceData
 from models.solution import Solution
@@ -16,12 +17,18 @@ class BeamSearchScheduler:
                  beam_width: int = 50,
                  lookahead_limit: int = 4,
                  density_percentile: int = 25,
-                 verbose: bool = True):
+                 verbose: bool = True,
+                 random_seed: Optional[int] = None,
+                 random_explore_prob: float = 0.15,
+                 random_top_k: int = 3):
         self.instance_data = instance_data
         self.beam_width = beam_width
         self.lookahead_limit = lookahead_limit
         self.density_percentile = density_percentile
         self.verbose = verbose
+        self.random_explore_prob = max(0.0, min(1.0, random_explore_prob))
+        self.random_top_k = max(1, random_top_k)
+        self.rng = random.Random(random_seed)
         self.min_d = instance_data.min_duration
         
         self._preprocess()
