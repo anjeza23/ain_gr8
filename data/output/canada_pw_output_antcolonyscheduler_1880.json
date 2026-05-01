@@ -1,0 +1,178 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470534_the_big_fight_2026-01-04_0060",
+            "channel_id": 245,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470879_schitt_s_creek_2026-01-04_0090",
+            "channel_id": 590,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470568_sports_stars_of_tomorrow_2026-01-04_0120",
+            "channel_id": 279,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "470637_nba_league_pass_info_2026-01-04_0120",
+            "channel_id": 348,
+            "start": 150,
+            "end": 225
+        },
+        {
+            "program_id": "470907_la_cage_aux_poules_2026-01-04_0180",
+            "channel_id": 618,
+            "start": 225,
+            "end": 260
+        },
+        {
+            "program_id": "470652_ace_ventura_pet_detectiv_2026-01-04_0260",
+            "channel_id": 363,
+            "start": 260,
+            "end": 290
+        },
+        {
+            "program_id": "470374_nhl_center_ice_2026-01-04_0240",
+            "channel_id": 86,
+            "start": 290,
+            "end": 320
+        },
+        {
+            "program_id": "470742_beethoven_une_star_est_n_2026-01-04_0240",
+            "channel_id": 453,
+            "start": 320,
+            "end": 353
+        },
+        {
+            "program_id": "470634_hatch_protection_rapproc_2026-01-04_0340",
+            "channel_id": 345,
+            "start": 353,
+            "end": 393
+        },
+        {
+            "program_id": "470521_live_nhl_hockey_2026-01-04_0300",
+            "channel_id": 232,
+            "start": 393,
+            "end": 427
+        },
+        {
+            "program_id": "470290_sign_off_2026-01-04_0240",
+            "channel_id": 2,
+            "start": 427,
+            "end": 465
+        },
+        {
+            "program_id": "470389_live_nfl_football_2026-01-04_0390",
+            "channel_id": 101,
+            "start": 465,
+            "end": 539
+        },
+        {
+            "program_id": "470302_harry_potter_et_les_reli_2026-01-04_0510",
+            "channel_id": 14,
+            "start": 539,
+            "end": 570
+        },
+        {
+            "program_id": "470771_ligue_nationale_de_hocke_2026-01-04_0480",
+            "channel_id": 482,
+            "start": 570,
+            "end": 670
+        },
+        {
+            "program_id": "470615_fear_thy_neighbor_2026-01-04_0660",
+            "channel_id": 326,
+            "start": 670,
+            "end": 705
+        },
+        {
+            "program_id": "470345_live_nfl_football_2026-01-04_0600",
+            "channel_id": 57,
+            "start": 705,
+            "end": 735
+        },
+        {
+            "program_id": "470558_nhl_center_ice_2026-01-04_0570",
+            "channel_id": 269,
+            "start": 735,
+            "end": 850
+        },
+        {
+            "program_id": "470791_movie_2026-01-04_0788",
+            "channel_id": 502,
+            "start": 850,
+            "end": 885
+        },
+        {
+            "program_id": "470619_nhl_center_ice_2026-01-04_0840",
+            "channel_id": 330,
+            "start": 885,
+            "end": 1015
+        },
+        {
+            "program_id": "470386_sportsnet_one_calgary_fl_2026-01-04_0900",
+            "channel_id": 98,
+            "start": 1015,
+            "end": 1075
+        },
+        {
+            "program_id": "470614_phoenix_news_express_2026-01-04_1050",
+            "channel_id": 325,
+            "start": 1075,
+            "end": 1107
+        },
+        {
+            "program_id": "470573_nhl_centre_ice_info_2026-01-04_0900",
+            "channel_id": 284,
+            "start": 1107,
+            "end": 1137
+        },
+        {
+            "program_id": "470340_french_ligue_1_soccer_2026-01-04_1050",
+            "channel_id": 52,
+            "start": 1137,
+            "end": 1170
+        },
+        {
+            "program_id": "470765_noticiero_univisi_n_fin__2026-01-04_1170",
+            "channel_id": 476,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "470592_from_the_world_of_john_w_2026-01-04_1185",
+            "channel_id": 303,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "470502_fin_des_programmes_2026-01-04_1150",
+            "channel_id": 214,
+            "start": 1230,
+            "end": 1305
+        },
+        {
+            "program_id": "470380_ready_for_a_safer_shower_2026-01-04_1295",
+            "channel_id": 92,
+            "start": 1305,
+            "end": 1350
+        },
+        {
+            "program_id": "470341_entertainment_tonight_2026-01-04_1320",
+            "channel_id": 53,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "470730_sportscentre_2026-01-04_1380",
+            "channel_id": 441,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

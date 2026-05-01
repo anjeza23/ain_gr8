@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_ligadecampeones4_m_liga_de_campeones_4_2026-01-04_0000",
+            "channel_id": 170,
+            "start": 0,
+            "end": 33
+        },
+        {
+            "program_id": "tv3_es_not_cies_3catinfo_2026-01-04_0030",
+            "channel_id": 238,
+            "start": 33,
+            "end": 236
+        },
+        {
+            "program_id": "m_golf2_es_pr_ximamente_m_golf_2_2026-01-04_0000",
+            "channel_id": 150,
+            "start": 236,
+            "end": 383
+        },
+        {
+            "program_id": "m_ligadecampeones9_m_liga_de_campeones_9_2026-01-04_0000",
+            "channel_id": 175,
+            "start": 383,
+            "end": 465
+        },
+        {
+            "program_id": "valenciacf_laliga_signing_off_2026-01-04_0465",
+            "channel_id": 261,
+            "start": 465,
+            "end": 509
+        },
+        {
+            "program_id": "deutschewelle_es_docfilm_dw_2026-01-04_0495",
+            "channel_id": 75,
+            "start": 509,
+            "end": 540
+        },
+        {
+            "program_id": "m_ligadecampeones2_m_liga_de_campeones_2_2026-01-04_0480",
+            "channel_id": 167,
+            "start": 540,
+            "end": 588
+        },
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_12_2026-01-04_0000",
+            "channel_id": 165,
+            "start": 588,
+            "end": 629
+        },
+        {
+            "program_id": "extremesports_es_grid_2026-01-04_0540",
+            "channel_id": 98,
+            "start": 629,
+            "end": 660
+        },
+        {
+            "program_id": "m_golf_es_pga_championship_jornada_2026-01-04_0600",
+            "channel_id": 149,
+            "start": 660,
+            "end": 744
+        },
+        {
+            "program_id": "laligatvbar3_es_primera_federaci_n_2026-01-04_0720",
+            "channel_id": 115,
+            "start": 744,
+            "end": 774
+        },
+        {
+            "program_id": "discoverymax_es_dmax_2026-01-04_0600",
+            "channel_id": 77,
+            "start": 774,
+            "end": 837
+        },
+        {
+            "program_id": "ubeat_es_liga_nacional_de_fuerza__2026-01-04_0825",
+            "channel_id": 259,
+            "start": 837,
+            "end": 885
+        },
+        {
+            "program_id": "cdleganes_laliga_no_game_today_2026-01-04_0840",
+            "channel_id": 39,
+            "start": 885,
+            "end": 1019
+        },
+        {
+            "program_id": "trece_es_es_peligroso_casarse_a_l_2026-01-04_0990",
+            "channel_id": 237,
+            "start": 1019,
+            "end": 1062
+        },
+        {
+            "program_id": "7tvregionmurcia_es_una_regi_n_con_magia_2026-01-04_1050",
+            "channel_id": 3,
+            "start": 1062,
+            "end": 1105
+        },
+        {
+            "program_id": "13tv_es_evasi_n_o_victoria_2026-01-04_1100",
+            "channel_id": 0,
+            "start": 1105,
+            "end": 1174
+        },
+        {
+            "program_id": "tcm_es_lost_in_translation_2026-01-04_1120",
+            "channel_id": 234,
+            "start": 1174,
+            "end": 1224
+        },
+        {
+            "program_id": "discoverymax_es_dmax_2026-01-04_1080",
+            "channel_id": 77,
+            "start": 1224,
+            "end": 1310
+        },
+        {
+            "program_id": "historia_es_pu_ales_por_la_espalda_2026-01-04_1275",
+            "channel_id": 107,
+            "start": 1310,
+            "end": 1374
+        },
+        {
+            "program_id": "la1_es_cine_2026-01-04_1320",
+            "channel_id": 112,
+            "start": 1374,
+            "end": 1405
+        },
+        {
+            "program_id": "alquiler_es_un_gran_viaje_atrevido_y_2026-01-04_1320",
+            "channel_id": 13,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

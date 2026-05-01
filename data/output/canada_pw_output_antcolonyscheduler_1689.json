@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470913_front_page_philippines_2026-01-04_0060",
+            "channel_id": 624,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "472364_dw_news_2026-01-04_0090",
+            "channel_id": 632,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470359_nhl_center_ice_2026-01-04_0120",
+            "channel_id": 71,
+            "start": 120,
+            "end": 155
+        },
+        {
+            "program_id": "470327_damage_2026-01-04_0090",
+            "channel_id": 39,
+            "start": 155,
+            "end": 185
+        },
+        {
+            "program_id": "470445_80_for_brady_2026-01-04_0140",
+            "channel_id": 157,
+            "start": 185,
+            "end": 215
+        },
+        {
+            "program_id": "470649_live_college_basketball_2026-01-04_0210",
+            "channel_id": 360,
+            "start": 215,
+            "end": 305
+        },
+        {
+            "program_id": "470846_canadian_quickies_2026-01-04_0280",
+            "channel_id": 557,
+            "start": 305,
+            "end": 340
+        },
+        {
+            "program_id": "470800_teenage_mutant_ninja_tur_2026-01-04_0340",
+            "channel_id": 511,
+            "start": 340,
+            "end": 375
+        },
+        {
+            "program_id": "470505_teenage_mutant_ninja_tur_2026-01-04_0340",
+            "channel_id": 217,
+            "start": 375,
+            "end": 440
+        },
+        {
+            "program_id": "470855_un_film_minecraft_2026-01-04_0390",
+            "channel_id": 566,
+            "start": 440,
+            "end": 470
+        },
+        {
+            "program_id": "470522_live_nfl_football_2026-01-04_0390",
+            "channel_id": 233,
+            "start": 470,
+            "end": 533
+        },
+        {
+            "program_id": "470703_sign_off_2026-01-04_0240",
+            "channel_id": 414,
+            "start": 533,
+            "end": 655
+        },
+        {
+            "program_id": "470628_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 339,
+            "start": 655,
+            "end": 710
+        },
+        {
+            "program_id": "470857_patriot_games_2026-01-04_0660",
+            "channel_id": 568,
+            "start": 710,
+            "end": 780
+        },
+        {
+            "program_id": "470567_prime_monday_night_hocke_2026-01-04_0720",
+            "channel_id": 278,
+            "start": 780,
+            "end": 960
+        },
+        {
+            "program_id": "470441_sportsnet_one_edmonton_o_2026-01-04_0900",
+            "channel_id": 153,
+            "start": 960,
+            "end": 1047
+        },
+        {
+            "program_id": "470916_mlb_extra_innings_info_2026-01-04_1020",
+            "channel_id": 627,
+            "start": 1047,
+            "end": 1077
+        },
+        {
+            "program_id": "470525_mlb_extra_innings_info_2026-01-04_0720",
+            "channel_id": 236,
+            "start": 1077,
+            "end": 1120
+        },
+        {
+            "program_id": "470661_real_time_2026-01-04_1120",
+            "channel_id": 372,
+            "start": 1120,
+            "end": 1150
+        },
+        {
+            "program_id": "470628_sportsnet_central_2026-01-04_1140",
+            "channel_id": 339,
+            "start": 1150,
+            "end": 1185
+        },
+        {
+            "program_id": "470818_alice_in_movieland_2026-01-04_1185",
+            "channel_id": 529,
+            "start": 1185,
+            "end": 1215
+        },
+        {
+            "program_id": "470666_nhl_center_ice_2026-01-04_1200",
+            "channel_id": 377,
+            "start": 1215,
+            "end": 1264
+        },
+        {
+            "program_id": "470303_nba_league_pass_info_2026-01-04_1200",
+            "channel_id": 15,
+            "start": 1264,
+            "end": 1294
+        },
+        {
+            "program_id": "470523_arthur_l_aventurier_les__2026-01-04_1290",
+            "channel_id": 234,
+            "start": 1294,
+            "end": 1325
+        },
+        {
+            "program_id": "470489_une_ann_e_difficile_2026-01-04_1260",
+            "channel_id": 201,
+            "start": 1325,
+            "end": 1355
+        },
+        {
+            "program_id": "470755_movie_2026-01-04_1320",
+            "channel_id": 466,
+            "start": 1355,
+            "end": 1390
+        },
+        {
+            "program_id": "470891_land_of_broken_hearts_2026-01-04_1300",
+            "channel_id": 602,
+            "start": 1390,
+            "end": 1420
+        }
+    ]
+}

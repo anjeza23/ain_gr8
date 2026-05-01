@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "canal32_fr_rediffusion_en_boucle_2026-01-04_0000",
+            "channel_id": 97,
+            "start": 0,
+            "end": 298
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0000",
+            "channel_id": 295,
+            "start": 298,
+            "end": 328
+        },
+        {
+            "program_id": "ab1_fr_les_vacances_de_l_amour_2026-01-04_0322",
+            "channel_id": 9,
+            "start": 328,
+            "end": 364
+        },
+        {
+            "program_id": "tunisia1_fr_la_t_l_vision_tunisienne_2026-01-04_0060",
+            "channel_id": 370,
+            "start": 364,
+            "end": 416
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0360",
+            "channel_id": 295,
+            "start": 416,
+            "end": 446
+        },
+        {
+            "program_id": "olympiatv_fr_la_cha_ne_de_vos_soir_es_2026-01-04_0091",
+            "channel_id": 255,
+            "start": 446,
+            "end": 503
+        },
+        {
+            "program_id": "planete_aande_fr_direct_auto_express_dire_2026-01-04_0472",
+            "channel_id": 260,
+            "start": 503,
+            "end": 533
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0420",
+            "channel_id": 270,
+            "start": 533,
+            "end": 657
+        },
+        {
+            "program_id": "portocanal_fr_o_norte_come_a_aqui_2026-01-04_0600",
+            "channel_id": 269,
+            "start": 657,
+            "end": 713
+        },
+        {
+            "program_id": "turbo24_24_fr_turbo_2026-01-04_0665",
+            "channel_id": 371,
+            "start": 713,
+            "end": 745
+        },
+        {
+            "program_id": "boomerang_1_fr_scooby_doo_et_la_cr_atur_2026-01-04_0690",
+            "channel_id": 51,
+            "start": 745,
+            "end": 778
+        },
+        {
+            "program_id": "tv2com_fr_la_t_l_vision_locale_en__2026-01-04_0720",
+            "channel_id": 341,
+            "start": 778,
+            "end": 822
+        },
+        {
+            "program_id": "showmax_fr_showmax_2026-01-04_0720",
+            "channel_id": 313,
+            "start": 822,
+            "end": 885
+        },
+        {
+            "program_id": "rmcdecouverte_fr_pawn_stars_2026-01-04_0880",
+            "channel_id": 287,
+            "start": 885,
+            "end": 927
+        },
+        {
+            "program_id": "kabeleins_fr_roadtrip_amerika_drei_sp_2026-01-04_0840",
+            "channel_id": 192,
+            "start": 927,
+            "end": 960
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0900",
+            "channel_id": 275,
+            "start": 960,
+            "end": 1075
+        },
+        {
+            "program_id": "kanal7avrupa_fr_gelin_2026-01-04_1020",
+            "channel_id": 193,
+            "start": 1075,
+            "end": 1115
+        },
+        {
+            "program_id": "canal_live1_fr_termin_fulham_liverpool_2026-01-04_1085",
+            "channel_id": 61,
+            "start": 1115,
+            "end": 1145
+        },
+        {
+            "program_id": "eurosport360_4_fr_a_bient_t_sur_eurosport__2026-01-04_1020",
+            "channel_id": 134,
+            "start": 1145,
+            "end": 1198
+        },
+        {
+            "program_id": "showmax_fr_showmax_2026-01-04_1080",
+            "channel_id": 313,
+            "start": 1198,
+            "end": 1230
+        },
+        {
+            "program_id": "i24newsenglish_fr_news_room_2026-01-04_1230",
+            "channel_id": 184,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "stadedereims_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 319,
+            "start": 1260,
+            "end": 1359
+        },
+        {
+            "program_id": "canal_docs_fr_morts_en_eaux_troubles_s_2026-01-04_1351",
+            "channel_id": 57,
+            "start": 1359,
+            "end": 1399
+        },
+        {
+            "program_id": "france3_lorraine_f_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 160,
+            "start": 1399,
+            "end": 1429
+        }
+    ]
+}

@@ -6,6 +6,7 @@ Generates JSON + Markdown tables ready for README.
 import json
 import subprocess
 import time
+import argparse
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List
@@ -25,6 +26,30 @@ class BenchmarkExecutor:
         {"ants": 22, "iterations": 70},
         {"ants": 28, "iterations": 80},
         {"ants": 35, "iterations": 90},
+    ]
+    USA_ACO_TESTS = [
+        {"ants": 5, "iterations": 10},
+        {"ants": 6, "iterations": 12},
+        {"ants": 7, "iterations": 12},
+        {"ants": 8, "iterations": 15},
+        {"ants": 10, "iterations": 15},
+        {"ants": 5, "iterations": 20},
+        {"ants": 8, "iterations": 20},
+        {"ants": 10, "iterations": 20},
+        {"ants": 12, "iterations": 20},
+        {"ants": 15, "iterations": 20},
+    ]
+    LARGE_ACO_TESTS = [
+        {"ants": 2, "iterations": 3},
+        {"ants": 2, "iterations": 4},
+        {"ants": 3, "iterations": 3},
+        {"ants": 3, "iterations": 4},
+        {"ants": 3, "iterations": 5},
+        {"ants": 4, "iterations": 3},
+        {"ants": 4, "iterations": 4},
+        {"ants": 5, "iterations": 3},
+        {"ants": 5, "iterations": 4},
+        {"ants": 6, "iterations": 3},
     ]
 
     def __init__(self, timeout_seconds: int = 25, instance_budget_seconds: int = 300):
@@ -163,12 +188,29 @@ class BenchmarkExecutor:
                 "timeout": True,
             }
 
-    def _instance_files(self) -> List[Path]:
+    def _instance_files(self, group: str = "tv") -> List[Path]:
         all_inputs = sorted(Path("data/input").glob("*.json"))
+        if group == "large":
+            return [p for p in all_inputs if not p.name.endswith("_tv_input.json") and p.name != "toy.json"]
+        if group == "all":
+            return [p for p in all_inputs if p.name != "toy.json"]
         return [p for p in all_inputs if p.name.endswith("_tv_input.json") and p.name != "toy.json"]
 
-    def run_all(self) -> Dict[str, object]:
-        instances = self._instance_files()
+    def _tests_for_instance(self, instance_name: str) -> List[Dict[str, int]]:
+        if instance_name == "usa_tv_input.json":
+            return self.USA_ACO_TESTS
+        if (
+            instance_name.endswith("_iptv.json")
+            or instance_name.endswith("_pw.json")
+            or instance_name.startswith("youtube_")
+        ):
+            return self.LARGE_ACO_TESTS
+        return self.ACO_TESTS
+
+    def run_all(self, only_instance: str = "", group: str = "tv") -> Dict[str, object]:
+        instances = self._instance_files(group=group)
+        if only_instance:
+            instances = [p for p in instances if p.name == only_instance]
         print(f"Running benchmark for {len(instances)} instances (excluding toy.json)")
 
         for instance_path in instances:
@@ -176,8 +218,9 @@ class BenchmarkExecutor:
             print(f"INSTANCE: {instance_path.name}")
             print(f"{'=' * 90}")
 
+            tests = self._tests_for_instance(instance_path.name)
             runs = []
-            for idx, params in enumerate(self.ACO_TESTS, start=1):
+            for idx, params in enumerate(tests, start=1):
                 result = self._run_single_aco(str(instance_path), idx, params)
                 runs.append(result)
                 status = "TIMEOUT" if result["timeout"] else ("OK" if result["ok"] else "FAIL")
@@ -192,7 +235,7 @@ class BenchmarkExecutor:
                 avg_score = sum(int(r["score"]) for r in valid_runs) / len(valid_runs)
                 worst_score = min(int(r["score"]) for r in valid_runs)
             else:
-                best_aco = {"run": 1, "params": self.ACO_TESTS[0], "score": 0, "time_sec": self.timeout_seconds}
+                best_aco = {"run": 1, "params": tests[0], "score": 0, "time_sec": self.timeout_seconds}
                 avg_score = 0.0
                 worst_score = 0
 
@@ -265,9 +308,10 @@ class BenchmarkExecutor:
             best = item["aco_best"]
             ls = item["local_search"]
             best_params = f"ants={best['params']['ants']}, iter={best['params']['iterations']}"
+            improvement_display = ls["improvement"] if ls["improvement"] > 0 else "-"
             lines.append(
                 f"| {item['instance']} | {best['score']} | {item['aco_avg_score']:.1f} | "
-                f"{item['aco_worst_score']} | {best_params} | {ls['local_search_score']} | {ls['improvement']} |"
+                f"{item['aco_worst_score']} | {best_params} | {ls['local_search_score']} | {improvement_display} |"
             )
 
         lines.append("")
@@ -275,8 +319,14 @@ class BenchmarkExecutor:
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Run 10x ACO tests + 1x Local Search")
+    parser.add_argument("--instance", default="", help="Run only one instance file name (e.g. usa_tv_input.json)")
+    parser.add_argument("--group", choices=["tv", "large", "all"], default="tv",
+                        help="Instance group to benchmark")
+    args = parser.parse_args()
+
     executor = BenchmarkExecutor(timeout_seconds=25, instance_budget_seconds=300)
-    executor.run_all()
+    executor.run_all(only_instance=args.instance.strip(), group=args.group)
     output_paths = executor.save_outputs()
     print("\nSaved files:")
     print(f"- JSON: {output_paths['json']}")

@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "beinsports1_fr_football_championnat_du__2026-01-04_0000",
+            "channel_id": 384,
+            "start": 0,
+            "end": 39
+        },
+        {
+            "program_id": "beinsports2_fr_basket_ball_nba_miami_he_2026-01-04_0000",
+            "channel_id": 385,
+            "start": 39,
+            "end": 90
+        },
+        {
+            "program_id": "localvisao_fr_document_rios_2026-01-04_0090",
+            "channel_id": 215,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "rtlnitrotv_fr_la_cha_ne_allemande_sp_c_2026-01-04_0060",
+            "channel_id": 303,
+            "start": 120,
+            "end": 381
+        },
+        {
+            "program_id": "cine_classic_fr_stalag_17_2026-01-04_0380",
+            "channel_id": 104,
+            "start": 381,
+            "end": 418
+        },
+        {
+            "program_id": "mezzo_fr_otello_2026-01-04_0325",
+            "channel_id": 232,
+            "start": 418,
+            "end": 480
+        },
+        {
+            "program_id": "cine_frisson_fr_gold_run_le_convoi_de_l__2026-01-04_0460",
+            "channel_id": 109,
+            "start": 480,
+            "end": 565
+        },
+        {
+            "program_id": "eurosport360_6_fr_a_bient_t_sur_eurosport__2026-01-04_0540",
+            "channel_id": 136,
+            "start": 565,
+            "end": 611
+        },
+        {
+            "program_id": "zouktv_fr_la_cha_ne_locale_diffus__2026-01-04_0540",
+            "channel_id": 382,
+            "start": 611,
+            "end": 672
+        },
+        {
+            "program_id": "olympiquelyonnais__no_match_today_2026-01-04_0660",
+            "channel_id": 256,
+            "start": 672,
+            "end": 787
+        },
+        {
+            "program_id": "canal_live7_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 77,
+            "start": 787,
+            "end": 880
+        },
+        {
+            "program_id": "mtv_fr_caught_in_the_act_infid__2026-01-04_0874",
+            "channel_id": 223,
+            "start": 880,
+            "end": 913
+        },
+        {
+            "program_id": "toonami_fr_la_ligue_des_justiciers__2026-01-04_0865",
+            "channel_id": 338,
+            "start": 913,
+            "end": 945
+        },
+        {
+            "program_id": "cctv_4_fr_le_miroir_de_la_chine_qu_2026-01-04_0900",
+            "channel_id": 83,
+            "start": 945,
+            "end": 1029
+        },
+        {
+            "program_id": "beinsports1_fr_football_coupe_d_afrique_2026-01-04_1020",
+            "channel_id": 384,
+            "start": 1029,
+            "end": 1085
+        },
+        {
+            "program_id": "montpellier_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 234,
+            "start": 1085,
+            "end": 1115
+        },
+        {
+            "program_id": "ab1_fr_urgences_2026-01-04_1109",
+            "channel_id": 9,
+            "start": 1115,
+            "end": 1155
+        },
+        {
+            "program_id": "cmc_fr_china_movie_channel_la_c_2026-01-04_1140",
+            "channel_id": 87,
+            "start": 1155,
+            "end": 1190
+        },
+        {
+            "program_id": "beinsportsmax8_fr_bein_sports_le_plus_gran_2026-01-04_1020",
+            "channel_id": 392,
+            "start": 1190,
+            "end": 1252
+        },
+        {
+            "program_id": "enquetescriminelle_enqu_tes_criminelles_2026-01-04_1245",
+            "channel_id": 128,
+            "start": 1252,
+            "end": 1331
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_1080",
+            "channel_id": 295,
+            "start": 1331,
+            "end": 1372
+        },
+        {
+            "program_id": "tvmonaco_fr_celtics_lakers_les_meill_2026-01-04_1305",
+            "channel_id": 351,
+            "start": 1372,
+            "end": 1402
+        },
+        {
+            "program_id": "nollywoodtv_fr_la_magie_de_no_l_2026-01-04_1334",
+            "channel_id": 250,
+            "start": 1402,
+            "end": 1436
+        }
+    ]
+}

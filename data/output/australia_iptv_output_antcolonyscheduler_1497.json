@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "nsw_sydneyfoxsport_gameday_live_4_1_26_2026-01-04_0000",
+            "channel_id": 350,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "richmond_afl_no_match_today_2026-01-04_0000",
+            "channel_id": 383,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "winboldtasmania_au_the_flying_scot_2026-01-04_0060",
+            "channel_id": 477,
+            "start": 60,
+            "end": 100
+        },
+        {
+            "program_id": "uktv_2_au_dragons_den_2026-01-04_0094",
+            "channel_id": 473,
+            "start": 100,
+            "end": 148
+        },
+        {
+            "program_id": "espnplay4_au_no_match_today_2026-01-04_0120",
+            "channel_id": 225,
+            "start": 148,
+            "end": 267
+        },
+        {
+            "program_id": "seaeagles_nrl_no_match_today_2026-01-04_0120",
+            "channel_id": 449,
+            "start": 267,
+            "end": 332
+        },
+        {
+            "program_id": "skyracing2_au_sky_racing_2_raceday_2026-01-04_0120",
+            "channel_id": 427,
+            "start": 332,
+            "end": 475
+        },
+        {
+            "program_id": "adelaidecrows_afl_no_match_today_2026-01-04_0360",
+            "channel_id": 135,
+            "start": 475,
+            "end": 505
+        },
+        {
+            "program_id": "sbsworldmoviesdarw_horrible_histories_movie_2026-01-04_0480",
+            "channel_id": 417,
+            "start": 505,
+            "end": 561
+        },
+        {
+            "program_id": "9goperth_au_brisbane_international_d_2026-01-04_0480",
+            "channel_id": 76,
+            "start": 561,
+            "end": 631
+        },
+        {
+            "program_id": "melbournevictory_a_no_match_today_2026-01-04_0600",
+            "channel_id": 338,
+            "start": 631,
+            "end": 692
+        },
+        {
+            "program_id": "10boldadelaide_au_ncis_2026-01-04_0690",
+            "channel_id": 0,
+            "start": 692,
+            "end": 740
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 740,
+            "end": 772
+        },
+        {
+            "program_id": "acc_au_life_with_paul_de_jong_2026-01-04_0780",
+            "channel_id": 132,
+            "start": 780,
+            "end": 810
+        },
+        {
+            "program_id": "espnplay67_au_no_match_today_2026-01-04_0600",
+            "channel_id": 255,
+            "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "fueltv_au_the_standard_snowboard_s_2026-01-04_0840",
+            "channel_id": 498,
+            "start": 840,
+            "end": 870
+        },
+        {
+            "program_id": "10shakebrisbane_au_just_for_laughs_australi_2026-01-04_0870",
+            "channel_id": 17,
+            "start": 870,
+            "end": 900
+        },
+        {
+            "program_id": "westernbulldogs_af_no_match_today_2026-01-04_0840",
+            "channel_id": 491,
+            "start": 900,
+            "end": 973
+        },
+        {
+            "program_id": "nsw_sydneyfoxcrick_ilt20_final_2026-01-04_0925",
+            "channel_id": 343,
+            "start": 973,
+            "end": 1143
+        },
+        {
+            "program_id": "7matebrisbane_au_nfl_week_18_packers_at_v_2026-01-04_1140",
+            "channel_id": 50,
+            "start": 1143,
+            "end": 1173
+        },
+        {
+            "program_id": "westernbulldogs_af_no_match_today_2026-01-04_1080",
+            "channel_id": 492,
+            "start": 1173,
+            "end": 1212
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1328
+        },
+        {
+            "program_id": "10boldadelaide_au_reel_action_2026-01-04_1350",
+            "channel_id": 0,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

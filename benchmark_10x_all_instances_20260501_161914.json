@@ -1,0 +1,1421 @@
+{
+  "timestamp": "2026-05-01T15:45:08.224620",
+  "timeout_seconds_per_run": 25,
+  "instance_budget_seconds": 300,
+  "instances": [
+    {
+      "instance": "australia_iptv.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 1497,
+          "time_sec": 12.206703901290894,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 1614,
+          "time_sec": 12.606125593185425,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 1754,
+          "time_sec": 17.586665391921997,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 1485,
+          "time_sec": 22.327150106430054,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 1598,
+          "time_sec": 24.11654806137085,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 1540,
+          "time_sec": 23.983689308166504,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 3,
+        "params": {
+          "ants": 3,
+          "iterations": 3
+        },
+        "score": 1754,
+        "time_sec": 17.586665391921997,
+        "timeout": false,
+        "ok": true
+      },
+      "aco_avg_score": 1581.3333333333333,
+      "aco_worst_score": 1485,
+      "aco_successful_runs": 6,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 3,
+          "iterations": 3,
+          "seed": 3
+        },
+        "initial_aco_score": 1754,
+        "local_search_score": 1754,
+        "improvement": 0,
+        "time_sec": 16.66506600379944,
+        "timeout": false
+      }
+    },
+    {
+      "instance": "canada_pw.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 1647,
+          "time_sec": 5.018516302108765,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 1287,
+          "time_sec": 6.299472808837891,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 1689,
+          "time_sec": 8.30064082145691,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 1488,
+          "time_sec": 11.956145286560059,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 2102,
+          "time_sec": 17.432732105255127,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 1607,
+          "time_sec": 13.08072543144226,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 1716,
+          "time_sec": 14.809654712677002,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 1880,
+          "time_sec": 12.767555475234985,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 1789,
+          "time_sec": 17.175994873046875,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 1822,
+          "time_sec": 16.08035111427307,
+          "timeout": false,
+          "ok": true
+        }
+      ],
+      "aco_best": {
+        "run": 5,
+        "params": {
+          "ants": 3,
+          "iterations": 5
+        },
+        "score": 2102,
+        "time_sec": 17.432732105255127,
+        "timeout": false,
+        "ok": true
+      },
+      "aco_avg_score": 1702.7,
+      "aco_worst_score": 1287,
+      "aco_successful_runs": 10,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 3,
+          "iterations": 5,
+          "seed": 5
+        },
+        "initial_aco_score": 2102,
+        "local_search_score": 2102,
+        "improvement": 0,
+        "time_sec": 12.94917368888855,
+        "timeout": false
+      }
+    },
+    {
+      "instance": "china_pw.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 807,
+          "time_sec": 9.865942239761353,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 987,
+          "time_sec": 19.218425512313843,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 883,
+          "time_sec": 22.045434951782227,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 2,
+        "params": {
+          "ants": 2,
+          "iterations": 4
+        },
+        "score": 987,
+        "time_sec": 19.218425512313843,
+        "timeout": false,
+        "ok": true
+      },
+      "aco_avg_score": 892.3333333333334,
+      "aco_worst_score": 807,
+      "aco_successful_runs": 3,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 2,
+          "iterations": 4,
+          "seed": 2
+        },
+        "initial_aco_score": 987,
+        "local_search_score": 987,
+        "improvement": 0,
+        "time_sec": 18.537925243377686,
+        "timeout": false
+      }
+    },
+    {
+      "instance": "france_iptv.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 915,
+          "time_sec": 8.25059723854065,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 1315,
+          "time_sec": 11.822983980178833,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 1300,
+          "time_sec": 14.633596897125244,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 1203,
+          "time_sec": 16.34262490272522,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 1287,
+          "time_sec": 19.158142566680908,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 1106,
+          "time_sec": 14.70101284980774,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 1367,
+          "time_sec": 23.373790979385376,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 1132,
+          "time_sec": 21.413557052612305,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 1149,
+          "time_sec": 23.79791283607483,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 1299,
+          "time_sec": 21.783797025680542,
+          "timeout": false,
+          "ok": true
+        }
+      ],
+      "aco_best": {
+        "run": 7,
+        "params": {
+          "ants": 4,
+          "iterations": 4
+        },
+        "score": 1367,
+        "time_sec": 23.373790979385376,
+        "timeout": false,
+        "ok": true
+      },
+      "aco_avg_score": 1207.3,
+      "aco_worst_score": 915,
+      "aco_successful_runs": 10,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 4,
+          "iterations": 4,
+          "seed": 7
+        },
+        "initial_aco_score": 1367,
+        "local_search_score": 1367,
+        "improvement": 0,
+        "time_sec": 23.36717700958252,
+        "timeout": false
+      }
+    },
+    {
+      "instance": "singapore_pw.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 953,
+          "time_sec": 1.4245257377624512,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 810,
+          "time_sec": 1.8502445220947266,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 999,
+          "time_sec": 2.0177438259124756,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 999,
+          "time_sec": 2.563459873199463,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 1250,
+          "time_sec": 3.4701273441314697,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 982,
+          "time_sec": 2.333416700363159,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 1089,
+          "time_sec": 3.333242654800415,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 1164,
+          "time_sec": 3.2811450958251953,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 1186,
+          "time_sec": 4.250849723815918,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 1041,
+          "time_sec": 3.6678414344787598,
+          "timeout": false,
+          "ok": true
+        }
+      ],
+      "aco_best": {
+        "run": 5,
+        "params": {
+          "ants": 3,
+          "iterations": 5
+        },
+        "score": 1250,
+        "time_sec": 3.4701273441314697,
+        "timeout": false,
+        "ok": true
+      },
+      "aco_avg_score": 1047.3,
+      "aco_worst_score": 810,
+      "aco_successful_runs": 10,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 3,
+          "iterations": 5,
+          "seed": 5
+        },
+        "initial_aco_score": 1250,
+        "local_search_score": 1250,
+        "improvement": 0,
+        "time_sec": 4.245310544967651,
+        "timeout": false
+      }
+    },
+    {
+      "instance": "spain_iptv.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 1361,
+          "time_sec": 4.978366374969482,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 996,
+          "time_sec": 6.220738172531128,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 1283,
+          "time_sec": 6.128506183624268,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 984,
+          "time_sec": 7.29901385307312,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 1227,
+          "time_sec": 11.318609476089478,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 1315,
+          "time_sec": 8.1234610080719,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 1585,
+          "time_sec": 13.150869607925415,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 1228,
+          "time_sec": 9.750824213027954,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 1526,
+          "time_sec": 17.474021434783936,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 1557,
+          "time_sec": 11.76416277885437,
+          "timeout": false,
+          "ok": true
+        }
+      ],
+      "aco_best": {
+        "run": 7,
+        "params": {
+          "ants": 4,
+          "iterations": 4
+        },
+        "score": 1585,
+        "time_sec": 13.150869607925415,
+        "timeout": false,
+        "ok": true
+      },
+      "aco_avg_score": 1306.2,
+      "aco_worst_score": 984,
+      "aco_successful_runs": 10,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 4,
+          "iterations": 4,
+          "seed": 7
+        },
+        "initial_aco_score": 1585,
+        "local_search_score": 1585,
+        "improvement": 0,
+        "time_sec": 12.262405157089233,
+        "timeout": false
+      }
+    },
+    {
+      "instance": "uk_iptv.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 1869,
+          "time_sec": 20.651177883148193,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 1,
+        "params": {
+          "ants": 2,
+          "iterations": 3
+        },
+        "score": 1869,
+        "time_sec": 20.651177883148193,
+        "timeout": false,
+        "ok": true
+      },
+      "aco_avg_score": 1869.0,
+      "aco_worst_score": 1869,
+      "aco_successful_runs": 1,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 2,
+          "iterations": 3,
+          "seed": 1
+        },
+        "initial_aco_score": 1869,
+        "local_search_score": 1869,
+        "improvement": 0,
+        "time_sec": 20.14960241317749,
+        "timeout": false
+      }
+    },
+    {
+      "instance": "us_iptv.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 1,
+        "params": {
+          "ants": 2,
+          "iterations": 3
+        },
+        "score": 0,
+        "time_sec": 25
+      },
+      "aco_avg_score": 0.0,
+      "aco_worst_score": 0,
+      "aco_successful_runs": 0,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 2,
+          "iterations": 3,
+          "seed": 1
+        },
+        "initial_aco_score": 0,
+        "local_search_score": 0,
+        "improvement": 0,
+        "time_sec": 25,
+        "timeout": true
+      }
+    },
+    {
+      "instance": "youtube_gold.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 1,
+        "params": {
+          "ants": 2,
+          "iterations": 3
+        },
+        "score": 0,
+        "time_sec": 25
+      },
+      "aco_avg_score": 0.0,
+      "aco_worst_score": 0,
+      "aco_successful_runs": 0,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 2,
+          "iterations": 3,
+          "seed": 1
+        },
+        "initial_aco_score": 0,
+        "local_search_score": 0,
+        "improvement": 0,
+        "time_sec": 25,
+        "timeout": true
+      }
+    },
+    {
+      "instance": "youtube_premium.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 3,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 3,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 4,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 4,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 5,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 5,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 6,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 1,
+        "params": {
+          "ants": 2,
+          "iterations": 3
+        },
+        "score": 0,
+        "time_sec": 25
+      },
+      "aco_avg_score": 0.0,
+      "aco_worst_score": 0,
+      "aco_successful_runs": 0,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 2,
+          "iterations": 3,
+          "seed": 1
+        },
+        "initial_aco_score": 0,
+        "local_search_score": 0,
+        "improvement": 0,
+        "time_sec": 25,
+        "timeout": true
+      }
+    }
+  ]
+}

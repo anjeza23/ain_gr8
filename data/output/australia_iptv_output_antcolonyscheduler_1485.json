@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "nsw_sydneyfoxsport_gameday_live_4_1_26_2026-01-04_0000",
+            "channel_id": 350,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "adelaidecrows_afl_no_match_today_2026-01-04_0000",
+            "channel_id": 135,
+            "start": 30,
+            "end": 88
+        },
+        {
+            "program_id": "winboldtasmania_au_the_flying_scot_2026-01-04_0060",
+            "channel_id": 477,
+            "start": 88,
+            "end": 130
+        },
+        {
+            "program_id": "7matehobart_au_the_fishing_show_by_afn__2026-01-04_0118",
+            "channel_id": 53,
+            "start": 130,
+            "end": 167
+        },
+        {
+            "program_id": "9gemsydney_au_wnbl_canberra_capitals_v_2026-01-04_0150",
+            "channel_id": 72,
+            "start": 167,
+            "end": 205
+        },
+        {
+            "program_id": "foxtelmoviescomedy_kicking_and_screaming_2026-01-04_0205",
+            "channel_id": 302,
+            "start": 205,
+            "end": 258
+        },
+        {
+            "program_id": "sbsworldmoviesdarw_moonlight_2026-01-04_0215",
+            "channel_id": 417,
+            "start": 258,
+            "end": 340
+        },
+        {
+            "program_id": "7flixsydney_au_dr_harry_s_animal_encoun_2026-01-04_0330",
+            "channel_id": 35,
+            "start": 340,
+            "end": 370
+        },
+        {
+            "program_id": "espnplay7_au_no_match_today_2026-01-04_0360",
+            "channel_id": 258,
+            "start": 370,
+            "end": 600
+        },
+        {
+            "program_id": "9gemperth_au_united_cup_night_3_2026-01-04_0600",
+            "channel_id": 71,
+            "start": 600,
+            "end": 640
+        },
+        {
+            "program_id": "nsw_sydneyfoxcrick_big_bash_stars_v_renegad_2026-01-04_0590",
+            "channel_id": 343,
+            "start": 640,
+            "end": 675
+        },
+        {
+            "program_id": "9gobrisbane_au_brisbane_international_d_2026-01-04_0480",
+            "channel_id": 74,
+            "start": 675,
+            "end": 720
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 720,
+            "end": 751
+        },
+        {
+            "program_id": "10boldadelaide_au_ncis_2026-01-04_0745",
+            "channel_id": 0,
+            "start": 751,
+            "end": 781
+        },
+        {
+            "program_id": "espn_au_nfl_49ers_v_seahawks_2026-01-04_0750",
+            "channel_id": 189,
+            "start": 781,
+            "end": 852
+        },
+        {
+            "program_id": "dragons_nrl_no_match_today_2026-01-04_0840",
+            "channel_id": 187,
+            "start": 852,
+            "end": 980
+        },
+        {
+            "program_id": "realhistory_au_the_brief_history_of_cri_2026-01-04_0960",
+            "channel_id": 382,
+            "start": 980,
+            "end": 1010
+        },
+        {
+            "program_id": "beinsports1_au_efl_championship_norwich_2026-01-04_0952",
+            "channel_id": 495,
+            "start": 1010,
+            "end": 1046
+        },
+        {
+            "program_id": "espnplay29_au_no_match_today_2026-01-04_0840",
+            "channel_id": 213,
+            "start": 1046,
+            "end": 1079
+        },
+        {
+            "program_id": "9goperth_au_gotham_2026-01-04_1055",
+            "channel_id": 76,
+            "start": 1079,
+            "end": 1111
+        },
+        {
+            "program_id": "espnplay35_au_no_match_today_2026-01-04_1080",
+            "channel_id": 220,
+            "start": 1111,
+            "end": 1145
+        },
+        {
+            "program_id": "raiders_nrlw_no_match_today_2026-01-04_1080",
+            "channel_id": 380,
+            "start": 1145,
+            "end": 1177
+        },
+        {
+            "program_id": "foxtelone_au_csi_miami_2026-01-04_1170",
+            "channel_id": 299,
+            "start": 1177,
+            "end": 1207
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1318
+        },
+        {
+            "program_id": "10boldadelaide_au_home_shopping_2026-01-04_1320",
+            "channel_id": 0,
+            "start": 1320,
+            "end": 1350
+        }
+    ]
+}

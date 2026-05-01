@@ -1,0 +1,149 @@
+{
+  "timestamp": "2026-05-01T15:38:10.465495",
+  "timeout_seconds_per_run": 25,
+  "instance_budget_seconds": 300,
+  "instances": [
+    {
+      "instance": "usa_tv_input.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 5,
+            "iterations": 10
+          },
+          "score": 1831,
+          "time_sec": 15.03200078010559,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 6,
+            "iterations": 12
+          },
+          "score": 2019,
+          "time_sec": 20.075628757476807,
+          "timeout": false,
+          "ok": true
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 7,
+            "iterations": 12
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 8,
+            "iterations": 15
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 10,
+            "iterations": 15
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 5,
+            "iterations": 20
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 8,
+            "iterations": 20
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 10,
+            "iterations": 20
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 12,
+            "iterations": 20
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 15,
+            "iterations": 20
+          },
+          "score": 0,
+          "time_sec": 25,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 2,
+        "params": {
+          "ants": 6,
+          "iterations": 12
+        },
+        "score": 2019,
+        "time_sec": 20.075628757476807,
+        "timeout": false,
+        "ok": true
+      },
+      "aco_avg_score": 1925.0,
+      "aco_worst_score": 1831,
+      "aco_successful_runs": 2,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 6,
+          "iterations": 12,
+          "seed": 2
+        },
+        "initial_aco_score": 2019,
+        "local_search_score": 2019,
+        "improvement": 0,
+        "time_sec": 22.132004737854004,
+        "timeout": false
+      }
+    }
+  ]
+}

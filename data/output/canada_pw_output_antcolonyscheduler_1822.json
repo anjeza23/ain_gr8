@@ -1,0 +1,172 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470534_the_big_fight_2026-01-04_0060",
+            "channel_id": 245,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470496_hudson_and_rex_2026-01-04_0090",
+            "channel_id": 208,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470711_nba_league_pass_info_2026-01-04_0120",
+            "channel_id": 422,
+            "start": 120,
+            "end": 187
+        },
+        {
+            "program_id": "470390_live_college_basketball_2026-01-04_0180",
+            "channel_id": 102,
+            "start": 187,
+            "end": 230
+        },
+        {
+            "program_id": "470341_entertainment_tonight_2026-01-04_0210",
+            "channel_id": 53,
+            "start": 230,
+            "end": 270
+        },
+        {
+            "program_id": "470887_live_premier_league_goal_2026-01-04_0270",
+            "channel_id": 598,
+            "start": 270,
+            "end": 300
+        },
+        {
+            "program_id": "470875_desi_close_look_2026-01-04_0300",
+            "channel_id": 586,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "470759_nhl_centre_ice_info_2026-01-04_0240",
+            "channel_id": 470,
+            "start": 330,
+            "end": 410
+        },
+        {
+            "program_id": "470413_les_schtroumpfs_le_villa_2026-01-04_0390",
+            "channel_id": 125,
+            "start": 410,
+            "end": 460
+        },
+        {
+            "program_id": "470492_teenage_mutant_ninja_tur_2026-01-04_0460",
+            "channel_id": 204,
+            "start": 460,
+            "end": 533
+        },
+        {
+            "program_id": "470832_divergent_2026-01-04_0480",
+            "channel_id": 543,
+            "start": 533,
+            "end": 598
+        },
+        {
+            "program_id": "470333_community_bulletin_board_2026-01-04_0598",
+            "channel_id": 45,
+            "start": 598,
+            "end": 630
+        },
+        {
+            "program_id": "470833_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 544,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "470578_live_hockey_lnh_2026-01-04_0540",
+            "channel_id": 289,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "470755_movie_2026-01-04_0690",
+            "channel_id": 466,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "470496_live_nhl_hockey_2026-01-04_0720",
+            "channel_id": 208,
+            "start": 720,
+            "end": 825
+        },
+        {
+            "program_id": "470293_live_nfl_gameday_final_2026-01-04_0795",
+            "channel_id": 5,
+            "start": 825,
+            "end": 855
+        },
+        {
+            "program_id": "470302_bienvenue_dans_la_jungle_2026-01-04_0840",
+            "channel_id": 14,
+            "start": 855,
+            "end": 927
+        },
+        {
+            "program_id": "470821_le_batman_2026-01-04_0809",
+            "channel_id": 532,
+            "start": 927,
+            "end": 1017
+        },
+        {
+            "program_id": "470641_nhra_drag_racing_2026-01-04_0960",
+            "channel_id": 352,
+            "start": 1017,
+            "end": 1053
+        },
+        {
+            "program_id": "470293_nfl_football_2026-01-04_1020",
+            "channel_id": 5,
+            "start": 1053,
+            "end": 1083
+        },
+        {
+            "program_id": "470380_the_rookie_2026-01-04_1055",
+            "channel_id": 92,
+            "start": 1083,
+            "end": 1115
+        },
+        {
+            "program_id": "470846_allie_haze_loves_girls_2026-01-04_1099",
+            "channel_id": 557,
+            "start": 1115,
+            "end": 1172
+        },
+        {
+            "program_id": "470304_sportsnet_one_edmonton_o_2026-01-04_1140",
+            "channel_id": 16,
+            "start": 1172,
+            "end": 1207
+        },
+        {
+            "program_id": "470609_timber_kings_2026-01-04_1200",
+            "channel_id": 320,
+            "start": 1207,
+            "end": 1243
+        },
+        {
+            "program_id": "470532_cbc_music_vancouver_cbu__2026-01-04_1140",
+            "channel_id": 243,
+            "start": 1243,
+            "end": 1365
+        },
+        {
+            "program_id": "470492_garage_sale_mystery_the__2026-01-04_1320",
+            "channel_id": 204,
+            "start": 1365,
+            "end": 1395
+        },
+        {
+            "program_id": "470356_news_2026-01-04_1380",
+            "channel_id": 68,
+            "start": 1395,
+            "end": 1425
+        }
+    ]
+}

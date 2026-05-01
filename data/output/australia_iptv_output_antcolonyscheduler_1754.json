@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "westcoasteagles_af_no_match_today_2026-01-04_0000",
+            "channel_id": 490,
+            "start": 0,
+            "end": 65
+        },
+        {
+            "program_id": "beinsports2_au_serie_a_juventus_vs_lecc_2026-01-04_0050",
+            "channel_id": 496,
+            "start": 65,
+            "end": 116
+        },
+        {
+            "program_id": "9darwin_au_united_cup_day_3_2026-01-04_0030",
+            "channel_id": 59,
+            "start": 116,
+            "end": 148
+        },
+        {
+            "program_id": "9goperth_au_brisbane_international_d_2026-01-04_0120",
+            "channel_id": 76,
+            "start": 148,
+            "end": 210
+        },
+        {
+            "program_id": "bloombergtelevisio_leaders_with_francine_la_2026-01-04_0210",
+            "channel_id": 145,
+            "start": 210,
+            "end": 240
+        },
+        {
+            "program_id": "max_au_golden_hour_feel_2026-01-04_0240",
+            "channel_id": 334,
+            "start": 240,
+            "end": 357
+        },
+        {
+            "program_id": "10darwin_au_nbl_round_15_new_zealand_2026-01-04_0268",
+            "channel_id": 7,
+            "start": 357,
+            "end": 388
+        },
+        {
+            "program_id": "9go_canberra_au_nbl_round_15_brisbane_bu_2026-01-04_0388",
+            "channel_id": 63,
+            "start": 388,
+            "end": 429
+        },
+        {
+            "program_id": "nsw_sydneyfoxleagu_fox_league_rivalries_202_2026-01-04_0420",
+            "channel_id": 344,
+            "start": 429,
+            "end": 459
+        },
+        {
+            "program_id": "stan9_au_tbd_v_tbd_group_e_united_2026-01-04_0360",
+            "channel_id": 448,
+            "start": 459,
+            "end": 615
+        },
+        {
+            "program_id": "espnplay65_au_no_match_today_2026-01-04_0600",
+            "channel_id": 253,
+            "start": 615,
+            "end": 660
+        },
+        {
+            "program_id": "kayomainevent_au_no_match_today_2026-01-04_0600",
+            "channel_id": 324,
+            "start": 660,
+            "end": 699
+        },
+        {
+            "program_id": "10boldbrisbane_au_ncis_2026-01-04_0690",
+            "channel_id": 1,
+            "start": 699,
+            "end": 730
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 730,
+            "end": 775
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0775",
+            "channel_id": 2,
+            "start": 775,
+            "end": 818
+        },
+        {
+            "program_id": "9gemdarwin_au_united_cup_night_3_2026-01-04_0630",
+            "channel_id": 69,
+            "start": 818,
+            "end": 882
+        },
+        {
+            "program_id": "westcoasteagles_af_no_match_today_2026-01-04_0840",
+            "channel_id": 490,
+            "start": 882,
+            "end": 937
+        },
+        {
+            "program_id": "sbsmelbourne_au_body_parts_2026-01-04_0915",
+            "channel_id": 401,
+            "start": 937,
+            "end": 995
+        },
+        {
+            "program_id": "9gosydney_au_arrow_2026-01-04_0995",
+            "channel_id": 77,
+            "start": 995,
+            "end": 1025
+        },
+        {
+            "program_id": "geelongcats_aflw_no_match_today_2026-01-04_0840",
+            "channel_id": 317,
+            "start": 1025,
+            "end": 1065
+        },
+        {
+            "program_id": "10boldadelaide_au_home_shopping_2026-01-04_1065",
+            "channel_id": 0,
+            "start": 1065,
+            "end": 1095
+        },
+        {
+            "program_id": "geelongcats_aflw_no_match_today_2026-01-04_1080",
+            "channel_id": 317,
+            "start": 1095,
+            "end": 1143
+        },
+        {
+            "program_id": "7matebrisbane_au_nfl_week_18_packers_at_v_2026-01-04_1140",
+            "channel_id": 50,
+            "start": 1143,
+            "end": 1173
+        },
+        {
+            "program_id": "sbsvicelanddarwin__nhk_world_english_news_2026-01-04_1055",
+            "channel_id": 408,
+            "start": 1173,
+            "end": 1215
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1320
+        },
+        {
+            "program_id": "10boldbrisbane_au_home_shopping_2026-01-04_1320",
+            "channel_id": 1,
+            "start": 1320,
+            "end": 1350
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "beinsportsmax4_fr_bein_sports_le_plus_gran_2026-01-04_0000",
+            "channel_id": 388,
+            "start": 0,
+            "end": 35
+        },
+        {
+            "program_id": "lehavre_fr_no_match_today_2026-01-04_0000",
+            "channel_id": 201,
+            "start": 35,
+            "end": 87
+        },
+        {
+            "program_id": "cmc_fr_china_movie_channel_la_c_2026-01-04_0060",
+            "channel_id": 87,
+            "start": 87,
+            "end": 165
+        },
+        {
+            "program_id": "francetvdocs_fr_rendez_vous_10h_2026-01-04_0142",
+            "channel_id": 173,
+            "start": 165,
+            "end": 404
+        },
+        {
+            "program_id": "7alimoges_fr_la_cha_ne_locale_dit_e_p_2026-01-04_0360",
+            "channel_id": 6,
+            "start": 404,
+            "end": 437
+        },
+        {
+            "program_id": "canal_docs_fr_sarajevo_guerre_et_musiq_2026-01-04_0425",
+            "channel_id": 57,
+            "start": 437,
+            "end": 505
+        },
+        {
+            "program_id": "lehavre_fr_no_match_today_2026-01-04_0420",
+            "channel_id": 201,
+            "start": 505,
+            "end": 571
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0420",
+            "channel_id": 270,
+            "start": 571,
+            "end": 640
+        },
+        {
+            "program_id": "skynews_fr_la_cha_ne_d_information__2026-01-04_0600",
+            "channel_id": 317,
+            "start": 640,
+            "end": 705
+        },
+        {
+            "program_id": "eurosport360_6_fr_a_bient_t_sur_eurosport__2026-01-04_0540",
+            "channel_id": 136,
+            "start": 705,
+            "end": 739
+        },
+        {
+            "program_id": "cine_emotion_fr_les_filles_du_docteur_ma_2026-01-04_0713",
+            "channel_id": 106,
+            "start": 739,
+            "end": 769
+        },
+        {
+            "program_id": "staderennais_fr_no_match_today_2026-01-04_0660",
+            "channel_id": 320,
+            "start": 769,
+            "end": 810
+        },
+        {
+            "program_id": "eurosport360_3_fr_a_bient_t_sur_eurosport__2026-01-04_0795",
+            "channel_id": 133,
+            "start": 810,
+            "end": 982
+        },
+        {
+            "program_id": "france4_fr_fort_boyard_2026-01-04_0960",
+            "channel_id": 171,
+            "start": 982,
+            "end": 1046
+        },
+        {
+            "program_id": "beinsports1_fr_football_coupe_d_afrique_2026-01-04_1020",
+            "channel_id": 384,
+            "start": 1046,
+            "end": 1080
+        },
+        {
+            "program_id": "lille_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 214,
+            "start": 1080,
+            "end": 1113
+        },
+        {
+            "program_id": "rotanacinema_fr_la_cha_ne_du_cin_ma_et_d_2026-01-04_1080",
+            "channel_id": 310,
+            "start": 1113,
+            "end": 1143
+        },
+        {
+            "program_id": "ogcnice_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 251,
+            "start": 1143,
+            "end": 1173
+        },
+        {
+            "program_id": "rtl9_fr_l_amour_sans_pr_avis_2026-01-04_1145",
+            "channel_id": 302,
+            "start": 1173,
+            "end": 1246
+        },
+        {
+            "program_id": "ligue1_8_fr_ligue_1_8_2026-01-04_1140",
+            "channel_id": 212,
+            "start": 1246,
+            "end": 1280
+        },
+        {
+            "program_id": "auxerre_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 32,
+            "start": 1280,
+            "end": 1348
+        },
+        {
+            "program_id": "novelastv_fr_the_penthouse_saison_1_2026-01-04_1330",
+            "channel_id": 240,
+            "start": 1348,
+            "end": 1398
+        },
+        {
+            "program_id": "france3_picardie_f_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 165,
+            "start": 1398,
+            "end": 1428
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369734_a_graceful_liar_2026-01-04_0060",
+            "channel_id": 12,
+            "start": 60,
+            "end": 95
+        },
+        {
+            "program_id": "482832_end_of_transmission_2026-01-04_0060",
+            "channel_id": 205,
+            "start": 95,
+            "end": 420
+        },
+        {
+            "program_id": "482820_end_of_transmission_2026-01-04_0420",
+            "channel_id": 196,
+            "start": 420,
+            "end": 460
+        },
+        {
+            "program_id": "369758_poolman_2026-01-04_0425",
+            "channel_id": 26,
+            "start": 460,
+            "end": 513
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 513,
+            "end": 543
+        },
+        {
+            "program_id": "369775_end_of_transmission_2026-01-04_0420",
+            "channel_id": 36,
+            "start": 543,
+            "end": 730
+        },
+        {
+            "program_id": "482827_dongfeng_voyah_wuhan_ope_2026-01-04_0720",
+            "channel_id": 201,
+            "start": 730,
+            "end": 776
+        },
+        {
+            "program_id": "482832_tata_indian_premier_leag_2026-01-04_0705",
+            "channel_id": 205,
+            "start": 776,
+            "end": 806
+        },
+        {
+            "program_id": "369727_tears_of_the_sun_2026-01-04_0745",
+            "channel_id": 8,
+            "start": 806,
+            "end": 836
+        },
+        {
+            "program_id": "369742_rindu_bukan_rindu_2026-01-04_0820",
+            "channel_id": 17,
+            "start": 836,
+            "end": 875
+        },
+        {
+            "program_id": "412129_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 112,
+            "start": 875,
+            "end": 930
+        },
+        {
+            "program_id": "412203_information_not_availabl_2026-01-04_0780",
+            "channel_id": 174,
+            "start": 930,
+            "end": 970
+        },
+        {
+            "program_id": "412134_road_house_1989_2026-01-04_0885",
+            "channel_id": 116,
+            "start": 970,
+            "end": 1000
+        },
+        {
+            "program_id": "412187_qualifying_sprint_2026-01-04_0975",
+            "channel_id": 160,
+            "start": 1000,
+            "end": 1049
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1020",
+            "channel_id": 61,
+            "start": 1049,
+            "end": 1079
+        },
+        {
+            "program_id": "412164_premier_league_2025_26_2026-01-04_1020",
+            "channel_id": 141,
+            "start": 1079,
+            "end": 1115
+        },
+        {
+            "program_id": "412167_uefa_youth_league_2025_2_2026-01-04_1070",
+            "channel_id": 143,
+            "start": 1115,
+            "end": 1147
+        },
+        {
+            "program_id": "369806_heart_signal_s8_2026-01-04_1080",
+            "channel_id": 51,
+            "start": 1147,
+            "end": 1177
+        },
+        {
+            "program_id": "412126_kuberan_2026-01-04_1170",
+            "channel_id": 110,
+            "start": 1177,
+            "end": 1294
+        },
+        {
+            "program_id": "369773_english_league_champions_2026-01-04_1250",
+            "channel_id": 34,
+            "start": 1294,
+            "end": 1333
+        },
+        {
+            "program_id": "412140_leeds_united_v_mancheste_2026-01-04_1280",
+            "channel_id": 121,
+            "start": 1333,
+            "end": 1365
+        },
+        {
+            "program_id": "369790_premiership_rugby_northa_2026-01-04_1320",
+            "channel_id": 44,
+            "start": 1365,
+            "end": 1395
+        },
+        {
+            "program_id": "452962_end_of_transmission_2026-01-04_1140",
+            "channel_id": 188,
+            "start": 1395,
+            "end": 1430
+        }
+    ]
+}

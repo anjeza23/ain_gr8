@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "viraltv_es_cosmoastro_2026-01-04_0000",
+            "channel_id": 264,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "telesur_es_telesur_noticias_2026-01-04_0030",
+            "channel_id": 255,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "m_laligatv2_es_m_laliga_2_2026-01-04_0000",
+            "channel_id": 155,
+            "start": 60,
+            "end": 252
+        },
+        {
+            "program_id": "ubeat_es_regional_sur_lol_j07_ebr_2026-01-04_0210",
+            "channel_id": 259,
+            "start": 252,
+            "end": 285
+        },
+        {
+            "program_id": "populartvmurcia_es_infocomerciales_2026-01-04_0090",
+            "channel_id": 211,
+            "start": 285,
+            "end": 353
+        },
+        {
+            "program_id": "canalextremadura_e_programa_por_determinar_2026-01-04_0285",
+            "channel_id": 49,
+            "start": 353,
+            "end": 424
+        },
+        {
+            "program_id": "bbctopgear_es_top_gear_2026-01-04_0422",
+            "channel_id": 27,
+            "start": 424,
+            "end": 455
+        },
+        {
+            "program_id": "laligatvbar2_es_pr_ximo_partido_sporting_2026-01-04_0420",
+            "channel_id": 114,
+            "start": 455,
+            "end": 616
+        },
+        {
+            "program_id": "villarrealcf_lalig_no_game_today_2026-01-04_0540",
+            "channel_id": 263,
+            "start": 616,
+            "end": 675
+        },
+        {
+            "program_id": "i24news_es_news_2026-01-04_0660",
+            "channel_id": 268,
+            "start": 675,
+            "end": 705
+        },
+        {
+            "program_id": "barcatv_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 32,
+            "start": 705,
+            "end": 849
+        },
+        {
+            "program_id": "atleticodemadrid_l_no_game_today_2026-01-04_0840",
+            "channel_id": 20,
+            "start": 849,
+            "end": 895
+        },
+        {
+            "program_id": "discovery_es_as_se_hace_2026-01-04_0895",
+            "channel_id": 76,
+            "start": 895,
+            "end": 925
+        },
+        {
+            "program_id": "m_ligadecampeones2_m_liga_de_campeones_2_2026-01-04_0480",
+            "channel_id": 167,
+            "start": 925,
+            "end": 955
+        },
+        {
+            "program_id": "mezzo_es_concurso_de_ginebra_2025_2026-01-04_0900",
+            "channel_id": 190,
+            "start": 955,
+            "end": 990
+        },
+        {
+            "program_id": "telesur_es_telesur_noticias_2026-01-04_0990",
+            "channel_id": 255,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "extremesports_es_elite_wrestling_entertai_2026-01-04_0960",
+            "channel_id": 98,
+            "start": 1020,
+            "end": 1062
+        },
+        {
+            "program_id": "udalmer_a_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 258,
+            "start": 1062,
+            "end": 1200
+        },
+        {
+            "program_id": "hollywood_1_es_la_roca_2026-01-04_1122",
+            "channel_id": 108,
+            "start": 1200,
+            "end": 1231
+        },
+        {
+            "program_id": "mezzo_es_elisabeth_leonskaja_orch_2026-01-04_1230",
+            "channel_id": 190,
+            "start": 1231,
+            "end": 1304
+        },
+        {
+            "program_id": "laligatvbar_es_laliga_ea_sports_t25_26__2026-01-04_1260",
+            "channel_id": 124,
+            "start": 1304,
+            "end": 1352
+        },
+        {
+            "program_id": "tveinternacional_e_cine_2026-01-04_1320",
+            "channel_id": 244,
+            "start": 1352,
+            "end": 1413
+        }
+    ]
+}

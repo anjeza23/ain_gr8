@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412098_bbc_news_2026-01-04_0060",
+            "channel_id": 90,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369844_anupamaa_2026-01-04_0090",
+            "channel_id": 73,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "369729_bbc_news_2026-01-04_0120",
+            "channel_id": 10,
+            "start": 120,
+            "end": 164
+        },
+        {
+            "program_id": "482830_end_of_transmission_2026-01-04_0060",
+            "channel_id": 203,
+            "start": 164,
+            "end": 312
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_0210",
+            "channel_id": 6,
+            "start": 312,
+            "end": 342
+        },
+        {
+            "program_id": "412181_race_1_2026-01-04_0270",
+            "channel_id": 154,
+            "start": 342,
+            "end": 518
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 518,
+            "end": 548
+        },
+        {
+            "program_id": "429984_sky_news_2026-01-04_0540",
+            "channel_id": 179,
+            "start": 548,
+            "end": 597
+        },
+        {
+            "program_id": "415456_sound_trek_2025_2026-01-04_0540",
+            "channel_id": 176,
+            "start": 597,
+            "end": 642
+        },
+        {
+            "program_id": "369742_mencintaimu_bikin_hatiku_2026-01-04_0595",
+            "channel_id": 17,
+            "start": 642,
+            "end": 680
+        },
+        {
+            "program_id": "369750_totalenergies_caf_champi_2026-01-04_0670",
+            "channel_id": 22,
+            "start": 680,
+            "end": 750
+        },
+        {
+            "program_id": "482820_end_of_transmission_2026-01-04_0420",
+            "channel_id": 196,
+            "start": 750,
+            "end": 780
+        },
+        {
+            "program_id": "455187_end_of_transmission_2026-01-04_0780",
+            "channel_id": 191,
+            "start": 780,
+            "end": 920
+        },
+        {
+            "program_id": "412192_channel_premiere_robinho_2026-01-04_0840",
+            "channel_id": 165,
+            "start": 920,
+            "end": 1045
+        },
+        {
+            "program_id": "412168_super_game_s15_2026-01-04_1020",
+            "channel_id": 144,
+            "start": 1045,
+            "end": 1080
+        },
+        {
+            "program_id": "412170_indian_idol_2025_2026-01-04_1020",
+            "channel_id": 146,
+            "start": 1080,
+            "end": 1123
+        },
+        {
+            "program_id": "412112_cinema_verite_the_saga_o_2026-01-04_1085",
+            "channel_id": 100,
+            "start": 1123,
+            "end": 1155
+        },
+        {
+            "program_id": "412109_africa_live_2026-01-04_1155",
+            "channel_id": 98,
+            "start": 1155,
+            "end": 1185
+        },
+        {
+            "program_id": "369793_end_of_transmission_2026-01-04_1140",
+            "channel_id": 45,
+            "start": 1185,
+            "end": 1289
+        },
+        {
+            "program_id": "430462_live_m23_prs_v_ads_2026-01-04_1155",
+            "channel_id": 180,
+            "start": 1289,
+            "end": 1389
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 61,
+            "start": 1389,
+            "end": 1419
+        }
+    ]
+}

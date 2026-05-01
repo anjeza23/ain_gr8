@@ -1,0 +1,124 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "canal_live7_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 77,
+            "start": 0,
+            "end": 76
+        },
+        {
+            "program_id": "eurosport360_4_fr_a_bient_t_sur_eurosport__2026-01-04_0060",
+            "channel_id": 134,
+            "start": 76,
+            "end": 256
+        },
+        {
+            "program_id": "bfmgrandsreportage_la_famille_enqu_te_sur_u_2026-01-04_0255",
+            "channel_id": 43,
+            "start": 256,
+            "end": 287
+        },
+        {
+            "program_id": "arryadia_fr_la_cha_ne_du_sport_maroc_2026-01-04_0000",
+            "channel_id": 25,
+            "start": 287,
+            "end": 322
+        },
+        {
+            "program_id": "skynews_fr_la_cha_ne_d_information__2026-01-04_0060",
+            "channel_id": 317,
+            "start": 322,
+            "end": 395
+        },
+        {
+            "program_id": "beinsportsmax8_fr_bein_sports_le_plus_gran_2026-01-04_0300",
+            "channel_id": 392,
+            "start": 395,
+            "end": 435
+        },
+        {
+            "program_id": "beinsports1_fr_football_coupe_d_afrique_2026-01-04_0420",
+            "channel_id": 384,
+            "start": 435,
+            "end": 505
+        },
+        {
+            "program_id": "m6music_fr_hits_m6_music_2026-01-04_0360",
+            "channel_id": 219,
+            "start": 505,
+            "end": 756
+        },
+        {
+            "program_id": "eurosport360_5_fr_a_bient_t_sur_eurosport__2026-01-04_0720",
+            "channel_id": 135,
+            "start": 756,
+            "end": 863
+        },
+        {
+            "program_id": "recordnews_fr_informa_o_para_voc_cresc_2026-01-04_0780",
+            "channel_id": 308,
+            "start": 863,
+            "end": 904
+        },
+        {
+            "program_id": "equidia_fr_le_grand_direct_2026-01-04_0565",
+            "channel_id": 129,
+            "start": 904,
+            "end": 957
+        },
+        {
+            "program_id": "lcp_an24_fr_arr_t_de_la_cha_ne_2026-01-04_0900",
+            "channel_id": 197,
+            "start": 957,
+            "end": 1050
+        },
+        {
+            "program_id": "tvbreizh_fr_les_experts_manhattan_2026-01-04_1050",
+            "channel_id": 346,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "echorouknews_fr_sois_le_premier_savoir_2026-01-04_1080",
+            "channel_id": 125,
+            "start": 1080,
+            "end": 1210
+        },
+        {
+            "program_id": "rmcsportlive3_fr_cha_ne_v_nementielle_pou_2026-01-04_1080",
+            "channel_id": 294,
+            "start": 1210,
+            "end": 1240
+        },
+        {
+            "program_id": "mggtv_fr_paris_games_week_2026-01-04_1230",
+            "channel_id": 222,
+            "start": 1240,
+            "end": 1270
+        },
+        {
+            "program_id": "cherie25_fr_les_petits_meurtres_d_ag_2026-01-04_1270",
+            "channel_id": 103,
+            "start": 1270,
+            "end": 1300
+        },
+        {
+            "program_id": "rtltelevision_fr_football_am_ricain_nfl_2026-01-04_1140",
+            "channel_id": 304,
+            "start": 1300,
+            "end": 1345
+        },
+        {
+            "program_id": "france3_alsace_fr_dolomites_pi_g_s_aux_som_2026-01-04_1325",
+            "channel_id": 146,
+            "start": 1345,
+            "end": 1380
+        },
+        {
+            "program_id": "france3_parisile_d_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 163,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

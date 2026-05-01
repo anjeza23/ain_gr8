@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "almaghribia_fr_la_cha_ne_des_r_sidents__2026-01-04_0000",
+            "channel_id": 17,
+            "start": 0,
+            "end": 335
+        },
+        {
+            "program_id": "teleschiltigheim_c_la_t_l_vision_locale_de__2026-01-04_0060",
+            "channel_id": 329,
+            "start": 335,
+            "end": 367
+        },
+        {
+            "program_id": "beinsportsmax9_fr_bein_sports_le_plus_gran_2026-01-04_0300",
+            "channel_id": 393,
+            "start": 367,
+            "end": 404
+        },
+        {
+            "program_id": "paramountchannelde_arr_t_de_la_cha_ne_2026-01-04_0120",
+            "channel_id": 264,
+            "start": 404,
+            "end": 452
+        },
+        {
+            "program_id": "tvmonaco_fr_a_matche_2026-01-04_0420",
+            "channel_id": 351,
+            "start": 452,
+            "end": 490
+        },
+        {
+            "program_id": "tv2com_fr_la_t_l_vision_locale_en__2026-01-04_0360",
+            "channel_id": 341,
+            "start": 490,
+            "end": 536
+        },
+        {
+            "program_id": "planete_aventure_f_direct_auto_express_dire_2026-01-04_0533",
+            "channel_id": 259,
+            "start": 536,
+            "end": 571
+        },
+        {
+            "program_id": "assadissa_fr_la_connaissance_des_pr_c_2026-01-04_0540",
+            "channel_id": 28,
+            "start": 571,
+            "end": 720
+        },
+        {
+            "program_id": "24htve_fr_noticias_24h_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 720,
+            "end": 750
+        },
+        {
+            "program_id": "bet_fr_arr_t_de_la_cha_ne_2026-01-04_0720",
+            "channel_id": 38,
+            "start": 750,
+            "end": 828
+        },
+        {
+            "program_id": "teva_fr_d_co_ou_n_go_2026-01-04_0815",
+            "channel_id": 361,
+            "start": 828,
+            "end": 862
+        },
+        {
+            "program_id": "saint_etienne_fr_no_match_today_2026-01-04_0660",
+            "channel_id": 315,
+            "start": 862,
+            "end": 894
+        },
+        {
+            "program_id": "infosport_fr_le_jt_2026-01-04_0675",
+            "channel_id": 187,
+            "start": 894,
+            "end": 943
+        },
+        {
+            "program_id": "olympiatv_fr_la_cha_ne_de_vos_soir_es_2026-01-04_0091",
+            "channel_id": 255,
+            "start": 943,
+            "end": 975
+        },
+        {
+            "program_id": "elbiladtv_fr_libert_l_quit_et_l_objec_2026-01-04_0900",
+            "channel_id": 126,
+            "start": 975,
+            "end": 1011
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0900",
+            "channel_id": 273,
+            "start": 1011,
+            "end": 1060
+        },
+        {
+            "program_id": "eurosport360_3_fr_a_bient_t_sur_eurosport__2026-01-04_1020",
+            "channel_id": 133,
+            "start": 1060,
+            "end": 1132
+        },
+        {
+            "program_id": "scienceetvietv_fr_ghost_ships_chasseurs_d__2026-01-04_1130",
+            "channel_id": 316,
+            "start": 1132,
+            "end": 1165
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_1140",
+            "channel_id": 277,
+            "start": 1165,
+            "end": 1196
+        },
+        {
+            "program_id": "mggtv_fr_paris_games_week_2026-01-04_1165",
+            "channel_id": 222,
+            "start": 1196,
+            "end": 1230
+        },
+        {
+            "program_id": "c_sport_fr_histoire_de_champions_f1_2026-01-04_1165",
+            "channel_id": 53,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "francetvdocs_fr_le_monde_de_jamy_2026-01-04_1260",
+            "channel_id": 173,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "lens_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 202,
+            "start": 1290,
+            "end": 1327
+        },
+        {
+            "program_id": "mezzo_fr_wiener_philharmoniker_da_2026-01-04_1325",
+            "channel_id": 232,
+            "start": 1327,
+            "end": 1365
+        },
+        {
+            "program_id": "rmcstory_fr_flic_story_2026-01-04_1355",
+            "channel_id": 290,
+            "start": 1365,
+            "end": 1410
+        }
+    ]
+}

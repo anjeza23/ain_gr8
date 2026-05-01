@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369757_sky_news_today_2026-01-04_0060",
+            "channel_id": 25,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369775_end_of_transmission_2026-01-04_0060",
+            "channel_id": 36,
+            "start": 90,
+            "end": 340
+        },
+        {
+            "program_id": "412094_breakfree_2026-01-04_0270",
+            "channel_id": 86,
+            "start": 340,
+            "end": 481
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 481,
+            "end": 511
+        },
+        {
+            "program_id": "369744_homestead_rescue_s7_2026-01-04_0480",
+            "channel_id": 18,
+            "start": 511,
+            "end": 542
+        },
+        {
+            "program_id": "369748_american_girl_2026-01-04_0480",
+            "channel_id": 21,
+            "start": 542,
+            "end": 584
+        },
+        {
+            "program_id": "369740_hell_s_kitchen_s24_2026-01-04_0570",
+            "channel_id": 15,
+            "start": 584,
+            "end": 614
+        },
+        {
+            "program_id": "476879_information_not_availabl_2026-01-04_0420",
+            "channel_id": 195,
+            "start": 614,
+            "end": 735
+        },
+        {
+            "program_id": "412124_flounder_fam_land_world_2026-01-04_0735",
+            "channel_id": 108,
+            "start": 735,
+            "end": 765
+        },
+        {
+            "program_id": "412172_the_search_for_king_arth_2026-01-04_0765",
+            "channel_id": 147,
+            "start": 765,
+            "end": 815
+        },
+        {
+            "program_id": "412198_tata_indian_premier_leag_2026-01-04_0705",
+            "channel_id": 170,
+            "start": 815,
+            "end": 929
+        },
+        {
+            "program_id": "482833_end_of_transmission_2026-01-04_0780",
+            "channel_id": 206,
+            "start": 929,
+            "end": 996
+        },
+        {
+            "program_id": "412186_isa_pa_with_feelings_2026-01-04_0960",
+            "channel_id": 159,
+            "start": 996,
+            "end": 1026
+        },
+        {
+            "program_id": "412116_movie_p_t_sir_u_2026-01-04_1020",
+            "channel_id": 103,
+            "start": 1026,
+            "end": 1075
+        },
+        {
+            "program_id": "369745_city_confidential_s8_2026-01-04_1075",
+            "channel_id": 19,
+            "start": 1075,
+            "end": 1105
+        },
+        {
+            "program_id": "412157_world_series_cricket_s1_2026-01-04_1080",
+            "channel_id": 137,
+            "start": 1105,
+            "end": 1135
+        },
+        {
+            "program_id": "412200_genius_go_go_go_2026-01-04_1110",
+            "channel_id": 172,
+            "start": 1135,
+            "end": 1185
+        },
+        {
+            "program_id": "412143_rainbow_rumble_sun_2026-01-04_1155",
+            "channel_id": 124,
+            "start": 1185,
+            "end": 1215
+        },
+        {
+            "program_id": "412167_laliga_2025_26_espanyol__2026-01-04_1200",
+            "channel_id": 143,
+            "start": 1215,
+            "end": 1270
+        },
+        {
+            "program_id": "412117_all_in_buat_neng_salad_b_2026-01-04_1260",
+            "channel_id": 104,
+            "start": 1270,
+            "end": 1342
+        },
+        {
+            "program_id": "412142_china_before_china_2026-01-04_1342",
+            "channel_id": 123,
+            "start": 1342,
+            "end": 1372
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 61,
+            "start": 1372,
+            "end": 1402
+        },
+        {
+            "program_id": "412133_premiership_rugby_northa_2026-01-04_1320",
+            "channel_id": 115,
+            "start": 1402,
+            "end": 1435
+        }
+    ]
+}

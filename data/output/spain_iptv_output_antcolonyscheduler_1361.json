@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "laligatvbar_es_laliga_ea_sports_t25_26__2026-01-04_0000",
+            "channel_id": 124,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "tv3_es_not_cies_3catinfo_2026-01-04_0030",
+            "channel_id": 238,
+            "start": 30,
+            "end": 107
+        },
+        {
+            "program_id": "m_deportes_es_wow_artes_marciales_mixt_2026-01-04_0075",
+            "channel_id": 136,
+            "start": 107,
+            "end": 148
+        },
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_11_2026-01-04_0000",
+            "channel_id": 164,
+            "start": 148,
+            "end": 202
+        },
+        {
+            "program_id": "telemadrid_es_toc_toc_se_puede_2026-01-04_0192",
+            "channel_id": 254,
+            "start": 202,
+            "end": 248
+        },
+        {
+            "program_id": "m_deportes2_es_m_deportes_3_2026-01-04_0000",
+            "channel_id": 138,
+            "start": 248,
+            "end": 583
+        },
+        {
+            "program_id": "laligasmartbanktv2_pr_ximo_partido_albacete_2026-01-04_0375",
+            "channel_id": 122,
+            "start": 583,
+            "end": 614
+        },
+        {
+            "program_id": "tvcolombia_es_infocomerciales_2026-01-04_0540",
+            "channel_id": 243,
+            "start": 614,
+            "end": 660
+        },
+        {
+            "program_id": "rcdmallorca_laliga_no_game_today_2026-01-04_0600",
+            "channel_id": 215,
+            "start": 660,
+            "end": 698
+        },
+        {
+            "program_id": "sevillafc_laliga_next_game_laliga_santand_2026-01-04_0600",
+            "channel_id": 226,
+            "start": 698,
+            "end": 765
+        },
+        {
+            "program_id": "8tv_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 4,
+            "start": 765,
+            "end": 795
+        },
+        {
+            "program_id": "solmusica_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 228,
+            "start": 795,
+            "end": 829
+        },
+        {
+            "program_id": "m_deportes1_es_hip_dromo_de_la_zarzuela_2026-01-04_0775",
+            "channel_id": 137,
+            "start": 829,
+            "end": 927
+        },
+        {
+            "program_id": "nova_es_pecado_original_2026-01-04_0795",
+            "channel_id": 207,
+            "start": 927,
+            "end": 964
+        },
+        {
+            "program_id": "m_vamos_es_charles_thomas_tiempo_mu_2026-01-04_0945",
+            "channel_id": 130,
+            "start": 964,
+            "end": 995
+        },
+        {
+            "program_id": "rcdmallorca_laliga_no_game_today_2026-01-04_0840",
+            "channel_id": 215,
+            "start": 995,
+            "end": 1025
+        },
+        {
+            "program_id": "m_hits_es_dune_2026-01-04_0905",
+            "channel_id": 151,
+            "start": 1025,
+            "end": 1061
+        },
+        {
+            "program_id": "boing_es_cine_2026-01-04_1058",
+            "channel_id": 36,
+            "start": 1061,
+            "end": 1091
+        },
+        {
+            "program_id": "getafecf_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 104,
+            "start": 1091,
+            "end": 1172
+        },
+        {
+            "program_id": "m_laligatv_es_laliga_ea_sports_t25_26__2026-01-04_1104",
+            "channel_id": 154,
+            "start": 1172,
+            "end": 1230
+        },
+        {
+            "program_id": "m_hits_es_un_par_de_seductores_2026-01-04_1192",
+            "channel_id": 151,
+            "start": 1230,
+            "end": 1291
+        },
+        {
+            "program_id": "laligasmartbanktv__laliga_hypermotion_t25_2_2026-01-04_1260",
+            "channel_id": 121,
+            "start": 1291,
+            "end": 1342
+        },
+        {
+            "program_id": "la1catalunya_es_la_pelicula_de_la_semana_2026-01-04_1320",
+            "channel_id": 118,
+            "start": 1342,
+            "end": 1372
+        },
+        {
+            "program_id": "la8burgos_es_cyltv_noticias_2026-01-04_1350",
+            "channel_id": 120,
+            "start": 1372,
+            "end": 1402
+        },
+        {
+            "program_id": "tcm_es_historias_de_filadelfia_2026-01-04_1320",
+            "channel_id": 234,
+            "start": 1402,
+            "end": 1435
+        }
+    ]
+}

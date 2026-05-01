@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470750_backyard_builds_2026-01-04_0060",
+            "channel_id": 461,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470310_maroun_a_lifetime_locum_2026-01-04_0090",
+            "channel_id": 22,
+            "start": 90,
+            "end": 145
+        },
+        {
+            "program_id": "470897_the_perfect_weapon_2026-01-04_0085",
+            "channel_id": 608,
+            "start": 145,
+            "end": 175
+        },
+        {
+            "program_id": "470593_nhl_center_ice_2026-01-04_0120",
+            "channel_id": 304,
+            "start": 175,
+            "end": 205
+        },
+        {
+            "program_id": "470658_sweet_revenge_a_hannah_s_2026-01-04_0180",
+            "channel_id": 369,
+            "start": 205,
+            "end": 271
+        },
+        {
+            "program_id": "470482_mlb_extra_innings_info_2026-01-04_0240",
+            "channel_id": 194,
+            "start": 271,
+            "end": 309
+        },
+        {
+            "program_id": "470619_nhl_center_ice_2026-01-04_0240",
+            "channel_id": 330,
+            "start": 309,
+            "end": 339
+        },
+        {
+            "program_id": "470377_farmhouse_facelift_2026-01-04_0330",
+            "channel_id": 89,
+            "start": 339,
+            "end": 390
+        },
+        {
+            "program_id": "470901_in_committee_from_the_ho_2026-01-04_0360",
+            "channel_id": 612,
+            "start": 390,
+            "end": 435
+        },
+        {
+            "program_id": "470293_nfl_football_2026-01-04_0390",
+            "channel_id": 5,
+            "start": 435,
+            "end": 555
+        },
+        {
+            "program_id": "470593_nhl_center_ice_2026-01-04_0480",
+            "channel_id": 304,
+            "start": 555,
+            "end": 600
+        },
+        {
+            "program_id": "470621_live_cp24_nightside_2026-01-04_0600",
+            "channel_id": 332,
+            "start": 600,
+            "end": 630
+        },
+        {
+            "program_id": "470521_nhl_center_ice_2026-01-04_0510",
+            "channel_id": 232,
+            "start": 630,
+            "end": 675
+        },
+        {
+            "program_id": "470337_movie_2026-01-04_0660",
+            "channel_id": 49,
+            "start": 675,
+            "end": 795
+        },
+        {
+            "program_id": "470549_jean_s_bastien_girard_un_2026-01-04_0750",
+            "channel_id": 260,
+            "start": 795,
+            "end": 835
+        },
+        {
+            "program_id": "470318_nfl_sunday_ticket_2026-01-04_0720",
+            "channel_id": 30,
+            "start": 835,
+            "end": 959
+        },
+        {
+            "program_id": "470774_nhl_center_ice_2026-01-04_0840",
+            "channel_id": 485,
+            "start": 959,
+            "end": 1000
+        },
+        {
+            "program_id": "470488_saturday_night_live_2026-01-04_0965",
+            "channel_id": 200,
+            "start": 1000,
+            "end": 1057
+        },
+        {
+            "program_id": "470376_local_origination_2026-01-04_1020",
+            "channel_id": 88,
+            "start": 1057,
+            "end": 1150
+        },
+        {
+            "program_id": "470592_one_battle_after_another_2026-01-04_1020",
+            "channel_id": 303,
+            "start": 1150,
+            "end": 1185
+        },
+        {
+            "program_id": "470350_sportsnet_one_vancouver__2026-01-04_1140",
+            "channel_id": 62,
+            "start": 1185,
+            "end": 1373
+        },
+        {
+            "program_id": "470328_charmed_to_death_2026-01-04_1373",
+            "channel_id": 40,
+            "start": 1373,
+            "end": 1415
+        }
+    ]
+}

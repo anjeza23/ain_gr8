@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470621_live_cp24_dayside_2026-01-04_0060",
+            "channel_id": 332,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470489_la_pat_patrouille_la_sup_2026-01-04_0090",
+            "channel_id": 201,
+            "start": 90,
+            "end": 150
+        },
+        {
+            "program_id": "470671_rio_2_2026-01-04_0120",
+            "channel_id": 382,
+            "start": 150,
+            "end": 180
+        },
+        {
+            "program_id": "470370_sweet_revenge_a_hannah_s_2026-01-04_0180",
+            "channel_id": 82,
+            "start": 180,
+            "end": 215
+        },
+        {
+            "program_id": "470817_live_nhl_hockey_2026-01-04_0120",
+            "channel_id": 528,
+            "start": 215,
+            "end": 270
+        },
+        {
+            "program_id": "470834_mlb_extra_innings_info_2026-01-04_0240",
+            "channel_id": 545,
+            "start": 270,
+            "end": 430
+        },
+        {
+            "program_id": "470425_live_nfl_football_2026-01-04_0390",
+            "channel_id": 137,
+            "start": 430,
+            "end": 472
+        },
+        {
+            "program_id": "470724_live_nfl_football_2026-01-04_0390",
+            "channel_id": 435,
+            "start": 472,
+            "end": 502
+        },
+        {
+            "program_id": "470886_12_days_of_scottie_2026-01-04_0480",
+            "channel_id": 597,
+            "start": 502,
+            "end": 532
+        },
+        {
+            "program_id": "470758_nhl_centre_ice_2026-01-04_0480",
+            "channel_id": 469,
+            "start": 532,
+            "end": 562
+        },
+        {
+            "program_id": "470593_nhl_center_ice_2026-01-04_0480",
+            "channel_id": 304,
+            "start": 562,
+            "end": 600
+        },
+        {
+            "program_id": "470462_hpitv_2026-01-04_0420",
+            "channel_id": 174,
+            "start": 600,
+            "end": 637
+        },
+        {
+            "program_id": "470345_live_nfl_football_2026-01-04_0600",
+            "channel_id": 57,
+            "start": 637,
+            "end": 667
+        },
+        {
+            "program_id": "470461_live_nfl_football_2026-01-04_0600",
+            "channel_id": 173,
+            "start": 667,
+            "end": 697
+        },
+        {
+            "program_id": "470699_bkfc_28_2026-01-04_0660",
+            "channel_id": 410,
+            "start": 697,
+            "end": 727
+        },
+        {
+            "program_id": "470831_live_nhl_hockey_2026-01-04_0720",
+            "channel_id": 542,
+            "start": 727,
+            "end": 776
+        },
+        {
+            "program_id": "470479_nhl_center_ice_2026-01-04_0720",
+            "channel_id": 191,
+            "start": 776,
+            "end": 872
+        },
+        {
+            "program_id": "470850_radio_ici_radio_canada_p_2026-01-04_0720",
+            "channel_id": 561,
+            "start": 872,
+            "end": 1080
+        },
+        {
+            "program_id": "470501_nba_league_pass_info_2026-01-04_1080",
+            "channel_id": 213,
+            "start": 1080,
+            "end": 1115
+        },
+        {
+            "program_id": "470303_nba_league_pass_info_2026-01-04_1080",
+            "channel_id": 15,
+            "start": 1115,
+            "end": 1170
+        },
+        {
+            "program_id": "470542_paid_programming_2026-01-04_1170",
+            "channel_id": 253,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "470397_battlebots_2026-01-04_1200",
+            "channel_id": 109,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "470797_arctic_secrets_2026-01-04_1200",
+            "channel_id": 508,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "470465_the_great_smokey_roadblo_2026-01-04_1260",
+            "channel_id": 177,
+            "start": 1260,
+            "end": 1303
+        },
+        {
+            "program_id": "470596_all_time_games_2026-01-04_1290",
+            "channel_id": 307,
+            "start": 1303,
+            "end": 1401
+        }
+    ]
+}

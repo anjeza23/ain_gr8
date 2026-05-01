@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470878_lcn_maintenant_2026-01-04_0060",
+            "channel_id": 589,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470301_trending_now_2026-01-04_0090",
+            "channel_id": 13,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470366_the_association_post_up_2026-01-04_0120",
+            "channel_id": 78,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "470719_moneytalk_2026-01-04_0150",
+            "channel_id": 430,
+            "start": 150,
+            "end": 180
+        },
+        {
+            "program_id": "470576_le_patriote_2026-01-04_0180",
+            "channel_id": 287,
+            "start": 180,
+            "end": 264
+        },
+        {
+            "program_id": "470748_nhl_centre_ice_info_2026-01-04_0240",
+            "channel_id": 459,
+            "start": 264,
+            "end": 300
+        },
+        {
+            "program_id": "470513_live_college_basketball_2026-01-04_0300",
+            "channel_id": 224,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "470315_les_linceuls_2026-01-04_0265",
+            "channel_id": 27,
+            "start": 330,
+            "end": 366
+        },
+        {
+            "program_id": "470378_nhl_centre_ice_info_2026-01-04_0240",
+            "channel_id": 90,
+            "start": 366,
+            "end": 396
+        },
+        {
+            "program_id": "470297_live_nfl_football_2026-01-04_0390",
+            "channel_id": 9,
+            "start": 396,
+            "end": 429
+        },
+        {
+            "program_id": "470850_radio_ici_radio_canada_p_2026-01-04_0240",
+            "channel_id": 561,
+            "start": 429,
+            "end": 710
+        },
+        {
+            "program_id": "470711_live_nba_basketball_2026-01-04_0630",
+            "channel_id": 422,
+            "start": 710,
+            "end": 776
+        },
+        {
+            "program_id": "470378_nhl_centre_ice_info_2026-01-04_0720",
+            "channel_id": 90,
+            "start": 776,
+            "end": 830
+        },
+        {
+            "program_id": "470680_sign_off_2026-01-04_0720",
+            "channel_id": 391,
+            "start": 830,
+            "end": 860
+        },
+        {
+            "program_id": "470569_nhl_center_ice_2026-01-04_0570",
+            "channel_id": 280,
+            "start": 860,
+            "end": 890
+        },
+        {
+            "program_id": "470851_mcmillion_2026-01-04_0890",
+            "channel_id": 562,
+            "start": 890,
+            "end": 950
+        },
+        {
+            "program_id": "470337_movie_2026-01-04_0930",
+            "channel_id": 49,
+            "start": 950,
+            "end": 980
+        },
+        {
+            "program_id": "470349_classical_96fm_toronto_c_2026-01-04_0960",
+            "channel_id": 61,
+            "start": 980,
+            "end": 1045
+        },
+        {
+            "program_id": "470366_nba_basketball_2026-01-04_1020",
+            "channel_id": 78,
+            "start": 1045,
+            "end": 1113
+        },
+        {
+            "program_id": "470359_nhl_center_ice_2026-01-04_1080",
+            "channel_id": 71,
+            "start": 1113,
+            "end": 1143
+        },
+        {
+            "program_id": "470350_sportsnet_one_vancouver__2026-01-04_1140",
+            "channel_id": 62,
+            "start": 1143,
+            "end": 1184
+        },
+        {
+            "program_id": "470518_entertainment_tonight_2026-01-04_1170",
+            "channel_id": 229,
+            "start": 1184,
+            "end": 1215
+        },
+        {
+            "program_id": "470666_nhl_center_ice_2026-01-04_1200",
+            "channel_id": 377,
+            "start": 1215,
+            "end": 1260
+        },
+        {
+            "program_id": "470531_les_docs_de_la_grande_li_2026-01-04_1255",
+            "channel_id": 242,
+            "start": 1260,
+            "end": 1300
+        },
+        {
+            "program_id": "470401_nba_basketball_2026-01-04_1200",
+            "channel_id": 113,
+            "start": 1300,
+            "end": 1332
+        },
+        {
+            "program_id": "470461_ctv_your_morning_weekend_2026-01-04_1320",
+            "channel_id": 173,
+            "start": 1332,
+            "end": 1375
+        },
+        {
+            "program_id": "470897_elli_and_her_monster_tea_2026-01-04_1320",
+            "channel_id": 608,
+            "start": 1375,
+            "end": 1410
+        }
+    ]
+}

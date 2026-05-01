@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369813_late_night_with_seth_mey_2026-01-04_0060",
+            "channel_id": 55,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "412155_cakap_melayu_lah_2026-01-04_0120",
+            "channel_id": 135,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "482830_end_of_transmission_2026-01-04_0060",
+            "channel_id": 203,
+            "start": 150,
+            "end": 180
+        },
+        {
+            "program_id": "412175_part_2_the_84_cup_win_wa_2026-01-04_0180",
+            "channel_id": 149,
+            "start": 180,
+            "end": 210
+        },
+        {
+            "program_id": "369804_splitsvilla_2026-01-04_0195",
+            "channel_id": 49,
+            "start": 210,
+            "end": 260
+        },
+        {
+            "program_id": "482833_end_of_transmission_2026-01-04_0060",
+            "channel_id": 206,
+            "start": 260,
+            "end": 410
+        },
+        {
+            "program_id": "412187_race_2026-01-04_0300",
+            "channel_id": 160,
+            "start": 410,
+            "end": 440
+        },
+        {
+            "program_id": "369717_closed_2026-01-04_0420",
+            "channel_id": 2,
+            "start": 440,
+            "end": 564
+        },
+        {
+            "program_id": "412103_arabikkadha_2026-01-04_0510",
+            "channel_id": 94,
+            "start": 564,
+            "end": 612
+        },
+        {
+            "program_id": "412200_sound_trek_2025_2026-01-04_0540",
+            "channel_id": 172,
+            "start": 612,
+            "end": 660
+        },
+        {
+            "program_id": "369809_superman_2026-01-04_0650",
+            "channel_id": 52,
+            "start": 660,
+            "end": 716
+        },
+        {
+            "program_id": "412126_sunday_holiday_2026-01-04_0630",
+            "channel_id": 110,
+            "start": 716,
+            "end": 804
+        },
+        {
+            "program_id": "412139_china_news_2026-01-04_0780",
+            "channel_id": 120,
+            "start": 804,
+            "end": 837
+        },
+        {
+            "program_id": "369758_in_the_heights_2026-01-04_0830",
+            "channel_id": 26,
+            "start": 837,
+            "end": 874
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 874,
+            "end": 904
+        },
+        {
+            "program_id": "412104_yang_manis_suka_bikin_ha_2026-01-04_0870",
+            "channel_id": 95,
+            "start": 904,
+            "end": 950
+        },
+        {
+            "program_id": "412102_curtain_call_2026-01-04_0935",
+            "channel_id": 93,
+            "start": 950,
+            "end": 990
+        },
+        {
+            "program_id": "412167_laliga_2025_26_osasuna_v_2026-01-04_0960",
+            "channel_id": 143,
+            "start": 990,
+            "end": 1030
+        },
+        {
+            "program_id": "482832_tata_indian_premier_leag_2026-01-04_0970",
+            "channel_id": 205,
+            "start": 1030,
+            "end": 1184
+        },
+        {
+            "program_id": "412143_rainbow_rumble_sun_2026-01-04_1155",
+            "channel_id": 124,
+            "start": 1184,
+            "end": 1215
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_1110",
+            "channel_id": 6,
+            "start": 1215,
+            "end": 1245
+        },
+        {
+            "program_id": "429563_alpine_skiing_live_2026-01-04_1210",
+            "channel_id": 177,
+            "start": 1245,
+            "end": 1275
+        },
+        {
+            "program_id": "412149_2000_evening_news_2026-01-04_1260",
+            "channel_id": 130,
+            "start": 1275,
+            "end": 1305
+        },
+        {
+            "program_id": "369812_to_be_announced_2026-01-04_1200",
+            "channel_id": 54,
+            "start": 1305,
+            "end": 1370
+        },
+        {
+            "program_id": "369722_journey_of_the_heart_acr_2026-01-04_1365",
+            "channel_id": 5,
+            "start": 1370,
+            "end": 1402
+        },
+        {
+            "program_id": "369790_premiership_rugby_northa_2026-01-04_1320",
+            "channel_id": 44,
+            "start": 1402,
+            "end": 1435
+        }
+    ]
+}

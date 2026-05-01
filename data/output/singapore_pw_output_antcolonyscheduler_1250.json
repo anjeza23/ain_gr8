@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412116_movie_agilan_u_a_2026-01-04_0060",
+            "channel_id": 103,
+            "start": 60,
+            "end": 240
+        },
+        {
+            "program_id": "369775_end_of_transmission_2026-01-04_0060",
+            "channel_id": 36,
+            "start": 240,
+            "end": 275
+        },
+        {
+            "program_id": "482820_end_of_transmission_2026-01-04_0060",
+            "channel_id": 196,
+            "start": 275,
+            "end": 388
+        },
+        {
+            "program_id": "369746_india_s_got_talent_2025_2026-01-04_0360",
+            "channel_id": 20,
+            "start": 388,
+            "end": 418
+        },
+        {
+            "program_id": "369727_jurassic_world_2026-01-04_0400",
+            "channel_id": 8,
+            "start": 418,
+            "end": 485
+        },
+        {
+            "program_id": "412184_bus_to_the_beach_2026-01-04_0485",
+            "channel_id": 157,
+            "start": 485,
+            "end": 515
+        },
+        {
+            "program_id": "412126_movie_2026-01-04_0510",
+            "channel_id": 110,
+            "start": 515,
+            "end": 606
+        },
+        {
+            "program_id": "412176_keep_the_faith_give_appl_2026-01-04_0600",
+            "channel_id": 150,
+            "start": 606,
+            "end": 639
+        },
+        {
+            "program_id": "369832_buddy_valastro_s_cake_dy_2026-01-04_0630",
+            "channel_id": 66,
+            "start": 639,
+            "end": 670
+        },
+        {
+            "program_id": "412167_laliga_archive_osasuna_v_2026-01-04_0670",
+            "channel_id": 143,
+            "start": 670,
+            "end": 700
+        },
+        {
+            "program_id": "369716_xxx_2026-01-04_0700",
+            "channel_id": 1,
+            "start": 700,
+            "end": 730
+        },
+        {
+            "program_id": "412179_cycle_around_japan_highl_2026-01-04_0730",
+            "channel_id": 152,
+            "start": 730,
+            "end": 760
+        },
+        {
+            "program_id": "484241_blue_moon_2026-01-04_0720",
+            "channel_id": 208,
+            "start": 760,
+            "end": 830
+        },
+        {
+            "program_id": "369719_smurfs_the_lost_village_2026-01-04_0770",
+            "channel_id": 3,
+            "start": 830,
+            "end": 860
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 860,
+            "end": 890
+        },
+        {
+            "program_id": "412170_kaun_banega_crorepati_20_2026-01-04_0840",
+            "channel_id": 146,
+            "start": 890,
+            "end": 922
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_0900",
+            "channel_id": 61,
+            "start": 922,
+            "end": 967
+        },
+        {
+            "program_id": "452962_end_of_transmission_2026-01-04_0780",
+            "channel_id": 188,
+            "start": 967,
+            "end": 1013
+        },
+        {
+            "program_id": "412167_laliga_2025_26_osasuna_v_2026-01-04_0960",
+            "channel_id": 143,
+            "start": 1013,
+            "end": 1045
+        },
+        {
+            "program_id": "412168_super_game_s15_2026-01-04_1020",
+            "channel_id": 144,
+            "start": 1045,
+            "end": 1080
+        },
+        {
+            "program_id": "369722_news_b_2026-01-04_1080",
+            "channel_id": 5,
+            "start": 1080,
+            "end": 1118
+        },
+        {
+            "program_id": "415456_genius_go_go_go_2026-01-04_1110",
+            "channel_id": 176,
+            "start": 1118,
+            "end": 1230
+        },
+        {
+            "program_id": "369757_sky_news_today_with_matt_2026-01-04_1230",
+            "channel_id": 25,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "482822_fia_world_championship_w_2026-01-04_1260",
+            "channel_id": 198,
+            "start": 1260,
+            "end": 1300
+        },
+        {
+            "program_id": "429564_karnaval_sctv_2025_2026-01-04_1290",
+            "channel_id": 178,
+            "start": 1300,
+            "end": 1378
+        },
+        {
+            "program_id": "369833_world_series_cricket_2026-01-04_1350",
+            "channel_id": 67,
+            "start": 1378,
+            "end": 1410
+        }
+    ]
+}

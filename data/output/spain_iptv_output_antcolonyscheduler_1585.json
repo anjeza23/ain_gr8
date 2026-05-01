@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_ligadecampeones4_m_liga_de_campeones_4_2026-01-04_0000",
+            "channel_id": 170,
+            "start": 0,
+            "end": 37
+        },
+        {
+            "program_id": "m_ligadecampeones9_m_liga_de_campeones_9_2026-01-04_0000",
+            "channel_id": 175,
+            "start": 37,
+            "end": 303
+        },
+        {
+            "program_id": "deutschewelle_es_docfilm_dw_2026-01-04_0303",
+            "channel_id": 75,
+            "start": 303,
+            "end": 355
+        },
+        {
+            "program_id": "m_deportes_es_euroliga_de_baloncesto_t_2026-01-04_0300",
+            "channel_id": 136,
+            "start": 355,
+            "end": 385
+        },
+        {
+            "program_id": "daznlaliga_es_dazn_laliga_2026-01-04_0360",
+            "channel_id": 71,
+            "start": 385,
+            "end": 499
+        },
+        {
+            "program_id": "m_indie_es_el_universo_de_david_lyn_2026-01-04_0480",
+            "channel_id": 152,
+            "start": 499,
+            "end": 538
+        },
+        {
+            "program_id": "m_ligadecampeones3_m_liga_de_campeones_3_2026-01-04_0480",
+            "channel_id": 169,
+            "start": 538,
+            "end": 571
+        },
+        {
+            "program_id": "barcatv_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 32,
+            "start": 571,
+            "end": 614
+        },
+        {
+            "program_id": "m_drama_es_almas_en_pena_de_inisher_2026-01-04_0575",
+            "channel_id": 145,
+            "start": 614,
+            "end": 644
+        },
+        {
+            "program_id": "hollywood_1_es_el_informe_pel_cano_2026-01-04_0579",
+            "channel_id": 108,
+            "start": 644,
+            "end": 674
+        },
+        {
+            "program_id": "teledeporte_es_lf_endesa_t25_26_uni_gir_2026-01-04_0658",
+            "channel_id": 252,
+            "start": 674,
+            "end": 716
+        },
+        {
+            "program_id": "7tvregionmurcia_es_murcia_en_vivo_2026-01-04_0705",
+            "channel_id": 3,
+            "start": 716,
+            "end": 799
+        },
+        {
+            "program_id": "m_sagas_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 180,
+            "start": 799,
+            "end": 858
+        },
+        {
+            "program_id": "ib3_es_ib3_not_cies_cap_de_setm_2026-01-04_0839",
+            "channel_id": 110,
+            "start": 858,
+            "end": 888
+        },
+        {
+            "program_id": "gironafc_laliga_no_game_today_2026-01-04_0840",
+            "channel_id": 105,
+            "start": 888,
+            "end": 948
+        },
+        {
+            "program_id": "daznf1_es_mundial_f1_gp_de_estados_2026-01-04_0900",
+            "channel_id": 69,
+            "start": 948,
+            "end": 991
+        },
+        {
+            "program_id": "ztv_es_cine_2026-01-04_0975",
+            "channel_id": 267,
+            "start": 991,
+            "end": 1088
+        },
+        {
+            "program_id": "villarrealcf_lalig_no_game_today_2026-01-04_1020",
+            "channel_id": 263,
+            "start": 1088,
+            "end": 1130
+        },
+        {
+            "program_id": "m_deportes_es_eurofighters_t25_26_2026-01-04_1110",
+            "channel_id": 136,
+            "start": 1130,
+            "end": 1170
+        },
+        {
+            "program_id": "bbcworld_es_shock_treatment_the_gay__2026-01-04_1170",
+            "channel_id": 28,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "daznlaliga2_es_laliga_ea_sports_t25_26__2026-01-04_1080",
+            "channel_id": 72,
+            "start": 1200,
+            "end": 1245
+        },
+        {
+            "program_id": "cosmo_es_el_secreto_de_la_pir_mid_2026-01-04_1240",
+            "channel_id": 44,
+            "start": 1245,
+            "end": 1349
+        },
+        {
+            "program_id": "324_es_telenot_cies_vespre_cap__2026-01-04_1322",
+            "channel_id": 2,
+            "start": 1349,
+            "end": 1380
+        },
+        {
+            "program_id": "tcm_es_historias_de_filadelfia_2026-01-04_1320",
+            "channel_id": 234,
+            "start": 1380,
+            "end": 1416
+        }
+    ]
+}

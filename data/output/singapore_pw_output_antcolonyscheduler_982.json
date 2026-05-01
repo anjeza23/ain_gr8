@@ -1,0 +1,124 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "484241_fly_me_to_the_moon_2026-01-04_0060",
+            "channel_id": 208,
+            "start": 60,
+            "end": 180
+        },
+        {
+            "program_id": "450710_end_of_transmission_2026-01-04_0060",
+            "channel_id": 184,
+            "start": 180,
+            "end": 355
+        },
+        {
+            "program_id": "412181_race_1_2026-01-04_0270",
+            "channel_id": 154,
+            "start": 355,
+            "end": 500
+        },
+        {
+            "program_id": "476879_information_not_availabl_2026-01-04_0420",
+            "channel_id": 195,
+            "start": 500,
+            "end": 612
+        },
+        {
+            "program_id": "412134_man_on_fire_2026-01-04_0585",
+            "channel_id": 116,
+            "start": 612,
+            "end": 690
+        },
+        {
+            "program_id": "412128_movie_contd_2026-01-04_0690",
+            "channel_id": 111,
+            "start": 690,
+            "end": 758
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 758,
+            "end": 788
+        },
+        {
+            "program_id": "369828_pippa_2026-01-04_0780",
+            "channel_id": 65,
+            "start": 788,
+            "end": 820
+        },
+        {
+            "program_id": "455314_asap_live_2026-01-04_0780",
+            "channel_id": 192,
+            "start": 820,
+            "end": 870
+        },
+        {
+            "program_id": "369737_foul_play_2026-01-04_0870",
+            "channel_id": 14,
+            "start": 870,
+            "end": 900
+        },
+        {
+            "program_id": "369737_the_iconic_2026-01-04_0900",
+            "channel_id": 14,
+            "start": 900,
+            "end": 930
+        },
+        {
+            "program_id": "369737_sports_woman_2026-01-04_0930",
+            "channel_id": 14,
+            "start": 930,
+            "end": 960
+        },
+        {
+            "program_id": "412110_kahani_har_ghar_ki_2026-01-04_0960",
+            "channel_id": 99,
+            "start": 960,
+            "end": 995
+        },
+        {
+            "program_id": "412160_end_of_transmission_2026-01-04_0780",
+            "channel_id": 138,
+            "start": 995,
+            "end": 1025
+        },
+        {
+            "program_id": "369854_movie_2026-01-04_0960",
+            "channel_id": 79,
+            "start": 1025,
+            "end": 1139
+        },
+        {
+            "program_id": "451933_movie_2026-01-04_1020",
+            "channel_id": 187,
+            "start": 1139,
+            "end": 1200
+        },
+        {
+            "program_id": "369795_batman_v_superman_dawn_o_2026-01-04_1200",
+            "channel_id": 46,
+            "start": 1200,
+            "end": 1319
+        },
+        {
+            "program_id": "412140_leeds_united_v_mancheste_2026-01-04_1280",
+            "channel_id": 121,
+            "start": 1319,
+            "end": 1363
+        },
+        {
+            "program_id": "412142_china_before_china_2026-01-04_1342",
+            "channel_id": 123,
+            "start": 1363,
+            "end": 1403
+        },
+        {
+            "program_id": "369819_golden_swallow_2026-01-04_1320",
+            "channel_id": 60,
+            "start": 1403,
+            "end": 1433
+        }
+    ]
+}

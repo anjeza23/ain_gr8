@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "cnbc_es_cnbc_sports_2026-01-04_0000",
+            "channel_id": 41,
+            "start": 0,
+            "end": 34
+        },
+        {
+            "program_id": "negociostv_es_lo_mejor_de_negocios_tv_2026-01-04_0000",
+            "channel_id": 204,
+            "start": 34,
+            "end": 150
+        },
+        {
+            "program_id": "telesur_es_realidades_2026-01-04_0150",
+            "channel_id": 255,
+            "start": 150,
+            "end": 180
+        },
+        {
+            "program_id": "m_deportes5_es_m_deportes_6_2026-01-04_0000",
+            "channel_id": 141,
+            "start": 180,
+            "end": 270
+        },
+        {
+            "program_id": "aljazeeraenglish_e_counting_the_cost_2026-01-04_0270",
+            "channel_id": 12,
+            "start": 270,
+            "end": 300
+        },
+        {
+            "program_id": "populartvmurcia_es_infocomerciales_2026-01-04_0090",
+            "channel_id": 211,
+            "start": 300,
+            "end": 374
+        },
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_10_2026-01-04_0000",
+            "channel_id": 163,
+            "start": 374,
+            "end": 446
+        },
+        {
+            "program_id": "dazn3_es_disfruta_de_dazn_en_movi_2026-01-04_0420",
+            "channel_id": 67,
+            "start": 446,
+            "end": 509
+        },
+        {
+            "program_id": "m_deportes3_es_m_deportes_4_2026-01-04_0000",
+            "channel_id": 139,
+            "start": 509,
+            "end": 554
+        },
+        {
+            "program_id": "canaldelasestrella_mi_esposa_y_la_otra_2026-01-04_0520",
+            "channel_id": 53,
+            "start": 554,
+            "end": 584
+        },
+        {
+            "program_id": "classica_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 59,
+            "start": 584,
+            "end": 614
+        },
+        {
+            "program_id": "laligatvbar2_es_pr_ximo_partido_sporting_2026-01-04_0420",
+            "channel_id": 114,
+            "start": 614,
+            "end": 660
+        },
+        {
+            "program_id": "telefeinternaciona_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 253,
+            "start": 660,
+            "end": 720
+        },
+        {
+            "program_id": "la7_es_castilla_y_le_n_en_juego_2026-01-04_0720",
+            "channel_id": 119,
+            "start": 720,
+            "end": 790
+        },
+        {
+            "program_id": "etb3_es_doraemon_katu_kosmikoa_2026-01-04_0730",
+            "channel_id": 86,
+            "start": 790,
+            "end": 829
+        },
+        {
+            "program_id": "cncworld_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 42,
+            "start": 829,
+            "end": 890
+        },
+        {
+            "program_id": "m_losgoya_es_miss_carb_n_2026-01-04_0832",
+            "channel_id": 177,
+            "start": 890,
+            "end": 926
+        },
+        {
+            "program_id": "cnbc_es_cnbc_sports_2026-01-04_0720",
+            "channel_id": 41,
+            "start": 926,
+            "end": 1057
+        },
+        {
+            "program_id": "tvchile_es_24_horas_al_d_a_2026-01-04_1050",
+            "channel_id": 242,
+            "start": 1057,
+            "end": 1106
+        },
+        {
+            "program_id": "m_drama_es_whiplash_2026-01-04_1074",
+            "channel_id": 145,
+            "start": 1106,
+            "end": 1164
+        },
+        {
+            "program_id": "laligatvbar2_es_laliga_2026-01-04_1110",
+            "channel_id": 114,
+            "start": 1164,
+            "end": 1230
+        },
+        {
+            "program_id": "laligatvbar2_es_pr_ximo_partido_deportiv_2026-01-04_1230",
+            "channel_id": 114,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "etb2_es_teleberri_fin_de_semana__2026-01-04_1260",
+            "channel_id": 85,
+            "start": 1260,
+            "end": 1292
+        },
+        {
+            "program_id": "amcbreak_es_pu_ales_por_la_espalda_2026-01-04_1275",
+            "channel_id": 7,
+            "start": 1292,
+            "end": 1332
+        },
+        {
+            "program_id": "m_deportes_es_nhl_t25_26_dallas_stars__2026-01-04_1200",
+            "channel_id": 136,
+            "start": 1332,
+            "end": 1371
+        },
+        {
+            "program_id": "tveinternacional_e_cine_2026-01-04_1320",
+            "channel_id": 244,
+            "start": 1371,
+            "end": 1403
+        },
+        {
+            "program_id": "bbctopgear_es_top_gear_2026-01-04_1385",
+            "channel_id": 27,
+            "start": 1403,
+            "end": 1436
+        }
+    ]
+}

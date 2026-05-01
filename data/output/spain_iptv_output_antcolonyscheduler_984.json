@@ -1,0 +1,112 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_deportes7_es_m_deportes_8_2026-01-04_0000",
+            "channel_id": 143,
+            "start": 0,
+            "end": 34
+        },
+        {
+            "program_id": "daznlaliga2_es_dazn_laliga_2_2026-01-04_0000",
+            "channel_id": 72,
+            "start": 34,
+            "end": 89
+        },
+        {
+            "program_id": "antena3_es_la_ruleta_de_la_suerte_n_2026-01-04_0053",
+            "channel_id": 16,
+            "start": 89,
+            "end": 119
+        },
+        {
+            "program_id": "laligasmartbanktv3_laliga_tv_hypermotion_3_2026-01-04_0000",
+            "channel_id": 123,
+            "start": 119,
+            "end": 656
+        },
+        {
+            "program_id": "paramountchannel_e_fin_de_emisi_n_2026-01-04_0360",
+            "channel_id": 209,
+            "start": 656,
+            "end": 779
+        },
+        {
+            "program_id": "neox_es_neox_kidz_2026-01-04_0353",
+            "channel_id": 205,
+            "start": 779,
+            "end": 814
+        },
+        {
+            "program_id": "m_series_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 181,
+            "start": 814,
+            "end": 867
+        },
+        {
+            "program_id": "aljazeeraenglish_e_newshour_2026-01-04_0840",
+            "channel_id": 12,
+            "start": 867,
+            "end": 898
+        },
+        {
+            "program_id": "rayovallecano_lali_no_game_today_2026-01-04_0780",
+            "channel_id": 218,
+            "start": 898,
+            "end": 943
+        },
+        {
+            "program_id": "cuatro_es_cine_2026-01-04_0935",
+            "channel_id": 62,
+            "start": 943,
+            "end": 973
+        },
+        {
+            "program_id": "extremesports_es_elite_wrestling_entertai_2026-01-04_0960",
+            "channel_id": 98,
+            "start": 973,
+            "end": 1033
+        },
+        {
+            "program_id": "athleticclub_lalig_no_game_today_2026-01-04_1020",
+            "channel_id": 19,
+            "start": 1033,
+            "end": 1177
+        },
+        {
+            "program_id": "eurosport3_es_malas_lenguas_2026-01-04_1175",
+            "channel_id": 97,
+            "start": 1177,
+            "end": 1225
+        },
+        {
+            "program_id": "boing_es_cine_2026-01-04_1196",
+            "channel_id": 36,
+            "start": 1225,
+            "end": 1269
+        },
+        {
+            "program_id": "sevillafc_laliga_signing_off_2026-01-04_1185",
+            "channel_id": 226,
+            "start": 1269,
+            "end": 1299
+        },
+        {
+            "program_id": "laligatvbar_es_laliga_ea_sports_t25_26__2026-01-04_1260",
+            "channel_id": 124,
+            "start": 1299,
+            "end": 1333
+        },
+        {
+            "program_id": "etb1_es_herri_txiki_infernu_hand_2026-01-04_1320",
+            "channel_id": 84,
+            "start": 1333,
+            "end": 1382
+        },
+        {
+            "program_id": "la1catalunya_es_la_pelicula_de_la_semana_2026-01-04_1320",
+            "channel_id": 118,
+            "start": 1382,
+            "end": 1425
+        }
+    ]
+}

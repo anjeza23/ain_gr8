@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369757_sky_news_today_2026-01-04_0060",
+            "channel_id": 25,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "482823_end_of_transmission_2026-01-04_0060",
+            "channel_id": 199,
+            "start": 90,
+            "end": 209
+        },
+        {
+            "program_id": "412186_i_won_i_won_ang_s_werte__2026-01-04_0180",
+            "channel_id": 159,
+            "start": 209,
+            "end": 272
+        },
+        {
+            "program_id": "435717_movie_2026-01-04_0270",
+            "channel_id": 182,
+            "start": 272,
+            "end": 320
+        },
+        {
+            "program_id": "369775_end_of_transmission_2026-01-04_0060",
+            "channel_id": 36,
+            "start": 320,
+            "end": 405
+        },
+        {
+            "program_id": "369790_5_and_6_nations_classics_2026-01-04_0405",
+            "channel_id": 44,
+            "start": 405,
+            "end": 435
+        },
+        {
+            "program_id": "412124_double_trouble_2026-01-04_0435",
+            "channel_id": 108,
+            "start": 435,
+            "end": 495
+        },
+        {
+            "program_id": "369713_the_big_weekend_show_2026-01-04_0480",
+            "channel_id": 0,
+            "start": 495,
+            "end": 540
+        },
+        {
+            "program_id": "412201_cnn_newsroom_saturday_2026-01-04_0540",
+            "channel_id": 173,
+            "start": 540,
+            "end": 570
+        },
+        {
+            "program_id": "482824_end_of_transmission_2026-01-04_0420",
+            "channel_id": 200,
+            "start": 570,
+            "end": 737
+        },
+        {
+            "program_id": "369717_closed_2026-01-04_0420",
+            "channel_id": 2,
+            "start": 737,
+            "end": 835
+        },
+        {
+            "program_id": "369785_nature_s_ultimate_surviv_2026-01-04_0810",
+            "channel_id": 41,
+            "start": 835,
+            "end": 865
+        },
+        {
+            "program_id": "482831_end_of_transmission_2026-01-04_0780",
+            "channel_id": 204,
+            "start": 865,
+            "end": 992
+        },
+        {
+            "program_id": "369817_uefa_conference_league_2_2026-01-04_0960",
+            "channel_id": 58,
+            "start": 992,
+            "end": 1025
+        },
+        {
+            "program_id": "369727_the_hunger_games_catchin_2026-01-04_0990",
+            "channel_id": 8,
+            "start": 1025,
+            "end": 1070
+        },
+        {
+            "program_id": "412134_the_terminator_2026-01-04_1020",
+            "channel_id": 116,
+            "start": 1070,
+            "end": 1139
+        },
+        {
+            "program_id": "369806_heart_signal_s8_2026-01-04_1080",
+            "channel_id": 51,
+            "start": 1139,
+            "end": 1169
+        },
+        {
+            "program_id": "369795_el_diablo_2026-01-04_1090",
+            "channel_id": 46,
+            "start": 1169,
+            "end": 1200
+        },
+        {
+            "program_id": "369814_m_s_dhoni_the_untold_sto_2026-01-04_1140",
+            "channel_id": 56,
+            "start": 1200,
+            "end": 1312
+        },
+        {
+            "program_id": "369773_english_league_champions_2026-01-04_1250",
+            "channel_id": 34,
+            "start": 1312,
+            "end": 1342
+        },
+        {
+            "program_id": "412140_leeds_united_v_mancheste_2026-01-04_1280",
+            "channel_id": 121,
+            "start": 1342,
+            "end": 1403
+        },
+        {
+            "program_id": "369790_premiership_rugby_northa_2026-01-04_1320",
+            "channel_id": 44,
+            "start": 1403,
+            "end": 1435
+        }
+    ]
+}

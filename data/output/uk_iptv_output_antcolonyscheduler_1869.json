@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "maidenheadunited_n_no_game_today_2026-01-04_0000",
+            "channel_id": 437,
+            "start": 0,
+            "end": 47
+        },
+        {
+            "program_id": "skysports_45_vig_no_event_today_2026-01-04_0000",
+            "channel_id": 707,
+            "start": 47,
+            "end": 77
+        },
+        {
+            "program_id": "prestonnorthendfc__no_game_today_2026-01-04_0000",
+            "channel_id": 528,
+            "start": 77,
+            "end": 125
+        },
+        {
+            "program_id": "bbconescotland_uk_mo_salah_never_give_up_2026-01-04_0120",
+            "channel_id": 98,
+            "start": 125,
+            "end": 155
+        },
+        {
+            "program_id": "pbsamerica_freevie_channel_off_air_2026-01-04_0060",
+            "channel_id": 500,
+            "start": 155,
+            "end": 261
+        },
+        {
+            "program_id": "iqratv_uk_live_transmission_from_m_2026-01-04_0149",
+            "channel_id": 356,
+            "start": 261,
+            "end": 350
+        },
+        {
+            "program_id": "ptcpunjabii_uk_live_gurbani_asr_2026-01-04_0315",
+            "channel_id": 512,
+            "start": 350,
+            "end": 416
+        },
+        {
+            "program_id": "ss_event4_uk_hao_ching_chan_jiang_xin_2026-01-04_0385",
+            "channel_id": 598,
+            "start": 416,
+            "end": 490
+        },
+        {
+            "program_id": "fulham_epl_no_game_today_2026-01-04_0420",
+            "channel_id": 307,
+            "start": 490,
+            "end": 543
+        },
+        {
+            "program_id": "amazonukevent9_uk_no_game_today_2026-01-04_0420",
+            "channel_id": 73,
+            "start": 543,
+            "end": 652
+        },
+        {
+            "program_id": "skysports_38_vig_no_event_today_2026-01-04_0480",
+            "channel_id": 699,
+            "start": 652,
+            "end": 717
+        },
+        {
+            "program_id": "ss_event27_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 584,
+            "start": 717,
+            "end": 777
+        },
+        {
+            "program_id": "fleetwoodtownfc_ef_no_game_today_2026-01-04_0660",
+            "channel_id": 301,
+            "start": 777,
+            "end": 842
+        },
+        {
+            "program_id": "skysports_19_vig_no_event_today_2026-01-04_0720",
+            "channel_id": 678,
+            "start": 842,
+            "end": 925
+        },
+        {
+            "program_id": "ss_event46_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 605,
+            "start": 925,
+            "end": 955
+        },
+        {
+            "program_id": "altrincham_nationa_no_game_today_2026-01-04_0900",
+            "channel_id": 22,
+            "start": 955,
+            "end": 1000
+        },
+        {
+            "program_id": "skycrime_1_uk_world_s_most_evil_killer_2026-01-04_0975",
+            "channel_id": 653,
+            "start": 1000,
+            "end": 1030
+        },
+        {
+            "program_id": "bbcredbutton_uk_5_live_final_score_04_01_2026-01-04_0945",
+            "channel_id": 123,
+            "start": 1030,
+            "end": 1095
+        },
+        {
+            "program_id": "brentfordfc_epl_signing_off_2026-01-04_1095",
+            "channel_id": 154,
+            "start": 1095,
+            "end": 1125
+        },
+        {
+            "program_id": "thatstv3_uk_the_saint_2026-01-04_1095",
+            "channel_id": 837,
+            "start": 1125,
+            "end": 1155
+        },
+        {
+            "program_id": "amazonukevent8_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 72,
+            "start": 1155,
+            "end": 1185
+        },
+        {
+            "program_id": "amazonukevent10_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 25,
+            "start": 1185,
+            "end": 1229
+        },
+        {
+            "program_id": "comedycentral_uk_bring_it_on_2026-01-04_1205",
+            "channel_id": 196,
+            "start": 1229,
+            "end": 1265
+        },
+        {
+            "program_id": "rotherhamunitedfc__signing_off_2026-01-04_1095",
+            "channel_id": 559,
+            "start": 1265,
+            "end": 1310
+        },
+        {
+            "program_id": "bbc6music_uk_stuart_maconie_s_freak_z_2026-01-04_1260",
+            "channel_id": 82,
+            "start": 1310,
+            "end": 1372
+        },
+        {
+            "program_id": "channel5_1_uk_nfl_big_game_night_green_2026-01-04_1170",
+            "channel_id": 179,
+            "start": 1372,
+            "end": 1409
+        },
+        {
+            "program_id": "uandthepast_uk_abandoned_engineering_2026-01-04_1385",
+            "channel_id": 856,
+            "start": 1409,
+            "end": 1439
+        }
+    ]
+}

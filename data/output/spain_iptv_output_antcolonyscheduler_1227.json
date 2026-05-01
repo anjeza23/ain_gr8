@@ -1,0 +1,124 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_deportes7_es_m_deportes_8_2026-01-04_0000",
+            "channel_id": 143,
+            "start": 0,
+            "end": 114
+        },
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_11_2026-01-04_0000",
+            "channel_id": 164,
+            "start": 114,
+            "end": 451
+        },
+        {
+            "program_id": "ztv_es_teletienda_2026-01-04_0060",
+            "channel_id": 267,
+            "start": 451,
+            "end": 491
+        },
+        {
+            "program_id": "m_laligatv_es_deporteplus_t25_26_10_01_2026-01-04_0480",
+            "channel_id": 154,
+            "start": 491,
+            "end": 545
+        },
+        {
+            "program_id": "m_laligatv_es_laliga_ea_sports_t25_26__2026-01-04_0545",
+            "channel_id": 154,
+            "start": 545,
+            "end": 575
+        },
+        {
+            "program_id": "extremesports_es_grid_2026-01-04_0540",
+            "channel_id": 98,
+            "start": 575,
+            "end": 605
+        },
+        {
+            "program_id": "gironafc_laliga_no_game_today_2026-01-04_0600",
+            "channel_id": 105,
+            "start": 605,
+            "end": 776
+        },
+        {
+            "program_id": "24horas_es_noticias_24h_2026-01-04_0480",
+            "channel_id": 1,
+            "start": 776,
+            "end": 829
+        },
+        {
+            "program_id": "rcdespanyoldebarce_no_game_today_2026-01-04_0780",
+            "channel_id": 214,
+            "start": 829,
+            "end": 934
+        },
+        {
+            "program_id": "athleticclub_lalig_no_game_today_2026-01-04_0780",
+            "channel_id": 19,
+            "start": 934,
+            "end": 1000
+        },
+        {
+            "program_id": "alquiler_es_eddington_2026-01-04_0965",
+            "channel_id": 13,
+            "start": 1000,
+            "end": 1050
+        },
+        {
+            "program_id": "athleticclub_lalig_no_game_today_2026-01-04_1020",
+            "channel_id": 19,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "realsociedad_lalig_next_game_laliga_santand_2026-01-04_1080",
+            "channel_id": 222,
+            "start": 1080,
+            "end": 1114
+        },
+        {
+            "program_id": "discoverymax_es_dmax_2026-01-04_1080",
+            "channel_id": 77,
+            "start": 1114,
+            "end": 1199
+        },
+        {
+            "program_id": "realmadrid_laliga_signing_off_2026-01-04_1080",
+            "channel_id": 220,
+            "start": 1199,
+            "end": 1251
+        },
+        {
+            "program_id": "m_deportes_es_nhl_t25_26_dallas_stars__2026-01-04_1200",
+            "channel_id": 136,
+            "start": 1251,
+            "end": 1298
+        },
+        {
+            "program_id": "xtrm_es_pu_ales_por_la_espalda_2026-01-04_1275",
+            "channel_id": 266,
+            "start": 1298,
+            "end": 1328
+        },
+        {
+            "program_id": "laligatvbar_es_laliga_ea_sports_t25_26__2026-01-04_1260",
+            "channel_id": 124,
+            "start": 1328,
+            "end": 1371
+        },
+        {
+            "program_id": "sevillafc_laliga_signing_off_2026-01-04_1185",
+            "channel_id": 226,
+            "start": 1371,
+            "end": 1401
+        },
+        {
+            "program_id": "discovery_es_cazadores_de_piedras_pre_2026-01-04_1377",
+            "channel_id": 76,
+            "start": 1401,
+            "end": 1432
+        }
+    ]
+}

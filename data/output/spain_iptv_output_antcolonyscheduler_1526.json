@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_deportes6_es_m_deportes_7_2026-01-04_0000",
+            "channel_id": 142,
+            "start": 0,
+            "end": 456
+        },
+        {
+            "program_id": "movistarplus_es_informe_robinson_mi_gol__2026-01-04_0456",
+            "channel_id": 196,
+            "start": 456,
+            "end": 486
+        },
+        {
+            "program_id": "24horas_es_noticias_24h_2026-01-04_0480",
+            "channel_id": 1,
+            "start": 486,
+            "end": 532
+        },
+        {
+            "program_id": "rtfrance_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 217,
+            "start": 532,
+            "end": 582
+        },
+        {
+            "program_id": "m_deportes_es_euroliga_de_baloncesto_t_2026-01-04_0510",
+            "channel_id": 136,
+            "start": 582,
+            "end": 612
+        },
+        {
+            "program_id": "mtv90s_es_this_channel_is_now_clos_2026-01-04_0600",
+            "channel_id": 187,
+            "start": 612,
+            "end": 688
+        },
+        {
+            "program_id": "cnbc_es_american_greed_2026-01-04_0660",
+            "channel_id": 41,
+            "start": 688,
+            "end": 720
+        },
+        {
+            "program_id": "m_suspense_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 182,
+            "start": 720,
+            "end": 842
+        },
+        {
+            "program_id": "protvinternacional_vorbeste_lumea_2026-01-04_0780",
+            "channel_id": 212,
+            "start": 842,
+            "end": 900
+        },
+        {
+            "program_id": "mezzo_es_concurso_de_ginebra_2025_2026-01-04_0900",
+            "channel_id": 190,
+            "start": 900,
+            "end": 942
+        },
+        {
+            "program_id": "cdleganes_laliga_no_game_today_2026-01-04_0840",
+            "channel_id": 39,
+            "start": 942,
+            "end": 1020
+        },
+        {
+            "program_id": "veo7_es_la_ltima_tentaci_n_de_cr_2026-01-04_1020",
+            "channel_id": 262,
+            "start": 1020,
+            "end": 1056
+        },
+        {
+            "program_id": "skyshowtime1_es_separados_2026-01-04_1025",
+            "channel_id": 227,
+            "start": 1056,
+            "end": 1095
+        },
+        {
+            "program_id": "realmadrid_laliga_signing_off_2026-01-04_1080",
+            "channel_id": 220,
+            "start": 1095,
+            "end": 1170
+        },
+        {
+            "program_id": "bbcworld_es_shock_treatment_the_gay__2026-01-04_1170",
+            "channel_id": 28,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "neox_es_cine_2026-01-04_1190",
+            "channel_id": 205,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "gol_es_directo_gol_minuto_a_min_2026-01-04_1230",
+            "channel_id": 103,
+            "start": 1230,
+            "end": 1270
+        },
+        {
+            "program_id": "tpa_es_tpa_noticias_2026-01-04_1230",
+            "channel_id": 236,
+            "start": 1270,
+            "end": 1300
+        },
+        {
+            "program_id": "bbchistory_es_los_windsor_una_historia_2026-01-04_1300",
+            "channel_id": 24,
+            "start": 1300,
+            "end": 1336
+        },
+        {
+            "program_id": "sevillafc_laliga_signing_off_2026-01-04_1185",
+            "channel_id": 226,
+            "start": 1336,
+            "end": 1375
+        },
+        {
+            "program_id": "la1_es_cine_2026-01-04_1320",
+            "channel_id": 112,
+            "start": 1375,
+            "end": 1405
+        },
+        {
+            "program_id": "veo7_es_latidos_en_la_oscuridad_2026-01-04_1320",
+            "channel_id": 262,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

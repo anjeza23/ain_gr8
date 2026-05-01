@@ -1,0 +1,118 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "canal_live16_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 68,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "angerstele_fr_angers_t_l_actualit_de_m_2026-01-04_0000",
+            "channel_id": 21,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0000",
+            "channel_id": 270,
+            "start": 60,
+            "end": 173
+        },
+        {
+            "program_id": "francetvseries_rendez_vous_11h30_2026-01-04_0037",
+            "channel_id": 174,
+            "start": 173,
+            "end": 568
+        },
+        {
+            "program_id": "armenia1_fr_la_premi_re_cha_ne_g_n_r_2026-01-04_0540",
+            "channel_id": 23,
+            "start": 568,
+            "end": 665
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0540",
+            "channel_id": 295,
+            "start": 665,
+            "end": 720
+        },
+        {
+            "program_id": "eurosport360_7_fr_a_bient_t_sur_eurosport__2026-01-04_0720",
+            "channel_id": 137,
+            "start": 720,
+            "end": 750
+        },
+        {
+            "program_id": "canal_live17_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 69,
+            "start": 750,
+            "end": 852
+        },
+        {
+            "program_id": "fcnantes_fr_no_match_today_2026-01-04_0660",
+            "channel_id": 139,
+            "start": 852,
+            "end": 890
+        },
+        {
+            "program_id": "canal_live18_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 70,
+            "start": 890,
+            "end": 949
+        },
+        {
+            "program_id": "stadedereims_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 319,
+            "start": 949,
+            "end": 1083
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0900",
+            "channel_id": 274,
+            "start": 1083,
+            "end": 1124
+        },
+        {
+            "program_id": "rmcsport1_fr_one_r_tro_2025_2026-01-04_1050",
+            "channel_id": 291,
+            "start": 1124,
+            "end": 1179
+        },
+        {
+            "program_id": "toulouse_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 364,
+            "start": 1179,
+            "end": 1227
+        },
+        {
+            "program_id": "canal2_fr_plateau_sp_cial_2026-01-04_1200",
+            "channel_id": 95,
+            "start": 1227,
+            "end": 1264
+        },
+        {
+            "program_id": "tvei_fr_telediario_2_2026-01-04_1255",
+            "channel_id": 348,
+            "start": 1264,
+            "end": 1295
+        },
+        {
+            "program_id": "eurosport360_7_fr_a_bient_t_sur_eurosport__2026-01-04_1200",
+            "channel_id": 137,
+            "start": 1295,
+            "end": 1343
+        },
+        {
+            "program_id": "tvmonaco_fr_celtics_lakers_les_meill_2026-01-04_1305",
+            "channel_id": 351,
+            "start": 1343,
+            "end": 1375
+        },
+        {
+            "program_id": "rmcstory_fr_flic_story_2026-01-04_1355",
+            "channel_id": 290,
+            "start": 1375,
+            "end": 1417
+        }
+    ]
+}

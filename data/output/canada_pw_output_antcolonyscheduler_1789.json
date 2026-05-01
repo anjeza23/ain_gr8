@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470533_unicorn_academy_2026-01-04_0060",
+            "channel_id": 244,
+            "start": 60,
+            "end": 104
+        },
+        {
+            "program_id": "470781_air_bud_golden_receiver_2026-01-04_0090",
+            "channel_id": 492,
+            "start": 104,
+            "end": 144
+        },
+        {
+            "program_id": "470307_american_greed_2026-01-04_0120",
+            "channel_id": 19,
+            "start": 144,
+            "end": 180
+        },
+        {
+            "program_id": "470859_sweet_revenge_a_hannah_s_2026-01-04_0180",
+            "channel_id": 570,
+            "start": 180,
+            "end": 210
+        },
+        {
+            "program_id": "470651_storage_wars_2026-01-04_0210",
+            "channel_id": 362,
+            "start": 210,
+            "end": 240
+        },
+        {
+            "program_id": "470688_nba_league_pass_info_2026-01-04_0240",
+            "channel_id": 399,
+            "start": 240,
+            "end": 270
+        },
+        {
+            "program_id": "470887_live_premier_league_goal_2026-01-04_0270",
+            "channel_id": 598,
+            "start": 270,
+            "end": 300
+        },
+        {
+            "program_id": "470751_verouillez_can_explicite_2026-01-04_0240",
+            "channel_id": 462,
+            "start": 300,
+            "end": 465
+        },
+        {
+            "program_id": "470748_nhl_centre_ice_info_2026-01-04_0240",
+            "channel_id": 459,
+            "start": 465,
+            "end": 538
+        },
+        {
+            "program_id": "470297_live_nfl_football_2026-01-04_0390",
+            "channel_id": 9,
+            "start": 538,
+            "end": 570
+        },
+        {
+            "program_id": "470354_nfl_sunday_ticket_2026-01-04_0240",
+            "channel_id": 66,
+            "start": 570,
+            "end": 600
+        },
+        {
+            "program_id": "470869_nba_league_pass_info_2026-01-04_0600",
+            "channel_id": 580,
+            "start": 600,
+            "end": 680
+        },
+        {
+            "program_id": "470749_justice_league_warworld_2026-01-04_0660",
+            "channel_id": 460,
+            "start": 680,
+            "end": 721
+        },
+        {
+            "program_id": "470787_market_call_2026-01-04_0720",
+            "channel_id": 498,
+            "start": 721,
+            "end": 752
+        },
+        {
+            "program_id": "470345_live_nfl_football_2026-01-04_0600",
+            "channel_id": 57,
+            "start": 752,
+            "end": 782
+        },
+        {
+            "program_id": "470713_alert_2026-01-04_0720",
+            "channel_id": 424,
+            "start": 782,
+            "end": 950
+        },
+        {
+            "program_id": "470532_cbc_music_vancouver_cbu__2026-01-04_0900",
+            "channel_id": 243,
+            "start": 950,
+            "end": 1005
+        },
+        {
+            "program_id": "470488_saturday_night_live_2026-01-04_0965",
+            "channel_id": 200,
+            "start": 1005,
+            "end": 1057
+        },
+        {
+            "program_id": "470386_sportsnet_one_calgary_fl_2026-01-04_0900",
+            "channel_id": 98,
+            "start": 1057,
+            "end": 1115
+        },
+        {
+            "program_id": "470806_adventures_in_love_and_b_2026-01-04_1080",
+            "channel_id": 517,
+            "start": 1115,
+            "end": 1155
+        },
+        {
+            "program_id": "470592_one_battle_after_another_2026-01-04_1020",
+            "channel_id": 303,
+            "start": 1155,
+            "end": 1185
+        },
+        {
+            "program_id": "470841_entourage_2026-01-04_1180",
+            "channel_id": 552,
+            "start": 1185,
+            "end": 1220
+        },
+        {
+            "program_id": "470303_nba_league_pass_info_2026-01-04_1200",
+            "channel_id": 15,
+            "start": 1220,
+            "end": 1250
+        },
+        {
+            "program_id": "470556_live_italian_serie_a_soc_2026-01-04_1225",
+            "channel_id": 267,
+            "start": 1250,
+            "end": 1332
+        },
+        {
+            "program_id": "470335_live_wgn_weekend_morning_2026-01-04_1320",
+            "channel_id": 47,
+            "start": 1332,
+            "end": 1362
+        },
+        {
+            "program_id": "470902_entertainment_tonight_2026-01-04_1350",
+            "channel_id": 613,
+            "start": 1362,
+            "end": 1395
+        },
+        {
+            "program_id": "470356_news_2026-01-04_1380",
+            "channel_id": 68,
+            "start": 1395,
+            "end": 1425
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "490604__2026-01-04_0060",
+            "channel_id": 1237,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "490567__2026-01-04_0070",
+            "channel_id": 1200,
+            "start": 90,
+            "end": 329
+        },
+        {
+            "program_id": "490552_macau_2026-01-04_0210",
+            "channel_id": 1185,
+            "start": 329,
+            "end": 434
+        },
+        {
+            "program_id": "458091__2026-01-04_0155",
+            "channel_id": 682,
+            "start": 434,
+            "end": 542
+        },
+        {
+            "program_id": "457819_tv8_2026-01-04_0540",
+            "channel_id": 420,
+            "start": 542,
+            "end": 576
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0480",
+            "channel_id": 966,
+            "start": 576,
+            "end": 633
+        },
+        {
+            "program_id": "490296__2026-01-04_0610",
+            "channel_id": 930,
+            "start": 633,
+            "end": 708
+        },
+        {
+            "program_id": "490490__2026-01-04_0660",
+            "channel_id": 1123,
+            "start": 708,
+            "end": 779
+        },
+        {
+            "program_id": "490332_2021_2022nba_d_live_2026-01-04_0690",
+            "channel_id": 966,
+            "start": 779,
+            "end": 846
+        },
+        {
+            "program_id": "490241_28_2026-01-04_0846",
+            "channel_id": 875,
+            "start": 846,
+            "end": 877
+        },
+        {
+            "program_id": "490589__2026-01-04_0840",
+            "channel_id": 1222,
+            "start": 877,
+            "end": 1003
+        },
+        {
+            "program_id": "464602_2025_top_11_2026-01-04_0983",
+            "channel_id": 791,
+            "start": 1003,
+            "end": 1041
+        },
+        {
+            "program_id": "457655__2026-01-04_1020",
+            "channel_id": 262,
+            "start": 1041,
+            "end": 1075
+        },
+        {
+            "program_id": "458119__2026-01-04_1025",
+            "channel_id": 709,
+            "start": 1075,
+            "end": 1117
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_1080",
+            "channel_id": 958,
+            "start": 1117,
+            "end": 1163
+        },
+        {
+            "program_id": "490620__2026-01-04_1150",
+            "channel_id": 1252,
+            "start": 1163,
+            "end": 1207
+        },
+        {
+            "program_id": "490332_2021_2022sbl_live_2026-01-04_1080",
+            "channel_id": 966,
+            "start": 1207,
+            "end": 1237
+        },
+        {
+            "program_id": "457909__2026-01-04_1231",
+            "channel_id": 506,
+            "start": 1237,
+            "end": 1289
+        },
+        {
+            "program_id": "378933__2026-01-04_1289",
+            "channel_id": 76,
+            "start": 1289,
+            "end": 1321
+        },
+        {
+            "program_id": "490331_scienceforeveryone_2026-01-04_1320",
+            "channel_id": 965,
+            "start": 1321,
+            "end": 1357
+        },
+        {
+            "program_id": "378890_10_2026-01-04_1350",
+            "channel_id": 65,
+            "start": 1357,
+            "end": 1394
+        },
+        {
+            "program_id": "379044__2026-01-04_1383",
+            "channel_id": 97,
+            "start": 1394,
+            "end": 1432
+        }
+    ]
+}

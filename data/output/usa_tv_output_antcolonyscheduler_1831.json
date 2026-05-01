@@ -1,0 +1,202 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Channel_371_0",
+            "channel_id": 371,
+            "start": 360,
+            "end": 390
+        },
+        {
+            "program_id": "CNN_0",
+            "channel_id": 4,
+            "start": 390,
+            "end": 420
+        },
+        {
+            "program_id": "ESPN2_1",
+            "channel_id": 6,
+            "start": 420,
+            "end": 450
+        },
+        {
+            "program_id": "FOX_2",
+            "channel_id": 3,
+            "start": 450,
+            "end": 480
+        },
+        {
+            "program_id": "Channel_832_2",
+            "channel_id": 832,
+            "start": 480,
+            "end": 510
+        },
+        {
+            "program_id": "Channel_367_1",
+            "channel_id": 367,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "Channel_801_2",
+            "channel_id": 801,
+            "start": 540,
+            "end": 570
+        },
+        {
+            "program_id": "Channel_247_2",
+            "channel_id": 247,
+            "start": 570,
+            "end": 600
+        },
+        {
+            "program_id": "Channel_215_4",
+            "channel_id": 215,
+            "start": 600,
+            "end": 630
+        },
+        {
+            "program_id": "Channel_562_4",
+            "channel_id": 562,
+            "start": 630,
+            "end": 690
+        },
+        {
+            "program_id": "Channel_62_6",
+            "channel_id": 62,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "Channel_209_7",
+            "channel_id": 209,
+            "start": 720,
+            "end": 750
+        },
+        {
+            "program_id": "Channel_543_5",
+            "channel_id": 543,
+            "start": 750,
+            "end": 780
+        },
+        {
+            "program_id": "Channel_192_6",
+            "channel_id": 192,
+            "start": 780,
+            "end": 810
+        },
+        {
+            "program_id": "Channel_1080_5",
+            "channel_id": 1080,
+            "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "Channel_1007_6",
+            "channel_id": 1007,
+            "start": 840,
+            "end": 870
+        },
+        {
+            "program_id": "Channel_437_9",
+            "channel_id": 437,
+            "start": 870,
+            "end": 900
+        },
+        {
+            "program_id": "Channel_281_7",
+            "channel_id": 281,
+            "start": 900,
+            "end": 930
+        },
+        {
+            "program_id": "Channel_738_8",
+            "channel_id": 738,
+            "start": 930,
+            "end": 960
+        },
+        {
+            "program_id": "Channel_859_8",
+            "channel_id": 859,
+            "start": 960,
+            "end": 1020
+        },
+        {
+            "program_id": "Channel_758_11",
+            "channel_id": 758,
+            "start": 1020,
+            "end": 1050
+        },
+        {
+            "program_id": "Channel_277_9",
+            "channel_id": 277,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "Channel_267_9",
+            "channel_id": 267,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "Channel_684_11",
+            "channel_id": 684,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "Channel_255_10",
+            "channel_id": 255,
+            "start": 1140,
+            "end": 1170
+        },
+        {
+            "program_id": "Channel_210_11",
+            "channel_id": 210,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "ESPN_15",
+            "channel_id": 5,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "MSNBC_10XYZ",
+            "channel_id": 7,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "ABC_11",
+            "channel_id": 0,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "NBC_13",
+            "channel_id": 1,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "ESPN2_11",
+            "channel_id": 6,
+            "start": 1320,
+            "end": 1350
+        },
+        {
+            "program_id": "FOX_News_15",
+            "channel_id": 8,
+            "start": 1350,
+            "end": 1410
+        },
+        {
+            "program_id": "MTV_15",
+            "channel_id": 22,
+            "start": 1410,
+            "end": 1440
+        }
+    ]
+}
