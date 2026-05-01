@@ -1,0 +1,97 @@
+[
+  {
+    "test": 1,
+    "algorithm": "aco",
+    "params": {
+      "ants": 10,
+      "iterations": 30
+    },
+    "score": 0,
+    "time": 0.15208005905151367
+  },
+  {
+    "test": 2,
+    "algorithm": "aco",
+    "params": {
+      "ants": 15,
+      "iterations": 40
+    },
+    "score": 0,
+    "time": 0.13932204246520996
+  },
+  {
+    "test": 3,
+    "algorithm": "aco",
+    "params": {
+      "ants": 20,
+      "iterations": 50
+    },
+    "score": 0,
+    "time": 0.25804853439331055
+  },
+  {
+    "test": 4,
+    "algorithm": "aco",
+    "params": {
+      "ants": 25,
+      "iterations": 60
+    },
+    "score": 0,
+    "time": 0.24207639694213867
+  },
+  {
+    "test": 5,
+    "algorithm": "aco",
+    "params": {
+      "ants": 30,
+      "iterations": 50
+    },
+    "score": 0,
+    "time": 0.25091052055358887
+  },
+  {
+    "test": 6,
+    "algorithm": "beam",
+    "params": {
+      "beam_width": 50
+    },
+    "score": 0,
+    "time": 0.15742802619934082
+  },
+  {
+    "test": 7,
+    "algorithm": "beam",
+    "params": {
+      "beam_width": 75
+    },
+    "score": 0,
+    "time": 0.14963936805725098
+  },
+  {
+    "test": 8,
+    "algorithm": "beam",
+    "params": {
+      "beam_width": 100
+    },
+    "score": 0,
+    "time": 0.14168620109558105
+  },
+  {
+    "test": 9,
+    "algorithm": "beam",
+    "params": {
+      "beam_width": 150
+    },
+    "score": 0,
+    "time": 0.1570277214050293
+  },
+  {
+    "test": 10,
+    "algorithm": "beam",
+    "params": {
+      "beam_width": 100
+    },
+    "score": 0,
+    "time": 0.15958952903747559
+  }
+]

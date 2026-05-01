@@ -1,0 +1,184 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_0000",
+            "channel_id": 2,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "m_laligauhd_es_m_laliga_hdr_2026-01-04_0005",
+            "channel_id": 161,
+            "start": 30,
+            "end": 130
+        },
+        {
+            "program_id": "m_cracks_es_una_familia_de_a_pa_2026-01-04_0095",
+            "channel_id": 135,
+            "start": 130,
+            "end": 160
+        },
+        {
+            "program_id": "m_ligadecampeones2_m_liga_de_campeones2_uhd_2026-01-04_0000",
+            "channel_id": 168,
+            "start": 160,
+            "end": 202
+        },
+        {
+            "program_id": "esport3_es_liga_endesa_t25_26_joven_2026-01-04_0135",
+            "channel_id": 93,
+            "start": 202,
+            "end": 235
+        },
+        {
+            "program_id": "canaldelasestrella_mujer_casos_de_la_vida_r_2026-01-04_0205",
+            "channel_id": 53,
+            "start": 235,
+            "end": 298
+        },
+        {
+            "program_id": "hollywood_1_es_gente_corriente_2026-01-04_0285",
+            "channel_id": 108,
+            "start": 298,
+            "end": 335
+        },
+        {
+            "program_id": "iberaliatv_es_mutuasport_y_las_socieda_2026-01-04_0331",
+            "channel_id": 111,
+            "start": 335,
+            "end": 365
+        },
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_10_2026-01-04_0000",
+            "channel_id": 163,
+            "start": 365,
+            "end": 446
+        },
+        {
+            "program_id": "bemad_es_la_historia_m_s_grande_j_2026-01-04_0409",
+            "channel_id": 29,
+            "start": 446,
+            "end": 501
+        },
+        {
+            "program_id": "m_laligatv_es_deporteplus_t25_26_10_01_2026-01-04_0480",
+            "channel_id": 154,
+            "start": 501,
+            "end": 545
+        },
+        {
+            "program_id": "somos_es_the_fighter_2026-01-04_0540",
+            "channel_id": 229,
+            "start": 545,
+            "end": 629
+        },
+        {
+            "program_id": "laligatvbar2_es_pr_ximo_partido_sporting_2026-01-04_0420",
+            "channel_id": 114,
+            "start": 629,
+            "end": 660
+        },
+        {
+            "program_id": "m_deportes_es_ncaa_football_bowl_games_2026-01-04_0660",
+            "channel_id": 136,
+            "start": 660,
+            "end": 708
+        },
+        {
+            "program_id": "etb2_es_a_bocados_2026-01-04_0700",
+            "channel_id": 85,
+            "start": 708,
+            "end": 750
+        },
+        {
+            "program_id": "aljazeeraenglish_e_inside_story_2026-01-04_0750",
+            "channel_id": 12,
+            "start": 750,
+            "end": 780
+        },
+        {
+            "program_id": "nauticalchannel_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 202,
+            "start": 780,
+            "end": 820
+        },
+        {
+            "program_id": "rayovallecano_lali_no_game_today_2026-01-04_0780",
+            "channel_id": 218,
+            "start": 820,
+            "end": 905
+        },
+        {
+            "program_id": "m_comedia_es_una_jaula_de_grillos_2026-01-04_0900",
+            "channel_id": 133,
+            "start": 905,
+            "end": 1019
+        },
+        {
+            "program_id": "dazn2_es_premier_league_t25_26_to_2026-01-04_0950",
+            "channel_id": 66,
+            "start": 1019,
+            "end": 1056
+        },
+        {
+            "program_id": "rtespanol_es_valle_salvaje_2026-01-04_1055",
+            "channel_id": 216,
+            "start": 1056,
+            "end": 1104
+        },
+        {
+            "program_id": "m_laligauhd_es_laliga_ea_sports_t25_26__2026-01-04_1104",
+            "channel_id": 161,
+            "start": 1104,
+            "end": 1134
+        },
+        {
+            "program_id": "m_deportes_es_eurofighters_t25_26_2026-01-04_1110",
+            "channel_id": 136,
+            "start": 1134,
+            "end": 1170
+        },
+        {
+            "program_id": "la7_es_el_arc_n_2026-01-04_1140",
+            "channel_id": 119,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "eltreceinternacion_mdq_2026-01-04_1200",
+            "channel_id": 90,
+            "start": 1200,
+            "end": 1245
+        },
+        {
+            "program_id": "lasexta_es_lasexta_deportes_fin_de__2026-01-04_1245",
+            "channel_id": 128,
+            "start": 1245,
+            "end": 1275
+        },
+        {
+            "program_id": "alquiler1_es_nadie_2_2026-01-04_1225",
+            "channel_id": 14,
+            "start": 1275,
+            "end": 1310
+        },
+        {
+            "program_id": "amc_es_pu_ales_por_la_espalda_2026-01-04_1275",
+            "channel_id": 5,
+            "start": 1310,
+            "end": 1343
+        },
+        {
+            "program_id": "laligasmartbanktv__laliga_hypermotion_t25_2_2026-01-04_1260",
+            "channel_id": 121,
+            "start": 1343,
+            "end": 1373
+        },
+        {
+            "program_id": "7tvregionmurcia_es_murcianos_por_el_mundo_2026-01-04_1230",
+            "channel_id": 3,
+            "start": 1373,
+            "end": 1408
+        }
+    ]
+}

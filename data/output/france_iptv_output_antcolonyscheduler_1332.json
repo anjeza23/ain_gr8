@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "turbo24_24_fr_turbo_2026-01-04_0000",
+            "channel_id": 371,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "canalj_fr_programmes_de_la_nuit_2026-01-04_0000",
+            "channel_id": 82,
+            "start": 30,
+            "end": 89
+        },
+        {
+            "program_id": "cgtn_francais_fr_la_cha_ne_francophone_de_2026-01-04_0060",
+            "channel_id": 86,
+            "start": 89,
+            "end": 119
+        },
+        {
+            "program_id": "eurosport360_5_fr_a_bient_t_sur_eurosport__2026-01-04_0060",
+            "channel_id": 135,
+            "start": 119,
+            "end": 158
+        },
+        {
+            "program_id": "iltv_fr_la_t_l_de_l_agglo_h_nin__2026-01-04_0060",
+            "channel_id": 186,
+            "start": 158,
+            "end": 188
+        },
+        {
+            "program_id": "saint_etienne_fr_no_match_today_2026-01-04_0180",
+            "channel_id": 315,
+            "start": 188,
+            "end": 218
+        },
+        {
+            "program_id": "mtvhits_fr_arr_t_de_la_cha_ne_2026-01-04_0000",
+            "channel_id": 224,
+            "start": 218,
+            "end": 248
+        },
+        {
+            "program_id": "beinsportsmax4_fr_bein_sports_le_plus_gran_2026-01-04_0240",
+            "channel_id": 388,
+            "start": 248,
+            "end": 452
+        },
+        {
+            "program_id": "m6music_fr_hits_m6_music_2026-01-04_0360",
+            "channel_id": 219,
+            "start": 452,
+            "end": 503
+        },
+        {
+            "program_id": "bfm2_fr_retour_sur_le_monde_2026-01-04_0480",
+            "channel_id": 39,
+            "start": 503,
+            "end": 606
+        },
+        {
+            "program_id": "lens_fr_no_match_today_2026-01-04_0420",
+            "channel_id": 202,
+            "start": 606,
+            "end": 659
+        },
+        {
+            "program_id": "recordnews_fr_informa_o_para_voc_cresc_2026-01-04_0600",
+            "channel_id": 308,
+            "start": 659,
+            "end": 736
+        },
+        {
+            "program_id": "canal_live7_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 77,
+            "start": 736,
+            "end": 800
+        },
+        {
+            "program_id": "montpellier_fr_no_match_today_2026-01-04_0660",
+            "channel_id": 234,
+            "start": 800,
+            "end": 830
+        },
+        {
+            "program_id": "cmc_fr_china_movie_channel_la_c_2026-01-04_0780",
+            "channel_id": 87,
+            "start": 830,
+            "end": 874
+        },
+        {
+            "program_id": "zoneinterdite24_24_zone_interdite_2026-01-04_0845",
+            "channel_id": 383,
+            "start": 874,
+            "end": 904
+        },
+        {
+            "program_id": "canal_live11_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 63,
+            "start": 904,
+            "end": 959
+        },
+        {
+            "program_id": "olympiquemarseille_no_match_today_2026-01-04_0900",
+            "channel_id": 257,
+            "start": 959,
+            "end": 1046
+        },
+        {
+            "program_id": "lille_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 214,
+            "start": 1046,
+            "end": 1083
+        },
+        {
+            "program_id": "polar_fr_les_enqu_tes_de_morse_sa_2026-01-04_1050",
+            "channel_id": 262,
+            "start": 1083,
+            "end": 1113
+        },
+        {
+            "program_id": "tf1_fr_sept_huit_2026-01-04_1100",
+            "channel_id": 330,
+            "start": 1113,
+            "end": 1186
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_1140",
+            "channel_id": 270,
+            "start": 1186,
+            "end": 1227
+        },
+        {
+            "program_id": "nessma_fr_la_t_l_du_grand_maghreb_2026-01-04_1140",
+            "channel_id": 245,
+            "start": 1227,
+            "end": 1272
+        },
+        {
+            "program_id": "ogcnice_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 251,
+            "start": 1272,
+            "end": 1337
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_1140",
+            "channel_id": 275,
+            "start": 1337,
+            "end": 1376
+        },
+        {
+            "program_id": "rmcstory_fr_flic_story_2026-01-04_1355",
+            "channel_id": 290,
+            "start": 1376,
+            "end": 1406
+        },
+        {
+            "program_id": "canal_sport360_fr_let_me_run_2026-01-04_1359",
+            "channel_id": 81,
+            "start": 1406,
+            "end": 1438
+        }
+    ]
+}
