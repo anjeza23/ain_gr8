@@ -409,3 +409,8 @@ Kjo kombinim mundëson:
 - Shmangien e minimumeve lokale
 - Përmirësimin sistemtaik të zgjidhjes
 
+## Authors
+- *Anjeza Sfishta*
+- *Erza Merovci*
+- *Fortesa Cena*
+
