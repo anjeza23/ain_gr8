@@ -1,0 +1,172 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Channel_448_0",
+            "channel_id": 448,
+            "start": 360,
+            "end": 390
+        },
+        {
+            "program_id": "Channel_204_1",
+            "channel_id": 204,
+            "start": 390,
+            "end": 420
+        },
+        {
+            "program_id": "FOX_News_1",
+            "channel_id": 8,
+            "start": 420,
+            "end": 450
+        },
+        {
+            "program_id": "FOX_News_2",
+            "channel_id": 8,
+            "start": 450,
+            "end": 480
+        },
+        {
+            "program_id": "Channel_832_2",
+            "channel_id": 832,
+            "start": 480,
+            "end": 510
+        },
+        {
+            "program_id": "Channel_325_2",
+            "channel_id": 325,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "Channel_112_3",
+            "channel_id": 112,
+            "start": 540,
+            "end": 570
+        },
+        {
+            "program_id": "Channel_247_2",
+            "channel_id": 247,
+            "start": 570,
+            "end": 600
+        },
+        {
+            "program_id": "Channel_472_3",
+            "channel_id": 472,
+            "start": 600,
+            "end": 630
+        },
+        {
+            "program_id": "Channel_336_4",
+            "channel_id": 336,
+            "start": 630,
+            "end": 720
+        },
+        {
+            "program_id": "Channel_1065_5",
+            "channel_id": 1065,
+            "start": 720,
+            "end": 750
+        },
+        {
+            "program_id": "Channel_1051_5",
+            "channel_id": 1051,
+            "start": 750,
+            "end": 780
+        },
+        {
+            "program_id": "Channel_73_6",
+            "channel_id": 73,
+            "start": 780,
+            "end": 840
+        },
+        {
+            "program_id": "Channel_607_9",
+            "channel_id": 607,
+            "start": 840,
+            "end": 900
+        },
+        {
+            "program_id": "Channel_464_7",
+            "channel_id": 464,
+            "start": 900,
+            "end": 930
+        },
+        {
+            "program_id": "Channel_683_7",
+            "channel_id": 683,
+            "start": 930,
+            "end": 960
+        },
+        {
+            "program_id": "Food_Network_8",
+            "channel_id": 18,
+            "start": 960,
+            "end": 990
+        },
+        {
+            "program_id": "Channel_509_10",
+            "channel_id": 509,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "Channel_751_10",
+            "channel_id": 751,
+            "start": 1020,
+            "end": 1080
+        },
+        {
+            "program_id": "Comedy_Central_10",
+            "channel_id": 29,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "Channel_329_13",
+            "channel_id": 329,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "Channel_599_10",
+            "channel_id": 599,
+            "start": 1140,
+            "end": 1170
+        },
+        {
+            "program_id": "Channel_690_10",
+            "channel_id": 690,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "MSNBC_10XYZ",
+            "channel_id": 7,
+            "start": 1200,
+            "end": 1290
+        },
+        {
+            "program_id": "FOX_News_14",
+            "channel_id": 8,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "CNN_10",
+            "channel_id": 4,
+            "start": 1320,
+            "end": 1380
+        },
+        {
+            "program_id": "Channel_456_12",
+            "channel_id": 456,
+            "start": 1380,
+            "end": 1410
+        },
+        {
+            "program_id": "Univision_14",
+            "channel_id": 47,
+            "start": 1410,
+            "end": 1440
+        }
+    ]
+}

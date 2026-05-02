@@ -16,40 +16,19 @@ class BenchmarkExecutor:
     """Benchmark all input instances except toy.json."""
 
     ACO_TESTS = [
-        {"ants": 10, "iterations": 30},
         {"ants": 15, "iterations": 40},
         {"ants": 20, "iterations": 50},
         {"ants": 25, "iterations": 60},
-        {"ants": 30, "iterations": 70},
-        {"ants": 12, "iterations": 50},
-        {"ants": 18, "iterations": 60},
-        {"ants": 22, "iterations": 70},
-        {"ants": 28, "iterations": 80},
-        {"ants": 35, "iterations": 90},
     ]
     USA_ACO_TESTS = [
         {"ants": 5, "iterations": 10},
         {"ants": 6, "iterations": 12},
-        {"ants": 7, "iterations": 12},
-        {"ants": 8, "iterations": 15},
-        {"ants": 10, "iterations": 15},
-        {"ants": 5, "iterations": 20},
-        {"ants": 8, "iterations": 20},
-        {"ants": 10, "iterations": 20},
-        {"ants": 12, "iterations": 20},
-        {"ants": 15, "iterations": 20},
+        {"ants": 7, "iterations": 15},
     ]
     LARGE_ACO_TESTS = [
         {"ants": 2, "iterations": 3},
-        {"ants": 2, "iterations": 4},
-        {"ants": 3, "iterations": 3},
         {"ants": 3, "iterations": 4},
-        {"ants": 3, "iterations": 5},
-        {"ants": 4, "iterations": 3},
-        {"ants": 4, "iterations": 4},
-        {"ants": 5, "iterations": 3},
-        {"ants": 5, "iterations": 4},
-        {"ants": 6, "iterations": 3},
+        {"ants": 4, "iterations": 5},
     ]
 
     def __init__(self, timeout_seconds: int = 25, instance_budget_seconds: int = 300):
@@ -220,14 +199,17 @@ class BenchmarkExecutor:
 
             tests = self._tests_for_instance(instance_path.name)
             runs = []
-            for idx, params in enumerate(tests, start=1):
-                result = self._run_single_aco(str(instance_path), idx, params)
-                runs.append(result)
-                status = "TIMEOUT" if result["timeout"] else ("OK" if result["ok"] else "FAIL")
-                print(
-                    f"[{idx:02d}/10] ants={params['ants']:2d} iter={params['iterations']:3d} "
-                    f"-> score={result['score']:5d} time={result['time_sec']:.2f}s {status}"
-                , flush=True)
+            run_id = 1
+            for params in tests:
+                for rep in range(10):
+                    result = self._run_single_aco(str(instance_path), run_id, params)
+                    runs.append(result)
+                    status = "TIMEOUT" if result["timeout"] else ("OK" if result["ok"] else "FAIL")
+                    print(
+                        f"[{run_id:02d}/30] ants={params['ants']:2d} iter={params['iterations']:3d} rep={rep+1} "
+                        f"-> score={result['score']:5d} time={result['time_sec']:.2f}s {status}"
+                    , flush=True)
+                    run_id += 1
 
             valid_runs = [r for r in runs if r["ok"]]
             if valid_runs:
@@ -295,11 +277,11 @@ class BenchmarkExecutor:
 
     def _build_markdown_report(self) -> str:
         lines: List[str] = []
-        lines.append("# Benchmark Results - 10x ACO + 1x Local Search per Instance")
+        lines.append("# Benchmark Results - 10x ACO per Parameter Combination + 1x Local Search per Instance")
         lines.append("")
         lines.append(f"- Timeout per run: `{self.timeout_seconds}s`")
         lines.append(f"- Time budget per instance: `{self.instance_budget_seconds}s`")
-        lines.append("- Policy: 10 ACO runs (different parameters), then local search once on best ACO run")
+        lines.append("- Policy: 3 parameter combinations, 10 runs each (30 total ACO runs), then local search once on best ACO run")
         lines.append("")
         lines.append("| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final | LS Improvement |")
         lines.append("|---|---:|---:|---:|---|---:|---:|")
