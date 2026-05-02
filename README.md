@@ -442,3 +442,9 @@ Kjo kombinim mundëson:
 - *Erza Merovci*
 - *Fortesa Cena*
 
+## Konkluzioni
+
+Në bazë të testimeve që kemi kryer (benchmark-e me shumë ekzekutime dhe tuning parametrash), ne konstatuam se një qasje hibride — kombinimi i **Ant Colony Optimization (ACO)** për eksplorim global, **Beam Search** për kërkim paralel dhe **Local Search** për rafinim lokal — ofron balancën më të mirë midis cilësisë së zgjidhjes dhe kohës së ekzekutimit për shumicën e instanceve që testuam. Në praktikë, ACO gjeneron zgjidhje premtuese, Beam Search rrit stabilitetin dhe riprodhueshmërinë e rezultateve, dhe Local Search shpesh sjell përmirësime të mëtejshme duke korrigjuar minima lokale.
+
+Nga rezultatet tona: për instance mesatare dhe të mëdha, konfigurime me më shumë milingona dhe iteracione tendencë të japin rezultate më të mira, ndërsa për instance shumë të mëdha përdorimi i profileve ultra-light mund të jetë i nevojshëm për të respektuar kufijtë kohorë. Rekomandojmë që të tune-ni parametrat sipas madhësisë së instanceve dhe të ekzekutoni benchmark-e përpara zbatimit në mjedise reale.
+
