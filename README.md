@@ -179,18 +179,18 @@ python utils/run_10_tests.py --group tv
 
 **Rezultatet (shembull nga benchmark i fundit):**
 
-| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final | LS Improvement |
-|---|---:|---:|---:|---|---:|---:|
-| australia_iptv.json | 1754 | 1581.3 | 1485 | ants=3, iter=3 | 1754 | - |
-| canada_pw.json | 2102 | 1702.7 | 1287 | ants=3, iter=5 | 2102 | - |
-| china_pw.json | 987 | 892.3 | 807 | ants=2, iter=4 | 987 | - |
-| france_iptv.json | 1367 | 1207.3 | 915 | ants=4, iter=4 | 1367 | - |
-| singapore_pw.json | 1250 | 1047.3 | 810 | ants=3, iter=5 | 1250 | - |
-| spain_iptv.json | 1585 | 1306.2 | 984 | ants=4, iter=4 | 1585 | - |
-| uk_iptv.json | 1869 | 1869.0 | 1869 | ants=2, iter=3 | 1869 | - |
-| us_iptv.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
-| youtube_gold.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
-| youtube_premium.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
+| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final |
+|---|---:|---:|---:|---|---:|
+| australia_iptv.json | 1754 | 1581.3 | 1485 | ants=3, iter=3 | 1754 |
+| canada_pw.json | 2102 | 1702.7 | 1287 | ants=3, iter=5 | 2102 |
+| china_pw.json | 987 | 892.3 | 807 | ants=2, iter=4 | 987 |
+| france_iptv.json | 1367 | 1207.3 | 915 | ants=4, iter=4 | 1367 |
+| singapore_pw.json | 1250 | 1047.3 | 810 | ants=3, iter=5 | 1250 |
+| spain_iptv.json | 1585 | 1306.2 | 984 | ants=4, iter=4 | 1585 |
+| uk_iptv.json | 1869 | 1869.0 | 1869 | ants=2, iter=3 | 1869 |
+| us_iptv.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
+| youtube_gold.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
+| youtube_premium.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
 
 ## Ekzekutimi i Projektit
 
@@ -252,32 +252,30 @@ python3 main.py --algorithm beam
 
 ### Rezultatet (ACO 10x + Local Search 1x)
 
-| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final | LS Improvement |
-|---|---:|---:|---:|---|---:|---:|
-| croatia_tv_input.json | 1822 | 1530.3 | 1190 | ants=18, iter=60 | 1822 | - |
-| germany_tv_input.json | 1456 | 1377.9 | 1325 | ants=12, iter=50 | 1456 | - |
-| kosovo_tv_input.json | 2414 | 2251.9 | 2134 | ants=35, iter=90 | 2414 | - |
-| netherlands_tv_input.json | 2256 | 2166.1 | 2051 | ants=20, iter=50 | 2256 | - |
-| uk_tv_input.json | 633 | 417.3 | 265 | ants=12, iter=50 | 633 | - |
-| usa_tv_input.json | 2019 | 1925.0 | 1831 | ants=6, iter=12 | 2019 | - |
-
-`LS Improvement` paraqitet vetëm kur ka rritje reale (>0); kur s'ka përmirësim tregohet `-`.
+| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final |
+|---|---:|---:|---:|---|---:|
+| croatia_tv_input.json | 1822 | 1530.3 | 1190 | ants=18, iter=60 | 1822 |
+| germany_tv_input.json | 1456 | 1377.9 | 1325 | ants=12, iter=50 | 1456 |
+| kosovo_tv_input.json | 2414 | 2251.9 | 2134 | ants=35, iter=90 | 2414 |
+| netherlands_tv_input.json | 2256 | 2166.1 | 2051 | ants=20, iter=50 | 2256 |
+| uk_tv_input.json | 633 | 417.3 | 265 | ants=12, iter=50 | 633 |
+| usa_tv_input.json | 2019 | 1925.0 | 1831 | ants=6, iter=12 | 2019 |
 
 ### Rezultatet për instancat e mëdha (`iptv/pw/youtube`)
 
 Këtu është përdorur profil ultra-light i ACO (parametra më të vegjël) për të respektuar kufirin kohor.
 
-| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final | LS Improvement |
-|---|---:|---:|---:|---|---:|---:|
-| australia_iptv.json | 1754 | 1581.3 | 1485 | ants=3, iter=3 | 1754 | - |
-| canada_pw.json | 2102 | 1702.7 | 1287 | ants=3, iter=5 | 2102 | - |
-| china_pw.json | 987 | 892.3 | 807 | ants=2, iter=4 | 987 | - |
-| france_iptv.json | 1367 | 1207.3 | 915 | ants=4, iter=4 | 1367 | - |
-| singapore_pw.json | 1250 | 1047.3 | 810 | ants=3, iter=5 | 1250 | - |
-| spain_iptv.json | 1585 | 1306.2 | 984 | ants=4, iter=4 | 1585 | - |
-| uk_iptv.json | 1869 | 1869.0 | 1869 | ants=2, iter=3 | 1869 | - |
-| us_iptv.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
-| youtube_gold.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
+| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final |
+|---|---:|---:|---:|---|---:|
+| australia_iptv.json | 1754 | 1581.3 | 1485 | ants=3, iter=3 | 1754 |
+| canada_pw.json | 2102 | 1702.7 | 1287 | ants=3, iter=5 | 2102 |
+| china_pw.json | 987 | 892.3 | 807 | ants=2, iter=4 | 987 |
+| france_pw.json | 1367 | 1207.3 | 915 | ants=4, iter=4 | 1367 |
+| singapore_pw.json | 1250 | 1047.3 | 810 | ants=3, iter=5 | 1250 |
+| spain_iptv.json | 1585 | 1306.2 | 984 | ants=4, iter=4 | 1585 |
+| uk_iptv.json | 1869 | 1869.0 | 1869 | ants=2, iter=3 | 1869 |
+| us_iptv.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
+| youtube_gold.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
 | youtube_premium.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
 
 Te `us_iptv` dhe dy instancat `youtube`, edhe profili ultra-light nuk arriti të prodhojë zgjidhje valide brenda timeout-it aktual.
@@ -404,7 +402,7 @@ ain_gr8/
     └── output/                      # Fajlet output
 ```
 
-## Teori dhe Konzepte
+## Teori dhe Koncepte
 
 ### Problemi i Optimizmit
 
@@ -437,10 +435,6 @@ Kjo kombinim mundëson:
 - Shmangien e minimumeve lokale
 - Përmirësimin sistemtaik të zgjidhjes
 
-## Authors
-- *Anjeza Sfishta*
-- *Erza Merovci*
-- *Fortesa Cena*
 
 ## Konkluzioni
 
@@ -448,3 +442,7 @@ Në bazë të testimeve që kemi kryer (benchmark-e me shumë ekzekutime dhe tun
 
 Nga rezultatet tona: për instance mesatare dhe të mëdha, konfigurime me më shumë milingona dhe iteracione tendencë të japin rezultate më të mira, ndërsa për instance shumë të mëdha përdorimi i profileve ultra-light mund të jetë i nevojshëm për të respektuar kufijtë kohorë. Rekomandojmë që të tune-ni parametrat sipas madhësisë së instanceve dhe të ekzekutoni benchmark-e përpara zbatimit në mjedise reale.
 
+## Authors
+- *Anjeza Sfishta*
+- *Erza Merovci*
+- *Fortesa Cena*
