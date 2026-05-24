@@ -1,0 +1,124 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412103_kattathe_kilikoodu_2026-01-04_0060",
+            "channel_id": 94,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369730_the_gambling_ghost_2026-01-04_0075",
+            "channel_id": 11,
+            "start": 90,
+            "end": 144
+        },
+        {
+            "program_id": "450710_end_of_transmission_2026-01-04_0060",
+            "channel_id": 184,
+            "start": 144,
+            "end": 355
+        },
+        {
+            "program_id": "369750_laliga_2025_26_tbc_v_tbc_2026-01-04_0295",
+            "channel_id": 22,
+            "start": 355,
+            "end": 390
+        },
+        {
+            "program_id": "412187_race_2026-01-04_0300",
+            "channel_id": 160,
+            "start": 390,
+            "end": 435
+        },
+        {
+            "program_id": "369790_urc_sharks_v_lions_2026-01-04_0435",
+            "channel_id": 44,
+            "start": 435,
+            "end": 472
+        },
+        {
+            "program_id": "369717_closed_2026-01-04_0420",
+            "channel_id": 2,
+            "start": 472,
+            "end": 502
+        },
+        {
+            "program_id": "412129_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 112,
+            "start": 502,
+            "end": 695
+        },
+        {
+            "program_id": "369795_scary_movie_3_2026-01-04_0695",
+            "channel_id": 46,
+            "start": 695,
+            "end": 725
+        },
+        {
+            "program_id": "430462_live_aus_v_eng_5th_test__2026-01-04_0508",
+            "channel_id": 180,
+            "start": 725,
+            "end": 820
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_0750",
+            "channel_id": 6,
+            "start": 820,
+            "end": 870
+        },
+        {
+            "program_id": "369737_foul_play_2026-01-04_0870",
+            "channel_id": 14,
+            "start": 870,
+            "end": 900
+        },
+        {
+            "program_id": "412141_athu_ithu_ethu_2026-01-04_0900",
+            "channel_id": 122,
+            "start": 900,
+            "end": 945
+        },
+        {
+            "program_id": "412143_tao_po_2026-01-04_0945",
+            "channel_id": 124,
+            "start": 945,
+            "end": 975
+        },
+        {
+            "program_id": "412154_east_asia_super_league_2_2026-01-04_0960",
+            "channel_id": 134,
+            "start": 975,
+            "end": 1075
+        },
+        {
+            "program_id": "412104_stand_up_comedy_academy__2026-01-04_1050",
+            "channel_id": 95,
+            "start": 1075,
+            "end": 1155
+        },
+        {
+            "program_id": "412116_movie_p_t_sir_u_2026-01-04_1020",
+            "channel_id": 103,
+            "start": 1155,
+            "end": 1200
+        },
+        {
+            "program_id": "369811_honey_bunny_in_clownland_2026-01-04_1200",
+            "channel_id": 53,
+            "start": 1200,
+            "end": 1238
+        },
+        {
+            "program_id": "369795_batman_v_superman_dawn_o_2026-01-04_1200",
+            "channel_id": 46,
+            "start": 1238,
+            "end": 1380
+        },
+        {
+            "program_id": "412164_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 141,
+            "start": 1380,
+            "end": 1411
+        }
+    ]
+}

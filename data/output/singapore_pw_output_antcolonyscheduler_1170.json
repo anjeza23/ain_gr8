@@ -1,0 +1,178 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412135_news_magazine_2026_2026-01-04_0060",
+            "channel_id": 117,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "482823_end_of_transmission_2026-01-04_0060",
+            "channel_id": 199,
+            "start": 90,
+            "end": 295
+        },
+        {
+            "program_id": "369854_movie_2026-01-04_0210",
+            "channel_id": 79,
+            "start": 295,
+            "end": 329
+        },
+        {
+            "program_id": "412184_trapped_in_the_farmhouse_2026-01-04_0320",
+            "channel_id": 157,
+            "start": 329,
+            "end": 359
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_0210",
+            "channel_id": 6,
+            "start": 359,
+            "end": 390
+        },
+        {
+            "program_id": "369846_jhund_2026-01-04_0369",
+            "channel_id": 74,
+            "start": 390,
+            "end": 420
+        },
+        {
+            "program_id": "369717_closed_2026-01-04_0420",
+            "channel_id": 2,
+            "start": 420,
+            "end": 468
+        },
+        {
+            "program_id": "369773_closed_2026-01-04_0420",
+            "channel_id": 34,
+            "start": 468,
+            "end": 556
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 556,
+            "end": 586
+        },
+        {
+            "program_id": "412138_shaan_2026-01-04_0574",
+            "channel_id": 119,
+            "start": 586,
+            "end": 621
+        },
+        {
+            "program_id": "412103_arabikkadha_2026-01-04_0510",
+            "channel_id": 94,
+            "start": 621,
+            "end": 660
+        },
+        {
+            "program_id": "369802_closed_2026-01-04_0420",
+            "channel_id": 48,
+            "start": 660,
+            "end": 760
+        },
+        {
+            "program_id": "412154_nfl_2025_26_2026-01-04_0615",
+            "channel_id": 134,
+            "start": 760,
+            "end": 804
+        },
+        {
+            "program_id": "369789_live_2026-01-04_0780",
+            "channel_id": 43,
+            "start": 804,
+            "end": 840
+        },
+        {
+            "program_id": "412184_a_chef_s_deadly_revenge_2026-01-04_0800",
+            "channel_id": 157,
+            "start": 840,
+            "end": 884
+        },
+        {
+            "program_id": "412088_harry_potter_and_the_cha_2026-01-04_0780",
+            "channel_id": 80,
+            "start": 884,
+            "end": 914
+        },
+        {
+            "program_id": "435717_movie_2026-01-04_0840",
+            "channel_id": 182,
+            "start": 914,
+            "end": 944
+        },
+        {
+            "program_id": "412200_call_me_by_fire_5_2026-01-04_0930",
+            "channel_id": 172,
+            "start": 944,
+            "end": 974
+        },
+        {
+            "program_id": "369854_movie_2026-01-04_0960",
+            "channel_id": 79,
+            "start": 974,
+            "end": 1004
+        },
+        {
+            "program_id": "369758_kate_and_leopold_2026-01-04_0970",
+            "channel_id": 26,
+            "start": 1004,
+            "end": 1048
+        },
+        {
+            "program_id": "412116_movie_p_t_sir_u_2026-01-04_1020",
+            "channel_id": 103,
+            "start": 1048,
+            "end": 1078
+        },
+        {
+            "program_id": "412188_jurassic_world_dominion_2026-01-04_1050",
+            "channel_id": 161,
+            "start": 1078,
+            "end": 1139
+        },
+        {
+            "program_id": "412154_ufc_reloaded_ufc_319_du__2026-01-04_1080",
+            "channel_id": 134,
+            "start": 1139,
+            "end": 1215
+        },
+        {
+            "program_id": "369827_mega_fights_in_60_2026-01-04_1200",
+            "channel_id": 64,
+            "start": 1215,
+            "end": 1248
+        },
+        {
+            "program_id": "430462_live_m23_prs_v_ads_2026-01-04_1155",
+            "channel_id": 180,
+            "start": 1248,
+            "end": 1288
+        },
+        {
+            "program_id": "369734_our_golden_days_2026-01-04_1260",
+            "channel_id": 12,
+            "start": 1288,
+            "end": 1318
+        },
+        {
+            "program_id": "412112_beetlejuice_2026-01-04_1290",
+            "channel_id": 100,
+            "start": 1318,
+            "end": 1348
+        },
+        {
+            "program_id": "369754_my_dearest_nemesis_2026-01-04_1340",
+            "channel_id": 24,
+            "start": 1348,
+            "end": 1380
+        },
+        {
+            "program_id": "369790_premiership_rugby_northa_2026-01-04_1320",
+            "channel_id": 44,
+            "start": 1380,
+            "end": 1415
+        }
+    ]
+}

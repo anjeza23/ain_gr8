@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0000",
+            "channel_id": 295,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "canal_live8_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 78,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "iltv_fr_la_t_l_de_l_agglo_h_nin__2026-01-04_0060",
+            "channel_id": 186,
+            "start": 60,
+            "end": 162
+        },
+        {
+            "program_id": "planete_crime_fr_meurtres_philadelphie_sa_2026-01-04_0162",
+            "channel_id": 261,
+            "start": 162,
+            "end": 203
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0180",
+            "channel_id": 275,
+            "start": 203,
+            "end": 332
+        },
+        {
+            "program_id": "beinsportsmax10_fr_bein_sports_le_plus_gran_2026-01-04_0300",
+            "channel_id": 387,
+            "start": 332,
+            "end": 372
+        },
+        {
+            "program_id": "m6music_fr_hits_m6_music_2026-01-04_0360",
+            "channel_id": 219,
+            "start": 372,
+            "end": 402
+        },
+        {
+            "program_id": "eurosport360_6_fr_a_bient_t_sur_eurosport__2026-01-04_0360",
+            "channel_id": 136,
+            "start": 402,
+            "end": 533
+        },
+        {
+            "program_id": "angerssco_fr_no_match_today_2026-01-04_0420",
+            "channel_id": 20,
+            "start": 533,
+            "end": 563
+        },
+        {
+            "program_id": "cgtn_documentary_f_chaine_chinoise_de_docum_2026-01-04_0420",
+            "channel_id": 85,
+            "start": 563,
+            "end": 599
+        },
+        {
+            "program_id": "mezzo_fr_john_scofield_s_long_day_2026-01-04_0585",
+            "channel_id": 232,
+            "start": 599,
+            "end": 654
+        },
+        {
+            "program_id": "ligue1_7_fr_ligue_1_7_2026-01-04_0600",
+            "channel_id": 211,
+            "start": 654,
+            "end": 685
+        },
+        {
+            "program_id": "infosport_fr_le_jt_2026-01-04_0675",
+            "channel_id": 187,
+            "start": 685,
+            "end": 715
+        },
+        {
+            "program_id": "tracetoca_fr_playlist_2026-01-04_0656",
+            "channel_id": 368,
+            "start": 715,
+            "end": 760
+        },
+        {
+            "program_id": "canal_live12_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 64,
+            "start": 760,
+            "end": 807
+        },
+        {
+            "program_id": "lille_fr_no_match_today_2026-01-04_0660",
+            "channel_id": 214,
+            "start": 807,
+            "end": 852
+        },
+        {
+            "program_id": "stingrayclassica_f_mozart_le_nozze_di_figar_2026-01-04_0845",
+            "channel_id": 314,
+            "start": 852,
+            "end": 951
+        },
+        {
+            "program_id": "bfmtv_fr_bfm_non_stop_week_end_2026-01-04_0900",
+            "channel_id": 45,
+            "start": 951,
+            "end": 1040
+        },
+        {
+            "program_id": "beinsportsmax10_fr_bein_sports_le_plus_gran_2026-01-04_1020",
+            "channel_id": 387,
+            "start": 1040,
+            "end": 1114
+        },
+        {
+            "program_id": "kabeleins_fr_roadtrip_amerika_drei_sp_2026-01-04_1090",
+            "channel_id": 192,
+            "start": 1114,
+            "end": 1179
+        },
+        {
+            "program_id": "comedie_fr_les_chevaliers_du_fiel_t_2026-01-04_1174",
+            "channel_id": 91,
+            "start": 1179,
+            "end": 1237
+        },
+        {
+            "program_id": "olympiquelyonnais__no_match_today_2026-01-04_1140",
+            "channel_id": 256,
+            "start": 1237,
+            "end": 1285
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_1140",
+            "channel_id": 275,
+            "start": 1285,
+            "end": 1328
+        },
+        {
+            "program_id": "aljazeeraenglish_f_newshour_2026-01-04_1320",
+            "channel_id": 16,
+            "start": 1328,
+            "end": 1368
+        },
+        {
+            "program_id": "c_sport_fr_l_ann_e_sail_gp_2026-01-04_1336",
+            "channel_id": 53,
+            "start": 1368,
+            "end": 1398
+        },
+        {
+            "program_id": "france3_haute_norm_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 157,
+            "start": 1398,
+            "end": 1428
+        }
+    ]
+}

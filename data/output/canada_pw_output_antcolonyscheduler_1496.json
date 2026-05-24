@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470756_la_cuisine_d_isabelle_et_2026-01-04_0060",
+            "channel_id": 467,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470879_schitt_s_creek_2026-01-04_0090",
+            "channel_id": 590,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470619_nhl_center_ice_2026-01-04_0120",
+            "channel_id": 330,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "470920_live_premiership_rugby_2026-01-04_0150",
+            "channel_id": 631,
+            "start": 150,
+            "end": 270
+        },
+        {
+            "program_id": "470560_nfl_sunday_ticket_2026-01-04_0240",
+            "channel_id": 271,
+            "start": 270,
+            "end": 320
+        },
+        {
+            "program_id": "470564_tva_sports_3_info_2026-01-04_0240",
+            "channel_id": 275,
+            "start": 320,
+            "end": 460
+        },
+        {
+            "program_id": "470297_live_nfl_football_2026-01-04_0390",
+            "channel_id": 9,
+            "start": 460,
+            "end": 490
+        },
+        {
+            "program_id": "470412_night_at_the_museum_2026-01-04_0435",
+            "channel_id": 124,
+            "start": 490,
+            "end": 520
+        },
+        {
+            "program_id": "470397_battlebots_2026-01-04_0480",
+            "channel_id": 109,
+            "start": 520,
+            "end": 575
+        },
+        {
+            "program_id": "470463_live_hockey_ahl_2026-01-04_0540",
+            "channel_id": 175,
+            "start": 575,
+            "end": 630
+        },
+        {
+            "program_id": "470826_mlb_extra_innings_info_2026-01-04_0540",
+            "channel_id": 537,
+            "start": 630,
+            "end": 703
+        },
+        {
+            "program_id": "470886_12_days_of_scottie_2026-01-04_0480",
+            "channel_id": 597,
+            "start": 703,
+            "end": 812
+        },
+        {
+            "program_id": "470720_dans_le_ring_2026-01-04_0780",
+            "channel_id": 431,
+            "start": 812,
+            "end": 842
+        },
+        {
+            "program_id": "470821_le_batman_2026-01-04_0809",
+            "channel_id": 532,
+            "start": 842,
+            "end": 903
+        },
+        {
+            "program_id": "470715_sign_off_2026-01-04_0720",
+            "channel_id": 426,
+            "start": 903,
+            "end": 940
+        },
+        {
+            "program_id": "470758_nhl_centre_ice_2026-01-04_0900",
+            "channel_id": 469,
+            "start": 940,
+            "end": 1000
+        },
+        {
+            "program_id": "470561_sign_off_2026-01-04_0720",
+            "channel_id": 272,
+            "start": 1000,
+            "end": 1045
+        },
+        {
+            "program_id": "470723_nhl_center_ice_2026-01-04_1020",
+            "channel_id": 434,
+            "start": 1045,
+            "end": 1080
+        },
+        {
+            "program_id": "470313_ctv_national_news_with_h_2026-01-04_1080",
+            "channel_id": 25,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "470409_nhl_center_ice_2026-01-04_1110",
+            "channel_id": 121,
+            "start": 1110,
+            "end": 1145
+        },
+        {
+            "program_id": "470386_sportsnet_one_calgary_fl_2026-01-04_1140",
+            "channel_id": 98,
+            "start": 1145,
+            "end": 1175
+        },
+        {
+            "program_id": "470427_don_t_say_its_name_2026-01-04_1150",
+            "channel_id": 139,
+            "start": 1175,
+            "end": 1205
+        },
+        {
+            "program_id": "470640_live_basket_2026-01-04_1200",
+            "channel_id": 351,
+            "start": 1205,
+            "end": 1237
+        },
+        {
+            "program_id": "470757_playing_with_fire_2026-01-04_1200",
+            "channel_id": 468,
+            "start": 1237,
+            "end": 1292
+        },
+        {
+            "program_id": "470554_fresh_air_2026-01-04_1200",
+            "channel_id": 265,
+            "start": 1292,
+            "end": 1370
+        },
+        {
+            "program_id": "470403_metal_shifters_2026-01-04_1320",
+            "channel_id": 115,
+            "start": 1370,
+            "end": 1409
+        }
+    ]
+}

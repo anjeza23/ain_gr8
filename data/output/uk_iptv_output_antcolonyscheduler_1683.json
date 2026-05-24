@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "hummasala_uk_lively_weekend_2026-01-04_0000",
+            "channel_id": 336,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "suttonunited_natio_no_game_today_2026-01-04_0000",
+            "channel_id": 800,
+            "start": 30,
+            "end": 95
+        },
+        {
+            "program_id": "legend_uk_desperado_2026-01-04_0000",
+            "channel_id": 415,
+            "start": 95,
+            "end": 125
+        },
+        {
+            "program_id": "tinypop_1_uk_schedules_no_longer_avai_2026-01-04_0120",
+            "channel_id": 839,
+            "start": 125,
+            "end": 264
+        },
+        {
+            "program_id": "barnsley_efl_no_game_today_2026-01-04_0180",
+            "channel_id": 138,
+            "start": 264,
+            "end": 420
+        },
+        {
+            "program_id": "burtonalbionfc_efl_no_game_today_2026-01-04_0420",
+            "channel_id": 161,
+            "start": 420,
+            "end": 452
+        },
+        {
+            "program_id": "skycinemafamily_uk_save_the_cinema_2026-01-04_0375",
+            "channel_id": 644,
+            "start": 452,
+            "end": 490
+        },
+        {
+            "program_id": "skycinemafamily_uk_paulie_2026-01-04_0490",
+            "channel_id": 644,
+            "start": 490,
+            "end": 520
+        },
+        {
+            "program_id": "tntsports7_uk_channel_off_air_2026-01-04_0420",
+            "channel_id": 816,
+            "start": 520,
+            "end": 846
+        },
+        {
+            "program_id": "tvone_uk_muslim_parenting_2026-01-04_0840",
+            "channel_id": 824,
+            "start": 846,
+            "end": 885
+        },
+        {
+            "program_id": "sheffieldunited_ef_oxford_united_sheffield__2026-01-04_0780",
+            "channel_id": 633,
+            "start": 885,
+            "end": 915
+        },
+        {
+            "program_id": "b4umusic_uk_aawaaz_de_kahan_hai_2026-01-04_0870",
+            "channel_id": 81,
+            "start": 915,
+            "end": 973
+        },
+        {
+            "program_id": "ss_event47_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 606,
+            "start": 973,
+            "end": 1005
+        },
+        {
+            "program_id": "amazonukevent14_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 29,
+            "start": 1005,
+            "end": 1086
+        },
+        {
+            "program_id": "bbconecambridgeshi_wild_london_2026-01-04_1060",
+            "channel_id": 89,
+            "start": 1086,
+            "end": 1120
+        },
+        {
+            "program_id": "virgintvultra_uk_fantastic_friends_2026-01-04_1120",
+            "channel_id": 877,
+            "start": 1120,
+            "end": 1175
+        },
+        {
+            "program_id": "swanseacity_efl_signing_off_2026-01-04_1095",
+            "channel_id": 802,
+            "start": 1175,
+            "end": 1232
+        },
+        {
+            "program_id": "bbcrulster_uk_classical_connections_wi_2026-01-04_1203",
+            "channel_id": 121,
+            "start": 1232,
+            "end": 1274
+        },
+        {
+            "program_id": "gillinghamfc_efl_signing_off_2026-01-04_1095",
+            "channel_id": 330,
+            "start": 1274,
+            "end": 1326
+        },
+        {
+            "program_id": "5usa_uk_ncis_2026-01-04_1320",
+            "channel_id": 6,
+            "start": 1326,
+            "end": 1356
+        },
+        {
+            "program_id": "skycomedy_uk_amy_schumer_live_at_the__2026-01-04_1320",
+            "channel_id": 652,
+            "start": 1356,
+            "end": 1395
+        },
+        {
+            "program_id": "thatstvmcr_uk_shameless_2026-01-04_1380",
+            "channel_id": 838,
+            "start": 1395,
+            "end": 1425
+        }
+    ]
+}

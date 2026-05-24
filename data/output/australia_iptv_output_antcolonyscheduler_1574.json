@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "stan15_au_no_match_today_2026-01-04_0000",
+            "channel_id": 435,
+            "start": 0,
+            "end": 90
+        },
+        {
+            "program_id": "winhobart_au_united_cup_day_3_2026-01-04_0030",
+            "channel_id": 482,
+            "start": 90,
+            "end": 126
+        },
+        {
+            "program_id": "nsw_sydneyfoxsport_nz_super_smash_northern__2026-01-04_0120",
+            "channel_id": 346,
+            "start": 126,
+            "end": 321
+        },
+        {
+            "program_id": "sbsvicelanddarwin__wwe_rivals_2026-01-04_0320",
+            "channel_id": 408,
+            "start": 321,
+            "end": 375
+        },
+        {
+            "program_id": "abcadelaide_au_long_lost_family_2026-01-04_0361",
+            "channel_id": 96,
+            "start": 375,
+            "end": 408
+        },
+        {
+            "program_id": "9gotasmania_au_nbl_round_15_brisbane_bu_2026-01-04_0388",
+            "channel_id": 66,
+            "start": 408,
+            "end": 440
+        },
+        {
+            "program_id": "espnplay96_au_no_match_today_2026-01-04_0360",
+            "channel_id": 287,
+            "start": 440,
+            "end": 580
+        },
+        {
+            "program_id": "7flixsydney_au_law_and_order_criminal_i_2026-01-04_0570",
+            "channel_id": 35,
+            "start": 580,
+            "end": 630
+        },
+        {
+            "program_id": "racingcomperth_au_racing_live_wodonga_staw_2026-01-04_0480",
+            "channel_id": 375,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "nsw_sydneyfoxsport_full_time_live_4_1_26_2026-01-04_0660",
+            "channel_id": 350,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "bloombergtelevisio_leaders_with_francine_la_2026-01-04_0690",
+            "channel_id": 145,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 720,
+            "end": 750
+        },
+        {
+            "program_id": "10boldadelaide_au_ncis_2026-01-04_0745",
+            "channel_id": 0,
+            "start": 750,
+            "end": 786
+        },
+        {
+            "program_id": "espnplay93_au_no_match_today_2026-01-04_0600",
+            "channel_id": 284,
+            "start": 786,
+            "end": 830
+        },
+        {
+            "program_id": "abcdarwin_au_call_the_midwife_2026-01-04_0822",
+            "channel_id": 98,
+            "start": 830,
+            "end": 868
+        },
+        {
+            "program_id": "realhistory_au_born_to_be_king_2026-01-04_0850",
+            "channel_id": 382,
+            "start": 868,
+            "end": 898
+        },
+        {
+            "program_id": "espnplay69_au_no_match_today_2026-01-04_0840",
+            "channel_id": 257,
+            "start": 898,
+            "end": 1021
+        },
+        {
+            "program_id": "stan18_au_no_match_today_2026-01-04_0840",
+            "channel_id": 438,
+            "start": 1021,
+            "end": 1071
+        },
+        {
+            "program_id": "max_au_hits_and_feels_2026-01-04_0840",
+            "channel_id": 334,
+            "start": 1071,
+            "end": 1140
+        },
+        {
+            "program_id": "7sydney_au_sunrise_early_news_2026-01-04_1140",
+            "channel_id": 37,
+            "start": 1140,
+            "end": 1170
+        },
+        {
+            "program_id": "channel9adelaide_a_today_early_news_2026-01-04_1170",
+            "channel_id": 168,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1305
+        },
+        {
+            "program_id": "10boldadelaide_au_home_shopping_2026-01-04_1320",
+            "channel_id": 0,
+            "start": 1320,
+            "end": 1350
+        }
+    ]
+}

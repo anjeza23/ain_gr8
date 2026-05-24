@@ -1,0 +1,118 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Channel_110_0",
+            "channel_id": 110,
+            "start": 480,
+            "end": 540
+        },
+        {
+            "program_id": "Channel_46_1",
+            "channel_id": 46,
+            "start": 540,
+            "end": 600
+        },
+        {
+            "program_id": "Channel_61_3",
+            "channel_id": 61,
+            "start": 600,
+            "end": 690
+        },
+        {
+            "program_id": "Channel_72_4",
+            "channel_id": 72,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "ITV4_4",
+            "channel_id": 9,
+            "start": 720,
+            "end": 750
+        },
+        {
+            "program_id": "ITV3_6",
+            "channel_id": 8,
+            "start": 750,
+            "end": 780
+        },
+        {
+            "program_id": "Comedy_Central_3",
+            "channel_id": 16,
+            "start": 780,
+            "end": 810
+        },
+        {
+            "program_id": "Channel_85_7",
+            "channel_id": 85,
+            "start": 810,
+            "end": 915
+        },
+        {
+            "program_id": "Channel_63_5",
+            "channel_id": 63,
+            "start": 915,
+            "end": 945
+        },
+        {
+            "program_id": "Channel_108_7",
+            "channel_id": 108,
+            "start": 945,
+            "end": 975
+        },
+        {
+            "program_id": "Channel_29_7",
+            "channel_id": 29,
+            "start": 975,
+            "end": 1005
+        },
+        {
+            "program_id": "Channel_66_8",
+            "channel_id": 66,
+            "start": 1005,
+            "end": 1035
+        },
+        {
+            "program_id": "Channel_104_8",
+            "channel_id": 104,
+            "start": 1035,
+            "end": 1065
+        },
+        {
+            "program_id": "Channel_79_9",
+            "channel_id": 79,
+            "start": 1065,
+            "end": 1110
+        },
+        {
+            "program_id": "Channel_75_9",
+            "channel_id": 75,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "Channel_105_13",
+            "channel_id": 105,
+            "start": 1140,
+            "end": 1170
+        },
+        {
+            "program_id": "Channel_65_10",
+            "channel_id": 65,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "BBC_Two_9",
+            "channel_id": 1,
+            "start": 1200,
+            "end": 1305
+        },
+        {
+            "program_id": "BBC_One_11",
+            "channel_id": 0,
+            "start": 1305,
+            "end": 1365
+        }
+    ]
+}

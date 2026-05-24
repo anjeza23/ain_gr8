@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470905_la_cuisine_d_isabelle_et_2026-01-04_0060",
+            "channel_id": 616,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470879_schitt_s_creek_2026-01-04_0090",
+            "channel_id": 590,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470364_live_nhl_hockey_2026-01-04_0120",
+            "channel_id": 76,
+            "start": 120,
+            "end": 155
+        },
+        {
+            "program_id": "474958_it_s_showtime_2026-01-04_0120",
+            "channel_id": 633,
+            "start": 155,
+            "end": 230
+        },
+        {
+            "program_id": "470660_atn_punjabi_preview_2026-01-04_0210",
+            "channel_id": 371,
+            "start": 230,
+            "end": 305
+        },
+        {
+            "program_id": "470565_live_college_basketball_2026-01-04_0255",
+            "channel_id": 276,
+            "start": 305,
+            "end": 350
+        },
+        {
+            "program_id": "470412_ice_age_continental_drif_2026-01-04_0345",
+            "channel_id": 124,
+            "start": 350,
+            "end": 395
+        },
+        {
+            "program_id": "470358_new_york_avec_toi_2026-01-04_0360",
+            "channel_id": 70,
+            "start": 395,
+            "end": 449
+        },
+        {
+            "program_id": "470297_live_nfl_football_2026-01-04_0390",
+            "channel_id": 9,
+            "start": 449,
+            "end": 569
+        },
+        {
+            "program_id": "470533_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 244,
+            "start": 569,
+            "end": 605
+        },
+        {
+            "program_id": "470552_sign_off_2026-01-04_0240",
+            "channel_id": 263,
+            "start": 605,
+            "end": 687
+        },
+        {
+            "program_id": "470436_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 148,
+            "start": 687,
+            "end": 720
+        },
+        {
+            "program_id": "470916_mlb_extra_innings_info_2026-01-04_0720",
+            "channel_id": 627,
+            "start": 720,
+            "end": 895
+        },
+        {
+            "program_id": "470569_nhl_center_ice_2026-01-04_0570",
+            "channel_id": 280,
+            "start": 895,
+            "end": 930
+        },
+        {
+            "program_id": "470517_the_hunger_games_mocking_2026-01-04_0870",
+            "channel_id": 228,
+            "start": 930,
+            "end": 961
+        },
+        {
+            "program_id": "470510_wow_women_of_wrestling_2026-01-04_0960",
+            "channel_id": 221,
+            "start": 961,
+            "end": 1005
+        },
+        {
+            "program_id": "470573_nhl_centre_ice_info_2026-01-04_0900",
+            "channel_id": 284,
+            "start": 1005,
+            "end": 1035
+        },
+        {
+            "program_id": "470845_air_2026-01-04_1020",
+            "channel_id": 556,
+            "start": 1035,
+            "end": 1107
+        },
+        {
+            "program_id": "470351_hudson_and_rex_2026-01-04_1080",
+            "channel_id": 63,
+            "start": 1107,
+            "end": 1160
+        },
+        {
+            "program_id": "470343_from_the_world_of_john_w_2026-01-04_1065",
+            "channel_id": 55,
+            "start": 1160,
+            "end": 1190
+        },
+        {
+            "program_id": "470441_sportsnet_one_edmonton_o_2026-01-04_1140",
+            "channel_id": 153,
+            "start": 1190,
+            "end": 1230
+        },
+        {
+            "program_id": "470621_cp24_hot_property_2026-01-04_1230",
+            "channel_id": 332,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "470648_ctv_your_morning_weekend_2026-01-04_1260",
+            "channel_id": 359,
+            "start": 1260,
+            "end": 1295
+        },
+        {
+            "program_id": "470818_the_thief_of_bagdad_2026-01-04_1215",
+            "channel_id": 529,
+            "start": 1295,
+            "end": 1335
+        },
+        {
+            "program_id": "470492_garage_sale_mystery_the__2026-01-04_1320",
+            "channel_id": 204,
+            "start": 1335,
+            "end": 1380
+        },
+        {
+            "program_id": "470344_mon_guide_yoga_2026-01-04_1380",
+            "channel_id": 56,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412128_puthu_vasantham_2026-01-04_0060",
+            "channel_id": 111,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "412128_songs_2026-01-04_0090",
+            "channel_id": 111,
+            "start": 90,
+            "end": 245
+        },
+        {
+            "program_id": "412142_go_fighting_2026-01-04_0227",
+            "channel_id": 123,
+            "start": 245,
+            "end": 275
+        },
+        {
+            "program_id": "482829_end_of_transmission_2026-01-04_0060",
+            "channel_id": 202,
+            "start": 275,
+            "end": 359
+        },
+        {
+            "program_id": "412094_breakfree_2026-01-04_0270",
+            "channel_id": 86,
+            "start": 359,
+            "end": 402
+        },
+        {
+            "program_id": "412164_premier_league_2025_26_2026-01-04_0360",
+            "channel_id": 141,
+            "start": 402,
+            "end": 432
+        },
+        {
+            "program_id": "369716_rookie_blue_season_5_2026-01-04_0420",
+            "channel_id": 1,
+            "start": 432,
+            "end": 465
+        },
+        {
+            "program_id": "369758_poolman_2026-01-04_0425",
+            "channel_id": 26,
+            "start": 465,
+            "end": 495
+        },
+        {
+            "program_id": "412182_end_of_transmission_2026-01-04_0420",
+            "channel_id": 155,
+            "start": 495,
+            "end": 560
+        },
+        {
+            "program_id": "412175_rolex_middle_sea_race_2026-01-04_0560",
+            "channel_id": 149,
+            "start": 560,
+            "end": 590
+        },
+        {
+            "program_id": "412097_kaaviya_kaalai_2026-01-04_0540",
+            "channel_id": 89,
+            "start": 590,
+            "end": 655
+        },
+        {
+            "program_id": "455187_end_of_transmission_2026-01-04_0420",
+            "channel_id": 191,
+            "start": 655,
+            "end": 690
+        },
+        {
+            "program_id": "369813_cnbc_sport_on_the_record_2026-01-04_0690",
+            "channel_id": 55,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "412186_blue_moon_2026-01-04_0720",
+            "channel_id": 159,
+            "start": 720,
+            "end": 830
+        },
+        {
+            "program_id": "369719_smurfs_the_lost_village_2026-01-04_0770",
+            "channel_id": 3,
+            "start": 830,
+            "end": 860
+        },
+        {
+            "program_id": "369719_click_2026-01-04_0860",
+            "channel_id": 3,
+            "start": 860,
+            "end": 929
+        },
+        {
+            "program_id": "482820_kpmg_women_s_pga_champio_2026-01-04_0900",
+            "channel_id": 196,
+            "start": 929,
+            "end": 1008
+        },
+        {
+            "program_id": "369765_the_unxplained_with_will_2026-01-04_0985",
+            "channel_id": 28,
+            "start": 1008,
+            "end": 1040
+        },
+        {
+            "program_id": "412134_the_terminator_2026-01-04_1020",
+            "channel_id": 116,
+            "start": 1040,
+            "end": 1130
+        },
+        {
+            "program_id": "369716_jurassic_world_dominion_2026-01-04_1050",
+            "channel_id": 1,
+            "start": 1130,
+            "end": 1180
+        },
+        {
+            "program_id": "369790_5_and_6_nations_classics_2026-01-04_1180",
+            "channel_id": 44,
+            "start": 1180,
+            "end": 1210
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_1110",
+            "channel_id": 6,
+            "start": 1210,
+            "end": 1240
+        },
+        {
+            "program_id": "369795_batman_v_superman_dawn_o_2026-01-04_1200",
+            "channel_id": 46,
+            "start": 1240,
+            "end": 1309
+        },
+        {
+            "program_id": "472551_end_of_transmission_2026-01-04_1140",
+            "channel_id": 194,
+            "start": 1309,
+            "end": 1379
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 61,
+            "start": 1379,
+            "end": 1423
+        }
+    ]
+}

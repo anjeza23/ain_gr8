@@ -1,0 +1,172 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "espnplay67_au_no_match_today_2026-01-04_0000",
+            "channel_id": 255,
+            "start": 0,
+            "end": 104
+        },
+        {
+            "program_id": "9perth_au_weekend_today_2026-01-04_0000",
+            "channel_id": 89,
+            "start": 104,
+            "end": 150
+        },
+        {
+            "program_id": "stan4_au_show_court_1_day_1_brisb_2026-01-04_0120",
+            "channel_id": 443,
+            "start": 150,
+            "end": 248
+        },
+        {
+            "program_id": "channel7melbourne__the_ashes_aus_v_eng_t5_d_2026-01-04_0190",
+            "channel_id": 167,
+            "start": 248,
+            "end": 278
+        },
+        {
+            "program_id": "espnplay39_au_no_match_today_2026-01-04_0120",
+            "channel_id": 224,
+            "start": 278,
+            "end": 334
+        },
+        {
+            "program_id": "uktv_2_au_midsomer_murders_2026-01-04_0303",
+            "channel_id": 473,
+            "start": 334,
+            "end": 369
+        },
+        {
+            "program_id": "9melbourne_au_united_cup_day_3_2026-01-04_0030",
+            "channel_id": 88,
+            "start": 369,
+            "end": 400
+        },
+        {
+            "program_id": "foxtelmoviesaction_hummingbird_2026-01-04_0390",
+            "channel_id": 300,
+            "start": 400,
+            "end": 460
+        },
+        {
+            "program_id": "espnplay37_au_no_match_today_2026-01-04_0360",
+            "channel_id": 222,
+            "start": 460,
+            "end": 490
+        },
+        {
+            "program_id": "espnplay79_au_no_match_today_2026-01-04_0360",
+            "channel_id": 268,
+            "start": 490,
+            "end": 560
+        },
+        {
+            "program_id": "stan11_au_auger_aliassime_v_zhang__2026-01-04_0540",
+            "channel_id": 431,
+            "start": 560,
+            "end": 636
+        },
+        {
+            "program_id": "7sydney_au_big_bash_stars_v_renegad_2026-01-04_0540",
+            "channel_id": 37,
+            "start": 636,
+            "end": 670
+        },
+        {
+            "program_id": "westernbulldogs_af_no_match_today_2026-01-04_0600",
+            "channel_id": 491,
+            "start": 670,
+            "end": 701
+        },
+        {
+            "program_id": "10boldbrisbane_au_ncis_2026-01-04_0690",
+            "channel_id": 1,
+            "start": 701,
+            "end": 735
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 735,
+            "end": 765
+        },
+        {
+            "program_id": "10boldadelaide_au_ncis_2026-01-04_0745",
+            "channel_id": 0,
+            "start": 765,
+            "end": 795
+        },
+        {
+            "program_id": "winboldhobart_au_united_cup_night_3_2026-01-04_0540",
+            "channel_id": 476,
+            "start": 795,
+            "end": 829
+        },
+        {
+            "program_id": "abcmehobart_au_rage_2026-01-04_0824",
+            "channel_id": 112,
+            "start": 829,
+            "end": 859
+        },
+        {
+            "program_id": "seaeagles_nrl_no_match_today_2026-01-04_0840",
+            "channel_id": 449,
+            "start": 859,
+            "end": 913
+        },
+        {
+            "program_id": "espnplay95_au_no_match_today_2026-01-04_0840",
+            "channel_id": 286,
+            "start": 913,
+            "end": 950
+        },
+        {
+            "program_id": "9goperth_au_stronger_2026-01-04_0910",
+            "channel_id": 76,
+            "start": 950,
+            "end": 1049
+        },
+        {
+            "program_id": "stan5_au_fulham_v_liverpool_premi_2026-01-04_0950",
+            "channel_id": 444,
+            "start": 1049,
+            "end": 1083
+        },
+        {
+            "program_id": "7tasmania_au_nbc_today_2026-01-04_1082",
+            "channel_id": 47,
+            "start": 1083,
+            "end": 1113
+        },
+        {
+            "program_id": "foxtelmoviesromanc_the_first_wives_club_2026-01-04_1075",
+            "channel_id": 310,
+            "start": 1113,
+            "end": 1150
+        },
+        {
+            "program_id": "britishcinema_au_mr_turner_2026-01-04_1150",
+            "channel_id": 152,
+            "start": 1150,
+            "end": 1180
+        },
+        {
+            "program_id": "richmond_afl_no_match_today_2026-01-04_1080",
+            "channel_id": 383,
+            "start": 1180,
+            "end": 1214
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1328
+        },
+        {
+            "program_id": "10boldadelaide_au_reel_action_2026-01-04_1350",
+            "channel_id": 0,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

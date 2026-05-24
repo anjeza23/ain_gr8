@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_laligatv4_es_m_laliga_4_2026-01-04_0000",
+            "channel_id": 157,
+            "start": 0,
+            "end": 103
+        },
+        {
+            "program_id": "m_deportes7_es_m_deportes_8_2026-01-04_0000",
+            "channel_id": 143,
+            "start": 103,
+            "end": 340
+        },
+        {
+            "program_id": "movistarellasvamos_m_ellas_v_2026-01-04_0000",
+            "channel_id": 195,
+            "start": 340,
+            "end": 409
+        },
+        {
+            "program_id": "m_ligadecampeones3_m_liga_de_campeones_3_2026-01-04_0000",
+            "channel_id": 169,
+            "start": 409,
+            "end": 440
+        },
+        {
+            "program_id": "tvgeuropa_es_o_term_metro_2026-01-04_0420",
+            "channel_id": 247,
+            "start": 440,
+            "end": 490
+        },
+        {
+            "program_id": "m_ligadecampeones3_m_liga_de_campeones_3_2026-01-04_0480",
+            "channel_id": 169,
+            "start": 490,
+            "end": 586
+        },
+        {
+            "program_id": "amc_es_the_fighter_2026-01-04_0540",
+            "channel_id": 6,
+            "start": 586,
+            "end": 616
+        },
+        {
+            "program_id": "fcbarcelona_laliga_no_game_today_2026-01-04_0540",
+            "channel_id": 99,
+            "start": 616,
+            "end": 665
+        },
+        {
+            "program_id": "laresistencia_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 127,
+            "start": 665,
+            "end": 730
+        },
+        {
+            "program_id": "canalpanda_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 51,
+            "start": 730,
+            "end": 858
+        },
+        {
+            "program_id": "atleticodemadrid_l_no_game_today_2026-01-04_0840",
+            "channel_id": 20,
+            "start": 858,
+            "end": 888
+        },
+        {
+            "program_id": "fcbarcelona_laliga_no_game_today_2026-01-04_0780",
+            "channel_id": 99,
+            "start": 888,
+            "end": 985
+        },
+        {
+            "program_id": "mtv00_es_this_channel_is_now_clos_2026-01-04_0960",
+            "channel_id": 184,
+            "start": 985,
+            "end": 1027
+        },
+        {
+            "program_id": "fcbarcelona_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 99,
+            "start": 1027,
+            "end": 1060
+        },
+        {
+            "program_id": "villarrealcf_lalig_no_game_today_2026-01-04_1020",
+            "channel_id": 263,
+            "start": 1060,
+            "end": 1142
+        },
+        {
+            "program_id": "discoverymax_es_dmax_2026-01-04_1080",
+            "channel_id": 77,
+            "start": 1142,
+            "end": 1207
+        },
+        {
+            "program_id": "tvcanaria_es_laliga_hypermotion_t25_2_2026-01-04_1110",
+            "channel_id": 241,
+            "start": 1207,
+            "end": 1237
+        },
+        {
+            "program_id": "mtv80s_es_i_want_my_mtv_80s_2026-01-04_1235",
+            "channel_id": 186,
+            "start": 1237,
+            "end": 1267
+        },
+        {
+            "program_id": "solmusica_es_telediario_2_2026-01-04_1255",
+            "channel_id": 228,
+            "start": 1267,
+            "end": 1297
+        },
+        {
+            "program_id": "movistarcine_es_mujeres_poderosas_2026-01-04_1261",
+            "channel_id": 193,
+            "start": 1297,
+            "end": 1365
+        },
+        {
+            "program_id": "la1_es_cine_2026-01-04_1320",
+            "channel_id": 112,
+            "start": 1365,
+            "end": 1405
+        },
+        {
+            "program_id": "alquiler1_es_un_gran_viaje_atrevido_y_2026-01-04_1320",
+            "channel_id": 14,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

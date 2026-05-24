@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_ligadecampeones5_m_liga_de_campeones_5_2026-01-04_0000",
+            "channel_id": 171,
+            "start": 0,
+            "end": 51
+        },
+        {
+            "program_id": "atleticodemadrid_l_no_game_today_2026-01-04_0000",
+            "channel_id": 20,
+            "start": 51,
+            "end": 89
+        },
+        {
+            "program_id": "realmadridtv_es_real_madrid_tv_2026-01-04_0000",
+            "channel_id": 221,
+            "start": 89,
+            "end": 168
+        },
+        {
+            "program_id": "dazn4_es_disfruta_de_dazn_en_movi_2026-01-04_0120",
+            "channel_id": 68,
+            "start": 168,
+            "end": 271
+        },
+        {
+            "program_id": "veo7_es_flashpoint_2026-01-04_0270",
+            "channel_id": 262,
+            "start": 271,
+            "end": 315
+        },
+        {
+            "program_id": "m_ligadecampeones4_m_liga_de_campeones_4_2026-01-04_0000",
+            "channel_id": 170,
+            "start": 315,
+            "end": 348
+        },
+        {
+            "program_id": "m_ligadecampeones__copa_de_frica_octavos_de_2026-01-04_0270",
+            "channel_id": 162,
+            "start": 348,
+            "end": 390
+        },
+        {
+            "program_id": "laligatvbar4_pr_ximo_partido_cacere_o_2026-01-04_0285",
+            "channel_id": 116,
+            "start": 390,
+            "end": 501
+        },
+        {
+            "program_id": "m_laligatv_es_deporteplus_t25_26_10_01_2026-01-04_0480",
+            "channel_id": 154,
+            "start": 501,
+            "end": 545
+        },
+        {
+            "program_id": "m_drama_es_campe_n_2026-01-04_0485",
+            "channel_id": 145,
+            "start": 545,
+            "end": 575
+        },
+        {
+            "program_id": "m_laliga10_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 153,
+            "start": 575,
+            "end": 608
+        },
+        {
+            "program_id": "canaldelasestrella_mi_esposa_y_la_otra_2026-01-04_0520",
+            "channel_id": 53,
+            "start": 608,
+            "end": 640
+        },
+        {
+            "program_id": "realbetis_laliga_next_game_laliga_santand_2026-01-04_0600",
+            "channel_id": 219,
+            "start": 640,
+            "end": 749
+        },
+        {
+            "program_id": "amccrime_es_a_ciegas_2026-01-04_0725",
+            "channel_id": 8,
+            "start": 749,
+            "end": 785
+        },
+        {
+            "program_id": "mtv80s_es_top_50_2026-01-04_0770",
+            "channel_id": 186,
+            "start": 785,
+            "end": 830
+        },
+        {
+            "program_id": "teledeporte_es_estudio_estadio_solo_res_2026-01-04_0830",
+            "channel_id": 252,
+            "start": 830,
+            "end": 860
+        },
+        {
+            "program_id": "m_losgoya_es_miss_carb_n_2026-01-04_0832",
+            "channel_id": 177,
+            "start": 860,
+            "end": 894
+        },
+        {
+            "program_id": "tnt_es_superman_2026-01-04_0839",
+            "channel_id": 235,
+            "start": 894,
+            "end": 953
+        },
+        {
+            "program_id": "m_hits_es_dune_2026-01-04_0905",
+            "channel_id": 151,
+            "start": 953,
+            "end": 1025
+        },
+        {
+            "program_id": "dazn1_es_premier_league_t25_26_fu_2026-01-04_0950",
+            "channel_id": 65,
+            "start": 1025,
+            "end": 1057
+        },
+        {
+            "program_id": "alquiler1_es_eddington_2026-01-04_0965",
+            "channel_id": 14,
+            "start": 1057,
+            "end": 1090
+        },
+        {
+            "program_id": "rcdespanyoldebarce_no_game_today_2026-01-04_1020",
+            "channel_id": 214,
+            "start": 1090,
+            "end": 1246
+        },
+        {
+            "program_id": "canaldelasestrella_el_chavo_del_ocho_2026-01-04_1220",
+            "channel_id": 53,
+            "start": 1246,
+            "end": 1343
+        },
+        {
+            "program_id": "populartvmurcia_es_cine_2026-01-04_1230",
+            "channel_id": 211,
+            "start": 1343,
+            "end": 1375
+        },
+        {
+            "program_id": "la1_es_cine_2026-01-04_1320",
+            "channel_id": 112,
+            "start": 1375,
+            "end": 1405
+        },
+        {
+            "program_id": "m_comedia_es_el_cambiazo_2026-01-04_1320",
+            "channel_id": 133,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

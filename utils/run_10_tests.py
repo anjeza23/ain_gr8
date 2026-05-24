@@ -5,6 +5,7 @@ Generates JSON + Markdown tables ready for README.
 
 import json
 import subprocess
+import sys
 import time
 import argparse
 from datetime import datetime
@@ -31,7 +32,12 @@ class BenchmarkExecutor:
         {"ants": 4, "iterations": 5},
     ]
 
-    def __init__(self, timeout_seconds: int = 25, instance_budget_seconds: int = 300):
+    SMALL_BUDGET_SECONDS = 300
+    LARGE_BUDGET_SECONDS = 900
+    LS_ITERATIONS = 250
+    LS_NEIGHBORHOOD = 120
+
+    def __init__(self, timeout_seconds: int = 25, instance_budget_seconds: int = SMALL_BUDGET_SECONDS):
         self.timeout_seconds = timeout_seconds
         self.instance_budget_seconds = instance_budget_seconds
         self.results: Dict[str, object] = {
@@ -62,9 +68,31 @@ class BenchmarkExecutor:
                     continue
         return 0
 
+    @staticmethod
+    def _is_large_instance(instance_path: Path) -> bool:
+        name = instance_path.name.lower()
+        return (
+            name.endswith("_iptv.json")
+            or name.endswith("_pw.json")
+            or name.startswith("youtube_")
+            or name == "usa_tv_input.json"
+        )
+
+    @staticmethod
+    def _instance_complexity_key(instance_path: Path) -> int:
+        try:
+            return instance_path.stat().st_size
+        except OSError:
+            return 0
+
+    def _get_instance_budget(self, instance_path: Path) -> int:
+        if self._is_large_instance(instance_path):
+            return self.LARGE_BUDGET_SECONDS
+        return self.instance_budget_seconds
+
     def _run_single_aco(self, input_path: str, run_id: int, params: Dict[str, int]) -> Dict[str, object]:
         cmd = [
-            "python",
+            sys.executable,
             "main.py",
             "--input",
             input_path,
@@ -110,6 +138,7 @@ class BenchmarkExecutor:
         self,
         input_path: str,
         best_aco: Dict[str, object],
+        timeout_seconds: int,
     ) -> Dict[str, object]:
         seed = int(best_aco["run"])
         ants = int(best_aco["params"]["ants"])
@@ -117,7 +146,7 @@ class BenchmarkExecutor:
         aco_score = int(best_aco["score"])
 
         cmd = [
-            "python",
+            sys.executable,
             "main.py",
             "--input",
             input_path,
@@ -130,6 +159,10 @@ class BenchmarkExecutor:
             "--seed",
             str(seed),
             "--local-search",
+            "--ls-iterations",
+            str(self.LS_ITERATIONS),
+            "--ls-neighborhood",
+            str(self.LS_NEIGHBORHOOD),
         ]
 
         start = time.time()
@@ -138,7 +171,7 @@ class BenchmarkExecutor:
                 cmd,
                 capture_output=True,
                 text=True,
-                timeout=self.timeout_seconds,
+                timeout=timeout_seconds,
             )
             elapsed = time.time() - start
 
@@ -163,17 +196,19 @@ class BenchmarkExecutor:
                 "initial_aco_score": aco_score,
                 "local_search_score": aco_score,
                 "improvement": 0,
-                "time_sec": self.timeout_seconds,
+                "time_sec": timeout_seconds,
                 "timeout": True,
             }
 
-    def _instance_files(self, group: str = "tv") -> List[Path]:
+    def _instance_files(self, group: str = "all") -> List[Path]:
         all_inputs = sorted(Path("data/input").glob("*.json"))
         if group == "large":
-            return [p for p in all_inputs if not p.name.endswith("_tv_input.json") and p.name != "toy.json"]
-        if group == "all":
-            return [p for p in all_inputs if p.name != "toy.json"]
-        return [p for p in all_inputs if p.name.endswith("_tv_input.json") and p.name != "toy.json"]
+            instances = [p for p in all_inputs if not p.name.endswith("_tv_input.json") and p.name != "toy.json"]
+        elif group == "tv":
+            instances = [p for p in all_inputs if p.name.endswith("_tv_input.json") and p.name != "toy.json"]
+        else:
+            instances = [p for p in all_inputs if p.name != "toy.json"]
+        return sorted(instances, key=self._instance_complexity_key)
 
     def _tests_for_instance(self, instance_name: str) -> List[Dict[str, int]]:
         if instance_name == "usa_tv_input.json":
@@ -186,10 +221,11 @@ class BenchmarkExecutor:
             return self.LARGE_ACO_TESTS
         return self.ACO_TESTS
 
-    def run_all(self, only_instance: str = "", group: str = "tv") -> Dict[str, object]:
+    def run_all(self, only_instances: List[str] = None, group: str = "all") -> Dict[str, object]:
         instances = self._instance_files(group=group)
-        if only_instance:
-            instances = [p for p in instances if p.name == only_instance]
+        if only_instances:
+            valid_names = {name.strip() for name in only_instances if name.strip()}
+            instances = [p for p in instances if p.name in valid_names]
         print(f"Running benchmark for {len(instances)} instances (excluding toy.json)")
 
         for instance_path in instances:
@@ -222,7 +258,9 @@ class BenchmarkExecutor:
                 worst_score = 0
 
             instance_elapsed = sum(float(r["time_sec"]) for r in runs)
-            if instance_elapsed >= self.instance_budget_seconds:
+            instance_budget = self._get_instance_budget(instance_path)
+            remaining_seconds = max(0, instance_budget - int(instance_elapsed))
+            if instance_elapsed >= instance_budget or remaining_seconds < 5:
                 ls_result = {
                     "ok": False,
                     "params": {
@@ -236,9 +274,13 @@ class BenchmarkExecutor:
                     "time_sec": 0.0,
                     "timeout": False,
                     "skipped_reason": "instance_budget_exceeded_before_local_search",
+                    "instance_budget_seconds": instance_budget,
                 }
             else:
-                ls_result = self._run_local_search_once(str(instance_path), best_aco)
+                ls_result = self._run_local_search_once(
+                    str(instance_path), best_aco, timeout_seconds=remaining_seconds
+                )
+                ls_result["instance_budget_seconds"] = instance_budget
 
             instance_result = {
                 "instance": instance_path.name,
@@ -280,7 +322,7 @@ class BenchmarkExecutor:
         lines.append("# Benchmark Results - 10x ACO per Parameter Combination + 1x Local Search per Instance")
         lines.append("")
         lines.append(f"- Timeout per run: `{self.timeout_seconds}s`")
-        lines.append(f"- Time budget per instance: `{self.instance_budget_seconds}s`")
+        lines.append(f"- Time budget per instance: `{self.instance_budget_seconds}s` for easier instances, `{self.LARGE_BUDGET_SECONDS}s` for larger instances")
         lines.append("- Policy: 3 parameter combinations, 10 runs each (30 total ACO runs), then local search once on best ACO run")
         lines.append("")
         lines.append("| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final | LS Improvement |")
@@ -303,12 +345,20 @@ class BenchmarkExecutor:
 def main():
     parser = argparse.ArgumentParser(description="Run 10x ACO tests + 1x Local Search")
     parser.add_argument("--instance", default="", help="Run only one instance file name (e.g. usa_tv_input.json)")
-    parser.add_argument("--group", choices=["tv", "large", "all"], default="tv",
+    parser.add_argument("--instances", default="", help="Comma-separated instance filenames to benchmark")
+    parser.add_argument("--timeout", type=int, default=25, help="Timeout seconds for each single ACO run")
+    parser.add_argument("--group", choices=["tv", "large", "all"], default="all",
                         help="Instance group to benchmark")
     args = parser.parse_args()
 
-    executor = BenchmarkExecutor(timeout_seconds=25, instance_budget_seconds=300)
-    executor.run_all(only_instance=args.instance.strip(), group=args.group)
+    instance_list = []
+    if args.instances:
+        instance_list = [name.strip() for name in args.instances.split(",") if name.strip()]
+    elif args.instance:
+        instance_list = [args.instance.strip()]
+
+    executor = BenchmarkExecutor(timeout_seconds=args.timeout, instance_budget_seconds=300)
+    executor.run_all(only_instances=instance_list, group=args.group)
     output_paths = executor.save_outputs()
     print("\nSaved files:")
     print(f"- JSON: {output_paths['json']}")

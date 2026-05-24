@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470534_the_big_fight_2026-01-04_0060",
+            "channel_id": 245,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470695_cbc_newsroom_with_natash_2026-01-04_0090",
+            "channel_id": 406,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470439_world_s_most_scenic_rive_2026-01-04_0120",
+            "channel_id": 151,
+            "start": 120,
+            "end": 180
+        },
+        {
+            "program_id": "470801_cbc_radio_one_vancouver__2026-01-04_0180",
+            "channel_id": 512,
+            "start": 180,
+            "end": 265
+        },
+        {
+            "program_id": "470596_mlb_network_presents_2026-01-04_0240",
+            "channel_id": 307,
+            "start": 265,
+            "end": 331
+        },
+        {
+            "program_id": "470288_nfl_sunday_ticket_2026-01-04_0240",
+            "channel_id": 0,
+            "start": 331,
+            "end": 445
+        },
+        {
+            "program_id": "470648_live_nfl_football_2026-01-04_0390",
+            "channel_id": 359,
+            "start": 445,
+            "end": 565
+        },
+        {
+            "program_id": "470593_nhl_center_ice_2026-01-04_0480",
+            "channel_id": 304,
+            "start": 565,
+            "end": 600
+        },
+        {
+            "program_id": "470454_vanderpump_rules_2026-01-04_0600",
+            "channel_id": 166,
+            "start": 600,
+            "end": 639
+        },
+        {
+            "program_id": "470320_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 32,
+            "start": 639,
+            "end": 669
+        },
+        {
+            "program_id": "470724_live_nfl_football_2026-01-04_0600",
+            "channel_id": 435,
+            "start": 669,
+            "end": 750
+        },
+        {
+            "program_id": "470687_fbi_international_2026-01-04_0745",
+            "channel_id": 398,
+            "start": 750,
+            "end": 788
+        },
+        {
+            "program_id": "470791_movie_2026-01-04_0788",
+            "channel_id": 502,
+            "start": 788,
+            "end": 818
+        },
+        {
+            "program_id": "470571_live_nhl_hockey_2026-01-04_0720",
+            "channel_id": 282,
+            "start": 818,
+            "end": 867
+        },
+        {
+            "program_id": "470343_the_traitors_2026-01-04_0840",
+            "channel_id": 55,
+            "start": 867,
+            "end": 900
+        },
+        {
+            "program_id": "470548_sous_la_surface_2026-01-04_0867",
+            "channel_id": 259,
+            "start": 900,
+            "end": 960
+        },
+        {
+            "program_id": "470676_the_raccoons_2026-01-04_0960",
+            "channel_id": 387,
+            "start": 960,
+            "end": 990
+        },
+        {
+            "program_id": "470364_who_has_access_to_your_p_2026-01-04_0990",
+            "channel_id": 76,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "470571_sportsnet_central_2026-01-04_1020",
+            "channel_id": 282,
+            "start": 1020,
+            "end": 1050
+        },
+        {
+            "program_id": "470451_nhl_center_ice_2026-01-04_0930",
+            "channel_id": 163,
+            "start": 1050,
+            "end": 1120
+        },
+        {
+            "program_id": "470366_nba_basketball_2026-01-04_1020",
+            "channel_id": 78,
+            "start": 1120,
+            "end": 1150
+        },
+        {
+            "program_id": "470592_one_battle_after_another_2026-01-04_1020",
+            "channel_id": 303,
+            "start": 1150,
+            "end": 1185
+        },
+        {
+            "program_id": "470350_sportsnet_one_vancouver__2026-01-04_1140",
+            "channel_id": 62,
+            "start": 1185,
+            "end": 1315
+        },
+        {
+            "program_id": "470396_entertainment_tonight_2026-01-04_1290",
+            "channel_id": 108,
+            "start": 1315,
+            "end": 1350
+        },
+        {
+            "program_id": "470862_impractical_jokers_2026-01-04_1350",
+            "channel_id": 573,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "470776_25_words_or_less_2026-01-04_1380",
+            "channel_id": 487,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

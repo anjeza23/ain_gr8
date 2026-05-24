@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369851_a_midnight_kiss_2026-01-04_0060",
+            "channel_id": 77,
+            "start": 60,
+            "end": 150
+        },
+        {
+            "program_id": "412148_preview_channel_2026-01-04_0060",
+            "channel_id": 129,
+            "start": 150,
+            "end": 311
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_0210",
+            "channel_id": 6,
+            "start": 311,
+            "end": 341
+        },
+        {
+            "program_id": "369758_rob_peace_2026-01-04_0300",
+            "channel_id": 26,
+            "start": 341,
+            "end": 390
+        },
+        {
+            "program_id": "412195_kung_fu_panda_2_2026-01-04_0390",
+            "channel_id": 168,
+            "start": 390,
+            "end": 425
+        },
+        {
+            "program_id": "412187_race_2026-01-04_0300",
+            "channel_id": 160,
+            "start": 425,
+            "end": 530
+        },
+        {
+            "program_id": "412129_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 112,
+            "start": 530,
+            "end": 655
+        },
+        {
+            "program_id": "369833_world_series_cricket_2026-01-04_0630",
+            "channel_id": 67,
+            "start": 655,
+            "end": 690
+        },
+        {
+            "program_id": "412109_inheritors_2026-01-04_0690",
+            "channel_id": 98,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "369719_twin_dragons_2026-01-04_0680",
+            "channel_id": 3,
+            "start": 720,
+            "end": 760
+        },
+        {
+            "program_id": "412102_brewer_lee_2_2026-01-04_0745",
+            "channel_id": 93,
+            "start": 760,
+            "end": 790
+        },
+        {
+            "program_id": "369727_tears_of_the_sun_2026-01-04_0745",
+            "channel_id": 8,
+            "start": 790,
+            "end": 820
+        },
+        {
+            "program_id": "472551_end_of_transmission_2026-01-04_0780",
+            "channel_id": 194,
+            "start": 820,
+            "end": 854
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 854,
+            "end": 885
+        },
+        {
+            "program_id": "369780_mermicorno_starfall_2026-01-04_0885",
+            "channel_id": 38,
+            "start": 885,
+            "end": 915
+        },
+        {
+            "program_id": "412104_yang_manis_suka_bikin_ha_2026-01-04_0870",
+            "channel_id": 95,
+            "start": 915,
+            "end": 950
+        },
+        {
+            "program_id": "369728_curtain_call_2026-01-04_0935",
+            "channel_id": 9,
+            "start": 950,
+            "end": 992
+        },
+        {
+            "program_id": "412181_day_1_2026-01-04_0960",
+            "channel_id": 154,
+            "start": 992,
+            "end": 1108
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1020",
+            "channel_id": 61,
+            "start": 1108,
+            "end": 1138
+        },
+        {
+            "program_id": "412112_cinema_verite_the_saga_o_2026-01-04_1085",
+            "channel_id": 100,
+            "start": 1138,
+            "end": 1169
+        },
+        {
+            "program_id": "412099_teenage_dreamers_2026-01-04_1130",
+            "channel_id": 91,
+            "start": 1169,
+            "end": 1199
+        },
+        {
+            "program_id": "452962_end_of_transmission_2026-01-04_1140",
+            "channel_id": 188,
+            "start": 1199,
+            "end": 1312
+        },
+        {
+            "program_id": "412140_leeds_united_v_mancheste_2026-01-04_1280",
+            "channel_id": 121,
+            "start": 1312,
+            "end": 1363
+        },
+        {
+            "program_id": "412142_china_before_china_2026-01-04_1342",
+            "channel_id": 123,
+            "start": 1363,
+            "end": 1403
+        },
+        {
+            "program_id": "369819_golden_swallow_2026-01-04_1320",
+            "channel_id": 60,
+            "start": 1403,
+            "end": 1435
+        }
+    ]
+}

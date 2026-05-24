@@ -1,0 +1,178 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "hummasala_uk_lively_weekend_2026-01-04_0000",
+            "channel_id": 336,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "skysports_94_vig_no_event_today_2026-01-04_0000",
+            "channel_id": 761,
+            "start": 30,
+            "end": 120
+        },
+        {
+            "program_id": "challenge_uk_bullseye_2026-01-04_0120",
+            "channel_id": 176,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "nfl01_vig_no_event_today_2026-01-04_0000",
+            "channel_id": 451,
+            "start": 150,
+            "end": 206
+        },
+        {
+            "program_id": "comedycentral_uk_russell_howard_live_at_t_2026-01-04_0180",
+            "channel_id": 196,
+            "start": 206,
+            "end": 240
+        },
+        {
+            "program_id": "stevenagefc_efl_no_game_today_2026-01-04_0180",
+            "channel_id": 796,
+            "start": 240,
+            "end": 275
+        },
+        {
+            "program_id": "skyatlantic_uk_in_treatment_2026-01-04_0275",
+            "channel_id": 639,
+            "start": 275,
+            "end": 305
+        },
+        {
+            "program_id": "bbconeeastmidlands_bbc_news_2026-01-04_0095",
+            "channel_id": 92,
+            "start": 305,
+            "end": 340
+        },
+        {
+            "program_id": "skysportsultrahd_u_this_is_ultra_hd_2026-01-04_0000",
+            "channel_id": 785,
+            "start": 340,
+            "end": 392
+        },
+        {
+            "program_id": "5star_1_uk_teleshopping_2026-01-04_0360",
+            "channel_id": 3,
+            "start": 392,
+            "end": 425
+        },
+        {
+            "program_id": "bbctwo_uk_richard_osman_s_house_of_2026-01-04_0425",
+            "channel_id": 128,
+            "start": 425,
+            "end": 455
+        },
+        {
+            "program_id": "adultchannel_uk_adult_pack_and_adult_nig_2026-01-04_0420",
+            "channel_id": 16,
+            "start": 455,
+            "end": 630
+        },
+        {
+            "program_id": "skysci_fi_uk_teleshopping_2026-01-04_0630",
+            "channel_id": 665,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "tntsports7_uk_channel_off_air_2026-01-04_0420",
+            "channel_id": 816,
+            "start": 660,
+            "end": 726
+        },
+        {
+            "program_id": "loi4_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 404,
+            "start": 726,
+            "end": 771
+        },
+        {
+            "program_id": "amazonukevent9_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 73,
+            "start": 771,
+            "end": 833
+        },
+        {
+            "program_id": "efl24_v_no_event_today_2026-01-04_0720",
+            "channel_id": 262,
+            "start": 833,
+            "end": 900
+        },
+        {
+            "program_id": "virginradio_uk_game_on_with_charlie_bak_2026-01-04_0900",
+            "channel_id": 876,
+            "start": 900,
+            "end": 960
+        },
+        {
+            "program_id": "dunamistv_uk_believer_s_voice_of_vict_2026-01-04_0960",
+            "channel_id": 233,
+            "start": 960,
+            "end": 990
+        },
+        {
+            "program_id": "skysports_19_vig_no_event_today_2026-01-04_0960",
+            "channel_id": 678,
+            "start": 990,
+            "end": 1060
+        },
+        {
+            "program_id": "islambangla_uk_muhammad_final_legacy_2026-01-04_1060",
+            "channel_id": 391,
+            "start": 1060,
+            "end": 1090
+        },
+        {
+            "program_id": "yeoviltown_nationa_no_game_today_2026-01-04_0900",
+            "channel_id": 895,
+            "start": 1090,
+            "end": 1134
+        },
+        {
+            "program_id": "bbctwoengland_uk_ski_sunday_04_01_2026_2026-01-04_1130",
+            "channel_id": 129,
+            "start": 1134,
+            "end": 1174
+        },
+        {
+            "program_id": "walsallfc_efl_signing_off_2026-01-04_1095",
+            "channel_id": 881,
+            "start": 1174,
+            "end": 1240
+        },
+        {
+            "program_id": "pdc2_uk_no_fixtures_today_2026-01-04_0970",
+            "channel_id": 505,
+            "start": 1240,
+            "end": 1282
+        },
+        {
+            "program_id": "pbsamerica_uk_impossible_peace_2026-01-04_1250",
+            "channel_id": 502,
+            "start": 1282,
+            "end": 1315
+        },
+        {
+            "program_id": "ss_event15_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 571,
+            "start": 1315,
+            "end": 1360
+        },
+        {
+            "program_id": "skycinemadrama_uk_amadeus_2026-01-04_1260",
+            "channel_id": 643,
+            "start": 1360,
+            "end": 1395
+        },
+        {
+            "program_id": "bbcfour_uk_hitchcock_at_the_nft_2026-01-04_1370",
+            "channel_id": 85,
+            "start": 1395,
+            "end": 1425
+        }
+    ]
+}

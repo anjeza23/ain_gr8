@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369740_ghosts_s5_2026-01-04_0060",
+            "channel_id": 15,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369727_the_man_with_the_iron_fi_2026-01-04_0090",
+            "channel_id": 8,
+            "start": 90,
+            "end": 180
+        },
+        {
+            "program_id": "412168_wassup_man_let_s_chill_2026-01-04_0180",
+            "channel_id": 144,
+            "start": 180,
+            "end": 296
+        },
+        {
+            "program_id": "435717_movie_2026-01-04_0270",
+            "channel_id": 182,
+            "start": 296,
+            "end": 330
+        },
+        {
+            "program_id": "412134_road_house_1989_2026-01-04_0315",
+            "channel_id": 116,
+            "start": 330,
+            "end": 382
+        },
+        {
+            "program_id": "451931_movie_2026-01-04_0330",
+            "channel_id": 186,
+            "start": 382,
+            "end": 475
+        },
+        {
+            "program_id": "482824_end_of_transmission_2026-01-04_0420",
+            "channel_id": 200,
+            "start": 475,
+            "end": 520
+        },
+        {
+            "program_id": "369727_battleship_2026-01-04_0520",
+            "channel_id": 8,
+            "start": 520,
+            "end": 561
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 561,
+            "end": 888
+        },
+        {
+            "program_id": "369826_grand_designs_s22_2026-01-04_0885",
+            "channel_id": 63,
+            "start": 888,
+            "end": 930
+        },
+        {
+            "program_id": "412151_ep_8_circuit_world_champ_2026-01-04_0930",
+            "channel_id": 132,
+            "start": 930,
+            "end": 960
+        },
+        {
+            "program_id": "412130_unsolved_case_special_ed_2026-01-04_0960",
+            "channel_id": 113,
+            "start": 960,
+            "end": 992
+        },
+        {
+            "program_id": "412169_wta_finals_riyadh_double_2026-01-04_0900",
+            "channel_id": 145,
+            "start": 992,
+            "end": 1050
+        },
+        {
+            "program_id": "412198_tata_indian_premier_leag_2026-01-04_0970",
+            "channel_id": 170,
+            "start": 1050,
+            "end": 1130
+        },
+        {
+            "program_id": "412104_stand_up_comedy_academy__2026-01-04_1050",
+            "channel_id": 95,
+            "start": 1130,
+            "end": 1165
+        },
+        {
+            "program_id": "412200_genius_go_go_go_2026-01-04_1110",
+            "channel_id": 172,
+            "start": 1165,
+            "end": 1205
+        },
+        {
+            "program_id": "369750_laliga_2025_26_tbc_v_tbc_2026-01-04_1200",
+            "channel_id": 22,
+            "start": 1205,
+            "end": 1248
+        },
+        {
+            "program_id": "412167_laliga_2025_26_espanyol__2026-01-04_1200",
+            "channel_id": 143,
+            "start": 1248,
+            "end": 1288
+        },
+        {
+            "program_id": "412144_my_fianc_and_i_nearly_ri_2026-01-04_1288",
+            "channel_id": 125,
+            "start": 1288,
+            "end": 1318
+        },
+        {
+            "program_id": "369773_english_league_champions_2026-01-04_1250",
+            "channel_id": 34,
+            "start": 1318,
+            "end": 1348
+        },
+        {
+            "program_id": "369813_the_tonight_show_starrin_2026-01-04_1320",
+            "channel_id": 55,
+            "start": 1348,
+            "end": 1378
+        },
+        {
+            "program_id": "369833_world_series_cricket_2026-01-04_1350",
+            "channel_id": 67,
+            "start": 1378,
+            "end": 1410
+        }
+    ]
+}

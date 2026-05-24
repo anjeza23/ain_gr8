@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "skysports_53_vig_no_event_today_2026-01-04_0000",
+            "channel_id": 716,
+            "start": 0,
+            "end": 168
+        },
+        {
+            "program_id": "skysportsplus_uk_live_tennis_united_cup_2_2026-01-04_0120",
+            "channel_id": 779,
+            "start": 168,
+            "end": 224
+        },
+        {
+            "program_id": "rteradio1_uk_rt_gold_on_rt_radio_1_2026-01-04_0180",
+            "channel_id": 546,
+            "start": 224,
+            "end": 260
+        },
+        {
+            "program_id": "rte2fm_uk_2fm_the_late_night_sessi_2026-01-04_0120",
+            "channel_id": 541,
+            "start": 260,
+            "end": 380
+        },
+        {
+            "program_id": "skysports_54_vig_no_event_today_2026-01-04_0240",
+            "channel_id": 717,
+            "start": 380,
+            "end": 415
+        },
+        {
+            "program_id": "5star_1_uk_teleshopping_2026-01-04_0360",
+            "channel_id": 3,
+            "start": 415,
+            "end": 465
+        },
+        {
+            "program_id": "amazonukevent19_uk_no_game_today_2026-01-04_0420",
+            "channel_id": 34,
+            "start": 465,
+            "end": 518
+        },
+        {
+            "program_id": "skysports_54_vig_no_event_today_2026-01-04_0480",
+            "channel_id": 717,
+            "start": 518,
+            "end": 600
+        },
+        {
+            "program_id": "skysports_79_vig_no_event_today_2026-01-04_0480",
+            "channel_id": 744,
+            "start": 600,
+            "end": 655
+        },
+        {
+            "program_id": "dazn7_uk_next_game_pinerolo_firen_2026-01-04_0540",
+            "channel_id": 215,
+            "start": 655,
+            "end": 780
+        },
+        {
+            "program_id": "amazonukevent12_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 27,
+            "start": 780,
+            "end": 833
+        },
+        {
+            "program_id": "epl02_v_no_event_today_2026-01-04_0720",
+            "channel_id": 274,
+            "start": 833,
+            "end": 905
+        },
+        {
+            "program_id": "bbcrscot_uk_sportsound_2026-01-04_0900",
+            "channel_id": 120,
+            "start": 905,
+            "end": 945
+        },
+        {
+            "program_id": "mta1world_uk_huzoor_s_jalsa_salana_ad_2026-01-04_0945",
+            "channel_id": 428,
+            "start": 945,
+            "end": 1000
+        },
+        {
+            "program_id": "discoverychannel_u_homestead_rescue_mystery_2026-01-04_0960",
+            "channel_id": 224,
+            "start": 1000,
+            "end": 1031
+        },
+        {
+            "program_id": "middlesbrough_efl_southampton_middlesbroug_2026-01-04_0960",
+            "channel_id": 441,
+            "start": 1031,
+            "end": 1070
+        },
+        {
+            "program_id": "amazonukevent4_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 57,
+            "start": 1070,
+            "end": 1114
+        },
+        {
+            "program_id": "rte2_ie_big_little_journeys_2026-01-04_1090",
+            "channel_id": 540,
+            "start": 1114,
+            "end": 1145
+        },
+        {
+            "program_id": "wolverhamptonwande_no_game_today_2026-01-04_1020",
+            "channel_id": 889,
+            "start": 1145,
+            "end": 1175
+        },
+        {
+            "program_id": "channel5_uk_nfl_big_game_night_green_2026-01-04_1110",
+            "channel_id": 180,
+            "start": 1175,
+            "end": 1303
+        },
+        {
+            "program_id": "ss_event1_uk_signing_off_2026-01-04_1150",
+            "channel_id": 565,
+            "start": 1303,
+            "end": 1340
+        },
+        {
+            "program_id": "uandgold_1_uk_only_fools_and_horses_2026-01-04_1340",
+            "channel_id": 852,
+            "start": 1340,
+            "end": 1371
+        },
+        {
+            "program_id": "channel5_1_uk_nfl_big_game_night_green_2026-01-04_1170",
+            "channel_id": 179,
+            "start": 1371,
+            "end": 1401
+        },
+        {
+            "program_id": "great_mystery_1_uk_murder_she_baked_a_choco_2026-01-04_1380",
+            "channel_id": 322,
+            "start": 1401,
+            "end": 1436
+        }
+    ]
+}

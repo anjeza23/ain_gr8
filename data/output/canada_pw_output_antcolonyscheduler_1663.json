@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470321_unicorn_academy_2026-01-04_0060",
+            "channel_id": 33,
+            "start": 60,
+            "end": 104
+        },
+        {
+            "program_id": "470781_air_bud_golden_receiver_2026-01-04_0090",
+            "channel_id": 492,
+            "start": 104,
+            "end": 144
+        },
+        {
+            "program_id": "470433_the_curious_case_of_dolp_2026-01-04_0125",
+            "channel_id": 145,
+            "start": 144,
+            "end": 215
+        },
+        {
+            "program_id": "470632_star_trek_2026-01-04_0150",
+            "channel_id": 343,
+            "start": 215,
+            "end": 275
+        },
+        {
+            "program_id": "470592_the_curious_case_of_dolp_2026-01-04_0245",
+            "channel_id": 303,
+            "start": 275,
+            "end": 309
+        },
+        {
+            "program_id": "470587_nfl_sunday_ticket_2026-01-04_0240",
+            "channel_id": 298,
+            "start": 309,
+            "end": 340
+        },
+        {
+            "program_id": "470800_teenage_mutant_ninja_tur_2026-01-04_0340",
+            "channel_id": 511,
+            "start": 340,
+            "end": 375
+        },
+        {
+            "program_id": "470485_nba_league_pass_2026-01-04_0240",
+            "channel_id": 197,
+            "start": 375,
+            "end": 475
+        },
+        {
+            "program_id": "470401_live_nhl_hockey_2026-01-04_0360",
+            "channel_id": 113,
+            "start": 475,
+            "end": 510
+        },
+        {
+            "program_id": "470823_ideabaaz_2026-01-04_0510",
+            "channel_id": 534,
+            "start": 510,
+            "end": 550
+        },
+        {
+            "program_id": "470577_mlb_extra_innings_info_2026-01-04_0480",
+            "channel_id": 288,
+            "start": 550,
+            "end": 605
+        },
+        {
+            "program_id": "470424_live_nfl_football_2026-01-04_0600",
+            "channel_id": 136,
+            "start": 605,
+            "end": 670
+        },
+        {
+            "program_id": "470459_insurgent_2026-01-04_0660",
+            "channel_id": 171,
+            "start": 670,
+            "end": 795
+        },
+        {
+            "program_id": "470435_live_ctv_national_news_w_2026-01-04_0795",
+            "channel_id": 147,
+            "start": 795,
+            "end": 825
+        },
+        {
+            "program_id": "470293_live_nfl_gameday_final_2026-01-04_0795",
+            "channel_id": 5,
+            "start": 825,
+            "end": 855
+        },
+        {
+            "program_id": "470336_one_battle_after_another_2026-01-04_0720",
+            "channel_id": 48,
+            "start": 855,
+            "end": 885
+        },
+        {
+            "program_id": "470859_blacklight_2026-01-04_0870",
+            "channel_id": 570,
+            "start": 885,
+            "end": 935
+        },
+        {
+            "program_id": "470416_nhl_center_ice_2026-01-04_0900",
+            "channel_id": 128,
+            "start": 935,
+            "end": 1120
+        },
+        {
+            "program_id": "470661_real_time_2026-01-04_1120",
+            "channel_id": 372,
+            "start": 1120,
+            "end": 1150
+        },
+        {
+            "program_id": "470444_mysteries_of_the_abandon_2026-01-04_1140",
+            "channel_id": 156,
+            "start": 1150,
+            "end": 1190
+        },
+        {
+            "program_id": "470597_atn_live_gurubani_2026-01-04_1170",
+            "channel_id": 308,
+            "start": 1190,
+            "end": 1230
+        },
+        {
+            "program_id": "470660_atn_live_2026-01-04_1140",
+            "channel_id": 371,
+            "start": 1230,
+            "end": 1320
+        },
+        {
+            "program_id": "470524_ctv_your_morning_weekend_2026-01-04_1320",
+            "channel_id": 235,
+            "start": 1320,
+            "end": 1366
+        },
+        {
+            "program_id": "470596_all_time_games_2026-01-04_1290",
+            "channel_id": 307,
+            "start": 1366,
+            "end": 1409
+        }
+    ]
+}

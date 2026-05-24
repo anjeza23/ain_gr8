@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "hummasala_uk_lively_weekend_2026-01-04_0000",
+            "channel_id": 336,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "exetercityfc_efl_no_game_today_2026-01-04_0000",
+            "channel_id": 293,
+            "start": 30,
+            "end": 146
+        },
+        {
+            "program_id": "matvnational_uk_bollywood_movie_2026-01-04_0090",
+            "channel_id": 427,
+            "start": 146,
+            "end": 180
+        },
+        {
+            "program_id": "loi6_uk_no_game_today_2026-01-04_0180",
+            "channel_id": 406,
+            "start": 180,
+            "end": 219
+        },
+        {
+            "program_id": "iqrabangla_uk_live_transmission_from_m_2026-01-04_0180",
+            "channel_id": 355,
+            "start": 219,
+            "end": 275
+        },
+        {
+            "program_id": "epl03_v_no_event_today_2026-01-04_0240",
+            "channel_id": 275,
+            "start": 275,
+            "end": 480
+        },
+        {
+            "program_id": "epl10_v_no_event_today_2026-01-04_0480",
+            "channel_id": 282,
+            "start": 480,
+            "end": 537
+        },
+        {
+            "program_id": "ss_event49_uk_no_game_today_2026-01-04_0420",
+            "channel_id": 608,
+            "start": 537,
+            "end": 574
+        },
+        {
+            "program_id": "tinypop_1_uk_schedules_no_longer_avai_2026-01-04_0480",
+            "channel_id": 839,
+            "start": 574,
+            "end": 639
+        },
+        {
+            "program_id": "efl05_v_no_event_today_2026-01-04_0480",
+            "channel_id": 243,
+            "start": 639,
+            "end": 695
+        },
+        {
+            "program_id": "manchesterunited_e_next_game_manchester_uni_2026-01-04_0660",
+            "channel_id": 439,
+            "start": 695,
+            "end": 770
+        },
+        {
+            "program_id": "skysports_2_vig_no_event_today_2026-01-04_0720",
+            "channel_id": 679,
+            "start": 770,
+            "end": 835
+        },
+        {
+            "program_id": "skysports_8_vig_no_event_today_2026-01-04_0720",
+            "channel_id": 745,
+            "start": 835,
+            "end": 929
+        },
+        {
+            "program_id": "boltonwanderersfc__signing_off_2026-01-04_0915",
+            "channel_id": 148,
+            "start": 929,
+            "end": 959
+        },
+        {
+            "program_id": "mta1world_uk_huzoor_s_jalsa_salana_ad_2026-01-04_0945",
+            "channel_id": 428,
+            "start": 959,
+            "end": 1000
+        },
+        {
+            "program_id": "efl30_v_no_event_today_2026-01-04_0960",
+            "channel_id": 268,
+            "start": 1000,
+            "end": 1036
+        },
+        {
+            "program_id": "loi3_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 403,
+            "start": 1036,
+            "end": 1070
+        },
+        {
+            "program_id": "itv1tynetees_uk_the_super_mario_bros_mov_2026-01-04_1070",
+            "channel_id": 370,
+            "start": 1070,
+            "end": 1146
+        },
+        {
+            "program_id": "newportcountyafc_e_signing_off_2026-01-04_1095",
+            "channel_id": 483,
+            "start": 1146,
+            "end": 1209
+        },
+        {
+            "program_id": "amazonukevent34_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 51,
+            "start": 1209,
+            "end": 1247
+        },
+        {
+            "program_id": "togethertv_uk_triple_cross_2026-01-04_1230",
+            "channel_id": 842,
+            "start": 1247,
+            "end": 1305
+        },
+        {
+            "program_id": "dazn9_uk_next_game_chiefs_raiders_2026-01-04_1285",
+            "channel_id": 217,
+            "start": 1305,
+            "end": 1345
+        },
+        {
+            "program_id": "premiersports2_uk_top_14_stade_rochelais_v_2026-01-04_1260",
+            "channel_id": 526,
+            "start": 1345,
+            "end": 1379
+        },
+        {
+            "program_id": "channel5_1_uk_nfl_big_game_night_green_2026-01-04_1170",
+            "channel_id": 179,
+            "start": 1379,
+            "end": 1410
+        }
+    ]
+}

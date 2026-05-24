@@ -1,0 +1,1093 @@
+{
+  "timestamp": "2026-05-24T17:00:53.804652",
+  "timeout_seconds_per_run": 120,
+  "instance_budget_seconds": 300,
+  "instances": [
+    {
+      "instance": "youtube_gold.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -3935,
+          "time_sec": 81.12039875984192,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -4035,
+          "time_sec": 56.53231120109558,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -3136,
+          "time_sec": 62.69347643852234,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -3623,
+          "time_sec": 56.77625823020935,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -3611,
+          "time_sec": 58.86823844909668,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -3428,
+          "time_sec": 72.4928069114685,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -2977,
+          "time_sec": 57.60959768295288,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -3129,
+          "time_sec": 58.460829734802246,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -2972,
+          "time_sec": 57.98805022239685,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -3274,
+          "time_sec": 59.60246801376343,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 11,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -3186,
+          "time_sec": 105.77003288269043,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 12,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -3640,
+          "time_sec": 117.21969699859619,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 13,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -3263,
+          "time_sec": 116.8551709651947,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 14,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -3307,
+          "time_sec": 108.54577922821045,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 15,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 16,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 17,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 18,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 19,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -3410,
+          "time_sec": 117.7242968082428,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 20,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -2806,
+          "time_sec": 115.23579454421997,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 21,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 22,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 23,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 24,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 25,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 26,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 27,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 28,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 29,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 30,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 1,
+        "params": {
+          "ants": 2,
+          "iterations": 3
+        },
+        "score": 0,
+        "time_sec": 120
+      },
+      "aco_avg_score": 0.0,
+      "aco_worst_score": 0,
+      "aco_successful_runs": 0,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 2,
+          "iterations": 3,
+          "seed": 1
+        },
+        "initial_aco_score": 0,
+        "local_search_score": 0,
+        "improvement": 0,
+        "time_sec": 0.0,
+        "timeout": false,
+        "skipped_reason": "instance_budget_exceeded_before_local_search",
+        "instance_budget_seconds": 900
+      }
+    },
+    {
+      "instance": "youtube_premium.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -17225,
+          "time_sec": 54.44834518432617,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -18322,
+          "time_sec": 53.73429584503174,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -16996,
+          "time_sec": 52.33905649185181,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -17543,
+          "time_sec": 48.91039776802063,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -17048,
+          "time_sec": 48.004417419433594,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -17114,
+          "time_sec": 48.201115131378174,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -17828,
+          "time_sec": 49.371803522109985,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -16544,
+          "time_sec": 50.1950204372406,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -17088,
+          "time_sec": 269.400377035141,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": -17082,
+          "time_sec": 51.316226959228516,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 11,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -18133,
+          "time_sec": 100.24815082550049,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 12,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -16975,
+          "time_sec": 94.7700264453888,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 13,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -17057,
+          "time_sec": 90.18367218971252,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 14,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -17073,
+          "time_sec": 97.59068703651428,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 15,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -17443,
+          "time_sec": 93.9745705127716,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 16,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -17393,
+          "time_sec": 316.76465916633606,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 17,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -17206,
+          "time_sec": 92.6533796787262,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 18,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -17503,
+          "time_sec": 102.79784321784973,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 19,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -16387,
+          "time_sec": 97.67431449890137,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 20,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": -17587,
+          "time_sec": 89.31900930404663,
+          "timeout": false,
+          "ok": false
+        },
+        {
+          "run": 21,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 22,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 23,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 24,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 25,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 26,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 27,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 28,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 29,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 30,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 1,
+        "params": {
+          "ants": 2,
+          "iterations": 3
+        },
+        "score": 0,
+        "time_sec": 120
+      },
+      "aco_avg_score": 0.0,
+      "aco_worst_score": 0,
+      "aco_successful_runs": 0,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 2,
+          "iterations": 3,
+          "seed": 1
+        },
+        "initial_aco_score": 0,
+        "local_search_score": 0,
+        "improvement": 0,
+        "time_sec": 0.0,
+        "timeout": false,
+        "skipped_reason": "instance_budget_exceeded_before_local_search",
+        "instance_budget_seconds": 900
+      }
+    },
+    {
+      "instance": "us_iptv.json",
+      "aco_runs": [
+        {
+          "run": 1,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 2,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 3,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 4,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 5,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 6,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 7,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 8,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 9,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 10,
+          "params": {
+            "ants": 2,
+            "iterations": 3
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 11,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 12,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 13,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 14,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 15,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 16,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 17,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 18,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 19,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 20,
+          "params": {
+            "ants": 3,
+            "iterations": 4
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 21,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 22,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 23,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 24,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 25,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 26,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 27,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 28,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 29,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        },
+        {
+          "run": 30,
+          "params": {
+            "ants": 4,
+            "iterations": 5
+          },
+          "score": 0,
+          "time_sec": 120,
+          "timeout": true,
+          "ok": false
+        }
+      ],
+      "aco_best": {
+        "run": 1,
+        "params": {
+          "ants": 2,
+          "iterations": 3
+        },
+        "score": 0,
+        "time_sec": 120
+      },
+      "aco_avg_score": 0.0,
+      "aco_worst_score": 0,
+      "aco_successful_runs": 0,
+      "local_search": {
+        "ok": false,
+        "params": {
+          "ants": 2,
+          "iterations": 3,
+          "seed": 1
+        },
+        "initial_aco_score": 0,
+        "local_search_score": 0,
+        "improvement": 0,
+        "time_sec": 0.0,
+        "timeout": false,
+        "skipped_reason": "instance_budget_exceeded_before_local_search",
+        "instance_budget_seconds": 900
+      }
+    }
+  ]
+}

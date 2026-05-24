@@ -1,0 +1,118 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Channel_113_0",
+            "channel_id": 113,
+            "start": 480,
+            "end": 510
+        },
+        {
+            "program_id": "Channel_49_1",
+            "channel_id": 49,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "Channel_103_1",
+            "channel_id": 103,
+            "start": 540,
+            "end": 600
+        },
+        {
+            "program_id": "Channel_68_2",
+            "channel_id": 68,
+            "start": 600,
+            "end": 630
+        },
+        {
+            "program_id": "Channel_110_1",
+            "channel_id": 110,
+            "start": 630,
+            "end": 690
+        },
+        {
+            "program_id": "ITV2_2",
+            "channel_id": 7,
+            "start": 690,
+            "end": 735
+        },
+        {
+            "program_id": "BBC_One_3",
+            "channel_id": 0,
+            "start": 735,
+            "end": 855
+        },
+        {
+            "program_id": "Channel_96_4",
+            "channel_id": 96,
+            "start": 855,
+            "end": 915
+        },
+        {
+            "program_id": "Channel_68_7",
+            "channel_id": 68,
+            "start": 915,
+            "end": 945
+        },
+        {
+            "program_id": "Channel_108_7",
+            "channel_id": 108,
+            "start": 945,
+            "end": 975
+        },
+        {
+            "program_id": "Channel_116_8",
+            "channel_id": 116,
+            "start": 975,
+            "end": 1005
+        },
+        {
+            "program_id": "Channel_102_7",
+            "channel_id": 102,
+            "start": 1005,
+            "end": 1035
+        },
+        {
+            "program_id": "Channel_102_8",
+            "channel_id": 102,
+            "start": 1035,
+            "end": 1080
+        },
+        {
+            "program_id": "Channel_115_11",
+            "channel_id": 115,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "Channel_36_7",
+            "channel_id": 36,
+            "start": 1110,
+            "end": 1155
+        },
+        {
+            "program_id": "Channel_21_11",
+            "channel_id": 21,
+            "start": 1155,
+            "end": 1185
+        },
+        {
+            "program_id": "ITV4_10",
+            "channel_id": 9,
+            "start": 1185,
+            "end": 1230
+        },
+        {
+            "program_id": "Channel_4_11",
+            "channel_id": 3,
+            "start": 1230,
+            "end": 1350
+        },
+        {
+            "program_id": "BBC_Two_11",
+            "channel_id": 1,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

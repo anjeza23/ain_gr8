@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "atleticodemadrid_l_no_game_today_2026-01-04_0000",
+            "channel_id": 20,
+            "start": 0,
+            "end": 85
+        },
+        {
+            "program_id": "la7_es_cyltv_noticias_fin_de_se_2026-01-04_0085",
+            "channel_id": 119,
+            "start": 85,
+            "end": 115
+        },
+        {
+            "program_id": "movistarplus_es_los_2_lados_de_la_cama_2026-01-04_0050",
+            "channel_id": 196,
+            "start": 115,
+            "end": 150
+        },
+        {
+            "program_id": "m_deportes_es_wow_artes_marciales_mixt_2026-01-04_0075",
+            "channel_id": 136,
+            "start": 150,
+            "end": 186
+        },
+        {
+            "program_id": "eurosport2_es_copa_del_mundo_de_esqu_d_2026-01-04_0180",
+            "channel_id": 96,
+            "start": 186,
+            "end": 216
+        },
+        {
+            "program_id": "m_deportes_es_top_14_rugby_t25_26_bord_2026-01-04_0195",
+            "channel_id": 136,
+            "start": 216,
+            "end": 259
+        },
+        {
+            "program_id": "natgeowild_es_un_hombre_entre_guepardo_2026-01-04_0245",
+            "channel_id": 200,
+            "start": 259,
+            "end": 290
+        },
+        {
+            "program_id": "realbetis_laliga_next_game_laliga_santand_2026-01-04_0120",
+            "channel_id": 219,
+            "start": 290,
+            "end": 321
+        },
+        {
+            "program_id": "laligasmartbanktv3_laliga_tv_hypermotion_3_2026-01-04_0000",
+            "channel_id": 123,
+            "start": 321,
+            "end": 526
+        },
+        {
+            "program_id": "atreseries_es_con_el_culo_al_aire_2026-01-04_0480",
+            "channel_id": 21,
+            "start": 526,
+            "end": 560
+        },
+        {
+            "program_id": "laligatvbar3_es_pr_ximo_partido_ibiza_el_2026-01-04_0525",
+            "channel_id": 115,
+            "start": 560,
+            "end": 679
+        },
+        {
+            "program_id": "hollywood_1_es_el_informe_pel_cano_2026-01-04_0579",
+            "channel_id": 108,
+            "start": 679,
+            "end": 716
+        },
+        {
+            "program_id": "m_laligatv7_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 160,
+            "start": 716,
+            "end": 754
+        },
+        {
+            "program_id": "buenviaje_es_a_ciegas_2026-01-04_0725",
+            "channel_id": 37,
+            "start": 754,
+            "end": 872
+        },
+        {
+            "program_id": "m_laligatv2_es_m_laliga_2_2026-01-04_0480",
+            "channel_id": 155,
+            "start": 872,
+            "end": 1005
+        },
+        {
+            "program_id": "buenviaje_es_tercera_identidad_2026-01-04_1005",
+            "channel_id": 37,
+            "start": 1005,
+            "end": 1083
+        },
+        {
+            "program_id": "tcm_es_la_ventana_indiscreta_2026-01-04_1005",
+            "channel_id": 234,
+            "start": 1083,
+            "end": 1114
+        },
+        {
+            "program_id": "ztv_es_cine_2026-01-04_0975",
+            "channel_id": 267,
+            "start": 1114,
+            "end": 1165
+        },
+        {
+            "program_id": "fcbarcelona_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 99,
+            "start": 1165,
+            "end": 1206
+        },
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_1200",
+            "channel_id": 2,
+            "start": 1206,
+            "end": 1236
+        },
+        {
+            "program_id": "m_hits_es_un_par_de_seductores_2026-01-04_1192",
+            "channel_id": 151,
+            "start": 1236,
+            "end": 1304
+        },
+        {
+            "program_id": "xtrm_es_pu_ales_por_la_espalda_2026-01-04_1275",
+            "channel_id": 266,
+            "start": 1304,
+            "end": 1353
+        },
+        {
+            "program_id": "aragontv_es_juanjo_bona_tan_mayor_y__2026-01-04_1320",
+            "channel_id": 17,
+            "start": 1353,
+            "end": 1400
+        },
+        {
+            "program_id": "alquiler_es_un_gran_viaje_atrevido_y_2026-01-04_1320",
+            "channel_id": 13,
+            "start": 1400,
+            "end": 1430
+        }
+    ]
+}

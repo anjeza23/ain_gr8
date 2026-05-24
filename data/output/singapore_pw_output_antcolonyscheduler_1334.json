@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412135_news_magazine_2026_2026-01-04_0060",
+            "channel_id": 117,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "476879_information_not_availabl_2026-01-04_0060",
+            "channel_id": 195,
+            "start": 90,
+            "end": 395
+        },
+        {
+            "program_id": "412164_premier_league_2025_26_2026-01-04_0360",
+            "channel_id": 141,
+            "start": 395,
+            "end": 425
+        },
+        {
+            "program_id": "415456_the_blooming_journey_2_2026-01-04_0420",
+            "channel_id": 176,
+            "start": 425,
+            "end": 525
+        },
+        {
+            "program_id": "412175_rd_of_16_2026-01-04_0450",
+            "channel_id": 149,
+            "start": 525,
+            "end": 560
+        },
+        {
+            "program_id": "412175_rolex_middle_sea_race_2026-01-04_0560",
+            "channel_id": 149,
+            "start": 560,
+            "end": 590
+        },
+        {
+            "program_id": "412133_urc_stormers_v_bulls_2026-01-04_0540",
+            "channel_id": 115,
+            "start": 590,
+            "end": 640
+        },
+        {
+            "program_id": "412117_cinta_2_pilihan_2026-01-04_0640",
+            "channel_id": 104,
+            "start": 640,
+            "end": 670
+        },
+        {
+            "program_id": "369796_defected_the_2026-01-04_0660",
+            "channel_id": 47,
+            "start": 670,
+            "end": 717
+        },
+        {
+            "program_id": "412129_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 112,
+            "start": 717,
+            "end": 768
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 768,
+            "end": 798
+        },
+        {
+            "program_id": "369767_music_bank_2026-01-04_0760",
+            "channel_id": 30,
+            "start": 798,
+            "end": 843
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_0750",
+            "channel_id": 6,
+            "start": 843,
+            "end": 890
+        },
+        {
+            "program_id": "369773_closed_2026-01-04_0420",
+            "channel_id": 34,
+            "start": 890,
+            "end": 960
+        },
+        {
+            "program_id": "369750_laliga_2025_26_tbc_v_tbc_2026-01-04_0960",
+            "channel_id": 22,
+            "start": 960,
+            "end": 990
+        },
+        {
+            "program_id": "412198_tata_indian_premier_leag_2026-01-04_0970",
+            "channel_id": 170,
+            "start": 990,
+            "end": 1049
+        },
+        {
+            "program_id": "412154_east_asia_super_league_2_2026-01-04_0960",
+            "channel_id": 134,
+            "start": 1049,
+            "end": 1080
+        },
+        {
+            "program_id": "412116_movie_p_t_sir_u_2026-01-04_1020",
+            "channel_id": 103,
+            "start": 1080,
+            "end": 1122
+        },
+        {
+            "program_id": "369746_indian_idol_2025_2026-01-04_1020",
+            "channel_id": 20,
+            "start": 1122,
+            "end": 1155
+        },
+        {
+            "program_id": "369814_m_s_dhoni_the_untold_sto_2026-01-04_1140",
+            "channel_id": 56,
+            "start": 1155,
+            "end": 1190
+        },
+        {
+            "program_id": "482829_end_of_transmission_2026-01-04_1140",
+            "channel_id": 202,
+            "start": 1190,
+            "end": 1243
+        },
+        {
+            "program_id": "412142_on_air_sitcom_2026-01-04_1243",
+            "channel_id": 123,
+            "start": 1243,
+            "end": 1273
+        },
+        {
+            "program_id": "369750_laliga_2025_26_tbc_v_tbc_2026-01-04_1200",
+            "channel_id": 22,
+            "start": 1273,
+            "end": 1303
+        },
+        {
+            "program_id": "412140_leeds_united_v_mancheste_2026-01-04_1280",
+            "channel_id": 121,
+            "start": 1303,
+            "end": 1365
+        },
+        {
+            "program_id": "412142_china_before_china_2026-01-04_1342",
+            "channel_id": 123,
+            "start": 1365,
+            "end": 1403
+        },
+        {
+            "program_id": "412162_golden_swallow_2026-01-04_1320",
+            "channel_id": 140,
+            "start": 1403,
+            "end": 1435
+        }
+    ]
+}

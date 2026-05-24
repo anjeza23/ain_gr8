@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "beinsports2_fr_basket_ball_nba_miami_he_2026-01-04_0000",
+            "channel_id": 385,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0000",
+            "channel_id": 295,
+            "start": 30,
+            "end": 87
+        },
+        {
+            "program_id": "cherie25_fr_programmes_de_la_nuit_2026-01-04_0041",
+            "channel_id": 103,
+            "start": 87,
+            "end": 117
+        },
+        {
+            "program_id": "tracetoca_fr_playlist_2026-01-04_0056",
+            "channel_id": 368,
+            "start": 117,
+            "end": 263
+        },
+        {
+            "program_id": "eurosport360_4_fr_a_bient_t_sur_eurosport__2026-01-04_0060",
+            "channel_id": 134,
+            "start": 263,
+            "end": 360
+        },
+        {
+            "program_id": "eurosport360_3_fr_a_bient_t_sur_eurosport__2026-01-04_0360",
+            "channel_id": 133,
+            "start": 360,
+            "end": 408
+        },
+        {
+            "program_id": "cstarhits_fr_playlist_europe_2_pop_tv_2026-01-04_0356",
+            "channel_id": 93,
+            "start": 408,
+            "end": 510
+        },
+        {
+            "program_id": "ligue1_10_fr_ligue_1_10_2026-01-04_0420",
+            "channel_id": 205,
+            "start": 510,
+            "end": 543
+        },
+        {
+            "program_id": "canal_live7_fr_vivez_en_direct_les_v_ne_2026-01-04_0420",
+            "channel_id": 77,
+            "start": 543,
+            "end": 578
+        },
+        {
+            "program_id": "planete_aventure_f_direct_auto_express_dire_2026-01-04_0571",
+            "channel_id": 259,
+            "start": 578,
+            "end": 609
+        },
+        {
+            "program_id": "canal_live16_fr_vivez_en_direct_les_v_ne_2026-01-04_0420",
+            "channel_id": 68,
+            "start": 609,
+            "end": 656
+        },
+        {
+            "program_id": "nollywoodtv_fr_notre_histoire_2026-01-04_0600",
+            "channel_id": 250,
+            "start": 656,
+            "end": 698
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0660",
+            "channel_id": 277,
+            "start": 698,
+            "end": 730
+        },
+        {
+            "program_id": "auxerre_fr_no_match_today_2026-01-04_0660",
+            "channel_id": 32,
+            "start": 730,
+            "end": 773
+        },
+        {
+            "program_id": "canal21_fr_programme_non_communiqu_2026-01-04_0720",
+            "channel_id": 96,
+            "start": 773,
+            "end": 1000
+        },
+        {
+            "program_id": "montpellier_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 234,
+            "start": 1000,
+            "end": 1130
+        },
+        {
+            "program_id": "canal_fr_manchester_city_chelsea_2026-01-04_1110",
+            "channel_id": 54,
+            "start": 1130,
+            "end": 1171
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_1140",
+            "channel_id": 276,
+            "start": 1171,
+            "end": 1201
+        },
+        {
+            "program_id": "rtlnitrotv_fr_la_cha_ne_allemande_sp_c_2026-01-04_1140",
+            "channel_id": 303,
+            "start": 1201,
+            "end": 1240
+        },
+        {
+            "program_id": "ogcnice_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 251,
+            "start": 1240,
+            "end": 1286
+        },
+        {
+            "program_id": "kanal7avrupa_fr_tv_filmi_2026-01-04_1280",
+            "channel_id": 193,
+            "start": 1286,
+            "end": 1317
+        },
+        {
+            "program_id": "rmcsportlive3_fr_cha_ne_v_nementielle_pou_2026-01-04_1080",
+            "channel_id": 294,
+            "start": 1317,
+            "end": 1355
+        },
+        {
+            "program_id": "rmcalertesecours_f_flic_story_2026-01-04_1346",
+            "channel_id": 286,
+            "start": 1355,
+            "end": 1391
+        },
+        {
+            "program_id": "superrtl_fr_new_york_unit_sp_ciale_2026-01-04_1380",
+            "channel_id": 322,
+            "start": 1391,
+            "end": 1421
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "tiji_fr_programmes_de_la_nuit_2026-01-04_0000",
+            "channel_id": 334,
+            "start": 0,
+            "end": 214
+        },
+        {
+            "program_id": "cmc_fr_china_movie_channel_la_c_2026-01-04_0060",
+            "channel_id": 87,
+            "start": 214,
+            "end": 371
+        },
+        {
+            "program_id": "bfmtv_fr_week_end_premi_re_2026-01-04_0360",
+            "channel_id": 45,
+            "start": 371,
+            "end": 401
+        },
+        {
+            "program_id": "infosport_fr_le_jt_2026-01-04_0360",
+            "channel_id": 187,
+            "start": 401,
+            "end": 575
+        },
+        {
+            "program_id": "eurosport360_5_fr_a_bient_t_sur_eurosport__2026-01-04_0540",
+            "channel_id": 135,
+            "start": 575,
+            "end": 629
+        },
+        {
+            "program_id": "canal_premierleagu_la_premier_league_sur_ca_2026-01-04_0540",
+            "channel_id": 80,
+            "start": 629,
+            "end": 693
+        },
+        {
+            "program_id": "prosieben_fr_joko_and_klaas_gegen_pro_2026-01-04_0635",
+            "channel_id": 280,
+            "start": 693,
+            "end": 734
+        },
+        {
+            "program_id": "olympiquemarseille_no_match_today_2026-01-04_0660",
+            "channel_id": 257,
+            "start": 734,
+            "end": 793
+        },
+        {
+            "program_id": "canal_live16_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 68,
+            "start": 793,
+            "end": 835
+        },
+        {
+            "program_id": "rtltelevision_fr_la_reine_des_neiges_ii_2026-01-04_0830",
+            "channel_id": 304,
+            "start": 835,
+            "end": 945
+        },
+        {
+            "program_id": "stadebrestois29_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 318,
+            "start": 945,
+            "end": 1023
+        },
+        {
+            "program_id": "tvcongo_fr_la_cha_ne_g_n_raliste_du_2026-01-04_1020",
+            "channel_id": 347,
+            "start": 1023,
+            "end": 1075
+        },
+        {
+            "program_id": "cmc_fr_china_movie_channel_la_c_2026-01-04_0960",
+            "channel_id": 87,
+            "start": 1075,
+            "end": 1114
+        },
+        {
+            "program_id": "tcmcinema_fr_la_mal_diction_de_la_pan_2026-01-04_1060",
+            "channel_id": 325,
+            "start": 1114,
+            "end": 1151
+        },
+        {
+            "program_id": "benficatv_fr_futebol_feminino_ta_a_de_2026-01-04_1134",
+            "channel_id": 47,
+            "start": 1151,
+            "end": 1189
+        },
+        {
+            "program_id": "mggtv_fr_paris_games_week_2026-01-04_1165",
+            "channel_id": 222,
+            "start": 1189,
+            "end": 1230
+        },
+        {
+            "program_id": "dragontv_fr_des_s_ries_des_films_des_2026-01-04_1140",
+            "channel_id": 119,
+            "start": 1230,
+            "end": 1281
+        },
+        {
+            "program_id": "olympiquemarseille_no_match_today_2026-01-04_1140",
+            "channel_id": 257,
+            "start": 1281,
+            "end": 1340
+        },
+        {
+            "program_id": "planete_crime_fr_alexia_autopsie_d_un_f_m_2026-01-04_1313",
+            "channel_id": 261,
+            "start": 1340,
+            "end": 1370
+        },
+        {
+            "program_id": "teva_fr_au_coeur_du_crime_2026-01-04_1370",
+            "channel_id": 361,
+            "start": 1370,
+            "end": 1405
+        },
+        {
+            "program_id": "france3_parisile_d_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 163,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470821_convoi_sous_z_ro_2026-01-04_0060",
+            "channel_id": 532,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470879_schitt_s_creek_2026-01-04_0090",
+            "channel_id": 590,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470596_all_time_games_2026-01-04_0120",
+            "channel_id": 307,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "470651_oceanfront_property_hunt_2026-01-04_0150",
+            "channel_id": 362,
+            "start": 150,
+            "end": 180
+        },
+        {
+            "program_id": "470801_cbc_radio_one_vancouver__2026-01-04_0180",
+            "channel_id": 512,
+            "start": 180,
+            "end": 394
+        },
+        {
+            "program_id": "470640_nixta_stasou_2026-01-04_0370",
+            "channel_id": 351,
+            "start": 394,
+            "end": 435
+        },
+        {
+            "program_id": "470370_live_nfl_football_2026-01-04_0390",
+            "channel_id": 82,
+            "start": 435,
+            "end": 515
+        },
+        {
+            "program_id": "470522_live_nfl_football_2026-01-04_0390",
+            "channel_id": 233,
+            "start": 515,
+            "end": 570
+        },
+        {
+            "program_id": "470354_nfl_sunday_ticket_2026-01-04_0240",
+            "channel_id": 66,
+            "start": 570,
+            "end": 645
+        },
+        {
+            "program_id": "470359_nhl_center_ice_2026-01-04_0600",
+            "channel_id": 71,
+            "start": 645,
+            "end": 687
+        },
+        {
+            "program_id": "470436_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 148,
+            "start": 687,
+            "end": 720
+        },
+        {
+            "program_id": "470893_mlb_extra_innings_info_2026-01-04_0720",
+            "channel_id": 604,
+            "start": 720,
+            "end": 1065
+        },
+        {
+            "program_id": "470456_blacklight_2026-01-04_1050",
+            "channel_id": 168,
+            "start": 1065,
+            "end": 1137
+        },
+        {
+            "program_id": "470434_nba_league_pass_info_2026-01-04_1080",
+            "channel_id": 146,
+            "start": 1137,
+            "end": 1172
+        },
+        {
+            "program_id": "470329_entertainment_tonight_2026-01-04_1172",
+            "channel_id": 41,
+            "start": 1172,
+            "end": 1206
+        },
+        {
+            "program_id": "470303_nba_league_pass_info_2026-01-04_1200",
+            "channel_id": 15,
+            "start": 1206,
+            "end": 1236
+        },
+        {
+            "program_id": "470360_naalai_namadhe_2026-01-04_1230",
+            "channel_id": 72,
+            "start": 1236,
+            "end": 1290
+        },
+        {
+            "program_id": "470798_tomorrow_s_world_2026-01-04_1290",
+            "channel_id": 509,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "470594_ctv_your_morning_weekend_2026-01-04_1320",
+            "channel_id": 305,
+            "start": 1320,
+            "end": 1365
+        },
+        {
+            "program_id": "470547_masterchef_australia_2026-01-04_1260",
+            "channel_id": 258,
+            "start": 1365,
+            "end": 1409
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "recordnews_fr_informa_o_para_voc_cresc_2026-01-04_0000",
+            "channel_id": 308,
+            "start": 0,
+            "end": 31
+        },
+        {
+            "program_id": "turbo24_24_fr_turbo_2026-01-04_0000",
+            "channel_id": 371,
+            "start": 31,
+            "end": 345
+        },
+        {
+            "program_id": "tracetoca_fr_playlist_2026-01-04_0056",
+            "channel_id": 368,
+            "start": 345,
+            "end": 417
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0360",
+            "channel_id": 295,
+            "start": 417,
+            "end": 447
+        },
+        {
+            "program_id": "toulouse_fr_no_match_today_2026-01-04_0420",
+            "channel_id": 364,
+            "start": 447,
+            "end": 618
+        },
+        {
+            "program_id": "tvcongo_fr_la_cha_ne_g_n_raliste_du_2026-01-04_0600",
+            "channel_id": 347,
+            "start": 618,
+            "end": 708
+        },
+        {
+            "program_id": "6ter_fr_macgyver2016_2026-01-04_0670",
+            "channel_id": 5,
+            "start": 708,
+            "end": 740
+        },
+        {
+            "program_id": "canal_live19_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 71,
+            "start": 740,
+            "end": 994
+        },
+        {
+            "program_id": "paramountchannel_f_arr_t_de_la_cha_ne_2026-01-04_0900",
+            "channel_id": 263,
+            "start": 994,
+            "end": 1026
+        },
+        {
+            "program_id": "rmcmecanic_fr_vintage_mecanic_2026-01-04_1026",
+            "channel_id": 288,
+            "start": 1026,
+            "end": 1056
+        },
+        {
+            "program_id": "eurosport360_6_fr_a_bient_t_sur_eurosport__2026-01-04_0930",
+            "channel_id": 136,
+            "start": 1056,
+            "end": 1109
+        },
+        {
+            "program_id": "rotanacinema_fr_la_cha_ne_du_cin_ma_et_d_2026-01-04_1080",
+            "channel_id": 310,
+            "start": 1109,
+            "end": 1147
+        },
+        {
+            "program_id": "benficatv_fr_futebol_feminino_ta_a_de_2026-01-04_1134",
+            "channel_id": 47,
+            "start": 1147,
+            "end": 1177
+        },
+        {
+            "program_id": "cctvyule_fr_divertissements_traditio_2026-01-04_1140",
+            "channel_id": 84,
+            "start": 1177,
+            "end": 1265
+        },
+        {
+            "program_id": "canal_foot_fr_fulham_liverpool_2026-01-04_1255",
+            "channel_id": 58,
+            "start": 1265,
+            "end": 1313
+        },
+        {
+            "program_id": "rtltelevision_fr_football_am_ricain_nfl_2026-01-04_1140",
+            "channel_id": 304,
+            "start": 1313,
+            "end": 1345
+        },
+        {
+            "program_id": "cnninternational_f_cnn_newsroom_2026-01-04_1320",
+            "channel_id": 89,
+            "start": 1345,
+            "end": 1379
+        },
+        {
+            "program_id": "vox_fr_kitchen_impossible_2026-01-04_1215",
+            "channel_id": 376,
+            "start": 1379,
+            "end": 1410
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470513_sportscentre_2026-01-04_0060",
+            "channel_id": 224,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "470498_the_dog_house_2026-01-04_0120",
+            "channel_id": 210,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "470540_la_crois_e_des_mondes_la_2026-01-04_0120",
+            "channel_id": 251,
+            "start": 150,
+            "end": 194
+        },
+        {
+            "program_id": "470912_sue_thomas_f_b_eye_2026-01-04_0180",
+            "channel_id": 623,
+            "start": 194,
+            "end": 224
+        },
+        {
+            "program_id": "470513_live_college_basketball_2026-01-04_0180",
+            "channel_id": 224,
+            "start": 224,
+            "end": 260
+        },
+        {
+            "program_id": "470433_200_wolf_2026-01-04_0215",
+            "channel_id": 145,
+            "start": 260,
+            "end": 298
+        },
+        {
+            "program_id": "470920_live_united_rugby_champi_2026-01-04_0270",
+            "channel_id": 631,
+            "start": 298,
+            "end": 360
+        },
+        {
+            "program_id": "470662_ppv_sports_2026-01-04_0240",
+            "channel_id": 373,
+            "start": 360,
+            "end": 445
+        },
+        {
+            "program_id": "470768_48_heures_pour_un_crime_2026-01-04_0420",
+            "channel_id": 479,
+            "start": 445,
+            "end": 475
+        },
+        {
+            "program_id": "470374_live_nhl_hockey_2026-01-04_0360",
+            "channel_id": 86,
+            "start": 475,
+            "end": 539
+        },
+        {
+            "program_id": "470551_nba_league_pass_2026-01-04_0480",
+            "channel_id": 262,
+            "start": 539,
+            "end": 690
+        },
+        {
+            "program_id": "470594_live_nfl_football_2026-01-04_0600",
+            "channel_id": 305,
+            "start": 690,
+            "end": 745
+        },
+        {
+            "program_id": "470389_live_nfl_football_2026-01-04_0600",
+            "channel_id": 101,
+            "start": 745,
+            "end": 780
+        },
+        {
+            "program_id": "470505_the_twilight_saga_breaki_2026-01-04_0780",
+            "channel_id": 217,
+            "start": 780,
+            "end": 810
+        },
+        {
+            "program_id": "470414_kate_2026-01-04_0780",
+            "channel_id": 126,
+            "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "470805_bienvenue_dans_la_jungle_2026-01-04_0840",
+            "channel_id": 516,
+            "start": 840,
+            "end": 940
+        },
+        {
+            "program_id": "470734_nfl_sunday_ticket_2026-01-04_0720",
+            "channel_id": 445,
+            "start": 940,
+            "end": 1052
+        },
+        {
+            "program_id": "470569_nhl_center_ice_2026-01-04_0930",
+            "channel_id": 280,
+            "start": 1052,
+            "end": 1115
+        },
+        {
+            "program_id": "470547_masterchef_australia_2026-01-04_1050",
+            "channel_id": 258,
+            "start": 1115,
+            "end": 1155
+        },
+        {
+            "program_id": "470753_nba_league_pass_info_2026-01-04_1080",
+            "channel_id": 464,
+            "start": 1155,
+            "end": 1197
+        },
+        {
+            "program_id": "470597_atn_live_gurubani_2026-01-04_1170",
+            "channel_id": 308,
+            "start": 1197,
+            "end": 1230
+        },
+        {
+            "program_id": "470532_cbc_music_vancouver_cbu__2026-01-04_1140",
+            "channel_id": 243,
+            "start": 1230,
+            "end": 1285
+        },
+        {
+            "program_id": "470468_sport_mediaset_2026-01-04_1285",
+            "channel_id": 180,
+            "start": 1285,
+            "end": 1315
+        },
+        {
+            "program_id": "470310_deadman_s_curse_2026-01-04_1290",
+            "channel_id": 22,
+            "start": 1315,
+            "end": 1350
+        },
+        {
+            "program_id": "470329_entertainment_tonight_2026-01-04_1350",
+            "channel_id": 41,
+            "start": 1350,
+            "end": 1389
+        },
+        {
+            "program_id": "470466_the_magic_school_bus_rid_2026-01-04_1380",
+            "channel_id": 178,
+            "start": 1389,
+            "end": 1420
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_0000",
+            "channel_id": 2,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "m_comedia_es_el_cambiazo_2026-01-04_1320",
+            "channel_id": 2,
+            "start": 30,
+            "end": 145
+        },
+        {
+            "program_id": "populartvmurcia_es_gu_a_de_cine_2026-01-04_0060",
+            "channel_id": 16,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "historia_es_luther_2026-01-04_0375",
+            "channel_id": 16,
+            "start": 375,
+            "end": 435
+        },
+        {
+            "program_id": "fcbarcelona_laliga_signing_off_2026-01-04_0405",
+            "channel_id": 75,
+            "start": 405,
+            "end": 540
+        },
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_0030",
+            "channel_id": 133,
+            "start": 537,
+            "end": 567
+        },
+        {
+            "program_id": "athleticclub_lalig_no_game_today_2026-01-04_1020",
+            "channel_id": 133,
+            "start": 568,
+            "end": 808
+        },
+        {
+            "program_id": "laligasmartbanktv2_pr_ximo_partido_albacete_2026-01-04_0615",
+            "channel_id": 112,
+            "start": 573,
+            "end": 813
+        },
+        {
+            "program_id": "m_deportes1_es_m_deportes_2_2026-01-04_0000",
+            "channel_id": 79,
+            "start": 578,
+            "end": 1058
+        },
+        {
+            "program_id": "laligatvbar4_laliga_hypermotion_2026-01-04_1110",
+            "channel_id": 122,
+            "start": 579,
+            "end": 714
+        },
+        {
+            "program_id": "m_ligadecampeones7_m_liga_de_campeones_7_2026-01-04_0000",
+            "channel_id": 64,
+            "start": 581,
+            "end": 1301
+        },
+        {
+            "program_id": "disneychannel_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 137,
+            "start": 583,
+            "end": 708
+        },
+        {
+            "program_id": "realbetis_laliga_next_game_laliga_santand_2026-01-04_0360",
+            "channel_id": 19,
+            "start": 587,
+            "end": 827
+        },
+        {
+            "program_id": "caosasuna_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 244,
+            "start": 593,
+            "end": 833
+        },
+        {
+            "program_id": "ubeat_es_superliga_split_verano_2_2026-01-04_0315",
+            "channel_id": 259,
+            "start": 596,
+            "end": 656
+        },
+        {
+            "program_id": "getafecf_laliga_no_game_today_2026-01-04_0780",
+            "channel_id": 217,
+            "start": 780,
+            "end": 1020
+        },
+        {
+            "program_id": "discoverymax_es_dmax_2026-01-04_0840",
+            "channel_id": 77,
+            "start": 955,
+            "end": 1195
+        },
+        {
+            "program_id": "daznf14k_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 215,
+            "start": 1070,
+            "end": 1330
+        },
+        {
+            "program_id": "tveinternacional_e_noticias_24h_2026-01-04_0120",
+            "channel_id": 38,
+            "start": 1105,
+            "end": 1345
+        },
+        {
+            "program_id": "la1_es_noticias_24h_2026-01-04_0360",
+            "channel_id": 116,
+            "start": 1135,
+            "end": 1375
+        },
+        {
+            "program_id": "esport3_es_dakar_2025_2026-01-04_1240",
+            "channel_id": 235,
+            "start": 1251,
+            "end": 1326
+        },
+        {
+            "program_id": "tv5monde_es_bancs_publics_versailles_2026-01-04_1262",
+            "channel_id": 157,
+            "start": 1262,
+            "end": 1371
+        },
+        {
+            "program_id": "tcm_1_es_la_ventana_indiscreta_2026-01-04_1065",
+            "channel_id": 240,
+            "start": 1284,
+            "end": 1399
+        },
+        {
+            "program_id": "etb2_es_cine_2026-01-04_1165",
+            "channel_id": 85,
+            "start": 1328,
+            "end": 1423
+        },
+        {
+            "program_id": "rtfrance_es_malas_lenguas_2026-01-04_1175",
+            "channel_id": 104,
+            "start": 1362,
+            "end": 1417
+        },
+        {
+            "program_id": "la1_es_cine_2026-01-04_1320",
+            "channel_id": 112,
+            "start": 1371,
+            "end": 1405
+        }
+    ]
+}

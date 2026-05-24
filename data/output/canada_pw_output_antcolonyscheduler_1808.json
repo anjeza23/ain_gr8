@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470645_lucky_dog_reunions_2026-01-04_0060",
+            "channel_id": 356,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470589_le_guide_de_l_auto_2026-01-04_0090",
+            "channel_id": 300,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470699_impact_in_60_mixed_tag_t_2026-01-04_0120",
+            "channel_id": 410,
+            "start": 120,
+            "end": 180
+        },
+        {
+            "program_id": "470663_live_inside_college_bask_2026-01-04_0180",
+            "channel_id": 374,
+            "start": 180,
+            "end": 210
+        },
+        {
+            "program_id": "470663_live_college_basketball_2026-01-04_0210",
+            "channel_id": 374,
+            "start": 210,
+            "end": 249
+        },
+        {
+            "program_id": "470336_sharknado_4_the_4th_awak_2026-01-04_0245",
+            "channel_id": 48,
+            "start": 249,
+            "end": 325
+        },
+        {
+            "program_id": "470335_live_college_basketball_2026-01-04_0255",
+            "channel_id": 47,
+            "start": 325,
+            "end": 385
+        },
+        {
+            "program_id": "470727_the_tale_of_rose_2026-01-04_0370",
+            "channel_id": 438,
+            "start": 385,
+            "end": 415
+        },
+        {
+            "program_id": "470800_teenage_mutant_ninja_tur_2026-01-04_0340",
+            "channel_id": 511,
+            "start": 415,
+            "end": 445
+        },
+        {
+            "program_id": "470888_live_nfl_football_2026-01-04_0390",
+            "channel_id": 599,
+            "start": 445,
+            "end": 525
+        },
+        {
+            "program_id": "470697_sonic_le_h_risson_2_2026-01-04_0510",
+            "channel_id": 408,
+            "start": 525,
+            "end": 570
+        },
+        {
+            "program_id": "470370_live_nfl_countdown_2026-01-04_0570",
+            "channel_id": 82,
+            "start": 570,
+            "end": 600
+        },
+        {
+            "program_id": "470546_the_past_that_led_us_to__2026-01-04_0600",
+            "channel_id": 257,
+            "start": 600,
+            "end": 630
+        },
+        {
+            "program_id": "470325_small_soldiers_2026-01-04_0540",
+            "channel_id": 37,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "470752_hezekiah_2026-01-04_0660",
+            "channel_id": 463,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "470304_sportsnet_one_edmonton_o_2026-01-04_0660",
+            "channel_id": 16,
+            "start": 690,
+            "end": 809
+        },
+        {
+            "program_id": "470567_prime_monday_night_hocke_2026-01-04_0720",
+            "channel_id": 278,
+            "start": 809,
+            "end": 880
+        },
+        {
+            "program_id": "470637_nba_league_pass_info_2026-01-04_0840",
+            "channel_id": 348,
+            "start": 880,
+            "end": 1045
+        },
+        {
+            "program_id": "470564_tva_sports_3_info_2026-01-04_0840",
+            "channel_id": 275,
+            "start": 1045,
+            "end": 1080
+        },
+        {
+            "program_id": "470576_d_cision_au_sommet_2026-01-04_1065",
+            "channel_id": 287,
+            "start": 1080,
+            "end": 1137
+        },
+        {
+            "program_id": "470916_mlb_extra_innings_info_2026-01-04_1020",
+            "channel_id": 627,
+            "start": 1137,
+            "end": 1200
+        },
+        {
+            "program_id": "470812_sportsnet_central_2026-01-04_1200",
+            "channel_id": 523,
+            "start": 1200,
+            "end": 1237
+        },
+        {
+            "program_id": "470445_metal_shifters_2026-01-04_1200",
+            "channel_id": 157,
+            "start": 1237,
+            "end": 1270
+        },
+        {
+            "program_id": "470446_sportscentre_2026-01-04_1260",
+            "channel_id": 158,
+            "start": 1270,
+            "end": 1300
+        },
+        {
+            "program_id": "470891_land_of_broken_hearts_2026-01-04_1300",
+            "channel_id": 602,
+            "start": 1300,
+            "end": 1330
+        },
+        {
+            "program_id": "470505_signed_sealed_delivered__2026-01-04_1290",
+            "channel_id": 217,
+            "start": 1330,
+            "end": 1360
+        },
+        {
+            "program_id": "470490_the_movies_2026-01-04_1325",
+            "channel_id": 202,
+            "start": 1360,
+            "end": 1415
+        }
+    ]
+}

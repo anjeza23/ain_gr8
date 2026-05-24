@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412147_smartbiz_accelerators_2026-01-04_0060",
+            "channel_id": 128,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "482829_end_of_transmission_2026-01-04_0060",
+            "channel_id": 202,
+            "start": 90,
+            "end": 390
+        },
+        {
+            "program_id": "412103_chirikkum_thalika_ii_2026-01-04_0390",
+            "channel_id": 94,
+            "start": 390,
+            "end": 420
+        },
+        {
+            "program_id": "369786_kung_fu_panda_2_2026-01-04_0390",
+            "channel_id": 42,
+            "start": 420,
+            "end": 480
+        },
+        {
+            "program_id": "412203_information_not_availabl_2026-01-04_0420",
+            "channel_id": 174,
+            "start": 480,
+            "end": 518
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 518,
+            "end": 548
+        },
+        {
+            "program_id": "369827_mega_fights_2026-01-04_0480",
+            "channel_id": 64,
+            "start": 548,
+            "end": 585
+        },
+        {
+            "program_id": "412103_arabikkadha_2026-01-04_0510",
+            "channel_id": 94,
+            "start": 585,
+            "end": 648
+        },
+        {
+            "program_id": "412181_race_2_2026-01-04_0555",
+            "channel_id": 154,
+            "start": 648,
+            "end": 805
+        },
+        {
+            "program_id": "369789_live_2026-01-04_0780",
+            "channel_id": 43,
+            "start": 805,
+            "end": 840
+        },
+        {
+            "program_id": "369793_end_of_transmission_2026-01-04_0780",
+            "channel_id": 45,
+            "start": 840,
+            "end": 915
+        },
+        {
+            "program_id": "455187_end_of_transmission_2026-01-04_0780",
+            "channel_id": 191,
+            "start": 915,
+            "end": 967
+        },
+        {
+            "program_id": "412200_call_me_by_fire_5_2026-01-04_0930",
+            "channel_id": 172,
+            "start": 967,
+            "end": 1050
+        },
+        {
+            "program_id": "482822_east_asia_super_league_2_2026-01-04_0960",
+            "channel_id": 198,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1020",
+            "channel_id": 61,
+            "start": 1080,
+            "end": 1126
+        },
+        {
+            "program_id": "412117_bisa_bisanya_gue_naksir__2026-01-04_1120",
+            "channel_id": 104,
+            "start": 1126,
+            "end": 1184
+        },
+        {
+            "program_id": "412162_the_master_of_kung_fu_2026-01-04_1115",
+            "channel_id": 140,
+            "start": 1184,
+            "end": 1214
+        },
+        {
+            "program_id": "412103_sookshmadarshini_2026-01-04_1110",
+            "channel_id": 94,
+            "start": 1214,
+            "end": 1248
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1200",
+            "channel_id": 61,
+            "start": 1248,
+            "end": 1315
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 61,
+            "start": 1315,
+            "end": 1345
+        },
+        {
+            "program_id": "412191_sound_trek_2025_2026-01-04_1230",
+            "channel_id": 164,
+            "start": 1345,
+            "end": 1378
+        },
+        {
+            "program_id": "412162_golden_swallow_2026-01-04_1320",
+            "channel_id": 140,
+            "start": 1378,
+            "end": 1409
+        }
+    ]
+}

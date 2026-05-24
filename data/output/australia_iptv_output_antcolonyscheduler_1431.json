@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "nsw_sydneyfoxsport_gameday_live_4_1_26_2026-01-04_0000",
+            "channel_id": 350,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "espnplay92_au_no_match_today_2026-01-04_0000",
+            "channel_id": 283,
+            "start": 30,
+            "end": 119
+        },
+        {
+            "program_id": "nsw_sydneyfoxcrick_the_ashes_fifth_test_day_2026-01-04_0030",
+            "channel_id": 343,
+            "start": 119,
+            "end": 150
+        },
+        {
+            "program_id": "espnplay39_au_no_match_today_2026-01-04_0120",
+            "channel_id": 224,
+            "start": 150,
+            "end": 290
+        },
+        {
+            "program_id": "abcmeadelaide_au_er_2026-01-04_0275",
+            "channel_id": 117,
+            "start": 290,
+            "end": 320
+        },
+        {
+            "program_id": "daystar_au_before_the_wrath_2026-01-04_0300",
+            "channel_id": 181,
+            "start": 320,
+            "end": 375
+        },
+        {
+            "program_id": "stan4_au_show_court_1_day_1_brisb_2026-01-04_0120",
+            "channel_id": 443,
+            "start": 375,
+            "end": 422
+        },
+        {
+            "program_id": "10boldmelbourne_au_nbl_round_15_brisbane_bu_2026-01-04_0390",
+            "channel_id": 3,
+            "start": 422,
+            "end": 470
+        },
+        {
+            "program_id": "9gotasmania_au_nbl_round_15_brisbane_bu_2026-01-04_0388",
+            "channel_id": 66,
+            "start": 470,
+            "end": 500
+        },
+        {
+            "program_id": "stan8_au_raducanu_v_osaka_group_e_2026-01-04_0270",
+            "channel_id": 447,
+            "start": 500,
+            "end": 710
+        },
+        {
+            "program_id": "10boldadelaide_au_ncis_2026-01-04_0690",
+            "channel_id": 0,
+            "start": 710,
+            "end": 744
+        },
+        {
+            "program_id": "10boldadelaide_au_ncis_2026-01-04_0745",
+            "channel_id": 0,
+            "start": 745,
+            "end": 800
+        },
+        {
+            "program_id": "beinsports3_au_laliga_classic_atletico__2026-01-04_0800",
+            "channel_id": 497,
+            "start": 800,
+            "end": 835
+        },
+        {
+            "program_id": "7mateadelaide_au_dracula_untold_2026-01-04_0815",
+            "channel_id": 49,
+            "start": 835,
+            "end": 885
+        },
+        {
+            "program_id": "optussport5_au_no_match_today_2026-01-04_0840",
+            "channel_id": 364,
+            "start": 885,
+            "end": 1050
+        },
+        {
+            "program_id": "westernunited_a_le_no_match_today_2026-01-04_0840",
+            "channel_id": 494,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "winhobart_au_skippy_the_bush_kangaroo_2026-01-04_1080",
+            "channel_id": 482,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "knights_nrlw_no_match_today_2026-01-04_1080",
+            "channel_id": 326,
+            "start": 1110,
+            "end": 1168
+        },
+        {
+            "program_id": "espnplay68_au_no_match_today_2026-01-04_1080",
+            "channel_id": 256,
+            "start": 1168,
+            "end": 1198
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1345
+        },
+        {
+            "program_id": "10boldbrisbane_au_home_shopping_2026-01-04_1350",
+            "channel_id": 1,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

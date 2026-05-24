@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "skysports_84_vig_no_event_today_2026-01-04_0000",
+            "channel_id": 750,
+            "start": 0,
+            "end": 212
+        },
+        {
+            "program_id": "gaago7_uk_no_game_today_2026-01-04_0180",
+            "channel_id": 314,
+            "start": 212,
+            "end": 312
+        },
+        {
+            "program_id": "kilmarnock_spfl_signing_off_2026-01-04_0135",
+            "channel_id": 397,
+            "start": 312,
+            "end": 350
+        },
+        {
+            "program_id": "uandthepast_uk_abandoned_engineering_2026-01-04_0346",
+            "channel_id": 856,
+            "start": 350,
+            "end": 380
+        },
+        {
+            "program_id": "skysports_71_vig_no_event_today_2026-01-04_0240",
+            "channel_id": 736,
+            "start": 380,
+            "end": 459
+        },
+        {
+            "program_id": "itv1channelislands_the_masked_singer_2026-01-04_0420",
+            "channel_id": 363,
+            "start": 459,
+            "end": 490
+        },
+        {
+            "program_id": "film4_uk_teleshopping_2026-01-04_0490",
+            "channel_id": 300,
+            "start": 490,
+            "end": 543
+        },
+        {
+            "program_id": "epl13_v_no_event_today_2026-01-04_0480",
+            "channel_id": 285,
+            "start": 543,
+            "end": 704
+        },
+        {
+            "program_id": "ipswichtown_epl_no_game_today_2026-01-04_0660",
+            "channel_id": 390,
+            "start": 704,
+            "end": 735
+        },
+        {
+            "program_id": "talksport_uk_gameday_exclusive_leeds__2026-01-04_0720",
+            "channel_id": 902,
+            "start": 735,
+            "end": 770
+        },
+        {
+            "program_id": "itv4_1_uk_the_big_match_revisited__2026-01-04_0735",
+            "channel_id": 382,
+            "start": 770,
+            "end": 800
+        },
+        {
+            "program_id": "chelsea_epl_no_game_today_2026-01-04_0660",
+            "channel_id": 183,
+            "start": 800,
+            "end": 878
+        },
+        {
+            "program_id": "ewtncatholic_uk_sunday_mass_live_2026-01-04_0840",
+            "channel_id": 286,
+            "start": 878,
+            "end": 911
+        },
+        {
+            "program_id": "skysports_90_vig_no_event_today_2026-01-04_0720",
+            "channel_id": 757,
+            "start": 911,
+            "end": 957
+        },
+        {
+            "program_id": "manchestercity_epl_next_game_chelsea_manche_2026-01-04_0900",
+            "channel_id": 438,
+            "start": 957,
+            "end": 1075
+        },
+        {
+            "program_id": "amazonukevent25_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 41,
+            "start": 1075,
+            "end": 1135
+        },
+        {
+            "program_id": "virginmediafour_ie_golf_s_greatest_holes_2026-01-04_1135",
+            "channel_id": 872,
+            "start": 1135,
+            "end": 1165
+        },
+        {
+            "program_id": "ss_event38_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 596,
+            "start": 1165,
+            "end": 1201
+        },
+        {
+            "program_id": "boltonwanderersfc__signing_off_2026-01-04_1155",
+            "channel_id": 148,
+            "start": 1201,
+            "end": 1326
+        },
+        {
+            "program_id": "bbctwoengland_uk_the_million_pound_shaman_2026-01-04_1320",
+            "channel_id": 129,
+            "start": 1326,
+            "end": 1371
+        },
+        {
+            "program_id": "bbcfour_uk_hitchcock_at_the_nft_2026-01-04_1370",
+            "channel_id": 85,
+            "start": 1371,
+            "end": 1412
+        }
+    ]
+}

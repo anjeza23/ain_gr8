@@ -1,0 +1,172 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "429984_sky_news_today_2026-01-04_0060",
+            "channel_id": 179,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "412203_information_not_availabl_2026-01-04_0060",
+            "channel_id": 174,
+            "start": 90,
+            "end": 139
+        },
+        {
+            "program_id": "482827_prudential_hong_kong_ten_2026-01-04_0060",
+            "channel_id": 201,
+            "start": 139,
+            "end": 200
+        },
+        {
+            "program_id": "412198_end_of_transmission_2026-01-04_0060",
+            "channel_id": 170,
+            "start": 200,
+            "end": 240
+        },
+        {
+            "program_id": "455186_end_of_transmission_2026-01-04_0060",
+            "channel_id": 190,
+            "start": 240,
+            "end": 305
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_0210",
+            "channel_id": 6,
+            "start": 305,
+            "end": 335
+        },
+        {
+            "program_id": "482831_end_of_transmission_2026-01-04_0060",
+            "channel_id": 204,
+            "start": 335,
+            "end": 408
+        },
+        {
+            "program_id": "412164_premier_league_2025_26_2026-01-04_0360",
+            "channel_id": 141,
+            "start": 408,
+            "end": 438
+        },
+        {
+            "program_id": "415456_the_blooming_journey_2_2026-01-04_0420",
+            "channel_id": 176,
+            "start": 438,
+            "end": 500
+        },
+        {
+            "program_id": "412176_cti_news_live_2026-01-04_0480",
+            "channel_id": 150,
+            "start": 500,
+            "end": 535
+        },
+        {
+            "program_id": "412126_movie_2026-01-04_0510",
+            "channel_id": 110,
+            "start": 535,
+            "end": 584
+        },
+        {
+            "program_id": "482821_end_of_transmission_2026-01-04_0420",
+            "channel_id": 197,
+            "start": 584,
+            "end": 630
+        },
+        {
+            "program_id": "369848_oshi_no_ko_new_eps_2026-01-04_0630",
+            "channel_id": 75,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "412103_chirikkum_thalika_ii_2026-01-04_0660",
+            "channel_id": 94,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "412109_inheritors_2026-01-04_0690",
+            "channel_id": 98,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "412092_theresa_may_and_the_brut_2026-01-04_0720",
+            "channel_id": 84,
+            "start": 720,
+            "end": 750
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 750,
+            "end": 787
+        },
+        {
+            "program_id": "450710_end_of_transmission_2026-01-04_0780",
+            "channel_id": 184,
+            "start": 787,
+            "end": 910
+        },
+        {
+            "program_id": "412104_yang_manis_suka_bikin_ha_2026-01-04_0870",
+            "channel_id": 95,
+            "start": 910,
+            "end": 950
+        },
+        {
+            "program_id": "412088_harry_potter_and_the_pri_2026-01-04_0940",
+            "channel_id": 80,
+            "start": 950,
+            "end": 1015
+        },
+        {
+            "program_id": "369854_movie_2026-01-04_0960",
+            "channel_id": 79,
+            "start": 1015,
+            "end": 1075
+        },
+        {
+            "program_id": "369745_city_confidential_s8_2026-01-04_1075",
+            "channel_id": 19,
+            "start": 1075,
+            "end": 1105
+        },
+        {
+            "program_id": "412157_world_series_cricket_s1_2026-01-04_1080",
+            "channel_id": 137,
+            "start": 1105,
+            "end": 1135
+        },
+        {
+            "program_id": "412181_day_1_2026-01-04_0960",
+            "channel_id": 154,
+            "start": 1135,
+            "end": 1184
+        },
+        {
+            "program_id": "369727_terminator_2_judgement_d_2026-01-04_1135",
+            "channel_id": 8,
+            "start": 1184,
+            "end": 1238
+        },
+        {
+            "program_id": "451933_movie_2026-01-04_1200",
+            "channel_id": 187,
+            "start": 1238,
+            "end": 1330
+        },
+        {
+            "program_id": "412191_sound_trek_2025_2026-01-04_1230",
+            "channel_id": 164,
+            "start": 1330,
+            "end": 1379
+        },
+        {
+            "program_id": "369849_eken_babu_2026-01-04_1379",
+            "channel_id": 76,
+            "start": 1379,
+            "end": 1410
+        }
+    ]
+}

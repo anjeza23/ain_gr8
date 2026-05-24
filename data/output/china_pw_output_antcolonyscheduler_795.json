@@ -1,0 +1,100 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "458265__2026-01-04_0060",
+            "channel_id": 772,
+            "start": 60,
+            "end": 270
+        },
+        {
+            "program_id": "490440_9_2026-01-04_0090",
+            "channel_id": 1073,
+            "start": 270,
+            "end": 450
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_0360",
+            "channel_id": 958,
+            "start": 450,
+            "end": 523
+        },
+        {
+            "program_id": "457955_9_2026-01-04_0090",
+            "channel_id": 550,
+            "start": 523,
+            "end": 553
+        },
+        {
+            "program_id": "457655__2026-01-04_0540",
+            "channel_id": 262,
+            "start": 553,
+            "end": 583
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0480",
+            "channel_id": 966,
+            "start": 583,
+            "end": 685
+        },
+        {
+            "program_id": "378830__2026-01-04_0631",
+            "channel_id": 20,
+            "start": 685,
+            "end": 729
+        },
+        {
+            "program_id": "490332_2021_2022nba_d_live_2026-01-04_0690",
+            "channel_id": 966,
+            "start": 729,
+            "end": 771
+        },
+        {
+            "program_id": "457715_2025_158_2026-01-04_0761",
+            "channel_id": 319,
+            "start": 771,
+            "end": 801
+        },
+        {
+            "program_id": "457753__2026-01-04_0800",
+            "channel_id": 356,
+            "start": 801,
+            "end": 945
+        },
+        {
+            "program_id": "490331_hellofromstudiopark_2026-01-04_0960",
+            "channel_id": 965,
+            "start": 960,
+            "end": 1005
+        },
+        {
+            "program_id": "458111__2026-01-04_1000",
+            "channel_id": 701,
+            "start": 1005,
+            "end": 1040
+        },
+        {
+            "program_id": "378937__2026-01-04_1020",
+            "channel_id": 79,
+            "start": 1040,
+            "end": 1071
+        },
+        {
+            "program_id": "490332_2021_2022sbl_live_2026-01-04_1080",
+            "channel_id": 966,
+            "start": 1080,
+            "end": 1350
+        },
+        {
+            "program_id": "490321__2026-01-04_1260",
+            "channel_id": 955,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "457618__2026-01-04_1380",
+            "channel_id": 225,
+            "start": 1380,
+            "end": 1411
+        }
+    ]
+}

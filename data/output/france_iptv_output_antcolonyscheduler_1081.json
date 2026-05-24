@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "elbiladtv_fr_libert_l_quit_et_l_objec_2026-01-04_0000",
+            "channel_id": 126,
+            "start": 0,
+            "end": 194
+        },
+        {
+            "program_id": "canal_live7_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 77,
+            "start": 194,
+            "end": 236
+        },
+        {
+            "program_id": "staderennais_fr_no_match_today_2026-01-04_0180",
+            "channel_id": 320,
+            "start": 236,
+            "end": 266
+        },
+        {
+            "program_id": "canal_foot_fr_fin_des_programmes_2026-01-04_0123",
+            "channel_id": 58,
+            "start": 266,
+            "end": 368
+        },
+        {
+            "program_id": "enquetescriminelle_enqu_tes_criminelles_2026-01-04_0360",
+            "channel_id": 128,
+            "start": 368,
+            "end": 406
+        },
+        {
+            "program_id": "beinsportsmax5_fr_bein_sports_le_plus_gran_2026-01-04_0300",
+            "channel_id": 389,
+            "start": 406,
+            "end": 452
+        },
+        {
+            "program_id": "armenia1_fr_la_premi_re_cha_ne_g_n_r_2026-01-04_0360",
+            "channel_id": 23,
+            "start": 452,
+            "end": 511
+        },
+        {
+            "program_id": "nrjhits_fr_nrj_morning_hits_2026-01-04_0420",
+            "channel_id": 241,
+            "start": 511,
+            "end": 662
+        },
+        {
+            "program_id": "eurosport360_3_fr_a_bient_t_sur_eurosport__2026-01-04_0660",
+            "channel_id": 133,
+            "start": 662,
+            "end": 713
+        },
+        {
+            "program_id": "m6music_fr_hits_m6_music_2026-01-04_0360",
+            "channel_id": 219,
+            "start": 713,
+            "end": 925
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0900",
+            "channel_id": 278,
+            "start": 925,
+            "end": 1031
+        },
+        {
+            "program_id": "stingraydjazz_fr_mccoy_tyner_trio_live_at_2026-01-04_1029",
+            "channel_id": 321,
+            "start": 1031,
+            "end": 1061
+        },
+        {
+            "program_id": "ushuaiatv_fr_echapp_es_belles_2026-01-04_1025",
+            "channel_id": 372,
+            "start": 1061,
+            "end": 1116
+        },
+        {
+            "program_id": "raiscuola_fr_la_vie_secr_te_des_lacs_2026-01-04_1110",
+            "channel_id": 282,
+            "start": 1116,
+            "end": 1153
+        },
+        {
+            "program_id": "l_equipe_fr_fl_chettes_championnat_d_2026-01-04_0995",
+            "channel_id": 195,
+            "start": 1153,
+            "end": 1185
+        },
+        {
+            "program_id": "mggtv_fr_paris_games_week_2026-01-04_1165",
+            "channel_id": 222,
+            "start": 1185,
+            "end": 1230
+        },
+        {
+            "program_id": "i24newsenglish_fr_news_room_2026-01-04_1230",
+            "channel_id": 184,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "eurosport360_8_fr_a_bient_t_sur_eurosport__2026-01-04_1200",
+            "channel_id": 138,
+            "start": 1260,
+            "end": 1324
+        },
+        {
+            "program_id": "tvcongo_fr_la_cha_ne_g_n_raliste_du_2026-01-04_1320",
+            "channel_id": 347,
+            "start": 1324,
+            "end": 1358
+        },
+        {
+            "program_id": "planete_aande_fr_ovnis_une_affaire_d_etat_2026-01-04_1348",
+            "channel_id": 260,
+            "start": 1358,
+            "end": 1402
+        },
+        {
+            "program_id": "canal_sport360_fr_let_me_run_2026-01-04_1359",
+            "channel_id": 81,
+            "start": 1402,
+            "end": 1438
+        }
+    ]
+}

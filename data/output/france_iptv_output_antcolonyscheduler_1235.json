@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "beinsportsmax10_fr_bein_sports_le_plus_gran_2026-01-04_0000",
+            "channel_id": 387,
+            "start": 0,
+            "end": 45
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0000",
+            "channel_id": 279,
+            "start": 45,
+            "end": 91
+        },
+        {
+            "program_id": "canal_live9_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 79,
+            "start": 91,
+            "end": 137
+        },
+        {
+            "program_id": "canal_sport360_fr_en_p_le_la_soir_e_des_ch_2026-01-04_0124",
+            "channel_id": 81,
+            "start": 137,
+            "end": 172
+        },
+        {
+            "program_id": "teva_fr_programmes_de_la_nuit_2026-01-04_0085",
+            "channel_id": 361,
+            "start": 172,
+            "end": 202
+        },
+        {
+            "program_id": "maritimatv_fr_la_t_l_vision_du_pourtou_2026-01-04_0060",
+            "channel_id": 228,
+            "start": 202,
+            "end": 233
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0000",
+            "channel_id": 295,
+            "start": 233,
+            "end": 263
+        },
+        {
+            "program_id": "raistoria_fr_blitz_2026-01-04_0255",
+            "channel_id": 283,
+            "start": 263,
+            "end": 293
+        },
+        {
+            "program_id": "cgtn_documentary_f_chaine_chinoise_de_docum_2026-01-04_0060",
+            "channel_id": 85,
+            "start": 293,
+            "end": 334
+        },
+        {
+            "program_id": "ligue1_4_fr_ligue_1_4_2026-01-04_0240",
+            "channel_id": 208,
+            "start": 334,
+            "end": 372
+        },
+        {
+            "program_id": "bfmtv_fr_week_end_premi_re_2026-01-04_0360",
+            "channel_id": 45,
+            "start": 372,
+            "end": 402
+        },
+        {
+            "program_id": "canal_live3_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 73,
+            "start": 402,
+            "end": 485
+        },
+        {
+            "program_id": "planete_crime_fr_48_heures_pour_un_crime__2026-01-04_0473",
+            "channel_id": 261,
+            "start": 485,
+            "end": 516
+        },
+        {
+            "program_id": "w9_fr_g_n_ration_hit_machine_2026-01-04_0500",
+            "channel_id": 378,
+            "start": 516,
+            "end": 546
+        },
+        {
+            "program_id": "ligue1_10_fr_ligue_1_10_2026-01-04_0420",
+            "channel_id": 205,
+            "start": 546,
+            "end": 600
+        },
+        {
+            "program_id": "tf1series_films_fr_une_histoire_ternelle_po_2026-01-04_0560",
+            "channel_id": 331,
+            "start": 600,
+            "end": 640
+        },
+        {
+            "program_id": "olympiatv_fr_la_cha_ne_de_vos_soir_es_2026-01-04_0091",
+            "channel_id": 255,
+            "start": 640,
+            "end": 715
+        },
+        {
+            "program_id": "infosport_fr_le_jt_2026-01-04_0675",
+            "channel_id": 187,
+            "start": 715,
+            "end": 922
+        },
+        {
+            "program_id": "tvpi_fr_la_t_l_locale_des_landes_2026-01-04_0900",
+            "channel_id": 352,
+            "start": 922,
+            "end": 1043
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0900",
+            "channel_id": 274,
+            "start": 1043,
+            "end": 1094
+        },
+        {
+            "program_id": "ogcnice_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 251,
+            "start": 1094,
+            "end": 1132
+        },
+        {
+            "program_id": "rmcsport1_fr_one_r_tro_2025_2026-01-04_1050",
+            "channel_id": 291,
+            "start": 1132,
+            "end": 1229
+        },
+        {
+            "program_id": "auxerre_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 32,
+            "start": 1229,
+            "end": 1348
+        },
+        {
+            "program_id": "eurosport360_3_fr_a_bient_t_sur_eurosport__2026-01-04_1200",
+            "channel_id": 133,
+            "start": 1348,
+            "end": 1380
+        },
+        {
+            "program_id": "france3_bretagne_f_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 151,
+            "start": 1380,
+            "end": 1420
+        }
+    ]
+}

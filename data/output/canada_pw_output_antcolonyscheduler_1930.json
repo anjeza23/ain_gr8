@@ -1,0 +1,178 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470767_la_cuisine_d_isabelle_et_2026-01-04_0060",
+            "channel_id": 478,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470874_friends_2026-01-04_0090",
+            "channel_id": 585,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470300_bc_outdoor_sport_fishing_2026-01-04_0120",
+            "channel_id": 12,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "470651_oceanfront_property_hunt_2026-01-04_0150",
+            "channel_id": 362,
+            "start": 150,
+            "end": 180
+        },
+        {
+            "program_id": "470480_coups_de_food_2026-01-04_0180",
+            "channel_id": 192,
+            "start": 180,
+            "end": 215
+        },
+        {
+            "program_id": "470343_200_wolf_2026-01-04_0215",
+            "channel_id": 55,
+            "start": 215,
+            "end": 305
+        },
+        {
+            "program_id": "470526_macedonian_heritage_hour_2026-01-04_0300",
+            "channel_id": 237,
+            "start": 305,
+            "end": 340
+        },
+        {
+            "program_id": "470288_nfl_sunday_ticket_2026-01-04_0240",
+            "channel_id": 0,
+            "start": 340,
+            "end": 472
+        },
+        {
+            "program_id": "470824_live_nfl_football_2026-01-04_0390",
+            "channel_id": 535,
+            "start": 472,
+            "end": 540
+        },
+        {
+            "program_id": "470670_sti_folia_ton_koukou_2026-01-04_0435",
+            "channel_id": 381,
+            "start": 540,
+            "end": 590
+        },
+        {
+            "program_id": "470408_rambo_le_d_vastateur_2026-01-04_0565",
+            "channel_id": 120,
+            "start": 590,
+            "end": 652
+        },
+        {
+            "program_id": "470487_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 199,
+            "start": 652,
+            "end": 687
+        },
+        {
+            "program_id": "470825_nhl_center_ice_2026-01-04_0600",
+            "channel_id": 536,
+            "start": 687,
+            "end": 717
+        },
+        {
+            "program_id": "470897_being_mary_tyler_moore_2026-01-04_0655",
+            "channel_id": 608,
+            "start": 717,
+            "end": 780
+        },
+        {
+            "program_id": "470339_live_sports_30_2026-01-04_0780",
+            "channel_id": 51,
+            "start": 780,
+            "end": 810
+        },
+        {
+            "program_id": "470468_il_bi_e_il_ba_2026-01-04_0780",
+            "channel_id": 180,
+            "start": 810,
+            "end": 855
+        },
+        {
+            "program_id": "470336_one_battle_after_another_2026-01-04_0720",
+            "channel_id": 48,
+            "start": 855,
+            "end": 885
+        },
+        {
+            "program_id": "470824_blacklight_2026-01-04_0825",
+            "channel_id": 535,
+            "start": 885,
+            "end": 960
+        },
+        {
+            "program_id": "470676_the_raccoons_2026-01-04_0960",
+            "channel_id": 387,
+            "start": 960,
+            "end": 990
+        },
+        {
+            "program_id": "470835_bobsledding_and_skeleton_2026-01-04_0990",
+            "channel_id": 546,
+            "start": 990,
+            "end": 1050
+        },
+        {
+            "program_id": "470399_sports_30_2026-01-04_1050",
+            "channel_id": 111,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "470489_armes_en_l_air_2026-01-04_1080",
+            "channel_id": 201,
+            "start": 1080,
+            "end": 1111
+        },
+        {
+            "program_id": "470805_fin_des_programmes_2026-01-04_1080",
+            "channel_id": 516,
+            "start": 1111,
+            "end": 1167
+        },
+        {
+            "program_id": "470404_stage_fright_2026-01-04_1135",
+            "channel_id": 116,
+            "start": 1167,
+            "end": 1215
+        },
+        {
+            "program_id": "470800_garage_sale_mystery_the__2026-01-04_1200",
+            "channel_id": 511,
+            "start": 1215,
+            "end": 1287
+        },
+        {
+            "program_id": "470497_charmed_to_death_2026-01-04_1287",
+            "channel_id": 209,
+            "start": 1287,
+            "end": 1317
+        },
+        {
+            "program_id": "474958_bro_eddie_classics_2026-01-04_1290",
+            "channel_id": 633,
+            "start": 1317,
+            "end": 1350
+        },
+        {
+            "program_id": "470874_friends_2026-01-04_1350",
+            "channel_id": 585,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "470329_entertainment_tonight_2026-01-04_1350",
+            "channel_id": 41,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

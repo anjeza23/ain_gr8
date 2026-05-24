@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "espnplay52_au_no_match_today_2026-01-04_0000",
+            "channel_id": 239,
+            "start": 0,
+            "end": 42
+        },
+        {
+            "program_id": "realhistory_au_europe_s_waterways_2026-01-04_0030",
+            "channel_id": 382,
+            "start": 42,
+            "end": 90
+        },
+        {
+            "program_id": "10peachdarwin_au_ridiculousness_2026-01-04_0090",
+            "channel_id": 11,
+            "start": 90,
+            "end": 121
+        },
+        {
+            "program_id": "sbsfoodbrisbane_au_rick_stein_s_mediterrane_2026-01-04_0090",
+            "channel_id": 392,
+            "start": 121,
+            "end": 155
+        },
+        {
+            "program_id": "hawthorn_afl_no_match_today_2026-01-04_0120",
+            "channel_id": 320,
+            "start": 155,
+            "end": 210
+        },
+        {
+            "program_id": "bloombergtelevisio_leaders_with_francine_la_2026-01-04_0210",
+            "channel_id": 145,
+            "start": 210,
+            "end": 240
+        },
+        {
+            "program_id": "espnplay43_au_no_match_today_2026-01-04_0120",
+            "channel_id": 229,
+            "start": 240,
+            "end": 270
+        },
+        {
+            "program_id": "stan3_au_pat_rafter_arena_day_1_b_2026-01-04_0120",
+            "channel_id": 442,
+            "start": 270,
+            "end": 616
+        },
+        {
+            "program_id": "espnplay34_au_no_match_today_2026-01-04_0600",
+            "channel_id": 219,
+            "start": 616,
+            "end": 701
+        },
+        {
+            "program_id": "10boldbrisbane_au_ncis_2026-01-04_0690",
+            "channel_id": 1,
+            "start": 701,
+            "end": 739
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 739,
+            "end": 775
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0775",
+            "channel_id": 2,
+            "start": 775,
+            "end": 805
+        },
+        {
+            "program_id": "stan5_au_next_match_fulham_v_live_2026-01-04_0720",
+            "channel_id": 444,
+            "start": 805,
+            "end": 946
+        },
+        {
+            "program_id": "abcmedarwin_au_rage_2026-01-04_0914",
+            "channel_id": 111,
+            "start": 946,
+            "end": 976
+        },
+        {
+            "program_id": "espnplay6_au_no_match_today_2026-01-04_0840",
+            "channel_id": 247,
+            "start": 976,
+            "end": 1025
+        },
+        {
+            "program_id": "7twomelbourne_au_vera_2026-01-04_0960",
+            "channel_id": 43,
+            "start": 1025,
+            "end": 1064
+        },
+        {
+            "program_id": "brisbaneroar_a_lea_no_match_today_2026-01-04_1020",
+            "channel_id": 149,
+            "start": 1064,
+            "end": 1113
+        },
+        {
+            "program_id": "9rushperth_au_alaskan_bush_people_2026-01-04_1110",
+            "channel_id": 93,
+            "start": 1113,
+            "end": 1170
+        },
+        {
+            "program_id": "cnn_au_seasons_2026-01-04_1170",
+            "channel_id": 160,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1349
+        },
+        {
+            "program_id": "10boldbrisbane_au_home_shopping_2026-01-04_1350",
+            "channel_id": 1,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

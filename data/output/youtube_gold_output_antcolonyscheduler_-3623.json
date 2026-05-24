@@ -1,0 +1,2176 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "ch939_fashion_and_personal_style_101_0002",
+            "channel_id": 939,
+            "start": 2,
+            "end": 102
+        },
+        {
+            "program_id": "ch1256_live_ll_0067",
+            "channel_id": 1256,
+            "start": 102,
+            "end": 232
+        },
+        {
+            "program_id": "ch1250_live_0225",
+            "channel_id": 1250,
+            "start": 232,
+            "end": 294
+        },
+        {
+            "program_id": "ch1271_livestream_virallive_0290",
+            "channel_id": 1271,
+            "start": 294,
+            "end": 386
+        },
+        {
+            "program_id": "ch1307_morning_matters_livestream_jan_0375",
+            "channel_id": 1307,
+            "start": 386,
+            "end": 472
+        },
+        {
+            "program_id": "ch1413_spartacus_house_of_ashur_theor_0400",
+            "channel_id": 1413,
+            "start": 472,
+            "end": 632
+        },
+        {
+            "program_id": "ch811_q_and_a_livestream_january_5_2_0632",
+            "channel_id": 811,
+            "start": 632,
+            "end": 637
+        },
+        {
+            "program_id": "ch1096_live_magic_kingdom_tron_starli_0637",
+            "channel_id": 1096,
+            "start": 637,
+            "end": 642
+        },
+        {
+            "program_id": "ch770_live_0585",
+            "channel_id": 770,
+            "start": 642,
+            "end": 839
+        },
+        {
+            "program_id": "ch125_aile_the_shota_4th_anniversary_0754",
+            "channel_id": 125,
+            "start": 839,
+            "end": 920
+        },
+        {
+            "program_id": "ch950_ctet_feb_2026_cdp_class_13_by__0807",
+            "channel_id": 950,
+            "start": 920,
+            "end": 948
+        },
+        {
+            "program_id": "ch815_english_pronoun_hostel_superin_0829",
+            "channel_id": 815,
+            "start": 948,
+            "end": 993
+        },
+        {
+            "program_id": "ch967_livestream_live_livestreaming__0765",
+            "channel_id": 967,
+            "start": 993,
+            "end": 1016
+        },
+        {
+            "program_id": "ch350_livestream_kumari_shanti_offic_0992",
+            "channel_id": 350,
+            "start": 1016,
+            "end": 1022
+        },
+        {
+            "program_id": "ch390_up_ki_ladki_is_live_magh_mela__0891",
+            "channel_id": 390,
+            "start": 1022,
+            "end": 1048
+        },
+        {
+            "program_id": "ch296_livestream_virallivevideo_1048",
+            "channel_id": 296,
+            "start": 1048,
+            "end": 1053
+        },
+        {
+            "program_id": "ch605_live_morning_becomes_eclectic__0995",
+            "channel_id": 605,
+            "start": 1053,
+            "end": 1202
+        },
+        {
+            "program_id": "ch453_shortfeed_trendinglive_livestr_1169",
+            "channel_id": 453,
+            "start": 1202,
+            "end": 1221
+        },
+        {
+            "program_id": "ch189_livestream_virallive_1179",
+            "channel_id": 189,
+            "start": 1221,
+            "end": 1234
+        },
+        {
+            "program_id": "ch110_kismat_connection_live_shailen_1212",
+            "channel_id": 110,
+            "start": 1234,
+            "end": 1256
+        },
+        {
+            "program_id": "ch261_radhe_radhe_everyone_live_live_1180",
+            "channel_id": 261,
+            "start": 1256,
+            "end": 1457
+        },
+        {
+            "program_id": "ch770_live_1313",
+            "channel_id": 770,
+            "start": 1457,
+            "end": 1501
+        },
+        {
+            "program_id": "ch433_livestream_evening_worship_6_0_1358",
+            "channel_id": 433,
+            "start": 1501,
+            "end": 1521
+        },
+        {
+            "program_id": "ch1042_live_current_affairs_class_hel_1431",
+            "channel_id": 1042,
+            "start": 1521,
+            "end": 1581
+        },
+        {
+            "program_id": "ch666_free_fire_live_play_with_subsc_1563",
+            "channel_id": 666,
+            "start": 1581,
+            "end": 1745
+        },
+        {
+            "program_id": "ch1004_critics_choice_livestream_2026_1628",
+            "channel_id": 1004,
+            "start": 1745,
+            "end": 1801
+        },
+        {
+            "program_id": "ch1221_today_s_breaking_news_live_ind_1801",
+            "channel_id": 1221,
+            "start": 1801,
+            "end": 1806
+        },
+        {
+            "program_id": "ch962_craft_and_connect_live_1727",
+            "channel_id": 962,
+            "start": 1806,
+            "end": 1962
+        },
+        {
+            "program_id": "ch783_the_big_story_livestream_janua_1913",
+            "channel_id": 783,
+            "start": 1962,
+            "end": 2110
+        },
+        {
+            "program_id": "ch271_the_very_first_story_engine_co_2088",
+            "channel_id": 271,
+            "start": 2110,
+            "end": 2221
+        },
+        {
+            "program_id": "ch776_live_livestream_youtubelive_aa_2115",
+            "channel_id": 776,
+            "start": 2221,
+            "end": 2251
+        },
+        {
+            "program_id": "ch1361_advik_ff_yt_is_live_now_diamon_2227",
+            "channel_id": 1361,
+            "start": 2251,
+            "end": 2324
+        },
+        {
+            "program_id": "ch427_live_channel_promotion_100_sub_2302",
+            "channel_id": 427,
+            "start": 2324,
+            "end": 2399
+        },
+        {
+            "program_id": "ch568_live_swing_trading_using_cpr_a_2258",
+            "channel_id": 568,
+            "start": 2399,
+            "end": 2517
+        },
+        {
+            "program_id": "ch581_always_incredible_ces_2026_asu_2514",
+            "channel_id": 581,
+            "start": 2517,
+            "end": 2663
+        },
+        {
+            "program_id": "ch754_official_mukesh_gupta_is_live_2640",
+            "channel_id": 754,
+            "start": 2663,
+            "end": 2697
+        },
+        {
+            "program_id": "ch583_topsteptv_london_open_with_aar_2697",
+            "channel_id": 583,
+            "start": 2697,
+            "end": 2774
+        },
+        {
+            "program_id": "ch459_r_rajesh_vlogs_is_live_truck_u_2729",
+            "channel_id": 459,
+            "start": 2774,
+            "end": 2885
+        },
+        {
+            "program_id": "ch1138_fashion_and_personal_style_101_2794",
+            "channel_id": 1138,
+            "start": 2885,
+            "end": 2916
+        },
+        {
+            "program_id": "ch1166_khatu_shyam_mandir_bilaspur_li_2822",
+            "channel_id": 1166,
+            "start": 2916,
+            "end": 2941
+        },
+        {
+            "program_id": "ch939_radhe_radhe_please_support_me__2646",
+            "channel_id": 939,
+            "start": 2941,
+            "end": 2946
+        },
+        {
+            "program_id": "ch1401_live_at_the_waterhole_05_janua_2771",
+            "channel_id": 1401,
+            "start": 2946,
+            "end": 2951
+        },
+        {
+            "program_id": "ch34_2026_live_2835",
+            "channel_id": 34,
+            "start": 2951,
+            "end": 2984
+        },
+        {
+            "program_id": "ch329_vijay_bhai_comedian_is_live_2810",
+            "channel_id": 329,
+            "start": 2984,
+            "end": 2990
+        },
+        {
+            "program_id": "ch0_shivpoojan_yadav_9569_is_live_2841",
+            "channel_id": 0,
+            "start": 2990,
+            "end": 3025
+        },
+        {
+            "program_id": "ch820_ssc_mts_english_classes_2025_s_3023",
+            "channel_id": 820,
+            "start": 3025,
+            "end": 3190
+        },
+        {
+            "program_id": "ch534_friends_jaldi_se_join_karo_liv_3089",
+            "channel_id": 534,
+            "start": 3190,
+            "end": 3234
+        },
+        {
+            "program_id": "ch717_live_morning_becomes_eclectic__3066",
+            "channel_id": 717,
+            "start": 3234,
+            "end": 3293
+        },
+        {
+            "program_id": "ch865_friends_jaldi_se_join_karo_liv_3260",
+            "channel_id": 865,
+            "start": 3293,
+            "end": 3320
+        },
+        {
+            "program_id": "ch314_4_p_m_solemn_eucharist_livestr_3275",
+            "channel_id": 314,
+            "start": 3320,
+            "end": 3401
+        },
+        {
+            "program_id": "ch189_live_streaming_of_darji_gurudw_3257",
+            "channel_id": 189,
+            "start": 3401,
+            "end": 3407
+        },
+        {
+            "program_id": "ch65_face_pack_for_glowing_whitenin_3368",
+            "channel_id": 65,
+            "start": 3407,
+            "end": 3608
+        },
+        {
+            "program_id": "ch956_live_final_training_session_be_3513",
+            "channel_id": 956,
+            "start": 3608,
+            "end": 3613
+        },
+        {
+            "program_id": "ch217_q_and_a_livestream_january_5_2_3613",
+            "channel_id": 217,
+            "start": 3613,
+            "end": 3618
+        },
+        {
+            "program_id": "ch595_live_at_the_waterhole_05_janua_3592",
+            "channel_id": 595,
+            "start": 3618,
+            "end": 3627
+        },
+        {
+            "program_id": "ch795_world_harvest_livestream_3526",
+            "channel_id": 795,
+            "start": 3627,
+            "end": 3694
+        },
+        {
+            "program_id": "ch515_up_ki_ladki_is_live_magh_mela__3665",
+            "channel_id": 515,
+            "start": 3694,
+            "end": 3828
+        },
+        {
+            "program_id": "ch1054_ask_adam_live_inanimate_insani_3679",
+            "channel_id": 1054,
+            "start": 3828,
+            "end": 3881
+        },
+        {
+            "program_id": "ch545_live_the_red_side_ping_pong_19_3862",
+            "channel_id": 545,
+            "start": 3881,
+            "end": 3887
+        },
+        {
+            "program_id": "ch1064_shortfeed_trendinglive_livestr_3815",
+            "channel_id": 1064,
+            "start": 3887,
+            "end": 4022
+        },
+        {
+            "program_id": "ch579_st_andrew_s_livestream_4th_jan_3937",
+            "channel_id": 579,
+            "start": 4022,
+            "end": 4059
+        },
+        {
+            "program_id": "ch450_the_big_story_livestream_janua_4037",
+            "channel_id": 450,
+            "start": 4059,
+            "end": 4064
+        },
+        {
+            "program_id": "ch505_2026_ces_ultimea_exclusive_new_4033",
+            "channel_id": 505,
+            "start": 4064,
+            "end": 4069
+        },
+        {
+            "program_id": "ch1050_the_gerry_callahan_show_live_1_4069",
+            "channel_id": 1050,
+            "start": 4069,
+            "end": 4074
+        },
+        {
+            "program_id": "ch136_live_day_5_trending_4060",
+            "channel_id": 136,
+            "start": 4074,
+            "end": 4198
+        },
+        {
+            "program_id": "ch116_q_and_a_livestream_january_5_2_4112",
+            "channel_id": 116,
+            "start": 4198,
+            "end": 4212
+        },
+        {
+            "program_id": "ch216_live_stream_wip_wednesday_4143",
+            "channel_id": 216,
+            "start": 4212,
+            "end": 4220
+        },
+        {
+            "program_id": "ch1095_live_livestream_youtubelive_vi_4046",
+            "channel_id": 1095,
+            "start": 4220,
+            "end": 4272
+        },
+        {
+            "program_id": "ch1297_livestream_trump_s_raid_captur_4272",
+            "channel_id": 1297,
+            "start": 4272,
+            "end": 4278
+        },
+        {
+            "program_id": "ch1007_the_gerry_callahan_show_live_1_4157",
+            "channel_id": 1007,
+            "start": 4278,
+            "end": 4326
+        },
+        {
+            "program_id": "ch558_rubi_pahadi_is_live_4188",
+            "channel_id": 558,
+            "start": 4326,
+            "end": 4358
+        },
+        {
+            "program_id": "ch99_storycon_livestream_january_5__4272",
+            "channel_id": 99,
+            "start": 4358,
+            "end": 4509
+        },
+        {
+            "program_id": "ch1243_sunday_worship_live_stream_4326",
+            "channel_id": 1243,
+            "start": 4509,
+            "end": 4615
+        },
+        {
+            "program_id": "ch1201_live_nonstop_mata_rani_ke_bhaj_4550",
+            "channel_id": 1201,
+            "start": 4615,
+            "end": 4660
+        },
+        {
+            "program_id": "ch528_livestream_4593",
+            "channel_id": 528,
+            "start": 4660,
+            "end": 4757
+        },
+        {
+            "program_id": "ch1116_live_titles_of_jesus_online_re_4598",
+            "channel_id": 1116,
+            "start": 4757,
+            "end": 4782
+        },
+        {
+            "program_id": "ch770_live_4746",
+            "channel_id": 770,
+            "start": 4782,
+            "end": 4848
+        },
+        {
+            "program_id": "ch358_live_bsf_cisf_itbp_tradesman_2_4812",
+            "channel_id": 358,
+            "start": 4848,
+            "end": 4857
+        },
+        {
+            "program_id": "ch27_bgmi_live_stream_new_update_ga_4778",
+            "channel_id": 27,
+            "start": 4857,
+            "end": 4924
+        },
+        {
+            "program_id": "ch726_kumar_arjun_kirtan_is_live_bih_4799",
+            "channel_id": 726,
+            "start": 4924,
+            "end": 5033
+        },
+        {
+            "program_id": "ch319_kismat_connection_live_shailen_5019",
+            "channel_id": 319,
+            "start": 5033,
+            "end": 5074
+        },
+        {
+            "program_id": "ch10_live_stream_high_school_wrestl_4989",
+            "channel_id": 10,
+            "start": 5074,
+            "end": 5079
+        },
+        {
+            "program_id": "ch1300_livestream_virallivevideo_5057",
+            "channel_id": 1300,
+            "start": 5079,
+            "end": 5102
+        },
+        {
+            "program_id": "ch622_1_11_soul_activation_livestrea_5093",
+            "channel_id": 622,
+            "start": 5102,
+            "end": 5328
+        },
+        {
+            "program_id": "ch1305_harayana_police_si_group_d_cet_5218",
+            "channel_id": 1305,
+            "start": 5328,
+            "end": 5357
+        },
+        {
+            "program_id": "ch575_face_pack_for_glowing_whitenin_5357",
+            "channel_id": 575,
+            "start": 5357,
+            "end": 5362
+        },
+        {
+            "program_id": "ch46_fashion_and_personal_style_101_5304",
+            "channel_id": 46,
+            "start": 5362,
+            "end": 5432
+        },
+        {
+            "program_id": "ch1108_live_livestream_viral_youtube_5407",
+            "channel_id": 1108,
+            "start": 5432,
+            "end": 5471
+        },
+        {
+            "program_id": "ch1051_live_nonstop_mata_rani_ke_bhaj_5458",
+            "channel_id": 1051,
+            "start": 5471,
+            "end": 5494
+        },
+        {
+            "program_id": "ch301_savita_rajpoot_is_live_5465",
+            "channel_id": 301,
+            "start": 5494,
+            "end": 5533
+        },
+        {
+            "program_id": "ch465_aj_simmons_movie_premier_watch_5508",
+            "channel_id": 465,
+            "start": 5533,
+            "end": 5552
+        },
+        {
+            "program_id": "ch856_live_partial_lunar_eclipse_aug_5534",
+            "channel_id": 856,
+            "start": 5552,
+            "end": 5586
+        },
+        {
+            "program_id": "ch1413_january_05_2026_monday_livestr_5459",
+            "channel_id": 1413,
+            "start": 5586,
+            "end": 5616
+        },
+        {
+            "program_id": "ch1173_baked_sablefish_with_crispy_br_5417",
+            "channel_id": 1173,
+            "start": 5616,
+            "end": 5669
+        },
+        {
+            "program_id": "ch1315_avatar_yt_is_live_facecam_live_5668",
+            "channel_id": 1315,
+            "start": 5669,
+            "end": 5693
+        },
+        {
+            "program_id": "ch442_vijay_sir_birthday_special_liv_5674",
+            "channel_id": 442,
+            "start": 5693,
+            "end": 5892
+        },
+        {
+            "program_id": "ch1188_schedule_live_stream_schedule__5864",
+            "channel_id": 1188,
+            "start": 5892,
+            "end": 5921
+        },
+        {
+            "program_id": "ch1337_live_final_training_session_be_5725",
+            "channel_id": 1337,
+            "start": 5921,
+            "end": 5964
+        },
+        {
+            "program_id": "ch987_bucket_o_picks_livestream_fore_5955",
+            "channel_id": 987,
+            "start": 5964,
+            "end": 6044
+        },
+        {
+            "program_id": "ch961_live_10th_english_maharevision_6004",
+            "channel_id": 961,
+            "start": 6044,
+            "end": 6203
+        },
+        {
+            "program_id": "ch309_tropical_river_flowing_over_ro_6136",
+            "channel_id": 309,
+            "start": 6203,
+            "end": 6211
+        },
+        {
+            "program_id": "ch388_support_me_everyone_shortfeet__6171",
+            "channel_id": 388,
+            "start": 6211,
+            "end": 6216
+        },
+        {
+            "program_id": "ch281_live_livestream_youtubelive_aa_6102",
+            "channel_id": 281,
+            "start": 6216,
+            "end": 6222
+        },
+        {
+            "program_id": "ch1258_schedule_live_stream_schedule__6103",
+            "channel_id": 1258,
+            "start": 6222,
+            "end": 6334
+        },
+        {
+            "program_id": "ch41_special_announcement_of_new_ba_6284",
+            "channel_id": 41,
+            "start": 6334,
+            "end": 6407
+        },
+        {
+            "program_id": "ch1052_kismat_connection_live_shailen_6350",
+            "channel_id": 1052,
+            "start": 6407,
+            "end": 6527
+        },
+        {
+            "program_id": "ch1394_live_kicking_off_2026_with_a_b_6527",
+            "channel_id": 1394,
+            "start": 6527,
+            "end": 6532
+        },
+        {
+            "program_id": "ch1202_live_livestream_viral_youtube_6492",
+            "channel_id": 1202,
+            "start": 6532,
+            "end": 6648
+        },
+        {
+            "program_id": "ch393_live_nonstop_mata_rani_ke_bhaj_6385",
+            "channel_id": 393,
+            "start": 6648,
+            "end": 6669
+        },
+        {
+            "program_id": "ch806_trending_gk_10_quiz_lifeisbuta_6634",
+            "channel_id": 806,
+            "start": 6669,
+            "end": 6674
+        },
+        {
+            "program_id": "ch1215_subscribe_kese_badhaye_live_li_6590",
+            "channel_id": 1215,
+            "start": 6674,
+            "end": 6680
+        },
+        {
+            "program_id": "ch1029_live_critics_choice_awards_202_6447",
+            "channel_id": 1029,
+            "start": 6680,
+            "end": 6711
+        },
+        {
+            "program_id": "ch214_khatu_shyam_mandir_bilaspur_li_6657",
+            "channel_id": 214,
+            "start": 6711,
+            "end": 6769
+        },
+        {
+            "program_id": "ch64_livestream_new_year_first_fami_6692",
+            "channel_id": 64,
+            "start": 6769,
+            "end": 6982
+        },
+        {
+            "program_id": "ch164_live_pujya_sadhvi_dr_vishweshw_6846",
+            "channel_id": 164,
+            "start": 6982,
+            "end": 7007
+        },
+        {
+            "program_id": "ch157_ccuk_resin_q_and_a_live_with_s_7007",
+            "channel_id": 157,
+            "start": 7007,
+            "end": 7012
+        },
+        {
+            "program_id": "ch567_livestream_6998",
+            "channel_id": 567,
+            "start": 7012,
+            "end": 7018
+        },
+        {
+            "program_id": "ch228_master_cadre_lecture_cadre_pol_6908",
+            "channel_id": 228,
+            "start": 7018,
+            "end": 7149
+        },
+        {
+            "program_id": "ch1241_mob_wars_lcn_2026_winter_raid__7057",
+            "channel_id": 1241,
+            "start": 7149,
+            "end": 7157
+        },
+        {
+            "program_id": "ch390_2026_live_7059",
+            "channel_id": 390,
+            "start": 7157,
+            "end": 7211
+        },
+        {
+            "program_id": "ch792_oto_matik_workz_is_live_7129",
+            "channel_id": 792,
+            "start": 7211,
+            "end": 7236
+        },
+        {
+            "program_id": "ch1309_live_partial_lunar_eclipse_aug_7195",
+            "channel_id": 1309,
+            "start": 7236,
+            "end": 7314
+        },
+        {
+            "program_id": "ch773_january_05_2026_monday_livestr_7247",
+            "channel_id": 773,
+            "start": 7314,
+            "end": 7370
+        },
+        {
+            "program_id": "ch165_live_final_training_session_be_7370",
+            "channel_id": 165,
+            "start": 7370,
+            "end": 7375
+        },
+        {
+            "program_id": "ch99_storycon_livestream_january_5__7221",
+            "channel_id": 99,
+            "start": 7375,
+            "end": 7455
+        },
+        {
+            "program_id": "ch293_churchtrac_livestream_1_7_2026_7283",
+            "channel_id": 293,
+            "start": 7455,
+            "end": 7492
+        },
+        {
+            "program_id": "ch1199_storycon_livestream_january_5__7472",
+            "channel_id": 1199,
+            "start": 7492,
+            "end": 7624
+        },
+        {
+            "program_id": "ch340_gelt_resisting_torment_livestr_7548",
+            "channel_id": 340,
+            "start": 7624,
+            "end": 7727
+        },
+        {
+            "program_id": "ch848_face_pack_for_glowing_whitenin_7724",
+            "channel_id": 848,
+            "start": 7727,
+            "end": 7753
+        },
+        {
+            "program_id": "ch78_livestream_evening_worship_6_0_7720",
+            "channel_id": 78,
+            "start": 7753,
+            "end": 7813
+        },
+        {
+            "program_id": "ch978_special_live_stream_performanc_7772",
+            "channel_id": 978,
+            "start": 7813,
+            "end": 7886
+        },
+        {
+            "program_id": "ch1201_8th_cpc_live_update_1_2026_fit_7635",
+            "channel_id": 1201,
+            "start": 7886,
+            "end": 7893
+        },
+        {
+            "program_id": "ch1108_live_livestream_viral_youtube_7883",
+            "channel_id": 1108,
+            "start": 7893,
+            "end": 8024
+        },
+        {
+            "program_id": "ch436_4_p_m_solemn_eucharist_livestr_7930",
+            "channel_id": 436,
+            "start": 8024,
+            "end": 8133
+        },
+        {
+            "program_id": "ch1196_master_cadre_lecture_cadre_pol_8116",
+            "channel_id": 1196,
+            "start": 8133,
+            "end": 8225
+        },
+        {
+            "program_id": "ch671_must_have_kitchen_products_liv_8113",
+            "channel_id": 671,
+            "start": 8225,
+            "end": 8233
+        },
+        {
+            "program_id": "ch1382_livestream_8203",
+            "channel_id": 1382,
+            "start": 8233,
+            "end": 8238
+        },
+        {
+            "program_id": "ch1009_free_fire_live_play_with_subsc_8169",
+            "channel_id": 1009,
+            "start": 8238,
+            "end": 8244
+        },
+        {
+            "program_id": "ch1249_live_streaming_of_darji_gurudw_8236",
+            "channel_id": 1249,
+            "start": 8244,
+            "end": 8322
+        },
+        {
+            "program_id": "ch1247_2025_israel_jobs_live_apply_10_8321",
+            "channel_id": 1247,
+            "start": 8322,
+            "end": 8381
+        },
+        {
+            "program_id": "ch866_spartacus_house_of_ashur_theor_8363",
+            "channel_id": 866,
+            "start": 8381,
+            "end": 8467
+        },
+        {
+            "program_id": "ch1031_tv_live_2026_296_8412",
+            "channel_id": 1031,
+            "start": 8467,
+            "end": 8555
+        },
+        {
+            "program_id": "ch22_live_livestream_8541",
+            "channel_id": 22,
+            "start": 8555,
+            "end": 8583
+        },
+        {
+            "program_id": "ch971_support_me_everyone_shortfeet__8464",
+            "channel_id": 971,
+            "start": 8583,
+            "end": 8646
+        },
+        {
+            "program_id": "ch478_storycon_livestream_january_5__8628",
+            "channel_id": 478,
+            "start": 8646,
+            "end": 8657
+        },
+        {
+            "program_id": "ch1186_live_livestream_viral_motivati_8576",
+            "channel_id": 1186,
+            "start": 8657,
+            "end": 8666
+        },
+        {
+            "program_id": "ch1347_gelt_resisting_torment_livestr_8525",
+            "channel_id": 1347,
+            "start": 8666,
+            "end": 8675
+        },
+        {
+            "program_id": "ch1380_spartacus_house_of_ashur_theor_8594",
+            "channel_id": 1380,
+            "start": 8675,
+            "end": 8722
+        },
+        {
+            "program_id": "ch1080_tash_sultana_live_stream_perfo_8669",
+            "channel_id": 1080,
+            "start": 8722,
+            "end": 8744
+        },
+        {
+            "program_id": "ch782_1_vs_live_livestream_8742",
+            "channel_id": 782,
+            "start": 8744,
+            "end": 8773
+        },
+        {
+            "program_id": "ch816_r_rajesh_vlogs_is_live_truck_u_8588",
+            "channel_id": 816,
+            "start": 8773,
+            "end": 8885
+        },
+        {
+            "program_id": "ch1343_live_the_red_side_ping_pong_19_8846",
+            "channel_id": 1343,
+            "start": 8885,
+            "end": 8891
+        },
+        {
+            "program_id": "ch824_2026_01_18_11am_worship_livest_8725",
+            "channel_id": 824,
+            "start": 8891,
+            "end": 8896
+        },
+        {
+            "program_id": "ch439_subscribe_kese_badhaye_live_li_8815",
+            "channel_id": 439,
+            "start": 8896,
+            "end": 8905
+        },
+        {
+            "program_id": "ch83_q_and_a_livestream_january_12__8850",
+            "channel_id": 83,
+            "start": 8905,
+            "end": 8951
+        },
+        {
+            "program_id": "ch126_fashion_and_personal_style_101_8842",
+            "channel_id": 126,
+            "start": 8951,
+            "end": 9011
+        },
+        {
+            "program_id": "ch465_night_live_stream_8771",
+            "channel_id": 465,
+            "start": 9011,
+            "end": 9059
+        },
+        {
+            "program_id": "ch1129_bar_a_live_fc_barcelona_vs_ath_8979",
+            "channel_id": 1129,
+            "start": 9059,
+            "end": 9255
+        },
+        {
+            "program_id": "ch263_live_livestream_youtubelive_aa_9199",
+            "channel_id": 263,
+            "start": 9255,
+            "end": 9260
+        },
+        {
+            "program_id": "ch986_fixing_your_college_apps_satur_9222",
+            "channel_id": 986,
+            "start": 9260,
+            "end": 9277
+        },
+        {
+            "program_id": "ch1332_live_live_darshan_shree_kashi__9224",
+            "channel_id": 1332,
+            "start": 9277,
+            "end": 9286
+        },
+        {
+            "program_id": "ch1179_bar_a_live_fc_barcelona_vs_ath_9206",
+            "channel_id": 1179,
+            "start": 9286,
+            "end": 9296
+        },
+        {
+            "program_id": "ch847_monday_wind_down_live_networki_9285",
+            "channel_id": 847,
+            "start": 9296,
+            "end": 9335
+        },
+        {
+            "program_id": "ch329_live_the_red_side_ping_pong_19_9335",
+            "channel_id": 329,
+            "start": 9335,
+            "end": 9340
+        },
+        {
+            "program_id": "ch1213_live_nonstop_mata_rani_ke_bhaj_9335",
+            "channel_id": 1213,
+            "start": 9340,
+            "end": 9478
+        },
+        {
+            "program_id": "ch1098_subscribe_kese_badhaye_live_li_9429",
+            "channel_id": 1098,
+            "start": 9478,
+            "end": 9546
+        },
+        {
+            "program_id": "ch1152_night_live_on_night_vibes_live_9513",
+            "channel_id": 1152,
+            "start": 9546,
+            "end": 9558
+        },
+        {
+            "program_id": "ch1418_disney_dreamlight_valley_lives_9516",
+            "channel_id": 1418,
+            "start": 9558,
+            "end": 9644
+        },
+        {
+            "program_id": "ch738_live_livestream_youtubelive_vi_9471",
+            "channel_id": 738,
+            "start": 9644,
+            "end": 9651
+        },
+        {
+            "program_id": "ch472_1000_players_colonize_a_brutal_9486",
+            "channel_id": 472,
+            "start": 9651,
+            "end": 9714
+        },
+        {
+            "program_id": "ch826_live_livestream_youtubelive_vi_9677",
+            "channel_id": 826,
+            "start": 9714,
+            "end": 9722
+        },
+        {
+            "program_id": "ch1106_devti_kitchen_is_live_youtubel_9599",
+            "channel_id": 1106,
+            "start": 9722,
+            "end": 9742
+        },
+        {
+            "program_id": "ch935_arizona_cardinals_vs_los_angel_9702",
+            "channel_id": 935,
+            "start": 9742,
+            "end": 9747
+        },
+        {
+            "program_id": "ch784_trending_gk_10_quiz_lifeisbuta_9728",
+            "channel_id": 784,
+            "start": 9747,
+            "end": 9752
+        },
+        {
+            "program_id": "ch409_live_livestream_viral_youtube_9524",
+            "channel_id": 409,
+            "start": 9752,
+            "end": 9764
+        },
+        {
+            "program_id": "ch933_mob_wars_lcn_2026_winter_raid__9667",
+            "channel_id": 933,
+            "start": 9764,
+            "end": 9831
+        },
+        {
+            "program_id": "ch735_churchtrac_livestream_1_7_2026_9819",
+            "channel_id": 735,
+            "start": 9831,
+            "end": 9858
+        },
+        {
+            "program_id": "ch1293_live_9842",
+            "channel_id": 1293,
+            "start": 9858,
+            "end": 9886
+        },
+        {
+            "program_id": "ch1147_live_livestream_9799",
+            "channel_id": 1147,
+            "start": 9886,
+            "end": 9895
+        },
+        {
+            "program_id": "ch822_2025_israel_jobs_live_apply_10_9873",
+            "channel_id": 822,
+            "start": 9895,
+            "end": 9900
+        },
+        {
+            "program_id": "ch57_mob_wars_lcn_2026_winter_raid__9804",
+            "channel_id": 57,
+            "start": 9900,
+            "end": 9909
+        },
+        {
+            "program_id": "ch1209_is_live_livestream_viral_9770",
+            "channel_id": 1209,
+            "start": 9909,
+            "end": 9924
+        },
+        {
+            "program_id": "ch1311_savita_rajpoot_is_live_9849",
+            "channel_id": 1311,
+            "start": 9924,
+            "end": 10068
+        },
+        {
+            "program_id": "ch750_2025_2026_happy_new_year2026_l_10039",
+            "channel_id": 750,
+            "start": 10068,
+            "end": 10110
+        },
+        {
+            "program_id": "ch128_12_00_pm_sunday_service_livest_9993",
+            "channel_id": 128,
+            "start": 10110,
+            "end": 10175
+        },
+        {
+            "program_id": "ch885_master_cadre_lecture_cadre_pol_10112",
+            "channel_id": 885,
+            "start": 10175,
+            "end": 10190
+        },
+        {
+            "program_id": "ch995_livestream_new_year_first_fami_10124",
+            "channel_id": 995,
+            "start": 10190,
+            "end": 10238
+        },
+        {
+            "program_id": "ch1218_support_me_everyone_shortfeet__10036",
+            "channel_id": 1218,
+            "start": 10238,
+            "end": 10246
+        },
+        {
+            "program_id": "ch242_fashion_and_personal_style_101_10076",
+            "channel_id": 242,
+            "start": 10246,
+            "end": 10310
+        },
+        {
+            "program_id": "ch191_january_05_2026_monday_livestr_10273",
+            "channel_id": 191,
+            "start": 10310,
+            "end": 10477
+        },
+        {
+            "program_id": "ch772_live_stream_viral_live_10287",
+            "channel_id": 772,
+            "start": 10477,
+            "end": 10493
+        },
+        {
+            "program_id": "ch207_4_day_14_electrician_live_clas_10479",
+            "channel_id": 207,
+            "start": 10493,
+            "end": 10528
+        },
+        {
+            "program_id": "ch873_world_harvest_livestream_10488",
+            "channel_id": 873,
+            "start": 10528,
+            "end": 10618
+        },
+        {
+            "program_id": "ch469_live_morning_becomes_eclectic__10562",
+            "channel_id": 469,
+            "start": 10618,
+            "end": 10664
+        },
+        {
+            "program_id": "ch1092_khatu_shyam_mandir_bilaspur_li_10638",
+            "channel_id": 1092,
+            "start": 10664,
+            "end": 10812
+        },
+        {
+            "program_id": "ch1191_nxt_special_tournament_random__10812",
+            "channel_id": 1191,
+            "start": 10812,
+            "end": 10817
+        },
+        {
+            "program_id": "ch88_special_live_stream_performanc_10749",
+            "channel_id": 88,
+            "start": 10817,
+            "end": 10895
+        },
+        {
+            "program_id": "ch396_savita_rajpoot_is_live_10806",
+            "channel_id": 396,
+            "start": 10895,
+            "end": 10907
+        },
+        {
+            "program_id": "ch69_aj_simmons_movie_premier_watch_10677",
+            "channel_id": 69,
+            "start": 10907,
+            "end": 10931
+        },
+        {
+            "program_id": "ch518_live_the_night_shift_with_dako_10922",
+            "channel_id": 518,
+            "start": 10931,
+            "end": 10945
+        },
+        {
+            "program_id": "ch1164_support_me_everyone_shortfeet__10893",
+            "channel_id": 1164,
+            "start": 10945,
+            "end": 10953
+        },
+        {
+            "program_id": "ch589_raj_gurumaa_is_live_rajgurumaa_10883",
+            "channel_id": 589,
+            "start": 10953,
+            "end": 10958
+        },
+        {
+            "program_id": "ch1233_live_livestream_10920",
+            "channel_id": 1233,
+            "start": 10958,
+            "end": 10965
+        },
+        {
+            "program_id": "ch745_live_total_lunar_eclipse_blood_10920",
+            "channel_id": 745,
+            "start": 10965,
+            "end": 11000
+        },
+        {
+            "program_id": "ch485_avatar_yt_is_live_facecam_live_10986",
+            "channel_id": 485,
+            "start": 11000,
+            "end": 11006
+        },
+        {
+            "program_id": "ch951_live_10754",
+            "channel_id": 951,
+            "start": 11006,
+            "end": 11042
+        },
+        {
+            "program_id": "ch201_live_me_aye_h_10962",
+            "channel_id": 201,
+            "start": 11042,
+            "end": 11057
+        },
+        {
+            "program_id": "ch1403_ritik_sahu_fitness_is_living_p_11044",
+            "channel_id": 1403,
+            "start": 11057,
+            "end": 11104
+        },
+        {
+            "program_id": "ch986_fixing_your_college_apps_satur_10973",
+            "channel_id": 986,
+            "start": 11104,
+            "end": 11220
+        },
+        {
+            "program_id": "ch464_radhe_radhe_please_support_me__11017",
+            "channel_id": 464,
+            "start": 11220,
+            "end": 11246
+        },
+        {
+            "program_id": "ch918_marketbeat_mondays_live_real_t_11181",
+            "channel_id": 918,
+            "start": 11246,
+            "end": 11328
+        },
+        {
+            "program_id": "ch543_live_stream_high_school_wrestl_11235",
+            "channel_id": 543,
+            "start": 11328,
+            "end": 11335
+        },
+        {
+            "program_id": "ch224_please_support_mee_everyone_sh_11145",
+            "channel_id": 224,
+            "start": 11335,
+            "end": 11388
+        },
+        {
+            "program_id": "ch723_master_cadre_lecture_cadre_pol_11321",
+            "channel_id": 723,
+            "start": 11388,
+            "end": 11601
+        },
+        {
+            "program_id": "ch54_vijay_sir_birthday_special_liv_11576",
+            "channel_id": 54,
+            "start": 11601,
+            "end": 11705
+        },
+        {
+            "program_id": "ch1195_live_titles_of_jesus_online_re_11690",
+            "channel_id": 1195,
+            "start": 11705,
+            "end": 11715
+        },
+        {
+            "program_id": "ch374_livestream_kumari_shanti_offic_11487",
+            "channel_id": 374,
+            "start": 11715,
+            "end": 11727
+        },
+        {
+            "program_id": "ch367_matthew_ashimolowo_live_07_01__11703",
+            "channel_id": 367,
+            "start": 11727,
+            "end": 11784
+        },
+        {
+            "program_id": "ch1377_4_day_14_electrician_live_clas_11762",
+            "channel_id": 1377,
+            "start": 11784,
+            "end": 11852
+        },
+        {
+            "program_id": "ch311_live_me_aye_h_11822",
+            "channel_id": 311,
+            "start": 11852,
+            "end": 11862
+        },
+        {
+            "program_id": "ch908_schedule_live_stream_schedule__11852",
+            "channel_id": 908,
+            "start": 11862,
+            "end": 11915
+        },
+        {
+            "program_id": "ch1272_live_live_darshan_shree_kashi__11909",
+            "channel_id": 1272,
+            "start": 11915,
+            "end": 11958
+        },
+        {
+            "program_id": "ch282_ctet_feb_2026_cdp_class_13_by__11958",
+            "channel_id": 282,
+            "start": 11958,
+            "end": 11963
+        },
+        {
+            "program_id": "ch1162_live_livestream_youtubelive_aa_11927",
+            "channel_id": 1162,
+            "start": 11963,
+            "end": 11972
+        },
+        {
+            "program_id": "ch1183_live_day_trading_nasdaq_future_11831",
+            "channel_id": 1183,
+            "start": 11972,
+            "end": 12036
+        },
+        {
+            "program_id": "ch992_good_morning_sabhi_ko_radhe_kr_12021",
+            "channel_id": 992,
+            "start": 12036,
+            "end": 12065
+        },
+        {
+            "program_id": "ch1203_vijay_bhai_comedian_is_live_11954",
+            "channel_id": 1203,
+            "start": 12065,
+            "end": 12133
+        },
+        {
+            "program_id": "ch948_live_day_trading_nasdaq_future_12022",
+            "channel_id": 948,
+            "start": 12133,
+            "end": 12156
+        },
+        {
+            "program_id": "ch1083_is_live_12120",
+            "channel_id": 1083,
+            "start": 12156,
+            "end": 12203
+        },
+        {
+            "program_id": "ch1252_tv_live_2026_296_12096",
+            "channel_id": 1252,
+            "start": 12203,
+            "end": 12347
+        },
+        {
+            "program_id": "ch573_sarita_khobey_is_live_radhe_ra_12262",
+            "channel_id": 573,
+            "start": 12347,
+            "end": 12352
+        },
+        {
+            "program_id": "ch716_trending_gk_10_quiz_lifeisbuta_12332",
+            "channel_id": 716,
+            "start": 12352,
+            "end": 12357
+        },
+        {
+            "program_id": "ch510_khatu_shyam_mandir_bilaspur_li_12217",
+            "channel_id": 510,
+            "start": 12357,
+            "end": 12381
+        },
+        {
+            "program_id": "ch139_bgmi_live_stream_new_update_ga_12373",
+            "channel_id": 139,
+            "start": 12381,
+            "end": 12506
+        },
+        {
+            "program_id": "ch776_ssc_mts_english_classes_2025_s_12492",
+            "channel_id": 776,
+            "start": 12506,
+            "end": 12546
+        },
+        {
+            "program_id": "ch89_2025_israel_jobs_live_apply_10_12546",
+            "channel_id": 89,
+            "start": 12546,
+            "end": 12566
+        },
+        {
+            "program_id": "ch102_advik_ff_yt_is_live_now_diamon_12518",
+            "channel_id": 102,
+            "start": 12566,
+            "end": 12674
+        },
+        {
+            "program_id": "ch370_vijay_sir_birthday_special_liv_12578",
+            "channel_id": 370,
+            "start": 12674,
+            "end": 12732
+        },
+        {
+            "program_id": "ch60_special_live_stream_performanc_12670",
+            "channel_id": 60,
+            "start": 12732,
+            "end": 12932
+        },
+        {
+            "program_id": "ch1109_livestream_kumari_shanti_offic_12909",
+            "channel_id": 1109,
+            "start": 12932,
+            "end": 13168
+        },
+        {
+            "program_id": "ch725_8th_cpc_live_update_1_2026_fit_13139",
+            "channel_id": 725,
+            "start": 13168,
+            "end": 13213
+        },
+        {
+            "program_id": "ch313_good_morning_sabhi_ko_radhe_kr_13144",
+            "channel_id": 313,
+            "start": 13213,
+            "end": 13266
+        },
+        {
+            "program_id": "ch878_trending_gk_10_quiz_lifeisbuta_13257",
+            "channel_id": 878,
+            "start": 13266,
+            "end": 13490
+        },
+        {
+            "program_id": "ch553_livestream_13444",
+            "channel_id": 553,
+            "start": 13490,
+            "end": 13537
+        },
+        {
+            "program_id": "ch855_please_support_mee_everyone_sh_13471",
+            "channel_id": 855,
+            "start": 13537,
+            "end": 13628
+        },
+        {
+            "program_id": "ch648_live_live_darshan_shree_kashi__13459",
+            "channel_id": 648,
+            "start": 13628,
+            "end": 13664
+        },
+        {
+            "program_id": "ch1199_live_live_kavi_sammelan_renwal_13633",
+            "channel_id": 1199,
+            "start": 13664,
+            "end": 13672
+        },
+        {
+            "program_id": "ch453_shortfeed_trendinglive_livestr_13504",
+            "channel_id": 453,
+            "start": 13672,
+            "end": 13711
+        },
+        {
+            "program_id": "ch1095_live_titles_of_jesus_online_re_13701",
+            "channel_id": 1095,
+            "start": 13711,
+            "end": 13736
+        },
+        {
+            "program_id": "ch633_sunday_worship_live_stream_13463",
+            "channel_id": 633,
+            "start": 13736,
+            "end": 13757
+        },
+        {
+            "program_id": "ch1177_face_pack_for_glowing_whitenin_13500",
+            "channel_id": 1177,
+            "start": 13757,
+            "end": 13763
+        },
+        {
+            "program_id": "ch599_trending_gk_10_quiz_lifeisbuta_13705",
+            "channel_id": 599,
+            "start": 13763,
+            "end": 13908
+        },
+        {
+            "program_id": "ch601_monday_wind_down_live_networki_13874",
+            "channel_id": 601,
+            "start": 13908,
+            "end": 13928
+        },
+        {
+            "program_id": "ch471_live_livestream_youtubelive_aa_13907",
+            "channel_id": 471,
+            "start": 13928,
+            "end": 13950
+        },
+        {
+            "program_id": "ch847_ssc_mts_english_classes_2025_s_13941",
+            "channel_id": 847,
+            "start": 13950,
+            "end": 13967
+        },
+        {
+            "program_id": "ch1345_critics_choice_livestream_2026_13950",
+            "channel_id": 1345,
+            "start": 13967,
+            "end": 13981
+        },
+        {
+            "program_id": "ch489_livestream_live_livestreaming__13975",
+            "channel_id": 489,
+            "start": 13981,
+            "end": 14149
+        },
+        {
+            "program_id": "ch904_harayana_police_si_group_d_cet_14021",
+            "channel_id": 904,
+            "start": 14149,
+            "end": 14187
+        },
+        {
+            "program_id": "ch726_live_total_lunar_eclipse_blood_14158",
+            "channel_id": 726,
+            "start": 14187,
+            "end": 14246
+        },
+        {
+            "program_id": "ch1256_bar_a_live_fc_barcelona_vs_ath_14146",
+            "channel_id": 1256,
+            "start": 14246,
+            "end": 14353
+        },
+        {
+            "program_id": "ch1122_aj_simmons_movie_premier_watch_14334",
+            "channel_id": 1122,
+            "start": 14353,
+            "end": 14372
+        },
+        {
+            "program_id": "ch1346_live_the_red_side_ping_pong_19_14255",
+            "channel_id": 1346,
+            "start": 14372,
+            "end": 14408
+        },
+        {
+            "program_id": "ch1369_live_the_night_shift_with_dako_14355",
+            "channel_id": 1369,
+            "start": 14408,
+            "end": 14483
+        },
+        {
+            "program_id": "ch108_news_and_views_livestream_janu_14345",
+            "channel_id": 108,
+            "start": 14483,
+            "end": 14616
+        },
+        {
+            "program_id": "ch233_livestream_refuge_city_church_14572",
+            "channel_id": 233,
+            "start": 14616,
+            "end": 14634
+        },
+        {
+            "program_id": "ch1010_live_nonstop_mata_rani_ke_bhaj_14633",
+            "channel_id": 1010,
+            "start": 14634,
+            "end": 14769
+        },
+        {
+            "program_id": "ch876_mob_wars_lcn_2026_winter_raid__14769",
+            "channel_id": 876,
+            "start": 14769,
+            "end": 14774
+        },
+        {
+            "program_id": "ch446_tash_sultana_live_stream_perfo_14737",
+            "channel_id": 446,
+            "start": 14774,
+            "end": 14946
+        },
+        {
+            "program_id": "ch173_news_and_views_livestream_janu_14921",
+            "channel_id": 173,
+            "start": 14946,
+            "end": 15002
+        },
+        {
+            "program_id": "ch633_is_live_livestream_viral_14945",
+            "channel_id": 633,
+            "start": 15002,
+            "end": 15024
+        },
+        {
+            "program_id": "ch657_live_join_karo_free_subscriber_15006",
+            "channel_id": 657,
+            "start": 15024,
+            "end": 15031
+        },
+        {
+            "program_id": "ch538_live_14_08_2025_thursday_bk_as_14983",
+            "channel_id": 538,
+            "start": 15031,
+            "end": 15094
+        },
+        {
+            "program_id": "ch615_craft_and_connect_live_15019",
+            "channel_id": 615,
+            "start": 15094,
+            "end": 15221
+        },
+        {
+            "program_id": "ch663_craft_and_connect_live_15103",
+            "channel_id": 663,
+            "start": 15221,
+            "end": 15324
+        },
+        {
+            "program_id": "ch848_q_and_a_livestream_january_11__15312",
+            "channel_id": 848,
+            "start": 15324,
+            "end": 15514
+        },
+        {
+            "program_id": "ch207_fashion_and_personal_style_101_15473",
+            "channel_id": 207,
+            "start": 15514,
+            "end": 15659
+        },
+        {
+            "program_id": "ch761_live_stream_wip_wednesday_15481",
+            "channel_id": 761,
+            "start": 15659,
+            "end": 15708
+        },
+        {
+            "program_id": "ch155_topsteptv_slow_markets_with_da_15673",
+            "channel_id": 155,
+            "start": 15708,
+            "end": 15757
+        },
+        {
+            "program_id": "ch519_live_day_5_trending_15744",
+            "channel_id": 519,
+            "start": 15757,
+            "end": 15801
+        },
+        {
+            "program_id": "ch1083_is_live_15712",
+            "channel_id": 1083,
+            "start": 15801,
+            "end": 15842
+        },
+        {
+            "program_id": "ch852_radhe_radhe_live_livestream_vi_15819",
+            "channel_id": 852,
+            "start": 15842,
+            "end": 15863
+        },
+        {
+            "program_id": "ch306_live_stream_high_school_wrestl_15758",
+            "channel_id": 306,
+            "start": 15863,
+            "end": 15936
+        },
+        {
+            "program_id": "ch755_live_bhilai_viral_livestream_h_15801",
+            "channel_id": 755,
+            "start": 15936,
+            "end": 15951
+        },
+        {
+            "program_id": "ch240_live_live_darshan_shree_kashi__15818",
+            "channel_id": 240,
+            "start": 15951,
+            "end": 15975
+        },
+        {
+            "program_id": "ch124_support_me_everyone_shortfeet__15801",
+            "channel_id": 124,
+            "start": 15975,
+            "end": 15981
+        },
+        {
+            "program_id": "ch448_friends_jaldi_se_join_karo_liv_15691",
+            "channel_id": 448,
+            "start": 15981,
+            "end": 15991
+        },
+        {
+            "program_id": "ch382_maths_special_live_ssc_railway_15962",
+            "channel_id": 382,
+            "start": 15991,
+            "end": 16027
+        },
+        {
+            "program_id": "ch196_gelt_resisting_torment_livestr_16010",
+            "channel_id": 196,
+            "start": 16027,
+            "end": 16086
+        },
+        {
+            "program_id": "ch1215_subscribe_kese_badhaye_live_li_15935",
+            "channel_id": 1215,
+            "start": 16086,
+            "end": 16133
+        },
+        {
+            "program_id": "ch1260_gelt_resisting_torment_livestr_16088",
+            "channel_id": 1260,
+            "start": 16133,
+            "end": 16148
+        },
+        {
+            "program_id": "ch1143_tv_live_2026_296_16133",
+            "channel_id": 1143,
+            "start": 16148,
+            "end": 16298
+        },
+        {
+            "program_id": "ch214_oto_matik_workz_is_live_16247",
+            "channel_id": 214,
+            "start": 16298,
+            "end": 16307
+        },
+        {
+            "program_id": "ch414_bgmi_live_stream_new_update_ga_16170",
+            "channel_id": 414,
+            "start": 16307,
+            "end": 16470
+        },
+        {
+            "program_id": "ch1018_special_live_stream_performanc_16345",
+            "channel_id": 1018,
+            "start": 16470,
+            "end": 16541
+        },
+        {
+            "program_id": "ch315_4_day_14_electrician_live_clas_16509",
+            "channel_id": 315,
+            "start": 16541,
+            "end": 16651
+        },
+        {
+            "program_id": "ch1302_have_a_great_day_update_only_16633",
+            "channel_id": 1302,
+            "start": 16651,
+            "end": 16663
+        },
+        {
+            "program_id": "ch750_2025_2026_happy_new_year2026_l_16663",
+            "channel_id": 750,
+            "start": 16663,
+            "end": 16668
+        },
+        {
+            "program_id": "ch1271_livestream_virallive_16633",
+            "channel_id": 1271,
+            "start": 16668,
+            "end": 16730
+        },
+        {
+            "program_id": "ch802_live_the_red_side_ping_pong_19_16730",
+            "channel_id": 802,
+            "start": 16730,
+            "end": 16735
+        },
+        {
+            "program_id": "ch283_january_05_2026_monday_livestr_16735",
+            "channel_id": 283,
+            "start": 16735,
+            "end": 16740
+        },
+        {
+            "program_id": "ch644_livestream_16625",
+            "channel_id": 644,
+            "start": 16740,
+            "end": 16745
+        },
+        {
+            "program_id": "ch37_live_swing_trading_using_cpr_a_16555",
+            "channel_id": 37,
+            "start": 16745,
+            "end": 16762
+        },
+        {
+            "program_id": "ch1189_against_the_machine_book_study_16699",
+            "channel_id": 1189,
+            "start": 16762,
+            "end": 16850
+        },
+        {
+            "program_id": "ch785_livestream_16768",
+            "channel_id": 785,
+            "start": 16850,
+            "end": 16858
+        },
+        {
+            "program_id": "ch490_maths_special_live_ssc_railway_16760",
+            "channel_id": 490,
+            "start": 16858,
+            "end": 16874
+        },
+        {
+            "program_id": "ch608_8th_cpc_live_update_1_2026_fit_16841",
+            "channel_id": 608,
+            "start": 16874,
+            "end": 17012
+        },
+        {
+            "program_id": "ch122_ccuk_resin_q_and_a_live_with_s_16957",
+            "channel_id": 122,
+            "start": 17012,
+            "end": 17017
+        },
+        {
+            "program_id": "ch790_live_mersin_sports_club_v_le_m_16886",
+            "channel_id": 790,
+            "start": 17017,
+            "end": 17112
+        },
+        {
+            "program_id": "ch737_free_fire_live_play_with_subsc_17045",
+            "channel_id": 737,
+            "start": 17112,
+            "end": 17320
+        },
+        {
+            "program_id": "ch1009_english_pronoun_hostel_superin_17300",
+            "channel_id": 1009,
+            "start": 17320,
+            "end": 17329
+        },
+        {
+            "program_id": "ch826_bihar_news_live_muzaffarpur_li_17034",
+            "channel_id": 826,
+            "start": 17329,
+            "end": 17334
+        },
+        {
+            "program_id": "ch1353_night_live_stream_17135",
+            "channel_id": 1353,
+            "start": 17334,
+            "end": 17345
+        },
+        {
+            "program_id": "ch991_cooking_with_diane_marie_17306",
+            "channel_id": 991,
+            "start": 17345,
+            "end": 17397
+        },
+        {
+            "program_id": "ch1256_bar_a_live_fc_barcelona_vs_ath_17392",
+            "channel_id": 1256,
+            "start": 17397,
+            "end": 17410
+        },
+        {
+            "program_id": "ch954_2026_ces_ultimea_exclusive_new_17389",
+            "channel_id": 954,
+            "start": 17410,
+            "end": 17511
+        },
+        {
+            "program_id": "ch89_live_morning_becomes_eclectic__17328",
+            "channel_id": 89,
+            "start": 17511,
+            "end": 17556
+        },
+        {
+            "program_id": "ch1386_aile_the_shota_4th_anniversary_17499",
+            "channel_id": 1386,
+            "start": 17556,
+            "end": 17655
+        },
+        {
+            "program_id": "ch1051_live_nonstop_mata_rani_ke_bhaj_17590",
+            "channel_id": 1051,
+            "start": 17655,
+            "end": 17676
+        },
+        {
+            "program_id": "ch86_2025_2026_happy_new_year2026_l_17646",
+            "channel_id": 86,
+            "start": 17676,
+            "end": 17681
+        },
+        {
+            "program_id": "ch714_subscribe_kese_badhaye_live_li_17654",
+            "channel_id": 714,
+            "start": 17681,
+            "end": 17750
+        },
+        {
+            "program_id": "ch1162_live_livestream_youtubelive_aa_17750",
+            "channel_id": 1162,
+            "start": 17750,
+            "end": 17759
+        },
+        {
+            "program_id": "ch779_always_incredible_ces_2026_asu_17756",
+            "channel_id": 779,
+            "start": 17759,
+            "end": 17873
+        },
+        {
+            "program_id": "ch760_dare_to_innovate_ces_2026_laun_17687",
+            "channel_id": 760,
+            "start": 17873,
+            "end": 17888
+        },
+        {
+            "program_id": "ch250_2025_israel_jobs_live_apply_10_17762",
+            "channel_id": 250,
+            "start": 17888,
+            "end": 17911
+        },
+        {
+            "program_id": "ch1194_2025_israel_jobs_live_apply_10_17900",
+            "channel_id": 1194,
+            "start": 17911,
+            "end": 18042
+        },
+        {
+            "program_id": "ch998_live_total_lunar_eclipse_blood_17949",
+            "channel_id": 998,
+            "start": 18042,
+            "end": 18180
+        },
+        {
+            "program_id": "ch1367_fashion_and_personal_style_101_18150",
+            "channel_id": 1367,
+            "start": 18180,
+            "end": 18187
+        },
+        {
+            "program_id": "ch715_live_channel_promotion_100_sub_18160",
+            "channel_id": 715,
+            "start": 18187,
+            "end": 18302
+        },
+        {
+            "program_id": "ch1217_live_livestream_viral_motivati_18287",
+            "channel_id": 1217,
+            "start": 18302,
+            "end": 18311
+        },
+        {
+            "program_id": "ch453_is_live_18170",
+            "channel_id": 453,
+            "start": 18311,
+            "end": 18327
+        },
+        {
+            "program_id": "ch936_spartacus_house_of_ashur_theor_18320",
+            "channel_id": 936,
+            "start": 18327,
+            "end": 18404
+        },
+        {
+            "program_id": "ch185_live_18361",
+            "channel_id": 185,
+            "start": 18404,
+            "end": 18444
+        },
+        {
+            "program_id": "ch207_fashion_and_personal_style_101_18444",
+            "channel_id": 207,
+            "start": 18444,
+            "end": 18449
+        },
+        {
+            "program_id": "ch893_live_14_08_2025_thursday_bk_as_18403",
+            "channel_id": 893,
+            "start": 18449,
+            "end": 18509
+        },
+        {
+            "program_id": "ch80_devicharan_sharma_kherli_kota__18495",
+            "channel_id": 80,
+            "start": 18509,
+            "end": 18523
+        },
+        {
+            "program_id": "ch257_live_chatting_with_friends_liv_18520",
+            "channel_id": 257,
+            "start": 18523,
+            "end": 18530
+        },
+        {
+            "program_id": "ch423_pstet_ctet_2025_cdp_super_succ_18491",
+            "channel_id": 423,
+            "start": 18530,
+            "end": 18731
+        },
+        {
+            "program_id": "ch897_gaming_live_stream_18725",
+            "channel_id": 897,
+            "start": 18731,
+            "end": 19021
+        },
+        {
+            "program_id": "ch604_gelt_resisting_torment_livestr_18944",
+            "channel_id": 604,
+            "start": 19021,
+            "end": 19034
+        },
+        {
+            "program_id": "ch235_livestream_19006",
+            "channel_id": 235,
+            "start": 19034,
+            "end": 19045
+        },
+        {
+            "program_id": "ch1059_shortfeed_trendinglive_livestr_19006",
+            "channel_id": 1059,
+            "start": 19045,
+            "end": 19051
+        },
+        {
+            "program_id": "ch509_january_05_2026_monday_livestr_18844",
+            "channel_id": 509,
+            "start": 19051,
+            "end": 19128
+        },
+        {
+            "program_id": "ch876_mob_wars_lcn_2026_winter_raid__19106",
+            "channel_id": 876,
+            "start": 19128,
+            "end": 19134
+        },
+        {
+            "program_id": "ch1210_1_vs_live_livestream_19109",
+            "channel_id": 1210,
+            "start": 19134,
+            "end": 19140
+        },
+        {
+            "program_id": "ch64_livestream_refuge_city_church_19134",
+            "channel_id": 64,
+            "start": 19140,
+            "end": 19238
+        },
+        {
+            "program_id": "ch658_live_kicking_off_2026_with_a_b_19174",
+            "channel_id": 658,
+            "start": 19238,
+            "end": 19336
+        },
+        {
+            "program_id": "ch1290_have_a_great_day_update_only_19336",
+            "channel_id": 1290,
+            "start": 19336,
+            "end": 19383
+        },
+        {
+            "program_id": "ch1371_live_titles_of_jesus_online_re_19355",
+            "channel_id": 1371,
+            "start": 19383,
+            "end": 19491
+        },
+        {
+            "program_id": "ch499_trending_gk_10_quiz_lifeisbuta_19491",
+            "channel_id": 499,
+            "start": 19491,
+            "end": 19496
+        },
+        {
+            "program_id": "ch851_advik_ff_yt_is_live_now_diamon_19441",
+            "channel_id": 851,
+            "start": 19496,
+            "end": 19513
+        },
+        {
+            "program_id": "ch734_live_ll_19475",
+            "channel_id": 734,
+            "start": 19513,
+            "end": 19642
+        },
+        {
+            "program_id": "ch475_gelt_resisting_torment_livestr_19604",
+            "channel_id": 475,
+            "start": 19642,
+            "end": 19755
+        },
+        {
+            "program_id": "ch252_live_prabhat_bhajans_117_shudd_19697",
+            "channel_id": 252,
+            "start": 19755,
+            "end": 19895
+        },
+        {
+            "program_id": "ch112_live_stream_high_school_wrestl_19812",
+            "channel_id": 112,
+            "start": 19895,
+            "end": 19900
+        },
+        {
+            "program_id": "ch999_world_harvest_livestream_19798",
+            "channel_id": 999,
+            "start": 19900,
+            "end": 19955
+        },
+        {
+            "program_id": "ch1312_avatar_yt_is_live_facecam_live_19840",
+            "channel_id": 1312,
+            "start": 19955,
+            "end": 19960
+        },
+        {
+            "program_id": "ch488_live_streaming_of_darji_gurudw_19938",
+            "channel_id": 488,
+            "start": 19960,
+            "end": 20006
+        },
+        {
+            "program_id": "ch698_special_live_stream_performanc_19847",
+            "channel_id": 698,
+            "start": 20006,
+            "end": 20031
+        },
+        {
+            "program_id": "ch219_free_fire_max_uid_checking_liv_19948",
+            "channel_id": 219,
+            "start": 20031,
+            "end": 20050
+        },
+        {
+            "program_id": "ch6_upsssc_anm_5272_model_paper_6__19967",
+            "channel_id": 6,
+            "start": 20050,
+            "end": 20109
+        },
+        {
+            "program_id": "ch1346_live_the_red_side_ping_pong_19_20109",
+            "channel_id": 1346,
+            "start": 20109,
+            "end": 20114
+        },
+        {
+            "program_id": "ch747_oto_matik_workz_is_live_20111",
+            "channel_id": 747,
+            "start": 20114,
+            "end": 20160
+        }
+    ]
+}

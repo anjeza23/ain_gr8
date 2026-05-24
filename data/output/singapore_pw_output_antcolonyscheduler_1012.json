@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369734_a_graceful_liar_2026-01-04_0060",
+            "channel_id": 12,
+            "start": 60,
+            "end": 95
+        },
+        {
+            "program_id": "482829_end_of_transmission_2026-01-04_0060",
+            "channel_id": 202,
+            "start": 95,
+            "end": 344
+        },
+        {
+            "program_id": "369754_handsome_guys_2026-01-04_0315",
+            "channel_id": 24,
+            "start": 344,
+            "end": 374
+        },
+        {
+            "program_id": "412101_our_golden_days_2026-01-04_0360",
+            "channel_id": 92,
+            "start": 374,
+            "end": 425
+        },
+        {
+            "program_id": "369758_poolman_2026-01-04_0425",
+            "channel_id": 26,
+            "start": 425,
+            "end": 455
+        },
+        {
+            "program_id": "482820_end_of_transmission_2026-01-04_0420",
+            "channel_id": 196,
+            "start": 455,
+            "end": 516
+        },
+        {
+            "program_id": "412169_final_evening_session_2026-01-04_0480",
+            "channel_id": 145,
+            "start": 516,
+            "end": 606
+        },
+        {
+            "program_id": "369742_mencintaimu_bikin_hatiku_2026-01-04_0595",
+            "channel_id": 17,
+            "start": 606,
+            "end": 650
+        },
+        {
+            "program_id": "412088_superman_2026-01-04_0650",
+            "channel_id": 80,
+            "start": 650,
+            "end": 751
+        },
+        {
+            "program_id": "369727_tears_of_the_sun_2026-01-04_0745",
+            "channel_id": 8,
+            "start": 751,
+            "end": 825
+        },
+        {
+            "program_id": "369742_rindu_bukan_rindu_2026-01-04_0820",
+            "channel_id": 17,
+            "start": 825,
+            "end": 860
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 860,
+            "end": 890
+        },
+        {
+            "program_id": "482832_tata_indian_premier_leag_2026-01-04_0705",
+            "channel_id": 205,
+            "start": 890,
+            "end": 964
+        },
+        {
+            "program_id": "412134_road_house_1989_2026-01-04_0885",
+            "channel_id": 116,
+            "start": 964,
+            "end": 1013
+        },
+        {
+            "program_id": "412094_mellisaiye_2026-01-04_0990",
+            "channel_id": 86,
+            "start": 1013,
+            "end": 1048
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1020",
+            "channel_id": 61,
+            "start": 1048,
+            "end": 1094
+        },
+        {
+            "program_id": "369806_heart_signal_s8_2026-01-04_1080",
+            "channel_id": 51,
+            "start": 1094,
+            "end": 1124
+        },
+        {
+            "program_id": "369784_the_saturday_wrap_sat_03_2026-01-04_1110",
+            "channel_id": 40,
+            "start": 1124,
+            "end": 1154
+        },
+        {
+            "program_id": "452962_end_of_transmission_2026-01-04_1140",
+            "channel_id": 188,
+            "start": 1154,
+            "end": 1244
+        },
+        {
+            "program_id": "412126_kuberan_2026-01-04_1170",
+            "channel_id": 110,
+            "start": 1244,
+            "end": 1288
+        },
+        {
+            "program_id": "412140_leeds_united_v_mancheste_2026-01-04_1280",
+            "channel_id": 121,
+            "start": 1288,
+            "end": 1335
+        },
+        {
+            "program_id": "369773_english_league_champions_2026-01-04_1250",
+            "channel_id": 34,
+            "start": 1335,
+            "end": 1365
+        },
+        {
+            "program_id": "369819_golden_swallow_2026-01-04_1320",
+            "channel_id": 60,
+            "start": 1365,
+            "end": 1403
+        },
+        {
+            "program_id": "369790_premiership_rugby_northa_2026-01-04_1320",
+            "channel_id": 44,
+            "start": 1403,
+            "end": 1433
+        }
+    ]
+}

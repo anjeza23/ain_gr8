@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "tvmonaco_fr_monaco_effect_2026-01-04_0000",
+            "channel_id": 351,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "publicsenat_fr_arr_t_de_la_cha_ne_2026-01-04_0000",
+            "channel_id": 281,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "canal_live12_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 64,
+            "start": 60,
+            "end": 160
+        },
+        {
+            "program_id": "rmcsport2_fr_cha_ne_v_nementielle_pou_2026-01-04_0000",
+            "channel_id": 292,
+            "start": 160,
+            "end": 290
+        },
+        {
+            "program_id": "cnninternational_f_african_voices_changemak_2026-01-04_0270",
+            "channel_id": 89,
+            "start": 290,
+            "end": 327
+        },
+        {
+            "program_id": "francetvdocs_fr_rendez_vous_10h_2026-01-04_0142",
+            "channel_id": 173,
+            "start": 327,
+            "end": 468
+        },
+        {
+            "program_id": "canal_live5_fr_vivez_en_direct_les_v_ne_2026-01-04_0360",
+            "channel_id": 75,
+            "start": 468,
+            "end": 563
+        },
+        {
+            "program_id": "fcnantes_fr_no_match_today_2026-01-04_0420",
+            "channel_id": 139,
+            "start": 563,
+            "end": 609
+        },
+        {
+            "program_id": "dazn1_fr__2026-01-04_0540",
+            "channel_id": 113,
+            "start": 609,
+            "end": 717
+        },
+        {
+            "program_id": "zoneinterdite24_24_zone_interdite_2026-01-04_0650",
+            "channel_id": 383,
+            "start": 717,
+            "end": 750
+        },
+        {
+            "program_id": "canal_live18_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 70,
+            "start": 750,
+            "end": 780
+        },
+        {
+            "program_id": "hunansatellitetv_f_cha_ne_chinoise_de_diver_2026-01-04_0780",
+            "channel_id": 182,
+            "start": 780,
+            "end": 876
+        },
+        {
+            "program_id": "beinsportsmax9_fr_bein_sports_le_plus_gran_2026-01-04_0780",
+            "channel_id": 393,
+            "start": 876,
+            "end": 974
+        },
+        {
+            "program_id": "eurosport360_6_fr_a_bient_t_sur_eurosport__2026-01-04_0930",
+            "channel_id": 136,
+            "start": 974,
+            "end": 1004
+        },
+        {
+            "program_id": "canal_fr_fulham_liverpool_2026-01-04_0960",
+            "channel_id": 54,
+            "start": 1004,
+            "end": 1038
+        },
+        {
+            "program_id": "infosport_fr_le_jt_2026-01-04_0675",
+            "channel_id": 187,
+            "start": 1038,
+            "end": 1114
+        },
+        {
+            "program_id": "rmcsport2_fr_cha_ne_v_nementielle_pou_2026-01-04_1080",
+            "channel_id": 292,
+            "start": 1114,
+            "end": 1177
+        },
+        {
+            "program_id": "discoveryscience_f_ob_sit_mon_corps_ma_pris_2026-01-04_1160",
+            "channel_id": 118,
+            "start": 1177,
+            "end": 1210
+        },
+        {
+            "program_id": "angerssco_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 20,
+            "start": 1210,
+            "end": 1240
+        },
+        {
+            "program_id": "recordnews_fr_informa_o_para_voc_cresc_2026-01-04_1140",
+            "channel_id": 308,
+            "start": 1240,
+            "end": 1271
+        },
+        {
+            "program_id": "planete_aande_fr_inexpliqu_saison_4_2026-01-04_1260",
+            "channel_id": 260,
+            "start": 1271,
+            "end": 1302
+        },
+        {
+            "program_id": "lehavre_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 201,
+            "start": 1302,
+            "end": 1355
+        },
+        {
+            "program_id": "planete_aande_fr_ovnis_une_affaire_d_etat_2026-01-04_1348",
+            "channel_id": 260,
+            "start": 1355,
+            "end": 1418
+        }
+    ]
+}

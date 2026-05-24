@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369757_sky_news_today_2026-01-04_0060",
+            "channel_id": 25,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369844_anupamaa_2026-01-04_0090",
+            "channel_id": 73,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "369848_the_foolish_angel_dances_2026-01-04_0120",
+            "channel_id": 75,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "369848_the_foolish_angel_dances_2026-01-04_0150",
+            "channel_id": 75,
+            "start": 150,
+            "end": 180
+        },
+        {
+            "program_id": "412129_laliga_2_2025_26_vallado_2026-01-04_0142",
+            "channel_id": 112,
+            "start": 180,
+            "end": 225
+        },
+        {
+            "program_id": "369840_death_of_a_unicorn_2026-01-04_0210",
+            "channel_id": 71,
+            "start": 225,
+            "end": 291
+        },
+        {
+            "program_id": "412103_bromance_2026-01-04_0210",
+            "channel_id": 94,
+            "start": 291,
+            "end": 335
+        },
+        {
+            "program_id": "482829_end_of_transmission_2026-01-04_0060",
+            "channel_id": 202,
+            "start": 335,
+            "end": 388
+        },
+        {
+            "program_id": "451933_movie_2026-01-04_0300",
+            "channel_id": 187,
+            "start": 388,
+            "end": 445
+        },
+        {
+            "program_id": "369730_mother_vs_mother_2026-01-04_0445",
+            "channel_id": 11,
+            "start": 445,
+            "end": 480
+        },
+        {
+            "program_id": "412165_mega_fights_sergio_marti_2026-01-04_0480",
+            "channel_id": 142,
+            "start": 480,
+            "end": 530
+        },
+        {
+            "program_id": "369754_country_life_of_gen_z_2026-01-04_0530",
+            "channel_id": 24,
+            "start": 530,
+            "end": 575
+        },
+        {
+            "program_id": "412169_final_evening_session_2026-01-04_0480",
+            "channel_id": 145,
+            "start": 575,
+            "end": 690
+        },
+        {
+            "program_id": "430462_live_aus_v_eng_5th_test__2026-01-04_0508",
+            "channel_id": 180,
+            "start": 690,
+            "end": 770
+        },
+        {
+            "program_id": "412099_all_s_well_end_s_well_to_2026-01-04_0740",
+            "channel_id": 91,
+            "start": 770,
+            "end": 810
+        },
+        {
+            "program_id": "412193_tvbs_news_2026-01-04_0780",
+            "channel_id": 166,
+            "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "482832_tata_indian_premier_leag_2026-01-04_0705",
+            "channel_id": 205,
+            "start": 840,
+            "end": 930
+        },
+        {
+            "program_id": "450711_end_of_transmission_2026-01-04_0780",
+            "channel_id": 185,
+            "start": 930,
+            "end": 1005
+        },
+        {
+            "program_id": "412198_tata_indian_premier_leag_2026-01-04_0970",
+            "channel_id": 170,
+            "start": 1005,
+            "end": 1044
+        },
+        {
+            "program_id": "412168_super_game_s15_2026-01-04_1020",
+            "channel_id": 144,
+            "start": 1044,
+            "end": 1080
+        },
+        {
+            "program_id": "412168_eyeshot_to_the_cross_str_2026-01-04_1080",
+            "channel_id": 144,
+            "start": 1080,
+            "end": 1118
+        },
+        {
+            "program_id": "412143_tv_patrol_linggo_live_2026-01-04_1110",
+            "channel_id": 124,
+            "start": 1118,
+            "end": 1155
+        },
+        {
+            "program_id": "412109_africa_live_2026-01-04_1155",
+            "channel_id": 98,
+            "start": 1155,
+            "end": 1185
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_1110",
+            "channel_id": 6,
+            "start": 1185,
+            "end": 1288
+        },
+        {
+            "program_id": "412134_rear_window_2026-01-04_1260",
+            "channel_id": 116,
+            "start": 1288,
+            "end": 1345
+        },
+        {
+            "program_id": "412089_bake_off_the_professiona_2026-01-04_1320",
+            "channel_id": 81,
+            "start": 1345,
+            "end": 1375
+        },
+        {
+            "program_id": "412194_one_royal_holiday_2026-01-04_1320",
+            "channel_id": 167,
+            "start": 1375,
+            "end": 1410
+        }
+    ]
+}

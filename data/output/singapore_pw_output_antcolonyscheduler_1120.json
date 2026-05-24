@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369844_yeh_rishta_kya_kehlata_h_2026-01-04_0060",
+            "channel_id": 73,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369746_kaun_banega_crorepati_20_2026-01-04_0090",
+            "channel_id": 20,
+            "start": 90,
+            "end": 145
+        },
+        {
+            "program_id": "482830_end_of_transmission_2026-01-04_0060",
+            "channel_id": 203,
+            "start": 145,
+            "end": 404
+        },
+        {
+            "program_id": "412164_premier_league_2025_26_2026-01-04_0360",
+            "channel_id": 141,
+            "start": 404,
+            "end": 434
+        },
+        {
+            "program_id": "369716_rookie_blue_season_5_2026-01-04_0420",
+            "channel_id": 1,
+            "start": 434,
+            "end": 465
+        },
+        {
+            "program_id": "482831_end_of_transmission_2026-01-04_0420",
+            "channel_id": 204,
+            "start": 465,
+            "end": 569
+        },
+        {
+            "program_id": "429984_sky_news_2026-01-04_0540",
+            "channel_id": 179,
+            "start": 569,
+            "end": 600
+        },
+        {
+            "program_id": "369846_shaan_2026-01-04_0574",
+            "channel_id": 74,
+            "start": 600,
+            "end": 648
+        },
+        {
+            "program_id": "369742_mencintaimu_bikin_hatiku_2026-01-04_0595",
+            "channel_id": 17,
+            "start": 648,
+            "end": 680
+        },
+        {
+            "program_id": "476879_information_not_availabl_2026-01-04_0420",
+            "channel_id": 195,
+            "start": 680,
+            "end": 735
+        },
+        {
+            "program_id": "412130_end_time_subject_to_chan_2026-01-04_0735",
+            "channel_id": 113,
+            "start": 735,
+            "end": 770
+        },
+        {
+            "program_id": "412175_ucl_classic_matches_inte_2026-01-04_0770",
+            "channel_id": 149,
+            "start": 770,
+            "end": 800
+        },
+        {
+            "program_id": "412089_donal_s_irish_adventure__2026-01-04_0800",
+            "channel_id": 81,
+            "start": 800,
+            "end": 830
+        },
+        {
+            "program_id": "369802_closed_2026-01-04_0420",
+            "channel_id": 48,
+            "start": 830,
+            "end": 964
+        },
+        {
+            "program_id": "369716_boston_blue_season_1_2026-01-04_0945",
+            "channel_id": 1,
+            "start": 964,
+            "end": 1000
+        },
+        {
+            "program_id": "369716_ncis_origins_season_2_2026-01-04_1000",
+            "channel_id": 1,
+            "start": 1000,
+            "end": 1030
+        },
+        {
+            "program_id": "369806_filter_2026-01-04_1030",
+            "channel_id": 51,
+            "start": 1030,
+            "end": 1070
+        },
+        {
+            "program_id": "369765_ancient_aliens_s16_2026-01-04_1040",
+            "channel_id": 28,
+            "start": 1070,
+            "end": 1100
+        },
+        {
+            "program_id": "369806_heart_signal_s8_2026-01-04_1080",
+            "channel_id": 51,
+            "start": 1100,
+            "end": 1130
+        },
+        {
+            "program_id": "412104_stand_up_comedy_academy__2026-01-04_1050",
+            "channel_id": 95,
+            "start": 1130,
+            "end": 1165
+        },
+        {
+            "program_id": "452962_end_of_transmission_2026-01-04_1140",
+            "channel_id": 188,
+            "start": 1165,
+            "end": 1375
+        },
+        {
+            "program_id": "412125_murderous_mother_or_prot_2026-01-04_1375",
+            "channel_id": 109,
+            "start": 1375,
+            "end": 1411
+        }
+    ]
+}

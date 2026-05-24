@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "tele_visionmontreu_t_l_vision_locale_sur_mo_2026-01-04_0000",
+            "channel_id": 328,
+            "start": 0,
+            "end": 90
+        },
+        {
+            "program_id": "cctv_4_fr_le_miroir_de_la_chine_qu_2026-01-04_0000",
+            "channel_id": 83,
+            "start": 90,
+            "end": 278
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0180",
+            "channel_id": 279,
+            "start": 278,
+            "end": 379
+        },
+        {
+            "program_id": "bfmtv_fr_week_end_premi_re_2026-01-04_0360",
+            "channel_id": 45,
+            "start": 379,
+            "end": 560
+        },
+        {
+            "program_id": "13emerue_fr_harry_wild_2026-01-04_0560",
+            "channel_id": 1,
+            "start": 560,
+            "end": 600
+        },
+        {
+            "program_id": "rmctalkinfo_fr_les_grandes_gueules_2026-01-04_0300",
+            "channel_id": 296,
+            "start": 600,
+            "end": 641
+        },
+        {
+            "program_id": "ligue1_7_fr_ligue_1_7_2026-01-04_0600",
+            "channel_id": 211,
+            "start": 641,
+            "end": 679
+        },
+        {
+            "program_id": "t18_fr_chiots_and_chatons_3_moi_2026-01-04_0670",
+            "channel_id": 324,
+            "start": 679,
+            "end": 712
+        },
+        {
+            "program_id": "ligue1_3_fr_ligue_1_3_2026-01-04_0600",
+            "channel_id": 207,
+            "start": 712,
+            "end": 778
+        },
+        {
+            "program_id": "assadissa_fr_la_connaissance_des_pr_c_2026-01-04_0720",
+            "channel_id": 28,
+            "start": 778,
+            "end": 831
+        },
+        {
+            "program_id": "tvei_fr_d_coraz_n_2026-01-04_0785",
+            "channel_id": 348,
+            "start": 831,
+            "end": 882
+        },
+        {
+            "program_id": "mtv_fr_caught_in_the_act_infid__2026-01-04_0874",
+            "channel_id": 223,
+            "start": 882,
+            "end": 913
+        },
+        {
+            "program_id": "parissaint_germain_no_match_today_2026-01-04_0900",
+            "channel_id": 266,
+            "start": 913,
+            "end": 980
+        },
+        {
+            "program_id": "canal_live11_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 63,
+            "start": 980,
+            "end": 1035
+        },
+        {
+            "program_id": "zoneinterdite24_24_zone_interdite_2026-01-04_0845",
+            "channel_id": 383,
+            "start": 1035,
+            "end": 1085
+        },
+        {
+            "program_id": "eurosport360_3_fr_a_bient_t_sur_eurosport__2026-01-04_1020",
+            "channel_id": 133,
+            "start": 1085,
+            "end": 1198
+        },
+        {
+            "program_id": "mggtv_fr_paris_games_week_2026-01-04_1165",
+            "channel_id": 222,
+            "start": 1198,
+            "end": 1230
+        },
+        {
+            "program_id": "kabeleins_fr_un_flic_la_maternelle_2026-01-04_1215",
+            "channel_id": 192,
+            "start": 1230,
+            "end": 1281
+        },
+        {
+            "program_id": "comedie_fr_caroline_estremo_j_aime__2026-01-04_1271",
+            "channel_id": 91,
+            "start": 1281,
+            "end": 1357
+        },
+        {
+            "program_id": "tfx_fr_les_trois_fr_res_2026-01-04_1270",
+            "channel_id": 333,
+            "start": 1357,
+            "end": 1391
+        },
+        {
+            "program_id": "c_sport_fr_l_ann_e_sail_gp_2026-01-04_1336",
+            "channel_id": 53,
+            "start": 1391,
+            "end": 1421
+        }
+    ]
+}

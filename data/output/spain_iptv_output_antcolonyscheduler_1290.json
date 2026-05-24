@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_12_2026-01-04_0000",
+            "channel_id": 165,
+            "start": 0,
+            "end": 55
+        },
+        {
+            "program_id": "m_laligatv5_es_m_laliga_5_2026-01-04_0000",
+            "channel_id": 158,
+            "start": 55,
+            "end": 300
+        },
+        {
+            "program_id": "mtv00s_es_fin_de_emisi_n_2026-01-04_0000",
+            "channel_id": 185,
+            "start": 300,
+            "end": 393
+        },
+        {
+            "program_id": "cazavision_es_caza_mayor_2026-01-04_0393",
+            "channel_id": 56,
+            "start": 393,
+            "end": 425
+        },
+        {
+            "program_id": "m_ligadecampeones4_m_liga_de_campeones_4_2026-01-04_0000",
+            "channel_id": 170,
+            "start": 425,
+            "end": 520
+        },
+        {
+            "program_id": "atreseries_es_con_el_culo_al_aire_2026-01-04_0480",
+            "channel_id": 21,
+            "start": 520,
+            "end": 560
+        },
+        {
+            "program_id": "cdleganes_laliga_no_game_today_2026-01-04_0360",
+            "channel_id": 39,
+            "start": 560,
+            "end": 591
+        },
+        {
+            "program_id": "m_ligadecampeones9_m_liga_de_campeones_9_2026-01-04_0000",
+            "channel_id": 175,
+            "start": 591,
+            "end": 660
+        },
+        {
+            "program_id": "telesur_es_sala_a_2026-01-04_0660",
+            "channel_id": 255,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "toros_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 257,
+            "start": 690,
+            "end": 776
+        },
+        {
+            "program_id": "m_ligadecampeones3_m_liga_de_campeones_3_2026-01-04_0480",
+            "channel_id": 169,
+            "start": 776,
+            "end": 891
+        },
+        {
+            "program_id": "m_losgoya_es_miss_carb_n_2026-01-04_0832",
+            "channel_id": 177,
+            "start": 891,
+            "end": 926
+        },
+        {
+            "program_id": "movistarellasvamos_euroliga_femenina_t25_26_2026-01-04_0875",
+            "channel_id": 195,
+            "start": 926,
+            "end": 956
+        },
+        {
+            "program_id": "bomcine_es_directo_al_grano_2026-01-04_0955",
+            "channel_id": 30,
+            "start": 956,
+            "end": 991
+        },
+        {
+            "program_id": "dazn2_es_premier_league_t25_26_to_2026-01-04_0950",
+            "channel_id": 66,
+            "start": 991,
+            "end": 1021
+        },
+        {
+            "program_id": "amc_es_tercera_identidad_2026-01-04_1005",
+            "channel_id": 6,
+            "start": 1021,
+            "end": 1087
+        },
+        {
+            "program_id": "hollywood_es_tercera_identidad_2026-01-04_1005",
+            "channel_id": 109,
+            "start": 1087,
+            "end": 1130
+        },
+        {
+            "program_id": "m_deportes1_es_primera_feb_t25_26_movis_2026-01-04_1105",
+            "channel_id": 137,
+            "start": 1130,
+            "end": 1191
+        },
+        {
+            "program_id": "m_vamos_es_copa_de_frica_octavos_de_2026-01-04_1190",
+            "channel_id": 130,
+            "start": 1191,
+            "end": 1322
+        },
+        {
+            "program_id": "laligasmartbanktv__laliga_hypermotion_t25_2_2026-01-04_1260",
+            "channel_id": 121,
+            "start": 1322,
+            "end": 1352
+        },
+        {
+            "program_id": "ztv_es_cine_2026-01-04_1320",
+            "channel_id": 267,
+            "start": 1352,
+            "end": 1395
+        },
+        {
+            "program_id": "tcm_es_historias_de_filadelfia_2026-01-04_1320",
+            "channel_id": 234,
+            "start": 1395,
+            "end": 1429
+        }
+    ]
+}

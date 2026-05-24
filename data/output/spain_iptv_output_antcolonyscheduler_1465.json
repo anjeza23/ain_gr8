@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "la7_es_con_la_m_sica_a_todas_pa_2026-01-04_0000",
+            "channel_id": 119,
+            "start": 0,
+            "end": 69
+        },
+        {
+            "program_id": "m_deportes6_es_m_deportes_7_2026-01-04_0000",
+            "channel_id": 142,
+            "start": 69,
+            "end": 298
+        },
+        {
+            "program_id": "realvalladolidcf_l_signing_off_2026-01-04_0255",
+            "channel_id": 223,
+            "start": 298,
+            "end": 426
+        },
+        {
+            "program_id": "ztv_es_teletienda_2026-01-04_0060",
+            "channel_id": 267,
+            "start": 426,
+            "end": 539
+        },
+        {
+            "program_id": "m_ligadecampeones__liga_saud_t25_26_al_itti_2026-01-04_0450",
+            "channel_id": 162,
+            "start": 539,
+            "end": 570
+        },
+        {
+            "program_id": "laligatvbar4_pr_ximo_partido_cacere_o_2026-01-04_0525",
+            "channel_id": 116,
+            "start": 570,
+            "end": 609
+        },
+        {
+            "program_id": "canaldelasestrella_mi_esposa_y_la_otra_2026-01-04_0520",
+            "channel_id": 53,
+            "start": 609,
+            "end": 640
+        },
+        {
+            "program_id": "rccelta_laliga_no_game_today_2026-01-04_0540",
+            "channel_id": 213,
+            "start": 640,
+            "end": 670
+        },
+        {
+            "program_id": "hollywood_1_es_el_informe_pel_cano_2026-01-04_0579",
+            "channel_id": 108,
+            "start": 670,
+            "end": 716
+        },
+        {
+            "program_id": "rtespanol_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 216,
+            "start": 716,
+            "end": 790
+        },
+        {
+            "program_id": "laligatvbar3_es_primera_federaci_n_2026-01-04_0720",
+            "channel_id": 115,
+            "start": 790,
+            "end": 828
+        },
+        {
+            "program_id": "hollywood_1_es_r_o_2026-01-04_0811",
+            "channel_id": 108,
+            "start": 828,
+            "end": 865
+        },
+        {
+            "program_id": "realmadridtv_es_real_madrid_tv_2026-01-04_0720",
+            "channel_id": 221,
+            "start": 865,
+            "end": 915
+        },
+        {
+            "program_id": "deportivoalaves_la_no_game_today_2026-01-04_0840",
+            "channel_id": 74,
+            "start": 915,
+            "end": 964
+        },
+        {
+            "program_id": "realmadridtv_es_real_madrid_tv_2026-01-04_0960",
+            "channel_id": 221,
+            "start": 964,
+            "end": 1037
+        },
+        {
+            "program_id": "cazavision_es_caza_mayor_2026-01-04_1037",
+            "channel_id": 56,
+            "start": 1037,
+            "end": 1067
+        },
+        {
+            "program_id": "ztv_es_cine_2026-01-04_0975",
+            "channel_id": 267,
+            "start": 1067,
+            "end": 1155
+        },
+        {
+            "program_id": "trece_es_evasi_n_o_victoria_2026-01-04_1100",
+            "channel_id": 237,
+            "start": 1155,
+            "end": 1191
+        },
+        {
+            "program_id": "laligatvbar2_es_laliga_2026-01-04_1110",
+            "channel_id": 114,
+            "start": 1191,
+            "end": 1230
+        },
+        {
+            "program_id": "mezzo_es_elisabeth_leonskaja_orch_2026-01-04_1230",
+            "channel_id": 190,
+            "start": 1230,
+            "end": 1283
+        },
+        {
+            "program_id": "esport3_es_dakar_2025_2026-01-04_1240",
+            "channel_id": 93,
+            "start": 1283,
+            "end": 1315
+        },
+        {
+            "program_id": "gol_es_directo_gol_minuto_a_min_2026-01-04_1230",
+            "channel_id": 103,
+            "start": 1315,
+            "end": 1346
+        },
+        {
+            "program_id": "324_es_telenot_cies_vespre_cap__2026-01-04_1322",
+            "channel_id": 2,
+            "start": 1346,
+            "end": 1380
+        },
+        {
+            "program_id": "alquiler1_es_un_gran_viaje_atrevido_y_2026-01-04_1320",
+            "channel_id": 14,
+            "start": 1380,
+            "end": 1416
+        }
+    ]
+}

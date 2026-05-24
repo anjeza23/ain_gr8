@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "nsw_sydneyfoxsport_gameday_live_4_1_26_2026-01-04_0000",
+            "channel_id": 350,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "nsw_sydneyfoxsport_gameday_live_4_1_26_2026-01-04_0030",
+            "channel_id": 350,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "skynewsuk_au_sky_news_2026-01-04_0060",
+            "channel_id": 425,
+            "start": 60,
+            "end": 119
+        },
+        {
+            "program_id": "brisbaneroar_a_lea_signing_off_2026-01-04_0060",
+            "channel_id": 149,
+            "start": 119,
+            "end": 170
+        },
+        {
+            "program_id": "sharks_nrlw_no_match_today_2026-01-04_0120",
+            "channel_id": 453,
+            "start": 170,
+            "end": 211
+        },
+        {
+            "program_id": "lifestylefood_au_rick_stein_s_long_weeken_2026-01-04_0185",
+            "channel_id": 330,
+            "start": 211,
+            "end": 250
+        },
+        {
+            "program_id": "foxtelmoviesaction_ambulance_2026-01-04_0250",
+            "channel_id": 300,
+            "start": 250,
+            "end": 280
+        },
+        {
+            "program_id": "sbsvicelandadelaid_wwe_rivals_2026-01-04_0260",
+            "channel_id": 405,
+            "start": 280,
+            "end": 315
+        },
+        {
+            "program_id": "stan7_au_tbd_v_tbd_group_f_united_2026-01-04_0210",
+            "channel_id": 446,
+            "start": 315,
+            "end": 690
+        },
+        {
+            "program_id": "espnplay37_au_no_match_today_2026-01-04_0600",
+            "channel_id": 222,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 720,
+            "end": 751
+        },
+        {
+            "program_id": "10boldadelaide_au_ncis_2026-01-04_0745",
+            "channel_id": 0,
+            "start": 751,
+            "end": 797
+        },
+        {
+            "program_id": "espnplay13_au_no_match_today_2026-01-04_0600",
+            "channel_id": 196,
+            "start": 797,
+            "end": 831
+        },
+        {
+            "program_id": "brisbaneroar_a_lea_no_match_today_2026-01-04_0780",
+            "channel_id": 149,
+            "start": 831,
+            "end": 888
+        },
+        {
+            "program_id": "classics_au_the_way_we_were_2026-01-04_0885",
+            "channel_id": 172,
+            "start": 888,
+            "end": 918
+        },
+        {
+            "program_id": "cnbc_au_late_night_with_seth_mey_2026-01-04_0900",
+            "channel_id": 159,
+            "start": 918,
+            "end": 958
+        },
+        {
+            "program_id": "sbsdarwin_au_australian_fashion_past__2026-01-04_0920",
+            "channel_id": 390,
+            "start": 958,
+            "end": 994
+        },
+        {
+            "program_id": "collingwood_afl_no_match_today_2026-01-04_0840",
+            "channel_id": 173,
+            "start": 994,
+            "end": 1032
+        },
+        {
+            "program_id": "espnplay65_au_no_match_today_2026-01-04_0840",
+            "channel_id": 253,
+            "start": 1032,
+            "end": 1068
+        },
+        {
+            "program_id": "stan9_au_signing_off_2026-01-04_0960",
+            "channel_id": 448,
+            "start": 1068,
+            "end": 1143
+        },
+        {
+            "program_id": "espnplay38_au_no_match_today_2026-01-04_1080",
+            "channel_id": 223,
+            "start": 1143,
+            "end": 1182
+        },
+        {
+            "program_id": "7darwin_au_nbc_today_2026-01-04_1172",
+            "channel_id": 30,
+            "start": 1182,
+            "end": 1212
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1349
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1350",
+            "channel_id": 2,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

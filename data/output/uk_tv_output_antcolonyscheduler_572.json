@@ -1,0 +1,94 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Channel_74_0",
+            "channel_id": 74,
+            "start": 480,
+            "end": 510
+        },
+        {
+            "program_id": "Channel_83_1",
+            "channel_id": 83,
+            "start": 510,
+            "end": 570
+        },
+        {
+            "program_id": "Channel_72_1",
+            "channel_id": 72,
+            "start": 570,
+            "end": 600
+        },
+        {
+            "program_id": "Channel_44_2",
+            "channel_id": 44,
+            "start": 600,
+            "end": 720
+        },
+        {
+            "program_id": "BBC_Two_3",
+            "channel_id": 1,
+            "start": 720,
+            "end": 780
+        },
+        {
+            "program_id": "Channel_56_5",
+            "channel_id": 56,
+            "start": 780,
+            "end": 825
+        },
+        {
+            "program_id": "Channel_68_6",
+            "channel_id": 68,
+            "start": 825,
+            "end": 900
+        },
+        {
+            "program_id": "Channel_72_7",
+            "channel_id": 72,
+            "start": 900,
+            "end": 945
+        },
+        {
+            "program_id": "Channel_114_6",
+            "channel_id": 114,
+            "start": 945,
+            "end": 975
+        },
+        {
+            "program_id": "Channel_114_7",
+            "channel_id": 114,
+            "start": 975,
+            "end": 1005
+        },
+        {
+            "program_id": "Channel_45_10",
+            "channel_id": 45,
+            "start": 1005,
+            "end": 1125
+        },
+        {
+            "program_id": "Channel_38_12",
+            "channel_id": 38,
+            "start": 1125,
+            "end": 1155
+        },
+        {
+            "program_id": "Channel_72_11",
+            "channel_id": 72,
+            "start": 1155,
+            "end": 1185
+        },
+        {
+            "program_id": "BBC_Two_9",
+            "channel_id": 1,
+            "start": 1185,
+            "end": 1305
+        },
+        {
+            "program_id": "ITV4_12",
+            "channel_id": 9,
+            "start": 1305,
+            "end": 1380
+        }
+    ]
+}

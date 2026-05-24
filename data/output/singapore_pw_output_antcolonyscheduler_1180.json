@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412189_phoenix_intercontinental_2026-01-04_0060",
+            "channel_id": 162,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "482831_end_of_transmission_2026-01-04_0060",
+            "channel_id": 204,
+            "start": 90,
+            "end": 270
+        },
+        {
+            "program_id": "369716_oblivion_2026-01-04_0190",
+            "channel_id": 1,
+            "start": 270,
+            "end": 321
+        },
+        {
+            "program_id": "412117_cinta_2_pilihan_2026-01-04_0300",
+            "channel_id": 104,
+            "start": 321,
+            "end": 360
+        },
+        {
+            "program_id": "369828_saru_2026-01-04_0360",
+            "channel_id": 65,
+            "start": 360,
+            "end": 390
+        },
+        {
+            "program_id": "369745_first_blood_s1_2026-01-04_0360",
+            "channel_id": 19,
+            "start": 390,
+            "end": 420
+        },
+        {
+            "program_id": "412097_naalu_paerukku_nandri_2026-01-04_0390",
+            "channel_id": 89,
+            "start": 420,
+            "end": 525
+        },
+        {
+            "program_id": "369716_boston_blue_season_1_2026-01-04_0515",
+            "channel_id": 1,
+            "start": 525,
+            "end": 565
+        },
+        {
+            "program_id": "472551_end_of_transmission_2026-01-04_0420",
+            "channel_id": 194,
+            "start": 565,
+            "end": 639
+        },
+        {
+            "program_id": "412182_end_of_transmission_2026-01-04_0420",
+            "channel_id": 155,
+            "start": 639,
+            "end": 675
+        },
+        {
+            "program_id": "369766_docfilm_2026-01-04_0675",
+            "channel_id": 29,
+            "start": 675,
+            "end": 717
+        },
+        {
+            "program_id": "369814_jaisi_karni_waisi_bharni_2026-01-04_0660",
+            "channel_id": 56,
+            "start": 717,
+            "end": 815
+        },
+        {
+            "program_id": "482829_end_of_transmission_2026-01-04_0780",
+            "channel_id": 202,
+            "start": 815,
+            "end": 930
+        },
+        {
+            "program_id": "482832_tata_indian_premier_leag_2026-01-04_0705",
+            "channel_id": 205,
+            "start": 930,
+            "end": 970
+        },
+        {
+            "program_id": "482832_tata_indian_premier_leag_2026-01-04_0970",
+            "channel_id": 205,
+            "start": 970,
+            "end": 1000
+        },
+        {
+            "program_id": "369841_best_places_to_pig_out_s_2026-01-04_0996",
+            "channel_id": 72,
+            "start": 1000,
+            "end": 1035
+        },
+        {
+            "program_id": "429563_alpine_skiing_live_2026-01-04_1035",
+            "channel_id": 177,
+            "start": 1035,
+            "end": 1065
+        },
+        {
+            "program_id": "415456_warm_on_a_cold_night_2026-01-04_1050",
+            "channel_id": 176,
+            "start": 1065,
+            "end": 1110
+        },
+        {
+            "program_id": "412165_rabat_2023_episode_1_2026-01-04_1110",
+            "channel_id": 142,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "451933_movie_2026-01-04_1020",
+            "channel_id": 187,
+            "start": 1140,
+            "end": 1185
+        },
+        {
+            "program_id": "412143_rainbow_rumble_sun_2026-01-04_1155",
+            "channel_id": 124,
+            "start": 1185,
+            "end": 1215
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1200",
+            "channel_id": 61,
+            "start": 1215,
+            "end": 1245
+        },
+        {
+            "program_id": "450711_end_of_transmission_2026-01-04_1140",
+            "channel_id": 185,
+            "start": 1245,
+            "end": 1360
+        },
+        {
+            "program_id": "369819_golden_swallow_2026-01-04_1320",
+            "channel_id": 60,
+            "start": 1360,
+            "end": 1403
+        },
+        {
+            "program_id": "412133_premiership_rugby_northa_2026-01-04_1320",
+            "channel_id": 115,
+            "start": 1403,
+            "end": 1435
+        }
+    ]
+}

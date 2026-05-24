@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "nsw_sydneyfoxsport_gameday_live_4_1_26_2026-01-04_0000",
+            "channel_id": 350,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "wintasmania_au_united_cup_day_3_2026-01-04_0030",
+            "channel_id": 486,
+            "start": 30,
+            "end": 94
+        },
+        {
+            "program_id": "stan1_au_day_3_united_cup_2026_2026-01-04_0000",
+            "channel_id": 429,
+            "start": 94,
+            "end": 126
+        },
+        {
+            "program_id": "espnplay82_au_no_match_today_2026-01-04_0120",
+            "channel_id": 272,
+            "start": 126,
+            "end": 313
+        },
+        {
+            "program_id": "espnplay45_au_no_match_today_2026-01-04_0120",
+            "channel_id": 231,
+            "start": 313,
+            "end": 360
+        },
+        {
+            "program_id": "stan2_au_lys_v_lamens_group_f_uni_2026-01-04_0030",
+            "channel_id": 440,
+            "start": 360,
+            "end": 562
+        },
+        {
+            "program_id": "showcase_2_au_downton_abbey_2026-01-04_0550",
+            "channel_id": 423,
+            "start": 562,
+            "end": 640
+        },
+        {
+            "program_id": "stan17_au_no_match_today_2026-01-04_0600",
+            "channel_id": 437,
+            "start": 640,
+            "end": 700
+        },
+        {
+            "program_id": "10boldbrisbane_au_ncis_2026-01-04_0690",
+            "channel_id": 1,
+            "start": 700,
+            "end": 735
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 735,
+            "end": 765
+        },
+        {
+            "program_id": "10boldbrisbane_au_ncis_2026-01-04_0745",
+            "channel_id": 1,
+            "start": 765,
+            "end": 800
+        },
+        {
+            "program_id": "foxtelmoviesultrah_atomic_blonde_2026-01-04_0740",
+            "channel_id": 311,
+            "start": 800,
+            "end": 831
+        },
+        {
+            "program_id": "9gemsydney_au_united_cup_night_3_2026-01-04_0540",
+            "channel_id": 72,
+            "start": 831,
+            "end": 884
+        },
+        {
+            "program_id": "sbshobart_au_australian_fashion_past__2026-01-04_0830",
+            "channel_id": 400,
+            "start": 884,
+            "end": 914
+        },
+        {
+            "program_id": "brisbaneroar_a_lea_no_match_today_2026-01-04_0780",
+            "channel_id": 149,
+            "start": 914,
+            "end": 978
+        },
+        {
+            "program_id": "westernunited_a_le_no_match_today_2026-01-04_0840",
+            "channel_id": 494,
+            "start": 978,
+            "end": 1010
+        },
+        {
+            "program_id": "crime_au_ncis_new_orleans_2026-01-04_0995",
+            "channel_id": 180,
+            "start": 1010,
+            "end": 1040
+        },
+        {
+            "program_id": "espnplay73_au_no_match_today_2026-01-04_0840",
+            "channel_id": 262,
+            "start": 1040,
+            "end": 1080
+        },
+        {
+            "program_id": "espnplay73_au_no_match_today_2026-01-04_1080",
+            "channel_id": 262,
+            "start": 1080,
+            "end": 1113
+        },
+        {
+            "program_id": "stan1_au_hunter_smith_v_eikeri_ru_2026-01-04_0630",
+            "channel_id": 429,
+            "start": 1113,
+            "end": 1155
+        },
+        {
+            "program_id": "adelaidecrows_afl_no_match_today_2026-01-04_1080",
+            "channel_id": 135,
+            "start": 1155,
+            "end": 1203
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1305
+        },
+        {
+            "program_id": "10boldadelaide_au_home_shopping_2026-01-04_1320",
+            "channel_id": 0,
+            "start": 1320,
+            "end": 1350
+        }
+    ]
+}

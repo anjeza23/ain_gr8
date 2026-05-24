@@ -1,0 +1,124 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_laligatv5_es_m_laliga_5_2026-01-04_0000",
+            "channel_id": 158,
+            "start": 0,
+            "end": 65
+        },
+        {
+            "program_id": "atleticodemadrid_l_no_game_today_2026-01-04_0000",
+            "channel_id": 20,
+            "start": 65,
+            "end": 95
+        },
+        {
+            "program_id": "mega_es_pesadilla_en_la_cocina_2026-01-04_0053",
+            "channel_id": 189,
+            "start": 95,
+            "end": 134
+        },
+        {
+            "program_id": "realvalladolidcf_l_signing_off_2026-01-04_0015",
+            "channel_id": 223,
+            "start": 134,
+            "end": 174
+        },
+        {
+            "program_id": "m_deportes4_es_m_deportes_5_2026-01-04_0000",
+            "channel_id": 140,
+            "start": 174,
+            "end": 210
+        },
+        {
+            "program_id": "canalpanda_es_noticias_24h_2026-01-04_0190",
+            "channel_id": 51,
+            "start": 210,
+            "end": 338
+        },
+        {
+            "program_id": "gol_es_teletienda_2026-01-04_0150",
+            "channel_id": 103,
+            "start": 338,
+            "end": 412
+        },
+        {
+            "program_id": "mtv00s_es_fin_de_emisi_n_2026-01-04_0000",
+            "channel_id": 185,
+            "start": 412,
+            "end": 495
+        },
+        {
+            "program_id": "neox_es_neox_kidz_2026-01-04_0353",
+            "channel_id": 205,
+            "start": 495,
+            "end": 722
+        },
+        {
+            "program_id": "crimen_investigaci_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 61,
+            "start": 722,
+            "end": 797
+        },
+        {
+            "program_id": "laligatvbar3_es_primera_federaci_n_2026-01-04_0720",
+            "channel_id": 115,
+            "start": 797,
+            "end": 828
+        },
+        {
+            "program_id": "m_ligadecampeones2_m_liga_de_campeones_2_2026-01-04_0480",
+            "channel_id": 167,
+            "start": 828,
+            "end": 1080
+        },
+        {
+            "program_id": "aljazeeraenglish_e_news_live_2026-01-04_1080",
+            "channel_id": 12,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "m_accion_es_liga_de_la_justicia_2026-01-04_1087",
+            "channel_id": 131,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "canalextremadurasa_la_besana_en_verde_2026-01-04_1140",
+            "channel_id": 50,
+            "start": 1140,
+            "end": 1172
+        },
+        {
+            "program_id": "amc_es_cuando_ramos_soldados_2026-01-04_1140",
+            "channel_id": 5,
+            "start": 1172,
+            "end": 1212
+        },
+        {
+            "program_id": "deportivoalaves_la_no_game_today_2026-01-04_1080",
+            "channel_id": 74,
+            "start": 1212,
+            "end": 1257
+        },
+        {
+            "program_id": "gol_es_directo_gol_minuto_a_min_2026-01-04_1230",
+            "channel_id": 103,
+            "start": 1257,
+            "end": 1353
+        },
+        {
+            "program_id": "tveinternacional_e_cine_2026-01-04_1320",
+            "channel_id": 244,
+            "start": 1353,
+            "end": 1384
+        },
+        {
+            "program_id": "la1catalunya_es_la_pelicula_de_la_semana_2026-01-04_1320",
+            "channel_id": 118,
+            "start": 1384,
+            "end": 1414
+        }
+    ]
+}

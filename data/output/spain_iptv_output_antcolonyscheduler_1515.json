@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "movistarellasvamos_m_ellas_v_2026-01-04_0000",
+            "channel_id": 195,
+            "start": 0,
+            "end": 135
+        },
+        {
+            "program_id": "m_laligatv2_es_m_laliga_2_2026-01-04_0000",
+            "channel_id": 155,
+            "start": 135,
+            "end": 177
+        },
+        {
+            "program_id": "la7_es_espacios_comerciales_2026-01-04_0170",
+            "channel_id": 119,
+            "start": 177,
+            "end": 276
+        },
+        {
+            "program_id": "m_deportes4_es_m_deportes_5_2026-01-04_0000",
+            "channel_id": 140,
+            "start": 276,
+            "end": 353
+        },
+        {
+            "program_id": "m_deportes_es_euroliga_de_baloncesto_t_2026-01-04_0300",
+            "channel_id": 136,
+            "start": 353,
+            "end": 383
+        },
+        {
+            "program_id": "factoriadeficcion__love_shopping_tv_fdf_2026-01-04_0383",
+            "channel_id": 101,
+            "start": 383,
+            "end": 413
+        },
+        {
+            "program_id": "eurosport1_es_copa_del_mundo_de_esqu_d_2026-01-04_0360",
+            "channel_id": 95,
+            "start": 413,
+            "end": 450
+        },
+        {
+            "program_id": "sevillafc_laliga_next_game_laliga_santand_2026-01-04_0360",
+            "channel_id": 226,
+            "start": 450,
+            "end": 493
+        },
+        {
+            "program_id": "dazn4_es_disfruta_de_dazn_en_movi_2026-01-04_0360",
+            "channel_id": 68,
+            "start": 493,
+            "end": 535
+        },
+        {
+            "program_id": "m_deportes_es_euroliga_de_baloncesto_t_2026-01-04_0510",
+            "channel_id": 136,
+            "start": 535,
+            "end": 565
+        },
+        {
+            "program_id": "m_cracks_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 135,
+            "start": 565,
+            "end": 596
+        },
+        {
+            "program_id": "mezzolive_es_mozart_don_giovanni_vice_2026-01-04_0596",
+            "channel_id": 191,
+            "start": 596,
+            "end": 626
+        },
+        {
+            "program_id": "m_ligadecampeones3_m_liga_de_campeones_3_2026-01-04_0480",
+            "channel_id": 169,
+            "start": 626,
+            "end": 669
+        },
+        {
+            "program_id": "m_0_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 129,
+            "start": 669,
+            "end": 835
+        },
+        {
+            "program_id": "m_laligatv2_es_m_laliga_2_2026-01-04_0480",
+            "channel_id": 155,
+            "start": 835,
+            "end": 909
+        },
+        {
+            "program_id": "mezzolive_es_salle_m_tropole_2026-01-04_0876",
+            "channel_id": 191,
+            "start": 909,
+            "end": 995
+        },
+        {
+            "program_id": "enfamilia_es_directo_al_grano_2026-01-04_0955",
+            "channel_id": 92,
+            "start": 995,
+            "end": 1045
+        },
+        {
+            "program_id": "buenviaje_es_tercera_identidad_2026-01-04_1005",
+            "channel_id": 37,
+            "start": 1045,
+            "end": 1109
+        },
+        {
+            "program_id": "m_accion_es_liga_de_la_justicia_2026-01-04_1087",
+            "channel_id": 131,
+            "start": 1109,
+            "end": 1149
+        },
+        {
+            "program_id": "rccelta_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 213,
+            "start": 1149,
+            "end": 1179
+        },
+        {
+            "program_id": "m_0_es_malas_lenguas_2026-01-04_1175",
+            "channel_id": 129,
+            "start": 1179,
+            "end": 1215
+        },
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_1200",
+            "channel_id": 2,
+            "start": 1215,
+            "end": 1254
+        },
+        {
+            "program_id": "daznlaliga_es_laliga_ea_sports_t25_26__2026-01-04_1230",
+            "channel_id": 71,
+            "start": 1254,
+            "end": 1286
+        },
+        {
+            "program_id": "calle13_es_l_grimas_del_sol_2026-01-04_1202",
+            "channel_id": 45,
+            "start": 1286,
+            "end": 1320
+        },
+        {
+            "program_id": "m_laligatv_es_informe_plus_pepe_reina__2026-01-04_1315",
+            "channel_id": 154,
+            "start": 1320,
+            "end": 1350
+        },
+        {
+            "program_id": "telesur_es_telesur_noticias_2026-01-04_1350",
+            "channel_id": 255,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "comedycentral_es_mamma_mia_una_y_otra_vez_2026-01-04_1285",
+            "channel_id": 60,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

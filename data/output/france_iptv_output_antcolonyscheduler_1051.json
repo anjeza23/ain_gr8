@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "tvgeuropa_fr_a_liga_dos_cantantes_ext_2026-01-04_0000",
+            "channel_id": 349,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "canal32_fr_rediffusion_en_boucle_2026-01-04_0000",
+            "channel_id": 97,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "canal_live5_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 75,
+            "start": 60,
+            "end": 145
+        },
+        {
+            "program_id": "luckyjack_fr_world_poker_tour_greates_2026-01-04_0138",
+            "channel_id": 216,
+            "start": 145,
+            "end": 178
+        },
+        {
+            "program_id": "francetvseries_rendez_vous_11h30_2026-01-04_0037",
+            "channel_id": 174,
+            "start": 178,
+            "end": 209
+        },
+        {
+            "program_id": "babytv_fr_ciel_2026-01-04_0000",
+            "channel_id": 46,
+            "start": 209,
+            "end": 244
+        },
+        {
+            "program_id": "showmax_fr_showmax_2026-01-04_0000",
+            "channel_id": 313,
+            "start": 244,
+            "end": 278
+        },
+        {
+            "program_id": "beinsportsmax4_fr_bein_sports_le_plus_gran_2026-01-04_0240",
+            "channel_id": 388,
+            "start": 278,
+            "end": 354
+        },
+        {
+            "program_id": "hunansatellitetv_f_cha_ne_chinoise_de_diver_2026-01-04_0060",
+            "channel_id": 182,
+            "start": 354,
+            "end": 394
+        },
+        {
+            "program_id": "angerstele_fr_angers_t_l_actualit_de_m_2026-01-04_0360",
+            "channel_id": 21,
+            "start": 394,
+            "end": 505
+        },
+        {
+            "program_id": "ligue1_10_fr_ligue_1_10_2026-01-04_0420",
+            "channel_id": 205,
+            "start": 505,
+            "end": 544
+        },
+        {
+            "program_id": "staderennais_fr_no_match_today_2026-01-04_0420",
+            "channel_id": 320,
+            "start": 544,
+            "end": 589
+        },
+        {
+            "program_id": "alarabiya_fr_cha_ne_d_information_sao_2026-01-04_0540",
+            "channel_id": 11,
+            "start": 589,
+            "end": 657
+        },
+        {
+            "program_id": "cine_classic_fr_l_homme_qui_tua_liberty__2026-01-04_0607",
+            "channel_id": 104,
+            "start": 657,
+            "end": 687
+        },
+        {
+            "program_id": "infosport_fr_le_jt_2026-01-04_0675",
+            "channel_id": 187,
+            "start": 687,
+            "end": 932
+        },
+        {
+            "program_id": "canal_live19_fr_vivez_en_direct_les_v_ne_2026-01-04_0720",
+            "channel_id": 71,
+            "start": 932,
+            "end": 962
+        },
+        {
+            "program_id": "francetvdocs_fr_25_kilos_3_jours_pour_vi_2026-01-04_0962",
+            "channel_id": 173,
+            "start": 962,
+            "end": 1000
+        },
+        {
+            "program_id": "oltv_fr_football_ligue_europa_ly_2026-01-04_0945",
+            "channel_id": 252,
+            "start": 1000,
+            "end": 1065
+        },
+        {
+            "program_id": "kanal7avrupa_fr_gelin_2026-01-04_1020",
+            "channel_id": 193,
+            "start": 1065,
+            "end": 1102
+        },
+        {
+            "program_id": "rmcsportlive3_fr_cha_ne_v_nementielle_pou_2026-01-04_1080",
+            "channel_id": 294,
+            "start": 1102,
+            "end": 1188
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_1140",
+            "channel_id": 272,
+            "start": 1188,
+            "end": 1283
+        },
+        {
+            "program_id": "canal_grandecran_f_interstellar_2026-01-04_1264",
+            "channel_id": 59,
+            "start": 1283,
+            "end": 1317
+        },
+        {
+            "program_id": "staderennais_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 320,
+            "start": 1317,
+            "end": 1361
+        },
+        {
+            "program_id": "ushuaiatv_fr_terres_de_volcans_2026-01-04_1345",
+            "channel_id": 372,
+            "start": 1361,
+            "end": 1392
+        },
+        {
+            "program_id": "france3_franche_co_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 156,
+            "start": 1392,
+            "end": 1429
+        }
+    ]
+}

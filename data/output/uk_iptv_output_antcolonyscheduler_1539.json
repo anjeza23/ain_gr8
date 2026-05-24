@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "gaago2_uk_no_game_today_2026-01-04_0000",
+            "channel_id": 309,
+            "start": 0,
+            "end": 89
+        },
+        {
+            "program_id": "tntsportsultimate__this_is_tnt_sports_ultim_2026-01-04_0000",
+            "channel_id": 821,
+            "start": 89,
+            "end": 155
+        },
+        {
+            "program_id": "talksport_uk_extra_time_2026-01-04_0120",
+            "channel_id": 902,
+            "start": 155,
+            "end": 312
+        },
+        {
+            "program_id": "maidenheadunited_n_no_game_today_2026-01-04_0180",
+            "channel_id": 437,
+            "start": 312,
+            "end": 373
+        },
+        {
+            "program_id": "bbcrulster_uk_as_bbc_radio_5_live_2026-01-04_0120",
+            "channel_id": 121,
+            "start": 373,
+            "end": 429
+        },
+        {
+            "program_id": "sikhchannel_uk_assa_di_vaar_2026-01-04_0360",
+            "channel_id": 636,
+            "start": 429,
+            "end": 480
+        },
+        {
+            "program_id": "ss_event58_uk_no_game_today_2026-01-04_0420",
+            "channel_id": 618,
+            "start": 480,
+            "end": 518
+        },
+        {
+            "program_id": "tntsportsboxoffice_channel_off_air_2026-01-04_0480",
+            "channel_id": 820,
+            "start": 518,
+            "end": 582
+        },
+        {
+            "program_id": "ipswichtown_efl_no_game_today_2026-01-04_0420",
+            "channel_id": 389,
+            "start": 582,
+            "end": 627
+        },
+        {
+            "program_id": "walsallfc_efl_no_game_today_2026-01-04_0420",
+            "channel_id": 881,
+            "start": 627,
+            "end": 660
+        },
+        {
+            "program_id": "tntsportsboxoffice_channel_off_air_2026-01-04_0480",
+            "channel_id": 819,
+            "start": 660,
+            "end": 770
+        },
+        {
+            "program_id": "channel4_1_uk_sunday_brunch_2026-01-04_0720",
+            "channel_id": 177,
+            "start": 770,
+            "end": 855
+        },
+        {
+            "program_id": "gaago4_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 311,
+            "start": 855,
+            "end": 885
+        },
+        {
+            "program_id": "hibernian_spfl_no_game_today_2026-01-04_0780",
+            "channel_id": 345,
+            "start": 885,
+            "end": 973
+        },
+        {
+            "program_id": "itv1channelislands_indiana_jones_and_the_ki_2026-01-04_0935",
+            "channel_id": 363,
+            "start": 973,
+            "end": 1003
+        },
+        {
+            "program_id": "amazonukevent18_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 33,
+            "start": 1003,
+            "end": 1065
+        },
+        {
+            "program_id": "doncasterroversfc__no_game_today_2026-01-04_0900",
+            "channel_id": 232,
+            "start": 1065,
+            "end": 1134
+        },
+        {
+            "program_id": "stvnorth_uk_the_super_mario_bros_mov_2026-01-04_1070",
+            "channel_id": 629,
+            "start": 1134,
+            "end": 1169
+        },
+        {
+            "program_id": "blackburnrovers_ef_signing_off_2026-01-04_1095",
+            "channel_id": 143,
+            "start": 1169,
+            "end": 1229
+        },
+        {
+            "program_id": "ss_event24_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 581,
+            "start": 1229,
+            "end": 1260
+        },
+        {
+            "program_id": "bbcr5sx_uk_ashes_highlights_2026-01-04_1260",
+            "channel_id": 115,
+            "start": 1260,
+            "end": 1294
+        },
+        {
+            "program_id": "virginmediamore_ie_virgin_media_2026-01-04_1140",
+            "channel_id": 873,
+            "start": 1294,
+            "end": 1372
+        },
+        {
+            "program_id": "itv4_uk_english_football_league__2026-01-04_1320",
+            "channel_id": 383,
+            "start": 1372,
+            "end": 1405
+        },
+        {
+            "program_id": "great_tv_uk_airplane_2026-01-04_1377",
+            "channel_id": 327,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

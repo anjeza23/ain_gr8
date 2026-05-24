@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_deportes7_es_m_deportes_8_2026-01-04_0000",
+            "channel_id": 143,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_11_2026-01-04_0000",
+            "channel_id": 164,
+            "start": 30,
+            "end": 89
+        },
+        {
+            "program_id": "amccrime_es_cuando_ramos_soldados_2026-01-04_0085",
+            "channel_id": 8,
+            "start": 89,
+            "end": 135
+        },
+        {
+            "program_id": "m_ligadecampeones9_m_liga_de_campeones_9_2026-01-04_0000",
+            "channel_id": 175,
+            "start": 135,
+            "end": 310
+        },
+        {
+            "program_id": "blaze_es_noticias_24h_2026-01-04_0190",
+            "channel_id": 34,
+            "start": 310,
+            "end": 340
+        },
+        {
+            "program_id": "ubeat_es_superliga_split_verano_2_2026-01-04_0315",
+            "channel_id": 259,
+            "start": 340,
+            "end": 375
+        },
+        {
+            "program_id": "neox_es_neox_kidz_2026-01-04_0353",
+            "channel_id": 205,
+            "start": 375,
+            "end": 405
+        },
+        {
+            "program_id": "tvchile_es_chile_conectado_2026-01-04_0405",
+            "channel_id": 242,
+            "start": 405,
+            "end": 607
+        },
+        {
+            "program_id": "canalextremadurasa_esta_es_mi_casa_2026-01-04_0600",
+            "channel_id": 50,
+            "start": 607,
+            "end": 710
+        },
+        {
+            "program_id": "m_0_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 129,
+            "start": 710,
+            "end": 769
+        },
+        {
+            "program_id": "realmadridtv_es_real_madrid_tv_2026-01-04_0720",
+            "channel_id": 221,
+            "start": 769,
+            "end": 799
+        },
+        {
+            "program_id": "bbcearth_es_the_y_el_dinosaurio_giga_2026-01-04_0799",
+            "channel_id": 22,
+            "start": 799,
+            "end": 829
+        },
+        {
+            "program_id": "syfy_es_spider_man_cruzando_el_m_2026-01-04_0765",
+            "channel_id": 225,
+            "start": 829,
+            "end": 882
+        },
+        {
+            "program_id": "movistarellasvamos_euroliga_femenina_t25_26_2026-01-04_0875",
+            "channel_id": 195,
+            "start": 882,
+            "end": 921
+        },
+        {
+            "program_id": "cdleganes_laliga_no_game_today_2026-01-04_0840",
+            "channel_id": 39,
+            "start": 921,
+            "end": 1065
+        },
+        {
+            "program_id": "buenviaje_es_tercera_identidad_2026-01-04_1005",
+            "channel_id": 37,
+            "start": 1065,
+            "end": 1115
+        },
+        {
+            "program_id": "valenciacf_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 261,
+            "start": 1115,
+            "end": 1224
+        },
+        {
+            "program_id": "cnnint_es_cnn_newsroom_sunday_2026-01-04_1200",
+            "channel_id": 43,
+            "start": 1224,
+            "end": 1255
+        },
+        {
+            "program_id": "8tv_es_telediario_2_2026-01-04_1255",
+            "channel_id": 4,
+            "start": 1255,
+            "end": 1296
+        },
+        {
+            "program_id": "daznlaliga2_es_laliga_ea_sports_se_al_m_2026-01-04_1260",
+            "channel_id": 72,
+            "start": 1296,
+            "end": 1345
+        },
+        {
+            "program_id": "tveinternacional_e_cine_2026-01-04_1320",
+            "channel_id": 244,
+            "start": 1345,
+            "end": 1375
+        },
+        {
+            "program_id": "la1_es_cine_2026-01-04_1320",
+            "channel_id": 112,
+            "start": 1375,
+            "end": 1405
+        },
+        {
+            "program_id": "bbctopgear_es_top_gear_2026-01-04_1385",
+            "channel_id": 27,
+            "start": 1405,
+            "end": 1436
+        }
+    ]
+}

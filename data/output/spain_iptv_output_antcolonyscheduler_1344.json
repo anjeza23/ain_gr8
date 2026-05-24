@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_0000",
+            "channel_id": 2,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_0030",
+            "channel_id": 2,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "ewtn_es_ewtn_2026-01-04_0060",
+            "channel_id": 87,
+            "start": 60,
+            "end": 142
+        },
+        {
+            "program_id": "recordtv_es_entrelinhas_2026-01-04_0110",
+            "channel_id": 224,
+            "start": 142,
+            "end": 175
+        },
+        {
+            "program_id": "recordtv_es_saindo_da_crise_2026-01-04_0175",
+            "channel_id": 224,
+            "start": 175,
+            "end": 205
+        },
+        {
+            "program_id": "dazn3_es_boxeo_velada_serrano_vs__2026-01-04_0120",
+            "channel_id": 67,
+            "start": 205,
+            "end": 335
+        },
+        {
+            "program_id": "ubeat_es_superliga_split_verano_2_2026-01-04_0315",
+            "channel_id": 259,
+            "start": 335,
+            "end": 375
+        },
+        {
+            "program_id": "historia_es_luther_2026-01-04_0375",
+            "channel_id": 107,
+            "start": 375,
+            "end": 405
+        },
+        {
+            "program_id": "fcbarcelona_laliga_signing_off_2026-01-04_0405",
+            "channel_id": 99,
+            "start": 405,
+            "end": 435
+        },
+        {
+            "program_id": "realsociedad_lalig_no_game_today_2026-01-04_0360",
+            "channel_id": 222,
+            "start": 435,
+            "end": 536
+        },
+        {
+            "program_id": "neox_es_neox_kidz_2026-01-04_0353",
+            "channel_id": 205,
+            "start": 536,
+            "end": 657
+        },
+        {
+            "program_id": "daznlaliga_es_dazn_laliga_2026-01-04_0360",
+            "channel_id": 71,
+            "start": 657,
+            "end": 696
+        },
+        {
+            "program_id": "sevillafc_laliga_next_game_laliga_santand_2026-01-04_0600",
+            "channel_id": 226,
+            "start": 696,
+            "end": 729
+        },
+        {
+            "program_id": "m_m_sica_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 178,
+            "start": 729,
+            "end": 779
+        },
+        {
+            "program_id": "m_laligatv2_es_m_laliga_2_2026-01-04_0480",
+            "channel_id": 155,
+            "start": 779,
+            "end": 1027
+        },
+        {
+            "program_id": "rcdespanyoldebarce_no_game_today_2026-01-04_1020",
+            "channel_id": 214,
+            "start": 1027,
+            "end": 1104
+        },
+        {
+            "program_id": "bbcworld_es_bbc_world_news_2026-01-04_1080",
+            "channel_id": 28,
+            "start": 1104,
+            "end": 1136
+        },
+        {
+            "program_id": "eurosport3_es_la_promesa_2026-01-04_1115",
+            "channel_id": 97,
+            "start": 1136,
+            "end": 1174
+        },
+        {
+            "program_id": "daznlaliga2_es_laliga_ea_sports_t25_26__2026-01-04_1080",
+            "channel_id": 72,
+            "start": 1174,
+            "end": 1231
+        },
+        {
+            "program_id": "gol_es_directo_gol_minuto_a_min_2026-01-04_1230",
+            "channel_id": 103,
+            "start": 1231,
+            "end": 1327
+        },
+        {
+            "program_id": "la7_es_el_ltimo_gran_mago_2026-01-04_1325",
+            "channel_id": 119,
+            "start": 1327,
+            "end": 1372
+        },
+        {
+            "program_id": "natgeowild_es_el_incre_ble_doctor_pol_2026-01-04_1360",
+            "channel_id": 200,
+            "start": 1372,
+            "end": 1405
+        },
+        {
+            "program_id": "alquiler1_es_un_gran_viaje_atrevido_y_2026-01-04_1320",
+            "channel_id": 14,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

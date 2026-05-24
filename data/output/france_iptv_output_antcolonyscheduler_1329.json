@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "ligue1_fr_le_club_2026-01-04_0000",
+            "channel_id": 204,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "bfm2_fr_la_nuit_bfm2_2026-01-04_0000",
+            "channel_id": 39,
+            "start": 30,
+            "end": 161
+        },
+        {
+            "program_id": "ortb_fr_la_cha_ne_g_n_raliste_du_2026-01-04_0060",
+            "channel_id": 253,
+            "start": 161,
+            "end": 267
+        },
+        {
+            "program_id": "raistoria_fr_blitz_2026-01-04_0255",
+            "channel_id": 283,
+            "start": 267,
+            "end": 297
+        },
+        {
+            "program_id": "arryadia_fr_la_cha_ne_du_sport_maroc_2026-01-04_0000",
+            "channel_id": 25,
+            "start": 297,
+            "end": 330
+        },
+        {
+            "program_id": "phoenixcne_fr_cultural_canvas_2026-01-04_0330",
+            "channel_id": 267,
+            "start": 330,
+            "end": 360
+        },
+        {
+            "program_id": "dubaitv_fr_la_cha_ne_tatique_des_em_2026-01-04_0360",
+            "channel_id": 120,
+            "start": 360,
+            "end": 474
+        },
+        {
+            "program_id": "olympiatv_fr_la_cha_ne_de_vos_soir_es_2026-01-04_0091",
+            "channel_id": 255,
+            "start": 474,
+            "end": 549
+        },
+        {
+            "program_id": "m6music_fr_hits_m6_music_2026-01-04_0360",
+            "channel_id": 219,
+            "start": 549,
+            "end": 604
+        },
+        {
+            "program_id": "benficatv_fr_football_championnat_du__2026-01-04_0538",
+            "channel_id": 47,
+            "start": 604,
+            "end": 659
+        },
+        {
+            "program_id": "beinsportsmax7_fr_bein_sports_le_plus_gran_2026-01-04_0540",
+            "channel_id": 391,
+            "start": 659,
+            "end": 767
+        },
+        {
+            "program_id": "eurosport360_2_fr_tennis_united_cup_v_mbok_2026-01-04_0690",
+            "channel_id": 132,
+            "start": 767,
+            "end": 797
+        },
+        {
+            "program_id": "echorouknews_fr_sois_le_premier_savoir_2026-01-04_0720",
+            "channel_id": 125,
+            "start": 797,
+            "end": 860
+        },
+        {
+            "program_id": "rmcsport2_fr_cha_ne_v_nementielle_pou_2026-01-04_0720",
+            "channel_id": 292,
+            "start": 860,
+            "end": 897
+        },
+        {
+            "program_id": "toonami_fr_la_ligue_des_justiciers__2026-01-04_0865",
+            "channel_id": 338,
+            "start": 897,
+            "end": 945
+        },
+        {
+            "program_id": "canalq_fr_cam_es_tv_magazine_2026-01-04_0906",
+            "channel_id": 99,
+            "start": 945,
+            "end": 984
+        },
+        {
+            "program_id": "stingrayclassica_f_mozart_le_nozze_di_figar_2026-01-04_0845",
+            "channel_id": 314,
+            "start": 984,
+            "end": 1016
+        },
+        {
+            "program_id": "angerssco_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 20,
+            "start": 1016,
+            "end": 1065
+        },
+        {
+            "program_id": "l_equipe_fr_fl_chettes_championnat_d_2026-01-04_0995",
+            "channel_id": 195,
+            "start": 1065,
+            "end": 1114
+        },
+        {
+            "program_id": "c_sport_fr_norris_la_nouvelle_vague_2026-01-04_1096",
+            "channel_id": 53,
+            "start": 1114,
+            "end": 1145
+        },
+        {
+            "program_id": "lille_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 214,
+            "start": 1145,
+            "end": 1217
+        },
+        {
+            "program_id": "cmc_fr_china_movie_channel_la_c_2026-01-04_1140",
+            "channel_id": 87,
+            "start": 1217,
+            "end": 1247
+        },
+        {
+            "program_id": "eurosport360_2_fr_a_bient_t_sur_eurosport__2026-01-04_1200",
+            "channel_id": 132,
+            "start": 1247,
+            "end": 1289
+        },
+        {
+            "program_id": "almasriya_fr_al_masriya_2026-01-04_1200",
+            "channel_id": 19,
+            "start": 1289,
+            "end": 1361
+        },
+        {
+            "program_id": "incroyablestransfo_incroyables_transformati_2026-01-04_1335",
+            "channel_id": 188,
+            "start": 1361,
+            "end": 1395
+        },
+        {
+            "program_id": "c_sport_fr_l_ann_e_sail_gp_2026-01-04_1336",
+            "channel_id": 53,
+            "start": 1395,
+            "end": 1429
+        }
+    ]
+}

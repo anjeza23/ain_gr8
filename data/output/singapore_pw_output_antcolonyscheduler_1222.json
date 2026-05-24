@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412141_pandian_stores_thanthai__2026-01-04_0060",
+            "channel_id": 122,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369844_anupamaa_2026-01-04_0090",
+            "channel_id": 73,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "455186_end_of_transmission_2026-01-04_0060",
+            "channel_id": 190,
+            "start": 120,
+            "end": 260
+        },
+        {
+            "program_id": "412138_bheemla_nayak_2026-01-04_0257",
+            "channel_id": 119,
+            "start": 260,
+            "end": 311
+        },
+        {
+            "program_id": "369750_laliga_2025_26_tbc_v_tbc_2026-01-04_0295",
+            "channel_id": 22,
+            "start": 311,
+            "end": 420
+        },
+        {
+            "program_id": "412187_race_2026-01-04_0300",
+            "channel_id": 160,
+            "start": 420,
+            "end": 564
+        },
+        {
+            "program_id": "412103_arabikkadha_2026-01-04_0510",
+            "channel_id": 94,
+            "start": 564,
+            "end": 599
+        },
+        {
+            "program_id": "451933_movie_2026-01-04_0480",
+            "channel_id": 187,
+            "start": 599,
+            "end": 655
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 655,
+            "end": 730
+        },
+        {
+            "program_id": "412179_cycle_around_japan_highl_2026-01-04_0730",
+            "channel_id": 152,
+            "start": 730,
+            "end": 760
+        },
+        {
+            "program_id": "369754_love_me_2026-01-04_0720",
+            "channel_id": 24,
+            "start": 760,
+            "end": 795
+        },
+        {
+            "program_id": "412175_ucl_classic_matches_inte_2026-01-04_0770",
+            "channel_id": 149,
+            "start": 795,
+            "end": 830
+        },
+        {
+            "program_id": "412182_end_of_transmission_2026-01-04_0780",
+            "channel_id": 155,
+            "start": 830,
+            "end": 955
+        },
+        {
+            "program_id": "482827_wta_finals_riyadh_double_2026-01-04_0900",
+            "channel_id": 201,
+            "start": 955,
+            "end": 985
+        },
+        {
+            "program_id": "430462_live_m22_mls_v_mlr_2026-01-04_0960",
+            "channel_id": 180,
+            "start": 985,
+            "end": 1110
+        },
+        {
+            "program_id": "412178_the_magazine_for_africa__2026-01-04_1110",
+            "channel_id": 151,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "484241_silong_2026-01-04_1140",
+            "channel_id": 208,
+            "start": 1140,
+            "end": 1260
+        },
+        {
+            "program_id": "412145_phoenix_focus_4_1_26_2026-01-04_1260",
+            "channel_id": 126,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "451933_movie_2026-01-04_1200",
+            "channel_id": 187,
+            "start": 1290,
+            "end": 1325
+        },
+        {
+            "program_id": "412194_one_royal_holiday_2026-01-04_1320",
+            "channel_id": 167,
+            "start": 1325,
+            "end": 1355
+        },
+        {
+            "program_id": "412142_china_before_china_2026-01-04_1342",
+            "channel_id": 123,
+            "start": 1355,
+            "end": 1403
+        },
+        {
+            "program_id": "369819_golden_swallow_2026-01-04_1320",
+            "channel_id": 60,
+            "start": 1403,
+            "end": 1433
+        }
+    ]
+}

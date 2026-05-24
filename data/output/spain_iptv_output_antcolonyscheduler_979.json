@@ -1,0 +1,118 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_laligatv5_es_m_laliga_5_2026-01-04_0000",
+            "channel_id": 158,
+            "start": 0,
+            "end": 55
+        },
+        {
+            "program_id": "daznlaliga2_es_dazn_laliga_2_2026-01-04_0000",
+            "channel_id": 72,
+            "start": 55,
+            "end": 86
+        },
+        {
+            "program_id": "antena3_es_la_ruleta_de_la_suerte_n_2026-01-04_0053",
+            "channel_id": 16,
+            "start": 86,
+            "end": 116
+        },
+        {
+            "program_id": "laligasmartbanktv3_laliga_tv_hypermotion_3_2026-01-04_0000",
+            "channel_id": 123,
+            "start": 116,
+            "end": 146
+        },
+        {
+            "program_id": "m_accion_es_asesinato_en_8_mm_2026-01-04_0140",
+            "channel_id": 131,
+            "start": 146,
+            "end": 218
+        },
+        {
+            "program_id": "tvcanaria_es_programa_por_determinar_2026-01-04_0000",
+            "channel_id": 241,
+            "start": 218,
+            "end": 248
+        },
+        {
+            "program_id": "laligasmartbanktv__laliga_tv_hypermotion_2026-01-04_0060",
+            "channel_id": 121,
+            "start": 248,
+            "end": 416
+        },
+        {
+            "program_id": "m_laligatv3_es_m_laliga_3_2026-01-04_0000",
+            "channel_id": 156,
+            "start": 416,
+            "end": 513
+        },
+        {
+            "program_id": "neox_es_neox_kidz_2026-01-04_0353",
+            "channel_id": 205,
+            "start": 513,
+            "end": 771
+        },
+        {
+            "program_id": "solmusica_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 228,
+            "start": 771,
+            "end": 837
+        },
+        {
+            "program_id": "m_ligadecampeones3_m_liga_de_campeones_3_2026-01-04_0480",
+            "channel_id": 169,
+            "start": 837,
+            "end": 970
+        },
+        {
+            "program_id": "cdleganes_laliga_no_game_today_2026-01-04_0840",
+            "channel_id": 39,
+            "start": 970,
+            "end": 1018
+        },
+        {
+            "program_id": "historia_es_tercera_identidad_2026-01-04_1005",
+            "channel_id": 107,
+            "start": 1018,
+            "end": 1092
+        },
+        {
+            "program_id": "rcdespanyoldebarce_no_game_today_2026-01-04_1020",
+            "channel_id": 214,
+            "start": 1092,
+            "end": 1229
+        },
+        {
+            "program_id": "athleticclub_lalig_no_game_today_2026-01-04_1020",
+            "channel_id": 19,
+            "start": 1229,
+            "end": 1260
+        },
+        {
+            "program_id": "boing_es_cine_2026-01-04_1196",
+            "channel_id": 36,
+            "start": 1260,
+            "end": 1298
+        },
+        {
+            "program_id": "amcbreak_es_pu_ales_por_la_espalda_2026-01-04_1275",
+            "channel_id": 7,
+            "start": 1298,
+            "end": 1352
+        },
+        {
+            "program_id": "alquiler_es_un_gran_viaje_atrevido_y_2026-01-04_1320",
+            "channel_id": 13,
+            "start": 1352,
+            "end": 1403
+        },
+        {
+            "program_id": "tcm_es_historias_de_filadelfia_2026-01-04_1320",
+            "channel_id": 234,
+            "start": 1403,
+            "end": 1435
+        }
+    ]
+}

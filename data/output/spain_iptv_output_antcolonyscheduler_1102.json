@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "laligasmartbanktv3_laliga_tv_hypermotion_3_2026-01-04_0000",
+            "channel_id": 123,
+            "start": 0,
+            "end": 84
+        },
+        {
+            "program_id": "realvalladolidcf_l_signing_off_2026-01-04_0015",
+            "channel_id": 223,
+            "start": 84,
+            "end": 237
+        },
+        {
+            "program_id": "gol_es_teletienda_2026-01-04_0150",
+            "channel_id": 103,
+            "start": 237,
+            "end": 334
+        },
+        {
+            "program_id": "ubeat_es_superliga_split_verano_2_2026-01-04_0315",
+            "channel_id": 259,
+            "start": 334,
+            "end": 375
+        },
+        {
+            "program_id": "m_indie_es_el_buen_italiano_2026-01-04_0361",
+            "channel_id": 152,
+            "start": 375,
+            "end": 459
+        },
+        {
+            "program_id": "dazn3_es_disfruta_de_dazn_en_movi_2026-01-04_0420",
+            "channel_id": 67,
+            "start": 459,
+            "end": 538
+        },
+        {
+            "program_id": "movistarplus_2_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 197,
+            "start": 538,
+            "end": 580
+        },
+        {
+            "program_id": "athleticclub_lalig_no_game_today_2026-01-04_0540",
+            "channel_id": 19,
+            "start": 580,
+            "end": 614
+        },
+        {
+            "program_id": "24horas_es_noticias_24h_2026-01-04_0480",
+            "channel_id": 1,
+            "start": 614,
+            "end": 855
+        },
+        {
+            "program_id": "gironafc_laliga_no_game_today_2026-01-04_0840",
+            "channel_id": 105,
+            "start": 855,
+            "end": 988
+        },
+        {
+            "program_id": "foxnews_es_directo_al_grano_2026-01-04_0955",
+            "channel_id": 102,
+            "start": 988,
+            "end": 1030
+        },
+        {
+            "program_id": "teledeporte_es_supercopa_de_espa_a_de_f_2026-01-04_0950",
+            "channel_id": 252,
+            "start": 1030,
+            "end": 1062
+        },
+        {
+            "program_id": "movistarellasvamos_billie_jean_king_cup_fin_2026-01-04_1020",
+            "channel_id": 195,
+            "start": 1062,
+            "end": 1107
+        },
+        {
+            "program_id": "etb2_es_petra_2026-01-04_1070",
+            "channel_id": 85,
+            "start": 1107,
+            "end": 1164
+        },
+        {
+            "program_id": "dkiss_es_mi_vida_con_300_kilos_2026-01-04_1155",
+            "channel_id": 73,
+            "start": 1164,
+            "end": 1197
+        },
+        {
+            "program_id": "dazn2_es_nfl_t25_26_san_francisco_2026-01-04_1140",
+            "channel_id": 66,
+            "start": 1197,
+            "end": 1235
+        },
+        {
+            "program_id": "m_losgoya_es_tres_60_2026-01-04_1217",
+            "channel_id": 177,
+            "start": 1235,
+            "end": 1265
+        },
+        {
+            "program_id": "boing_es_cine_2026-01-04_1196",
+            "channel_id": 36,
+            "start": 1265,
+            "end": 1310
+        },
+        {
+            "program_id": "sundance_es_el_nuevo_juguete_2026-01-04_1247",
+            "channel_id": 231,
+            "start": 1310,
+            "end": 1343
+        },
+        {
+            "program_id": "daznlaliga_es_laliga_ea_sports_t25_26__2026-01-04_1230",
+            "channel_id": 71,
+            "start": 1343,
+            "end": 1379
+        },
+        {
+            "program_id": "mega_es_batalla_de_restaurantes_2026-01-04_1350",
+            "channel_id": 189,
+            "start": 1379,
+            "end": 1413
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470369_wild_child_2026-01-04_0060",
+            "channel_id": 81,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470879_schitt_s_creek_2026-01-04_0090",
+            "channel_id": 590,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470711_nba_league_pass_info_2026-01-04_0120",
+            "channel_id": 422,
+            "start": 120,
+            "end": 158
+        },
+        {
+            "program_id": "470791_my_stepdaughter_is_a_w_2026-01-04_0112",
+            "channel_id": 502,
+            "start": 158,
+            "end": 210
+        },
+        {
+            "program_id": "470640_basket_2026-01-04_0180",
+            "channel_id": 351,
+            "start": 210,
+            "end": 263
+        },
+        {
+            "program_id": "470374_nhl_center_ice_2026-01-04_0240",
+            "channel_id": 86,
+            "start": 263,
+            "end": 315
+        },
+        {
+            "program_id": "470582_mlb_extra_innings_info_2026-01-04_0240",
+            "channel_id": 293,
+            "start": 315,
+            "end": 375
+        },
+        {
+            "program_id": "470654_nhl_centre_ice_info_2026-01-04_0240",
+            "channel_id": 365,
+            "start": 375,
+            "end": 429
+        },
+        {
+            "program_id": "470846_canadian_quickies_2026-01-04_0429",
+            "channel_id": 557,
+            "start": 429,
+            "end": 459
+        },
+        {
+            "program_id": "470791_movie_2026-01-04_0435",
+            "channel_id": 502,
+            "start": 459,
+            "end": 489
+        },
+        {
+            "program_id": "470564_tva_sports_3_info_2026-01-04_0480",
+            "channel_id": 275,
+            "start": 489,
+            "end": 595
+        },
+        {
+            "program_id": "470740_en_direct_de_l_univers_2026-01-04_0540",
+            "channel_id": 451,
+            "start": 595,
+            "end": 630
+        },
+        {
+            "program_id": "470345_live_nfl_football_2026-01-04_0600",
+            "channel_id": 57,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "470627_nhl_center_ice_2026-01-04_0510",
+            "channel_id": 338,
+            "start": 660,
+            "end": 715
+        },
+        {
+            "program_id": "470357_hpitv_international_2026-01-04_0660",
+            "channel_id": 69,
+            "start": 715,
+            "end": 745
+        },
+        {
+            "program_id": "470662_ppv_sports_2026-01-04_0720",
+            "channel_id": 373,
+            "start": 745,
+            "end": 779
+        },
+        {
+            "program_id": "470579_tva_nouvelles_2026-01-04_0779",
+            "channel_id": 290,
+            "start": 779,
+            "end": 809
+        },
+        {
+            "program_id": "470443_live_nhl_hockey_2026-01-04_0720",
+            "channel_id": 155,
+            "start": 809,
+            "end": 842
+        },
+        {
+            "program_id": "470336_one_battle_after_another_2026-01-04_0720",
+            "channel_id": 48,
+            "start": 842,
+            "end": 885
+        },
+        {
+            "program_id": "470331_mlb_extra_innings_info_2026-01-04_0720",
+            "channel_id": 43,
+            "start": 885,
+            "end": 915
+        },
+        {
+            "program_id": "470887_saturday_night_live_2026-01-04_0900",
+            "channel_id": 598,
+            "start": 915,
+            "end": 945
+        },
+        {
+            "program_id": "470451_nhl_center_ice_2026-01-04_0930",
+            "channel_id": 163,
+            "start": 945,
+            "end": 1005
+        },
+        {
+            "program_id": "470606_fin_des_programmes_2026-01-04_0965",
+            "channel_id": 317,
+            "start": 1005,
+            "end": 1047
+        },
+        {
+            "program_id": "470366_nba_basketball_2026-01-04_1020",
+            "channel_id": 78,
+            "start": 1047,
+            "end": 1135
+        },
+        {
+            "program_id": "470359_nhl_center_ice_2026-01-04_1080",
+            "channel_id": 71,
+            "start": 1135,
+            "end": 1172
+        },
+        {
+            "program_id": "470660_atn_live_2026-01-04_1140",
+            "channel_id": 371,
+            "start": 1172,
+            "end": 1297
+        },
+        {
+            "program_id": "470596_all_time_games_2026-01-04_1290",
+            "channel_id": 307,
+            "start": 1297,
+            "end": 1327
+        },
+        {
+            "program_id": "470491_aussie_gold_hunters_2026-01-04_1320",
+            "channel_id": 203,
+            "start": 1327,
+            "end": 1366
+        },
+        {
+            "program_id": "470845_garage_sale_mystery_the__2026-01-04_1320",
+            "channel_id": 556,
+            "start": 1366,
+            "end": 1402
+        }
+    ]
+}

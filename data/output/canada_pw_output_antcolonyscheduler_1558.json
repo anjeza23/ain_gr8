@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470792_convoi_sous_z_ro_2026-01-04_0060",
+            "channel_id": 503,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470505_air_bud_seventh_inning_f_2026-01-04_0065",
+            "channel_id": 217,
+            "start": 90,
+            "end": 150
+        },
+        {
+            "program_id": "470888_live_college_basketball_2026-01-04_0120",
+            "channel_id": 599,
+            "start": 150,
+            "end": 189
+        },
+        {
+            "program_id": "470548_la_cage_aux_poules_2026-01-04_0180",
+            "channel_id": 259,
+            "start": 189,
+            "end": 330
+        },
+        {
+            "program_id": "470748_nhl_centre_ice_info_2026-01-04_0240",
+            "channel_id": 459,
+            "start": 330,
+            "end": 375
+        },
+        {
+            "program_id": "470408_le_r_glement_2026-01-04_0345",
+            "channel_id": 120,
+            "start": 375,
+            "end": 405
+        },
+        {
+            "program_id": "470824_live_nfl_football_2026-01-04_0390",
+            "channel_id": 535,
+            "start": 405,
+            "end": 444
+        },
+        {
+            "program_id": "470872_live_nfl_football_2026-01-04_0390",
+            "channel_id": 583,
+            "start": 444,
+            "end": 474
+        },
+        {
+            "program_id": "470419_night_at_the_museum_2026-01-04_0435",
+            "channel_id": 131,
+            "start": 474,
+            "end": 504
+        },
+        {
+            "program_id": "470771_ligue_nationale_de_hocke_2026-01-04_0480",
+            "channel_id": 482,
+            "start": 504,
+            "end": 590
+        },
+        {
+            "program_id": "470430_nhl_center_ice_2026-01-04_0510",
+            "channel_id": 142,
+            "start": 590,
+            "end": 620
+        },
+        {
+            "program_id": "470508_sign_off_2026-01-04_0240",
+            "channel_id": 219,
+            "start": 620,
+            "end": 650
+        },
+        {
+            "program_id": "470310_austin_powers_internatio_2026-01-04_0600",
+            "channel_id": 22,
+            "start": 650,
+            "end": 680
+        },
+        {
+            "program_id": "470293_nfl_football_2026-01-04_0615",
+            "channel_id": 5,
+            "start": 680,
+            "end": 715
+        },
+        {
+            "program_id": "470549_en_direct_de_l_univers_2026-01-04_0660",
+            "channel_id": 260,
+            "start": 715,
+            "end": 750
+        },
+        {
+            "program_id": "470893_mlb_extra_innings_info_2026-01-04_0720",
+            "channel_id": 604,
+            "start": 750,
+            "end": 932
+        },
+        {
+            "program_id": "470429_live_super_smash_t20_cri_2026-01-04_0840",
+            "channel_id": 141,
+            "start": 932,
+            "end": 962
+        },
+        {
+            "program_id": "470391_mlb_extra_innings_info_2026-01-04_0720",
+            "channel_id": 103,
+            "start": 962,
+            "end": 1059
+        },
+        {
+            "program_id": "470340_french_ligue_1_soccer_2026-01-04_1050",
+            "channel_id": 52,
+            "start": 1059,
+            "end": 1117
+        },
+        {
+            "program_id": "470785_nba_league_pass_info_2026-01-04_1080",
+            "channel_id": 496,
+            "start": 1117,
+            "end": 1170
+        },
+        {
+            "program_id": "470504_fox_news_saturday_night__2026-01-04_1140",
+            "channel_id": 216,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "470325_closing_the_ring_2026-01-04_1200",
+            "channel_id": 37,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "470810_fin_des_programmes_2026-01-04_1090",
+            "channel_id": 521,
+            "start": 1230,
+            "end": 1261
+        },
+        {
+            "program_id": "470592_from_the_world_of_john_w_2026-01-04_1185",
+            "channel_id": 303,
+            "start": 1261,
+            "end": 1295
+        },
+        {
+            "program_id": "470336_the_new_corporation_the__2026-01-04_1295",
+            "channel_id": 48,
+            "start": 1295,
+            "end": 1325
+        },
+        {
+            "program_id": "470891_land_of_broken_hearts_2026-01-04_1300",
+            "channel_id": 602,
+            "start": 1325,
+            "end": 1380
+        },
+        {
+            "program_id": "470492_garage_sale_mystery_the__2026-01-04_1320",
+            "channel_id": 204,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

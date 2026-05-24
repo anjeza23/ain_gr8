@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "hibernian_spfl_signing_off_2026-01-04_0000",
+            "channel_id": 345,
+            "start": 0,
+            "end": 59
+        },
+        {
+            "program_id": "bbconenorthwest_uk_mo_salah_never_give_up_2026-01-04_0030",
+            "channel_id": 95,
+            "start": 59,
+            "end": 90
+        },
+        {
+            "program_id": "virgintvultra_uk_eric_clapton_slowhand_at_2026-01-04_0055",
+            "channel_id": 877,
+            "start": 90,
+            "end": 148
+        },
+        {
+            "program_id": "skysports_85_vig_no_event_today_2026-01-04_0000",
+            "channel_id": 751,
+            "start": 148,
+            "end": 238
+        },
+        {
+            "program_id": "amazonukevent32_uk_no_game_today_2026-01-04_0180",
+            "channel_id": 49,
+            "start": 238,
+            "end": 332
+        },
+        {
+            "program_id": "ss_event16_uk_no_game_today_2026-01-04_0180",
+            "channel_id": 572,
+            "start": 332,
+            "end": 377
+        },
+        {
+            "program_id": "utsavgold_uk_gaslight_2026-01-04_0280",
+            "channel_id": 870,
+            "start": 377,
+            "end": 415
+        },
+        {
+            "program_id": "aberdeen_spfl_signing_off_2026-01-04_0375",
+            "channel_id": 14,
+            "start": 415,
+            "end": 450
+        },
+        {
+            "program_id": "falkirk_spfl_signing_off_2026-01-04_0375",
+            "channel_id": 297,
+            "start": 450,
+            "end": 486
+        },
+        {
+            "program_id": "bbcthree_uk_this_is_bbc_three_2026-01-04_0300",
+            "channel_id": 126,
+            "start": 486,
+            "end": 586
+        },
+        {
+            "program_id": "wycombewanderersfc_no_game_today_2026-01-04_0420",
+            "channel_id": 892,
+            "start": 586,
+            "end": 627
+        },
+        {
+            "program_id": "watfordfc_efl_no_game_today_2026-01-04_0420",
+            "channel_id": 882,
+            "start": 627,
+            "end": 660
+        },
+        {
+            "program_id": "skyhistory_1_uk_hazardous_history_with_h_2026-01-04_0660",
+            "channel_id": 656,
+            "start": 660,
+            "end": 715
+        },
+        {
+            "program_id": "amazonukevent33_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 50,
+            "start": 715,
+            "end": 771
+        },
+        {
+            "program_id": "amazonukevent32_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 49,
+            "start": 771,
+            "end": 810
+        },
+        {
+            "program_id": "tntsports10_uk_channel_off_air_2026-01-04_0420",
+            "channel_id": 810,
+            "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "woking_nationallea_no_game_today_2026-01-04_0660",
+            "channel_id": 888,
+            "start": 840,
+            "end": 888
+        },
+        {
+            "program_id": "adultchannel_uk_adult_pack_and_adult_nig_2026-01-04_0780",
+            "channel_id": 16,
+            "start": 888,
+            "end": 938
+        },
+        {
+            "program_id": "amazonukevent29_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 45,
+            "start": 938,
+            "end": 968
+        },
+        {
+            "program_id": "nfl02_vig_no_event_today_2026-01-04_0960",
+            "channel_id": 452,
+            "start": 968,
+            "end": 1031
+        },
+        {
+            "program_id": "woking_nationallea_no_game_today_2026-01-04_0900",
+            "channel_id": 888,
+            "start": 1031,
+            "end": 1099
+        },
+        {
+            "program_id": "colchesterunitedfc_signing_off_2026-01-04_1095",
+            "channel_id": 190,
+            "start": 1099,
+            "end": 1129
+        },
+        {
+            "program_id": "discoverychannel_u_homestead_rescue_maine_b_2026-01-04_1080",
+            "channel_id": 224,
+            "start": 1129,
+            "end": 1182
+        },
+        {
+            "program_id": "channel5_1_uk_nfl_big_game_night_green_2026-01-04_1170",
+            "channel_id": 179,
+            "start": 1182,
+            "end": 1247
+        },
+        {
+            "program_id": "queensparkrangers__signing_off_2026-01-04_1155",
+            "channel_id": 534,
+            "start": 1247,
+            "end": 1304
+        },
+        {
+            "program_id": "dazn3_uk_superlega_afterhours_vod_2026-01-04_1290",
+            "channel_id": 211,
+            "start": 1304,
+            "end": 1405
+        },
+        {
+            "program_id": "great_tv_uk_airplane_2026-01-04_1377",
+            "channel_id": 327,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

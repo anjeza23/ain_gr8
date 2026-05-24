@@ -1,0 +1,124 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "viamirabelle_fr_la_bo_te_m_alice_2026-01-04_0000",
+            "channel_id": 374,
+            "start": 0,
+            "end": 175
+        },
+        {
+            "program_id": "canal_live2_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 72,
+            "start": 175,
+            "end": 317
+        },
+        {
+            "program_id": "saint_etienne_fr_no_match_today_2026-01-04_0180",
+            "channel_id": 315,
+            "start": 317,
+            "end": 395
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0360",
+            "channel_id": 295,
+            "start": 395,
+            "end": 430
+        },
+        {
+            "program_id": "canal_live19_fr_vivez_en_direct_les_v_ne_2026-01-04_0420",
+            "channel_id": 71,
+            "start": 430,
+            "end": 485
+        },
+        {
+            "program_id": "iltv_fr_la_t_l_de_l_agglo_h_nin__2026-01-04_0420",
+            "channel_id": 186,
+            "start": 485,
+            "end": 532
+        },
+        {
+            "program_id": "cstarhits_fr_playlist_europe_2_pop_tv_2026-01-04_0356",
+            "channel_id": 93,
+            "start": 532,
+            "end": 858
+        },
+        {
+            "program_id": "stadedereims_fr_no_match_today_2026-01-04_0660",
+            "channel_id": 319,
+            "start": 858,
+            "end": 895
+        },
+        {
+            "program_id": "rtlnitrotv_fr_la_cha_ne_allemande_sp_c_2026-01-04_0780",
+            "channel_id": 303,
+            "start": 895,
+            "end": 960
+        },
+        {
+            "program_id": "stadebrestois29_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 318,
+            "start": 960,
+            "end": 1009
+        },
+        {
+            "program_id": "oltv_fr_football_ligue_europa_ly_2026-01-04_0945",
+            "channel_id": 252,
+            "start": 1009,
+            "end": 1065
+        },
+        {
+            "program_id": "melodyd_afrique_fr_cameroun_2026-01-04_1050",
+            "channel_id": 230,
+            "start": 1065,
+            "end": 1096
+        },
+        {
+            "program_id": "scienceetvietv_fr_les_technologies_de_dema_2026-01-04_1070",
+            "channel_id": 316,
+            "start": 1096,
+            "end": 1130
+        },
+        {
+            "program_id": "rmcsportlive3_fr_cha_ne_v_nementielle_pou_2026-01-04_1080",
+            "channel_id": 294,
+            "start": 1130,
+            "end": 1214
+        },
+        {
+            "program_id": "enquetescriminelle_enqu_tes_criminelles_2026-01-04_1200",
+            "channel_id": 128,
+            "start": 1214,
+            "end": 1245
+        },
+        {
+            "program_id": "ligue1_8_fr_ligue_1_8_2026-01-04_1140",
+            "channel_id": 212,
+            "start": 1245,
+            "end": 1294
+        },
+        {
+            "program_id": "france3_alpes_fr_dolomites_pi_g_s_aux_som_2026-01-04_1270",
+            "channel_id": 145,
+            "start": 1294,
+            "end": 1325
+        },
+        {
+            "program_id": "canal_sport360_fr_marie_jo_2026-01-04_1267",
+            "channel_id": 81,
+            "start": 1325,
+            "end": 1359
+        },
+        {
+            "program_id": "c_sport_fr_l_ann_e_sail_gp_2026-01-04_1336",
+            "channel_id": 53,
+            "start": 1359,
+            "end": 1402
+        },
+        {
+            "program_id": "france3_midi_pyren_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 161,
+            "start": 1402,
+            "end": 1432
+        }
+    ]
+}

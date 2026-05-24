@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "canal_live6_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 76,
+            "start": 0,
+            "end": 95
+        },
+        {
+            "program_id": "mezzo_fr_joyce_didonato_il_pomo_d_2026-01-04_0025",
+            "channel_id": 232,
+            "start": 95,
+            "end": 130
+        },
+        {
+            "program_id": "canal_live18_fr_vivez_en_direct_les_v_ne_2026-01-04_0000",
+            "channel_id": 70,
+            "start": 130,
+            "end": 349
+        },
+        {
+            "program_id": "planete_aande_fr_direct_auto_express_dire_2026-01-04_0239",
+            "channel_id": 260,
+            "start": 349,
+            "end": 396
+        },
+        {
+            "program_id": "m6music_fr_hits_m6_music_2026-01-04_0360",
+            "channel_id": 219,
+            "start": 396,
+            "end": 581
+        },
+        {
+            "program_id": "olympiquemarseille_no_match_today_2026-01-04_0420",
+            "channel_id": 257,
+            "start": 581,
+            "end": 613
+        },
+        {
+            "program_id": "bfmgrandlittoral_f_nord_week_end_2026-01-04_0600",
+            "channel_id": 42,
+            "start": 613,
+            "end": 647
+        },
+        {
+            "program_id": "beinsportsmax5_fr_bein_sports_le_plus_gran_2026-01-04_0540",
+            "channel_id": 389,
+            "start": 647,
+            "end": 682
+        },
+        {
+            "program_id": "idf1_fr_les_myst_res_de_l_amour_2026-01-04_0682",
+            "channel_id": 185,
+            "start": 682,
+            "end": 715
+        },
+        {
+            "program_id": "mezzo_fr_dietrich_fischer_dieskau_2026-01-04_0715",
+            "channel_id": 232,
+            "start": 715,
+            "end": 753
+        },
+        {
+            "program_id": "beinmovies_fr_k_zlar_s_n_f_tatilde_2026-01-04_0675",
+            "channel_id": 37,
+            "start": 753,
+            "end": 785
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0660",
+            "channel_id": 270,
+            "start": 785,
+            "end": 857
+        },
+        {
+            "program_id": "cgtn_francais_fr_la_cha_ne_francophone_de_2026-01-04_0780",
+            "channel_id": 86,
+            "start": 857,
+            "end": 900
+        },
+        {
+            "program_id": "astrocentertv_fr_la_cha_ne_100_astro_voya_2026-01-04_0900",
+            "channel_id": 29,
+            "start": 900,
+            "end": 1028
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0900",
+            "channel_id": 272,
+            "start": 1028,
+            "end": 1059
+        },
+        {
+            "program_id": "eurosport360_7_fr_a_bient_t_sur_eurosport__2026-01-04_1020",
+            "channel_id": 137,
+            "start": 1059,
+            "end": 1134
+        },
+        {
+            "program_id": "showmax_fr_showmax_2026-01-04_1080",
+            "channel_id": 313,
+            "start": 1134,
+            "end": 1178
+        },
+        {
+            "program_id": "bet_fr_arr_t_de_la_cha_ne_2026-01-04_1080",
+            "channel_id": 38,
+            "start": 1178,
+            "end": 1234
+        },
+        {
+            "program_id": "rmcalertesecours_f_flic_story_2026-01-04_1193",
+            "channel_id": 286,
+            "start": 1234,
+            "end": 1269
+        },
+        {
+            "program_id": "tvmonaco_fr_celtics_lakers_les_meill_2026-01-04_1250",
+            "channel_id": 351,
+            "start": 1269,
+            "end": 1305
+        },
+        {
+            "program_id": "tvmonaco_fr_celtics_lakers_les_meill_2026-01-04_1305",
+            "channel_id": 351,
+            "start": 1305,
+            "end": 1341
+        },
+        {
+            "program_id": "histoire_fr_l_antre_des_dictateurs_2026-01-04_1340",
+            "channel_id": 181,
+            "start": 1341,
+            "end": 1371
+        },
+        {
+            "program_id": "tvei_fr_garc_a_y_garc_a_2026-01-04_1320",
+            "channel_id": 348,
+            "start": 1371,
+            "end": 1401
+        },
+        {
+            "program_id": "nollywoodtv_fr_la_magie_de_no_l_2026-01-04_1334",
+            "channel_id": 250,
+            "start": 1401,
+            "end": 1434
+        }
+    ]
+}

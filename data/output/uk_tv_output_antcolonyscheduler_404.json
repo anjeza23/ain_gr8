@@ -1,0 +1,88 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Channel_105_0",
+            "channel_id": 105,
+            "start": 480,
+            "end": 570
+        },
+        {
+            "program_id": "Comedy_Central_1",
+            "channel_id": 16,
+            "start": 570,
+            "end": 690
+        },
+        {
+            "program_id": "Channel_44_2",
+            "channel_id": 44,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "ITV4_4",
+            "channel_id": 9,
+            "start": 720,
+            "end": 840
+        },
+        {
+            "program_id": "Channel_105_7",
+            "channel_id": 105,
+            "start": 840,
+            "end": 945
+        },
+        {
+            "program_id": "Channel_108_7",
+            "channel_id": 108,
+            "start": 945,
+            "end": 975
+        },
+        {
+            "program_id": "Channel_83_8",
+            "channel_id": 83,
+            "start": 975,
+            "end": 1035
+        },
+        {
+            "program_id": "Comedy_Central_7",
+            "channel_id": 16,
+            "start": 1035,
+            "end": 1065
+        },
+        {
+            "program_id": "Channel_66_10",
+            "channel_id": 66,
+            "start": 1065,
+            "end": 1095
+        },
+        {
+            "program_id": "Channel_38_11",
+            "channel_id": 38,
+            "start": 1095,
+            "end": 1125
+        },
+        {
+            "program_id": "Channel_86_11",
+            "channel_id": 86,
+            "start": 1125,
+            "end": 1200
+        },
+        {
+            "program_id": "Sky_News_9",
+            "channel_id": 6,
+            "start": 1200,
+            "end": 1275
+        },
+        {
+            "program_id": "Channel_5_12",
+            "channel_id": 4,
+            "start": 1275,
+            "end": 1335
+        },
+        {
+            "program_id": "Channel_5_13",
+            "channel_id": 4,
+            "start": 1335,
+            "end": 1380
+        }
+    ]
+}

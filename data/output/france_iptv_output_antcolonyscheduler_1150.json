@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "iltv_fr_la_t_l_de_l_agglo_h_nin__2026-01-04_0000",
+            "channel_id": 186,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "nollywoodtv_fr_superstar_2026-01-04_0000",
+            "channel_id": 250,
+            "start": 30,
+            "end": 99
+        },
+        {
+            "program_id": "mezzo_fr_joyce_didonato_il_pomo_d_2026-01-04_0025",
+            "channel_id": 232,
+            "start": 99,
+            "end": 130
+        },
+        {
+            "program_id": "rmcdecouverte_fr_pause_2026-01-04_0068",
+            "channel_id": 287,
+            "start": 130,
+            "end": 241
+        },
+        {
+            "program_id": "bfmgrandlille_fr_nord_week_end_2026-01-04_0240",
+            "channel_id": 41,
+            "start": 241,
+            "end": 317
+        },
+        {
+            "program_id": "tv5monde_fr_danielle_darrieux_il_est_2026-01-04_0296",
+            "channel_id": 342,
+            "start": 317,
+            "end": 349
+        },
+        {
+            "program_id": "rmctalkinfo_fr_les_grandes_gueules_2026-01-04_0300",
+            "channel_id": 296,
+            "start": 349,
+            "end": 498
+        },
+        {
+            "program_id": "planete_aande_fr_direct_auto_express_dire_2026-01-04_0472",
+            "channel_id": 260,
+            "start": 498,
+            "end": 533
+        },
+        {
+            "program_id": "canal_live9_fr_vivez_en_direct_les_v_ne_2026-01-04_0420",
+            "channel_id": 79,
+            "start": 533,
+            "end": 701
+        },
+        {
+            "program_id": "beinsportsmax9_fr_bein_sports_le_plus_gran_2026-01-04_0540",
+            "channel_id": 393,
+            "start": 701,
+            "end": 731
+        },
+        {
+            "program_id": "beinsportsmax4_fr_bein_sports_le_plus_gran_2026-01-04_0540",
+            "channel_id": 388,
+            "start": 731,
+            "end": 775
+        },
+        {
+            "program_id": "cctv_4_fr_le_miroir_de_la_chine_qu_2026-01-04_0720",
+            "channel_id": 83,
+            "start": 775,
+            "end": 841
+        },
+        {
+            "program_id": "automotolachaine_f_dashcam_en_action_2026-01-04_0823",
+            "channel_id": 31,
+            "start": 841,
+            "end": 875
+        },
+        {
+            "program_id": "theisraelinetwork__programmes_t_l_vis_s_isr_2026-01-04_0780",
+            "channel_id": 362,
+            "start": 875,
+            "end": 929
+        },
+        {
+            "program_id": "arrabia_fr_la_cha_ne_marocaine_du_s_2026-01-04_0900",
+            "channel_id": 24,
+            "start": 929,
+            "end": 1006
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0900",
+            "channel_id": 273,
+            "start": 1006,
+            "end": 1037
+        },
+        {
+            "program_id": "benficatv_fr_basquetebol_liga_feminin_2026-01-04_1023",
+            "channel_id": 47,
+            "start": 1037,
+            "end": 1067
+        },
+        {
+            "program_id": "rmcalertesecours_f_enqu_te_prioritaire_2026-01-04_1054",
+            "channel_id": 286,
+            "start": 1067,
+            "end": 1105
+        },
+        {
+            "program_id": "beinsportsmax5_fr_football_liga_alaves_v_o_2026-01-04_1105",
+            "channel_id": 389,
+            "start": 1105,
+            "end": 1164
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_1140",
+            "channel_id": 273,
+            "start": 1164,
+            "end": 1223
+        },
+        {
+            "program_id": "cnbceurope_fr_la_fi_vre_du_dollar_2026-01-04_1200",
+            "channel_id": 88,
+            "start": 1223,
+            "end": 1255
+        },
+        {
+            "program_id": "automotolachaine_f_top_gear_france_2026-01-04_1255",
+            "channel_id": 31,
+            "start": 1255,
+            "end": 1343
+        },
+        {
+            "program_id": "olympiquemarseille_no_match_today_2026-01-04_1140",
+            "channel_id": 257,
+            "start": 1343,
+            "end": 1380
+        },
+        {
+            "program_id": "france24_fr_le_journal_de_la_can_2026-01-04_1380",
+            "channel_id": 142,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

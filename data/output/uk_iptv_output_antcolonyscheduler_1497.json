@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "amazonukevent44_uk_no_game_today_2026-01-04_0000",
+            "channel_id": 62,
+            "start": 0,
+            "end": 165
+        },
+        {
+            "program_id": "virgintvultra_uk_heart_live_at_the_royal__2026-01-04_0165",
+            "channel_id": 877,
+            "start": 165,
+            "end": 242
+        },
+        {
+            "program_id": "virginmediafour_ie_channel_off_air_2026-01-04_0120",
+            "channel_id": 872,
+            "start": 242,
+            "end": 442
+        },
+        {
+            "program_id": "loi7_uk_no_game_today_2026-01-04_0420",
+            "channel_id": 407,
+            "start": 442,
+            "end": 486
+        },
+        {
+            "program_id": "epl12_v_no_event_today_2026-01-04_0480",
+            "channel_id": 284,
+            "start": 486,
+            "end": 569
+        },
+        {
+            "program_id": "lbc_uk_henry_riley_2026-01-04_0480",
+            "channel_id": 398,
+            "start": 569,
+            "end": 610
+        },
+        {
+            "program_id": "amazonukevent11_uk_no_game_today_2026-01-04_0420",
+            "channel_id": 26,
+            "start": 610,
+            "end": 640
+        },
+        {
+            "program_id": "skyatlantic_uk_game_of_thrones_2026-01-04_0605",
+            "channel_id": 639,
+            "start": 640,
+            "end": 670
+        },
+        {
+            "program_id": "ss_event6_uk_signing_off_2026-01-04_0610",
+            "channel_id": 620,
+            "start": 670,
+            "end": 830
+        },
+        {
+            "program_id": "amazonukevent39_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 56,
+            "start": 830,
+            "end": 889
+        },
+        {
+            "program_id": "tvx40_uk_programmes_start_at_10pm_2026-01-04_0780",
+            "channel_id": 826,
+            "start": 889,
+            "end": 919
+        },
+        {
+            "program_id": "afcwimbledon_efl_no_game_today_2026-01-04_0900",
+            "channel_id": 10,
+            "start": 919,
+            "end": 957
+        },
+        {
+            "program_id": "ss_event18_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 574,
+            "start": 957,
+            "end": 1000
+        },
+        {
+            "program_id": "skysports_45_vig_no_event_today_2026-01-04_0960",
+            "channel_id": 707,
+            "start": 1000,
+            "end": 1050
+        },
+        {
+            "program_id": "amazonukevent26_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 42,
+            "start": 1050,
+            "end": 1083
+        },
+        {
+            "program_id": "amazonukevent8_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 72,
+            "start": 1083,
+            "end": 1119
+        },
+        {
+            "program_id": "itv1london_uk_the_super_mario_bros_mov_2026-01-04_1070",
+            "channel_id": 367,
+            "start": 1119,
+            "end": 1170
+        },
+        {
+            "program_id": "amazonukevent16_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 31,
+            "start": 1170,
+            "end": 1232
+        },
+        {
+            "program_id": "ss_event35_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 593,
+            "start": 1232,
+            "end": 1285
+        },
+        {
+            "program_id": "ahlebaittv_uk_education_and_career_2026-01-04_1260",
+            "channel_id": 17,
+            "start": 1285,
+            "end": 1319
+        },
+        {
+            "program_id": "amazonukevent43_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 61,
+            "start": 1319,
+            "end": 1350
+        },
+        {
+            "program_id": "eastleigh_national_no_game_today_2026-01-04_1140",
+            "channel_id": 287,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "thatstvmcr_uk_shameless_2026-01-04_1380",
+            "channel_id": 838,
+            "start": 1380,
+            "end": 1422
+        }
+    ]
+}

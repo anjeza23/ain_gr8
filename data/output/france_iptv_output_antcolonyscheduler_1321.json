@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "arryadia_fr_la_cha_ne_du_sport_maroc_2026-01-04_0000",
+            "channel_id": 25,
+            "start": 0,
+            "end": 46
+        },
+        {
+            "program_id": "beinsports2_fr_basket_ball_nba_miami_he_2026-01-04_0000",
+            "channel_id": 385,
+            "start": 46,
+            "end": 90
+        },
+        {
+            "program_id": "mosaik_fr_la_t_l_vision_de_la_r_gi_2026-01-04_0060",
+            "channel_id": 235,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "serieclub_fr_programmes_de_la_nuit_2026-01-04_0090",
+            "channel_id": 312,
+            "start": 120,
+            "end": 158
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_0000",
+            "channel_id": 295,
+            "start": 158,
+            "end": 195
+        },
+        {
+            "program_id": "telefilmsromance24_maman_no_l_cherche_l_amo_2026-01-04_0155",
+            "channel_id": 359,
+            "start": 195,
+            "end": 239
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0180",
+            "channel_id": 273,
+            "start": 239,
+            "end": 324
+        },
+        {
+            "program_id": "murrtv_fr_la_cha_ne_libanaise_de_d_2026-01-04_0060",
+            "channel_id": 236,
+            "start": 324,
+            "end": 408
+        },
+        {
+            "program_id": "tvpi_fr_la_t_l_locale_des_landes_2026-01-04_0360",
+            "channel_id": 352,
+            "start": 408,
+            "end": 535
+        },
+        {
+            "program_id": "lille_fr_no_match_today_2026-01-04_0420",
+            "channel_id": 214,
+            "start": 535,
+            "end": 594
+        },
+        {
+            "program_id": "benficatv_fr_football_championnat_du__2026-01-04_0538",
+            "channel_id": 47,
+            "start": 594,
+            "end": 630
+        },
+        {
+            "program_id": "tvpi_fr_la_t_l_locale_des_landes_2026-01-04_0540",
+            "channel_id": 352,
+            "start": 630,
+            "end": 717
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0660",
+            "channel_id": 272,
+            "start": 717,
+            "end": 848
+        },
+        {
+            "program_id": "theisraelinetwork__programmes_t_l_vis_s_isr_2026-01-04_0780",
+            "channel_id": 362,
+            "start": 848,
+            "end": 911
+        },
+        {
+            "program_id": "mcm_fr_monster_island_2026-01-04_0880",
+            "channel_id": 220,
+            "start": 911,
+            "end": 947
+        },
+        {
+            "program_id": "olympiquemarseille_no_match_today_2026-01-04_0900",
+            "channel_id": 257,
+            "start": 947,
+            "end": 1033
+        },
+        {
+            "program_id": "kanal7avrupa_fr_gelin_2026-01-04_1020",
+            "channel_id": 193,
+            "start": 1033,
+            "end": 1069
+        },
+        {
+            "program_id": "tvbreizh_fr_les_experts_manhattan_2026-01-04_1050",
+            "channel_id": 346,
+            "start": 1069,
+            "end": 1100
+        },
+        {
+            "program_id": "rmcsportlive3_fr_cha_ne_v_nementielle_pou_2026-01-04_1080",
+            "channel_id": 294,
+            "start": 1100,
+            "end": 1177
+        },
+        {
+            "program_id": "discoveryscience_f_ob_sit_mon_corps_ma_pris_2026-01-04_1160",
+            "channel_id": 118,
+            "start": 1177,
+            "end": 1210
+        },
+        {
+            "program_id": "lehavre_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 201,
+            "start": 1210,
+            "end": 1271
+        },
+        {
+            "program_id": "ginx_fr_the_games_that_made_me_2026-01-04_1260",
+            "channel_id": 177,
+            "start": 1271,
+            "end": 1304
+        },
+        {
+            "program_id": "cine_emotion_fr_thelma_et_louise_2026-01-04_1250",
+            "channel_id": 106,
+            "start": 1304,
+            "end": 1337
+        },
+        {
+            "program_id": "idf1_fr_les_myst_res_de_l_amour_2026-01-04_1317",
+            "channel_id": 185,
+            "start": 1337,
+            "end": 1368
+        },
+        {
+            "program_id": "canal_docs_fr_morts_en_eaux_troubles_s_2026-01-04_1351",
+            "channel_id": 57,
+            "start": 1368,
+            "end": 1399
+        },
+        {
+            "program_id": "discoveryscience_f_le_monde_de_baylen_2026-01-04_1380",
+            "channel_id": 118,
+            "start": 1399,
+            "end": 1430
+        }
+    ]
+}

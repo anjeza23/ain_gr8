@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "378862__2026-01-04_0060",
+            "channel_id": 49,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "419908__2026-01-04_0075",
+            "channel_id": 110,
+            "start": 90,
+            "end": 129
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0150",
+            "channel_id": 966,
+            "start": 150,
+            "end": 300
+        },
+        {
+            "program_id": "490552_macau_2026-01-04_0210",
+            "channel_id": 1185,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "457814__2026-01-04_0060",
+            "channel_id": 415,
+            "start": 330,
+            "end": 413
+        },
+        {
+            "program_id": "457652__2026-01-04_0361",
+            "channel_id": 259,
+            "start": 413,
+            "end": 484
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_0360",
+            "channel_id": 958,
+            "start": 484,
+            "end": 543
+        },
+        {
+            "program_id": "464627__2026-01-04_0543",
+            "channel_id": 816,
+            "start": 543,
+            "end": 576
+        },
+        {
+            "program_id": "490460__2026-01-04_0500",
+            "channel_id": 1093,
+            "start": 576,
+            "end": 669
+        },
+        {
+            "program_id": "490331_familyhistory_2026-01-04_0665",
+            "channel_id": 965,
+            "start": 669,
+            "end": 702
+        },
+        {
+            "program_id": "490332_2021_2022nba_d_live_2026-01-04_0690",
+            "channel_id": 966,
+            "start": 702,
+            "end": 732
+        },
+        {
+            "program_id": "457814__2026-01-04_0510",
+            "channel_id": 415,
+            "start": 732,
+            "end": 930
+        },
+        {
+            "program_id": "378864__2026-01-04_0930",
+            "channel_id": 51,
+            "start": 930,
+            "end": 960
+        },
+        {
+            "program_id": "490331_hellofromstudiopark_2026-01-04_0960",
+            "channel_id": 965,
+            "start": 960,
+            "end": 1001
+        },
+        {
+            "program_id": "457645__2026-01-04_0965",
+            "channel_id": 252,
+            "start": 1001,
+            "end": 1048
+        },
+        {
+            "program_id": "458090_2025_2026-01-04_1020",
+            "channel_id": 681,
+            "start": 1048,
+            "end": 1091
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_1080",
+            "channel_id": 958,
+            "start": 1091,
+            "end": 1135
+        },
+        {
+            "program_id": "490399__2026-01-04_0945",
+            "channel_id": 1032,
+            "start": 1135,
+            "end": 1189
+        },
+        {
+            "program_id": "490620__2026-01-04_1150",
+            "channel_id": 1252,
+            "start": 1189,
+            "end": 1253
+        },
+        {
+            "program_id": "490332_2021_2022sbl_live_2026-01-04_1080",
+            "channel_id": 966,
+            "start": 1253,
+            "end": 1297
+        },
+        {
+            "program_id": "458078__2026-01-04_1297",
+            "channel_id": 669,
+            "start": 1297,
+            "end": 1330
+        },
+        {
+            "program_id": "458076__2026-01-04_1200",
+            "channel_id": 667,
+            "start": 1330,
+            "end": 1374
+        }
+    ]
+}

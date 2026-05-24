@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "490562__2026-01-04_0060",
+            "channel_id": 1195,
+            "start": 60,
+            "end": 95
+        },
+        {
+            "program_id": "457752__2026-01-04_0090",
+            "channel_id": 355,
+            "start": 95,
+            "end": 311
+        },
+        {
+            "program_id": "490552_macau_2026-01-04_0210",
+            "channel_id": 1185,
+            "start": 311,
+            "end": 367
+        },
+        {
+            "program_id": "458138__2026-01-04_0067",
+            "channel_id": 727,
+            "start": 367,
+            "end": 410
+        },
+        {
+            "program_id": "490440_9_2026-01-04_0090",
+            "channel_id": 1073,
+            "start": 410,
+            "end": 518
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_0360",
+            "channel_id": 958,
+            "start": 518,
+            "end": 548
+        },
+        {
+            "program_id": "457812__2026-01-04_0060",
+            "channel_id": 413,
+            "start": 548,
+            "end": 591
+        },
+        {
+            "program_id": "490425__2026-01-04_0060",
+            "channel_id": 1058,
+            "start": 591,
+            "end": 633
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0480",
+            "channel_id": 966,
+            "start": 633,
+            "end": 689
+        },
+        {
+            "program_id": "457803__2026-01-04_0689",
+            "channel_id": 405,
+            "start": 689,
+            "end": 720
+        },
+        {
+            "program_id": "458127__2026-01-04_0720",
+            "channel_id": 717,
+            "start": 720,
+            "end": 762
+        },
+        {
+            "program_id": "490332_2021_2022nba_d_live_2026-01-04_0690",
+            "channel_id": 966,
+            "start": 762,
+            "end": 814
+        },
+        {
+            "program_id": "457998__2026-01-04_0810",
+            "channel_id": 591,
+            "start": 814,
+            "end": 905
+        },
+        {
+            "program_id": "13974__2026-01-04_0863",
+            "channel_id": 7,
+            "start": 905,
+            "end": 991
+        },
+        {
+            "program_id": "464602_2025_top_11_2026-01-04_0983",
+            "channel_id": 791,
+            "start": 991,
+            "end": 1054
+        },
+        {
+            "program_id": "464603_2025_2026_2026-01-04_1025",
+            "channel_id": 792,
+            "start": 1054,
+            "end": 1085
+        },
+        {
+            "program_id": "457624__2026-01-04_1020",
+            "channel_id": 231,
+            "start": 1085,
+            "end": 1147
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_1080",
+            "channel_id": 958,
+            "start": 1147,
+            "end": 1186
+        },
+        {
+            "program_id": "457813__2026-01-04_1170",
+            "channel_id": 414,
+            "start": 1186,
+            "end": 1218
+        },
+        {
+            "program_id": "490332_2021_2022sbl_live_2026-01-04_1080",
+            "channel_id": 966,
+            "start": 1218,
+            "end": 1248
+        },
+        {
+            "program_id": "457989__2026-01-04_1178",
+            "channel_id": 582,
+            "start": 1248,
+            "end": 1291
+        },
+        {
+            "program_id": "458120_2025_27_2026-01-04_1250",
+            "channel_id": 710,
+            "start": 1291,
+            "end": 1330
+        },
+        {
+            "program_id": "490331_scienceforeveryone_2026-01-04_1320",
+            "channel_id": 965,
+            "start": 1330,
+            "end": 1361
+        },
+        {
+            "program_id": "490498__2026-01-04_1343",
+            "channel_id": 1131,
+            "start": 1361,
+            "end": 1393
+        },
+        {
+            "program_id": "457694__2026-01-04_1393",
+            "channel_id": 300,
+            "start": 1393,
+            "end": 1423
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369849_eken_babu_2026-01-04_0060",
+            "channel_id": 76,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "484245_bear_s_mission_with_rob__2026-01-04_0060",
+            "channel_id": 209,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "412160_end_of_transmission_2026-01-04_0060",
+            "channel_id": 138,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "412164_premier_league_2025_26_2026-01-04_0140",
+            "channel_id": 141,
+            "start": 150,
+            "end": 200
+        },
+        {
+            "program_id": "369790_live_premiership_rugby_l_2026-01-04_0145",
+            "channel_id": 44,
+            "start": 200,
+            "end": 230
+        },
+        {
+            "program_id": "369828_simmba_2026-01-04_0120",
+            "channel_id": 65,
+            "start": 230,
+            "end": 296
+        },
+        {
+            "program_id": "412133_live_urc_live_glasgow_wa_2026-01-04_0270",
+            "channel_id": 115,
+            "start": 296,
+            "end": 427
+        },
+        {
+            "program_id": "412143_the_healing_eucharist_2026-01-04_0420",
+            "channel_id": 124,
+            "start": 427,
+            "end": 468
+        },
+        {
+            "program_id": "369824_terbelenggu_rindu_eps_42_2026-01-04_0450",
+            "channel_id": 62,
+            "start": 468,
+            "end": 500
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 500,
+            "end": 530
+        },
+        {
+            "program_id": "369775_end_of_transmission_2026-01-04_0420",
+            "channel_id": 36,
+            "start": 530,
+            "end": 751
+        },
+        {
+            "program_id": "412181_race_2_2026-01-04_0555",
+            "channel_id": 154,
+            "start": 751,
+            "end": 830
+        },
+        {
+            "program_id": "430462_live_aus_v_eng_5th_test__2026-01-04_0508",
+            "channel_id": 180,
+            "start": 830,
+            "end": 895
+        },
+        {
+            "program_id": "482831_end_of_transmission_2026-01-04_0780",
+            "channel_id": 204,
+            "start": 895,
+            "end": 925
+        },
+        {
+            "program_id": "412156_ms_incognito_2026-01-04_0900",
+            "channel_id": 136,
+            "start": 925,
+            "end": 965
+        },
+        {
+            "program_id": "369790_urc_glasgow_warriors_v_z_2026-01-04_0900",
+            "channel_id": 44,
+            "start": 965,
+            "end": 1010
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_0930",
+            "channel_id": 6,
+            "start": 1010,
+            "end": 1100
+        },
+        {
+            "program_id": "459681_cheese_paradise_2026-01-04_1080",
+            "channel_id": 193,
+            "start": 1100,
+            "end": 1139
+        },
+        {
+            "program_id": "451933_movie_2026-01-04_1020",
+            "channel_id": 187,
+            "start": 1139,
+            "end": 1170
+        },
+        {
+            "program_id": "369806_heart_signal_s8_2026-01-04_1080",
+            "channel_id": 51,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "435717_movie_2026-01-04_1140",
+            "channel_id": 182,
+            "start": 1200,
+            "end": 1319
+        },
+        {
+            "program_id": "412200_sound_trek_2025_2026-01-04_1230",
+            "channel_id": 172,
+            "start": 1319,
+            "end": 1349
+        },
+        {
+            "program_id": "482829_end_of_transmission_2026-01-04_1140",
+            "channel_id": 202,
+            "start": 1349,
+            "end": 1385
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 61,
+            "start": 1385,
+            "end": 1419
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369757_sky_news_today_2026-01-04_0060",
+            "channel_id": 25,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369844_anupamaa_2026-01-04_0090",
+            "channel_id": 73,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "369846_metro_in_dino_2026-01-04_0091",
+            "channel_id": 74,
+            "start": 120,
+            "end": 197
+        },
+        {
+            "program_id": "412142_china_back_to_the_roots_2026-01-04_0197",
+            "channel_id": 123,
+            "start": 197,
+            "end": 227
+        },
+        {
+            "program_id": "412142_go_fighting_2026-01-04_0227",
+            "channel_id": 123,
+            "start": 227,
+            "end": 286
+        },
+        {
+            "program_id": "412138_bheemla_nayak_2026-01-04_0257",
+            "channel_id": 119,
+            "start": 286,
+            "end": 335
+        },
+        {
+            "program_id": "369793_end_of_transmission_2026-01-04_0120",
+            "channel_id": 45,
+            "start": 335,
+            "end": 415
+        },
+        {
+            "program_id": "412162_mr_funny_bone_2026-01-04_0415",
+            "channel_id": 140,
+            "start": 415,
+            "end": 445
+        },
+        {
+            "program_id": "369789_live_2026-01-04_0420",
+            "channel_id": 43,
+            "start": 445,
+            "end": 480
+        },
+        {
+            "program_id": "369744_homestead_rescue_s7_2026-01-04_0480",
+            "channel_id": 18,
+            "start": 480,
+            "end": 510
+        },
+        {
+            "program_id": "412103_arabikkadha_2026-01-04_0510",
+            "channel_id": 94,
+            "start": 510,
+            "end": 565
+        },
+        {
+            "program_id": "369746_the_kapil_sharma_show_2026-01-04_0540",
+            "channel_id": 20,
+            "start": 565,
+            "end": 615
+        },
+        {
+            "program_id": "412154_nfl_2025_26_2026-01-04_0615",
+            "channel_id": 134,
+            "start": 615,
+            "end": 665
+        },
+        {
+            "program_id": "412187_the_magic_of_the_tt_2026-01-04_0600",
+            "channel_id": 160,
+            "start": 665,
+            "end": 715
+        },
+        {
+            "program_id": "369793_end_of_transmission_2026-01-04_0420",
+            "channel_id": 45,
+            "start": 715,
+            "end": 755
+        },
+        {
+            "program_id": "369730_all_s_well_end_s_well_to_2026-01-04_0740",
+            "channel_id": 11,
+            "start": 755,
+            "end": 800
+        },
+        {
+            "program_id": "412175_ucl_classic_matches_inte_2026-01-04_0770",
+            "channel_id": 149,
+            "start": 800,
+            "end": 830
+        },
+        {
+            "program_id": "430760_no_transmission_2026-01-04_0780",
+            "channel_id": 181,
+            "start": 830,
+            "end": 875
+        },
+        {
+            "program_id": "412165_mega_fights_sergio_marti_2026-01-04_0840",
+            "channel_id": 142,
+            "start": 875,
+            "end": 990
+        },
+        {
+            "program_id": "369854_movie_2026-01-04_0960",
+            "channel_id": 79,
+            "start": 990,
+            "end": 1092
+        },
+        {
+            "program_id": "369806_heart_signal_s8_2026-01-04_1080",
+            "channel_id": 51,
+            "start": 1092,
+            "end": 1122
+        },
+        {
+            "program_id": "369784_the_saturday_wrap_sat_03_2026-01-04_1110",
+            "channel_id": 40,
+            "start": 1122,
+            "end": 1154
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_1110",
+            "channel_id": 6,
+            "start": 1154,
+            "end": 1244
+        },
+        {
+            "program_id": "435717_movie_2026-01-04_1140",
+            "channel_id": 182,
+            "start": 1244,
+            "end": 1309
+        },
+        {
+            "program_id": "369846_atrangi_re_2026-01-04_1260",
+            "channel_id": 74,
+            "start": 1309,
+            "end": 1390
+        },
+        {
+            "program_id": "472551_end_of_transmission_2026-01-04_1140",
+            "channel_id": 194,
+            "start": 1390,
+            "end": 1420
+        }
+    ]
+}

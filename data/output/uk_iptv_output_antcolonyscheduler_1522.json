@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "amazonukevent49_uk_no_game_today_2026-01-04_0000",
+            "channel_id": 67,
+            "start": 0,
+            "end": 146
+        },
+        {
+            "program_id": "afcbournemouth_epl_signing_off_2026-01-04_0045",
+            "channel_id": 8,
+            "start": 146,
+            "end": 201
+        },
+        {
+            "program_id": "discoverychannel_u_moonshiners_2026-01-04_0180",
+            "channel_id": 224,
+            "start": 201,
+            "end": 240
+        },
+        {
+            "program_id": "uanddavejavu_uk_australian_ninja_warrior_2026-01-04_0210",
+            "channel_id": 860,
+            "start": 240,
+            "end": 285
+        },
+        {
+            "program_id": "skysports_26_vig_no_event_today_2026-01-04_0240",
+            "channel_id": 686,
+            "start": 285,
+            "end": 360
+        },
+        {
+            "program_id": "dmax_1_uk_teleshopping_2026-01-04_0360",
+            "channel_id": 218,
+            "start": 360,
+            "end": 390
+        },
+        {
+            "program_id": "babenation_uk_babestation_daytime_2026-01-04_0390",
+            "channel_id": 134,
+            "start": 390,
+            "end": 623
+        },
+        {
+            "program_id": "film4_uk_teleshopping_2026-01-04_0490",
+            "channel_id": 300,
+            "start": 623,
+            "end": 660
+        },
+        {
+            "program_id": "nickjr_1_uk_blaze_and_the_monster_ma_2026-01-04_0660",
+            "channel_id": 484,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "bfbsradio_uk_forces_life_2026-01-04_0660",
+            "channel_id": 133,
+            "start": 690,
+            "end": 768
+        },
+        {
+            "program_id": "amazonukevent4_uk_no_game_today_2026-01-04_0660",
+            "channel_id": 57,
+            "start": 768,
+            "end": 809
+        },
+        {
+            "program_id": "efl29_v_no_event_today_2026-01-04_0720",
+            "channel_id": 267,
+            "start": 809,
+            "end": 950
+        },
+        {
+            "program_id": "itv4_1_uk_cadfael_2026-01-04_0950",
+            "channel_id": 382,
+            "start": 950,
+            "end": 1000
+        },
+        {
+            "program_id": "uanddavejavu_uk_ghosts_2026-01-04_0990",
+            "channel_id": 860,
+            "start": 1000,
+            "end": 1030
+        },
+        {
+            "program_id": "nhkworld_uk_somewhere_street_2026-01-04_1030",
+            "channel_id": 471,
+            "start": 1030,
+            "end": 1060
+        },
+        {
+            "program_id": "islambangla_uk_muhammad_final_legacy_2026-01-04_1060",
+            "channel_id": 391,
+            "start": 1060,
+            "end": 1090
+        },
+        {
+            "program_id": "uanddave_uk_would_i_lie_to_you_2026-01-04_1080",
+            "channel_id": 859,
+            "start": 1090,
+            "end": 1120
+        },
+        {
+            "program_id": "itv1west_uk_the_super_mario_bros_mov_2026-01-04_1070",
+            "channel_id": 373,
+            "start": 1120,
+            "end": 1154
+        },
+        {
+            "program_id": "bbctwo_uk_ski_sunday_2026-01-04_1130",
+            "channel_id": 128,
+            "start": 1154,
+            "end": 1185
+        },
+        {
+            "program_id": "amazonukevent32_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 49,
+            "start": 1185,
+            "end": 1374
+        },
+        {
+            "program_id": "great_romance_uk_belle_s_christmas_gift_2026-01-04_1350",
+            "channel_id": 325,
+            "start": 1374,
+            "end": 1405
+        },
+        {
+            "program_id": "great_mystery_1_uk_murder_she_baked_a_choco_2026-01-04_1380",
+            "channel_id": 322,
+            "start": 1405,
+            "end": 1436
+        }
+    ]
+}

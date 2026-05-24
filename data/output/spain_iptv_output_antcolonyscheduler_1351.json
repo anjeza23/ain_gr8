@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_deportes7_es_m_deportes_8_2026-01-04_0000",
+            "channel_id": 143,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_0030",
+            "channel_id": 2,
+            "start": 30,
+            "end": 60
+        },
+        {
+            "program_id": "m_golf2_es_pr_ximamente_m_golf_2_2026-01-04_0000",
+            "channel_id": 150,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "m_ligadecampeones7_m_liga_de_campeones_7_2026-01-04_0000",
+            "channel_id": 173,
+            "start": 90,
+            "end": 225
+        },
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_12_2026-01-04_0000",
+            "channel_id": 165,
+            "start": 225,
+            "end": 502
+        },
+        {
+            "program_id": "m_indie_es_el_universo_de_david_lyn_2026-01-04_0480",
+            "channel_id": 152,
+            "start": 502,
+            "end": 538
+        },
+        {
+            "program_id": "m_ligadecampeones3_m_liga_de_campeones_3_2026-01-04_0480",
+            "channel_id": 169,
+            "start": 538,
+            "end": 568
+        },
+        {
+            "program_id": "cncworld_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 42,
+            "start": 568,
+            "end": 628
+        },
+        {
+            "program_id": "dazn3_es_disfruta_de_dazn_en_movi_2026-01-04_0600",
+            "channel_id": 67,
+            "start": 628,
+            "end": 777
+        },
+        {
+            "program_id": "blaze_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 34,
+            "start": 777,
+            "end": 882
+        },
+        {
+            "program_id": "fcbarcelona_laliga_no_game_today_2026-01-04_0780",
+            "channel_id": 99,
+            "start": 882,
+            "end": 912
+        },
+        {
+            "program_id": "m_golf_es_pga_championship_jornada_2026-01-04_0776",
+            "channel_id": 149,
+            "start": 912,
+            "end": 942
+        },
+        {
+            "program_id": "discoverymax_es_dmax_2026-01-04_0840",
+            "channel_id": 77,
+            "start": 942,
+            "end": 985
+        },
+        {
+            "program_id": "dazn3_es_premier_league_t25_26_ne_2026-01-04_0950",
+            "channel_id": 67,
+            "start": 985,
+            "end": 1032
+        },
+        {
+            "program_id": "dazn2_es_premier_league_t25_26_to_2026-01-04_0950",
+            "channel_id": 66,
+            "start": 1032,
+            "end": 1062
+        },
+        {
+            "program_id": "movistarcine_es_romer_a_2026-01-04_1042",
+            "channel_id": 193,
+            "start": 1062,
+            "end": 1153
+        },
+        {
+            "program_id": "alquiler_es_el_gran_premio_a_todo_ga_2026-01-04_1120",
+            "channel_id": 13,
+            "start": 1153,
+            "end": 1183
+        },
+        {
+            "program_id": "laligatvbar_es_laliga_ea_sports_t25_26__2026-01-04_1110",
+            "channel_id": 124,
+            "start": 1183,
+            "end": 1230
+        },
+        {
+            "program_id": "amc_es_cuando_ramos_soldados_2026-01-04_1140",
+            "channel_id": 5,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "beteve_es_resum_informatiu_de_l_an_2026-01-04_1260",
+            "channel_id": 33,
+            "start": 1260,
+            "end": 1295
+        },
+        {
+            "program_id": "daznlaliga2_es_laliga_ea_sports_se_al_m_2026-01-04_1260",
+            "channel_id": 72,
+            "start": 1295,
+            "end": 1342
+        },
+        {
+            "program_id": "aragontvint_es_programa_por_determinar_2026-01-04_1320",
+            "channel_id": 18,
+            "start": 1342,
+            "end": 1377
+        },
+        {
+            "program_id": "mega_es_batalla_de_restaurantes_2026-01-04_1350",
+            "channel_id": 189,
+            "start": 1377,
+            "end": 1407
+        }
+    ]
+}

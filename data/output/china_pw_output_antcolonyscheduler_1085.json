@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "490226__2026-01-04_0060",
+            "channel_id": 860,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "490596__2026-01-04_0060",
+            "channel_id": 1229,
+            "start": 90,
+            "end": 183
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0150",
+            "channel_id": 966,
+            "start": 183,
+            "end": 236
+        },
+        {
+            "program_id": "457877__2026-01-04_0073",
+            "channel_id": 476,
+            "start": 236,
+            "end": 266
+        },
+        {
+            "program_id": "490381__2026-01-04_0265",
+            "channel_id": 1014,
+            "start": 266,
+            "end": 297
+        },
+        {
+            "program_id": "490552_macau_2026-01-04_0210",
+            "channel_id": 1185,
+            "start": 297,
+            "end": 428
+        },
+        {
+            "program_id": "490331_news_goodmorning_japan_2026-01-04_0360",
+            "channel_id": 965,
+            "start": 428,
+            "end": 458
+        },
+        {
+            "program_id": "457670__2026-01-04_0450",
+            "channel_id": 276,
+            "start": 458,
+            "end": 627
+        },
+        {
+            "program_id": "490446__2026-01-04_0615",
+            "channel_id": 1079,
+            "start": 627,
+            "end": 727
+        },
+        {
+            "program_id": "490332_2021_2022nba_d_live_2026-01-04_0690",
+            "channel_id": 966,
+            "start": 727,
+            "end": 796
+        },
+        {
+            "program_id": "490439__2026-01-04_0660",
+            "channel_id": 1072,
+            "start": 796,
+            "end": 826
+        },
+        {
+            "program_id": "457578__2026-01-04_0826",
+            "channel_id": 187,
+            "start": 826,
+            "end": 858
+        },
+        {
+            "program_id": "457757_telejornal_rtpi_diferido_2026-01-04_0870",
+            "channel_id": 360,
+            "start": 870,
+            "end": 930
+        },
+        {
+            "program_id": "419981__2026-01-04_0918",
+            "channel_id": 138,
+            "start": 930,
+            "end": 968
+        },
+        {
+            "program_id": "490331_hellofromstudiopark_2026-01-04_0960",
+            "channel_id": 965,
+            "start": 968,
+            "end": 1005
+        },
+        {
+            "program_id": "464602_2025_top_11_2026-01-04_0983",
+            "channel_id": 791,
+            "start": 1005,
+            "end": 1056
+        },
+        {
+            "program_id": "490507__2026-01-04_1020",
+            "channel_id": 1140,
+            "start": 1056,
+            "end": 1140
+        },
+        {
+            "program_id": "490332_2021_2022sbl_live_2026-01-04_1080",
+            "channel_id": 966,
+            "start": 1140,
+            "end": 1242
+        },
+        {
+            "program_id": "458138__2026-01-04_1230",
+            "channel_id": 727,
+            "start": 1242,
+            "end": 1272
+        },
+        {
+            "program_id": "457725_3_39_2026-01-04_1257",
+            "channel_id": 329,
+            "start": 1272,
+            "end": 1308
+        },
+        {
+            "program_id": "457757_na_nossa_natureza_estrei_2026-01-04_1305",
+            "channel_id": 360,
+            "start": 1308,
+            "end": 1341
+        },
+        {
+            "program_id": "490406__2026-01-04_1298",
+            "channel_id": 1039,
+            "start": 1341,
+            "end": 1400
+        },
+        {
+            "program_id": "490222_4_2026-01-04_1380",
+            "channel_id": 856,
+            "start": 1400,
+            "end": 1438
+        }
+    ]
+}

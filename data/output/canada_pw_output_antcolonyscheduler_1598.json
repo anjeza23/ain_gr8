@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470334_it_is_written_canada_2026-01-04_0060",
+            "channel_id": 46,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470907_5_chefs_dans_ma_cuisine_2026-01-04_0090",
+            "channel_id": 618,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470406_hudson_and_rex_2026-01-04_0120",
+            "channel_id": 118,
+            "start": 120,
+            "end": 155
+        },
+        {
+            "program_id": "470711_nba_league_pass_info_2026-01-04_0120",
+            "channel_id": 422,
+            "start": 155,
+            "end": 235
+        },
+        {
+            "program_id": "470767_la_cage_aux_poules_2026-01-04_0180",
+            "channel_id": 478,
+            "start": 235,
+            "end": 300
+        },
+        {
+            "program_id": "470390_live_college_basketball_2026-01-04_0300",
+            "channel_id": 102,
+            "start": 300,
+            "end": 353
+        },
+        {
+            "program_id": "470441_sportsnet_one_edmonton_o_2026-01-04_0180",
+            "channel_id": 153,
+            "start": 353,
+            "end": 400
+        },
+        {
+            "program_id": "470734_nfl_sunday_ticket_2026-01-04_0240",
+            "channel_id": 445,
+            "start": 400,
+            "end": 449
+        },
+        {
+            "program_id": "470368_nfl_football_2026-01-04_0390",
+            "channel_id": 80,
+            "start": 449,
+            "end": 480
+        },
+        {
+            "program_id": "470592_80_for_brady_2026-01-04_0440",
+            "channel_id": 303,
+            "start": 480,
+            "end": 510
+        },
+        {
+            "program_id": "470322_hockey_central_saturday_2026-01-04_0510",
+            "channel_id": 34,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "470453_forensic_files_2026-01-04_0540",
+            "channel_id": 165,
+            "start": 540,
+            "end": 570
+        },
+        {
+            "program_id": "470506_live_hockey_nhl_2026-01-04_0540",
+            "channel_id": 218,
+            "start": 570,
+            "end": 605
+        },
+        {
+            "program_id": "470730_live_nba_basketball_2026-01-04_0570",
+            "channel_id": 441,
+            "start": 605,
+            "end": 693
+        },
+        {
+            "program_id": "470412_jumanji_welcome_to_the_j_2026-01-04_0655",
+            "channel_id": 124,
+            "start": 693,
+            "end": 755
+        },
+        {
+            "program_id": "470858_nfl_sunday_ticket_2026-01-04_0720",
+            "channel_id": 569,
+            "start": 755,
+            "end": 975
+        },
+        {
+            "program_id": "470451_nhl_center_ice_2026-01-04_0930",
+            "channel_id": 163,
+            "start": 975,
+            "end": 1023
+        },
+        {
+            "program_id": "470479_nhl_center_ice_2026-01-04_0720",
+            "channel_id": 191,
+            "start": 1023,
+            "end": 1060
+        },
+        {
+            "program_id": "470765_la_decisi_n_de_sara_2026-01-04_1050",
+            "channel_id": 476,
+            "start": 1060,
+            "end": 1099
+        },
+        {
+            "program_id": "470325_young_sherlock_holmes_2026-01-04_1085",
+            "channel_id": 37,
+            "start": 1099,
+            "end": 1160
+        },
+        {
+            "program_id": "470311_sportsnet_one_vancouver__2026-01-04_1140",
+            "channel_id": 23,
+            "start": 1160,
+            "end": 1215
+        },
+        {
+            "program_id": "470515_er_2026-01-04_1200",
+            "channel_id": 226,
+            "start": 1215,
+            "end": 1247
+        },
+        {
+            "program_id": "470624_football_nfl_2026-01-04_1140",
+            "channel_id": 335,
+            "start": 1247,
+            "end": 1335
+        },
+        {
+            "program_id": "470917_last_film_show_2026-01-04_1295",
+            "channel_id": 628,
+            "start": 1335,
+            "end": 1366
+        },
+        {
+            "program_id": "470845_garage_sale_mystery_the__2026-01-04_1320",
+            "channel_id": 556,
+            "start": 1366,
+            "end": 1396
+        },
+        {
+            "program_id": "470327_winnie_mandela_2026-01-04_1320",
+            "channel_id": 39,
+            "start": 1396,
+            "end": 1430
+        }
+    ]
+}

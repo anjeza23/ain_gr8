@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "montpellier_fr_no_match_today_2026-01-04_0000",
+            "channel_id": 234,
+            "start": 0,
+            "end": 42
+        },
+        {
+            "program_id": "viamirabelle_fr_la_bo_te_m_alice_2026-01-04_0000",
+            "channel_id": 374,
+            "start": 42,
+            "end": 178
+        },
+        {
+            "program_id": "canalalgerie_fr_la_cha_ne_publique_alg_r_2026-01-04_0000",
+            "channel_id": 98,
+            "start": 178,
+            "end": 309
+        },
+        {
+            "program_id": "beinsportsmax9_fr_bein_sports_le_plus_gran_2026-01-04_0300",
+            "channel_id": 393,
+            "start": 309,
+            "end": 439
+        },
+        {
+            "program_id": "tf1_fr_tfou_2026-01-04_0350",
+            "channel_id": 330,
+            "start": 439,
+            "end": 556
+        },
+        {
+            "program_id": "benficatv_fr_football_championnat_du__2026-01-04_0538",
+            "channel_id": 47,
+            "start": 556,
+            "end": 600
+        },
+        {
+            "program_id": "eurosport360_5_fr_a_bient_t_sur_eurosport__2026-01-04_0540",
+            "channel_id": 135,
+            "start": 600,
+            "end": 640
+        },
+        {
+            "program_id": "jordansatellitecha_la_cha_ne_publique_de_jo_2026-01-04_0600",
+            "channel_id": 191,
+            "start": 640,
+            "end": 682
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0660",
+            "channel_id": 277,
+            "start": 682,
+            "end": 715
+        },
+        {
+            "program_id": "beinsportsmax5_fr_bein_sports_le_plus_gran_2026-01-04_0540",
+            "channel_id": 389,
+            "start": 715,
+            "end": 756
+        },
+        {
+            "program_id": "olympiatv_fr_la_cha_ne_de_vos_soir_es_2026-01-04_0091",
+            "channel_id": 255,
+            "start": 756,
+            "end": 997
+        },
+        {
+            "program_id": "lehavre_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 201,
+            "start": 997,
+            "end": 1030
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0900",
+            "channel_id": 272,
+            "start": 1030,
+            "end": 1109
+        },
+        {
+            "program_id": "cstar_fr_enqu_te_sous_haute_tensi_2026-01-04_1080",
+            "channel_id": 94,
+            "start": 1109,
+            "end": 1156
+        },
+        {
+            "program_id": "lille_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 214,
+            "start": 1156,
+            "end": 1186
+        },
+        {
+            "program_id": "mggtv_fr_paris_games_week_2026-01-04_1165",
+            "channel_id": 222,
+            "start": 1186,
+            "end": 1230
+        },
+        {
+            "program_id": "rmcalertesecours_f_flic_story_2026-01-04_1193",
+            "channel_id": 286,
+            "start": 1230,
+            "end": 1261
+        },
+        {
+            "program_id": "ligue1_2_fr_ligue_1_2_2026-01-04_1140",
+            "channel_id": 206,
+            "start": 1261,
+            "end": 1295
+        },
+        {
+            "program_id": "planeteplus_fr_eiffel_la_guerre_des_tou_2026-01-04_1255",
+            "channel_id": 268,
+            "start": 1295,
+            "end": 1344
+        },
+        {
+            "program_id": "tlc_fr_90_jours_pour_se_marier__2026-01-04_1320",
+            "channel_id": 336,
+            "start": 1344,
+            "end": 1374
+        },
+        {
+            "program_id": "novelastv_fr_the_penthouse_saison_1_2026-01-04_1330",
+            "channel_id": 240,
+            "start": 1374,
+            "end": 1405
+        },
+        {
+            "program_id": "france3_bourgogne__dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 150,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

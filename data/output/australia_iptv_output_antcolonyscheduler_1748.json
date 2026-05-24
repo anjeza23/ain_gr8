@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "perthglory_a_leagu_no_match_today_2026-01-04_0000",
+            "channel_id": 370,
+            "start": 0,
+            "end": 31
+        },
+        {
+            "program_id": "roosters_nrl_no_match_today_2026-01-04_0000",
+            "channel_id": 385,
+            "start": 31,
+            "end": 97
+        },
+        {
+            "program_id": "sbsvicelanddarwin__the_movie_show_2026-01-04_0095",
+            "channel_id": 408,
+            "start": 97,
+            "end": 130
+        },
+        {
+            "program_id": "stan16_au_no_match_today_2026-01-04_0120",
+            "channel_id": 436,
+            "start": 130,
+            "end": 220
+        },
+        {
+            "program_id": "tigers_nrl_no_match_today_2026-01-04_0120",
+            "channel_id": 469,
+            "start": 220,
+            "end": 280
+        },
+        {
+            "program_id": "sbsworldmoviesmelb_monsieur_verdoux_2026-01-04_0250",
+            "channel_id": 419,
+            "start": 280,
+            "end": 361
+        },
+        {
+            "program_id": "espnplay75_au_no_match_today_2026-01-04_0360",
+            "channel_id": 264,
+            "start": 361,
+            "end": 391
+        },
+        {
+            "program_id": "westernsydneywande_no_match_today_2026-01-04_0360",
+            "channel_id": 493,
+            "start": 391,
+            "end": 595
+        },
+        {
+            "program_id": "7flixmelbourne_au_law_and_order_criminal_i_2026-01-04_0570",
+            "channel_id": 33,
+            "start": 595,
+            "end": 630
+        },
+        {
+            "program_id": "daystar_au_prophecy_watchers_2026-01-04_0630",
+            "channel_id": 181,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "beinsports2_au_serie_a_atalanta_vs_roma_2026-01-04_0630",
+            "channel_id": 496,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "espnplay62_au_no_match_today_2026-01-04_0600",
+            "channel_id": 250,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 720,
+            "end": 769
+        },
+        {
+            "program_id": "10boldbrisbane_au_ncis_2026-01-04_0745",
+            "channel_id": 1,
+            "start": 769,
+            "end": 799
+        },
+        {
+            "program_id": "melbournecityfc_a__no_match_today_2026-01-04_0780",
+            "channel_id": 336,
+            "start": 799,
+            "end": 845
+        },
+        {
+            "program_id": "winboldhobart_au_united_cup_night_3_2026-01-04_0540",
+            "channel_id": 476,
+            "start": 845,
+            "end": 885
+        },
+        {
+            "program_id": "9go_canberra_au_home_shopping_2026-01-04_0885",
+            "channel_id": 63,
+            "start": 885,
+            "end": 916
+        },
+        {
+            "program_id": "storm_nrl_no_match_today_2026-01-04_0840",
+            "channel_id": 461,
+            "start": 916,
+            "end": 946
+        },
+        {
+            "program_id": "gwsgiants_afl_no_match_today_2026-01-04_0840",
+            "channel_id": 314,
+            "start": 946,
+            "end": 1066
+        },
+        {
+            "program_id": "9perth_au_tycoons_down_under_2026-01-04_1040",
+            "channel_id": 89,
+            "start": 1066,
+            "end": 1096
+        },
+        {
+            "program_id": "7tasmania_au_nbc_today_2026-01-04_1082",
+            "channel_id": 47,
+            "start": 1096,
+            "end": 1126
+        },
+        {
+            "program_id": "optussport8_au_no_match_today_2026-01-04_1080",
+            "channel_id": 367,
+            "start": 1126,
+            "end": 1185
+        },
+        {
+            "program_id": "sbsvicelandperth_a_nhk_world_english_news_2026-01-04_1145",
+            "channel_id": 411,
+            "start": 1185,
+            "end": 1215
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1349
+        },
+        {
+            "program_id": "10boldbrisbane_au_home_shopping_2026-01-04_1350",
+            "channel_id": 1,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

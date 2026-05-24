@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470534_the_big_fight_2026-01-04_0060",
+            "channel_id": 245,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470755_movie_2026-01-04_0064",
+            "channel_id": 466,
+            "start": 90,
+            "end": 144
+        },
+        {
+            "program_id": "470673_annie_2026-01-04_0120",
+            "channel_id": 384,
+            "start": 144,
+            "end": 190
+        },
+        {
+            "program_id": "470531_notre_dame_de_paris_les__2026-01-04_0185",
+            "channel_id": 242,
+            "start": 190,
+            "end": 241
+        },
+        {
+            "program_id": "470416_nhl_center_ice_2026-01-04_0240",
+            "channel_id": 128,
+            "start": 241,
+            "end": 300
+        },
+        {
+            "program_id": "470456_live_nfl_countdown_2026-01-04_0300",
+            "channel_id": 168,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "470870_women_s_international_so_2026-01-04_0329",
+            "channel_id": 581,
+            "start": 330,
+            "end": 423
+        },
+        {
+            "program_id": "470689_live_nhl_hockey_2026-01-04_0360",
+            "channel_id": 400,
+            "start": 423,
+            "end": 455
+        },
+        {
+            "program_id": "470297_live_nfl_football_2026-01-04_0390",
+            "channel_id": 9,
+            "start": 455,
+            "end": 490
+        },
+        {
+            "program_id": "470679_citynews_680_2026-01-04_0480",
+            "channel_id": 390,
+            "start": 490,
+            "end": 661
+        },
+        {
+            "program_id": "470521_nhl_center_ice_2026-01-04_0510",
+            "channel_id": 232,
+            "start": 661,
+            "end": 725
+        },
+        {
+            "program_id": "470865_cjrt_fm_toronto_jazzfm_9_2026-01-04_0720",
+            "channel_id": 576,
+            "start": 725,
+            "end": 788
+        },
+        {
+            "program_id": "470532_cbc_music_vancouver_cbu__2026-01-04_0660",
+            "channel_id": 243,
+            "start": 788,
+            "end": 818
+        },
+        {
+            "program_id": "470479_nhl_center_ice_2026-01-04_0720",
+            "channel_id": 191,
+            "start": 818,
+            "end": 1030
+        },
+        {
+            "program_id": "470521_nhl_center_ice_2026-01-04_0870",
+            "channel_id": 232,
+            "start": 1030,
+            "end": 1065
+        },
+        {
+            "program_id": "470764_tg2_mizar_2026-01-04_1065",
+            "channel_id": 475,
+            "start": 1065,
+            "end": 1095
+        },
+        {
+            "program_id": "470329_masters_of_flip_2026-01-04_1082",
+            "channel_id": 41,
+            "start": 1095,
+            "end": 1130
+        },
+        {
+            "program_id": "470807_live_worth_noting_2026-01-04_0840",
+            "channel_id": 518,
+            "start": 1130,
+            "end": 1170
+        },
+        {
+            "program_id": "470847_omni_news_arabic_edition_2026-01-04_1170",
+            "channel_id": 558,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "470571_sportsnet_central_2026-01-04_1200",
+            "channel_id": 282,
+            "start": 1200,
+            "end": 1260
+        },
+        {
+            "program_id": "470301_a_word_for_today_2026-01-04_1260",
+            "channel_id": 13,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "470440_lakefront_luxury_2026-01-04_1290",
+            "channel_id": 152,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "470327_winnie_mandela_2026-01-04_1320",
+            "channel_id": 39,
+            "start": 1320,
+            "end": 1380
+        },
+        {
+            "program_id": "470621_cp24_dayside_2026-01-04_1380",
+            "channel_id": 332,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

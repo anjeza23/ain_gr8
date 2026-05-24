@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "490604__2026-01-04_0060",
+            "channel_id": 1237,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "490487__2026-01-04_0084",
+            "channel_id": 1120,
+            "start": 90,
+            "end": 191
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0150",
+            "channel_id": 966,
+            "start": 191,
+            "end": 221
+        },
+        {
+            "program_id": "458029__2026-01-04_0120",
+            "channel_id": 621,
+            "start": 221,
+            "end": 283
+        },
+        {
+            "program_id": "490552_macau_2026-01-04_0210",
+            "channel_id": 1185,
+            "start": 283,
+            "end": 315
+        },
+        {
+            "program_id": "490510_888_2026-01-04_0150",
+            "channel_id": 1143,
+            "start": 315,
+            "end": 409
+        },
+        {
+            "program_id": "490331_news_goodmorning_japan_2026-01-04_0360",
+            "channel_id": 965,
+            "start": 409,
+            "end": 439
+        },
+        {
+            "program_id": "457596_cba_2026-01-04_0422",
+            "channel_id": 204,
+            "start": 439,
+            "end": 620
+        },
+        {
+            "program_id": "490506__2026-01-04_0560",
+            "channel_id": 1139,
+            "start": 620,
+            "end": 664
+        },
+        {
+            "program_id": "490331_familyhistory_2026-01-04_0665",
+            "channel_id": 965,
+            "start": 665,
+            "end": 713
+        },
+        {
+            "program_id": "458064__2026-01-04_0713",
+            "channel_id": 655,
+            "start": 713,
+            "end": 750
+        },
+        {
+            "program_id": "378825__2026-01-04_0728",
+            "channel_id": 15,
+            "start": 750,
+            "end": 814
+        },
+        {
+            "program_id": "490332_2021_2022nba_d_live_2026-01-04_0690",
+            "channel_id": 966,
+            "start": 814,
+            "end": 844
+        },
+        {
+            "program_id": "490543__2026-01-04_0840",
+            "channel_id": 1176,
+            "start": 844,
+            "end": 884
+        },
+        {
+            "program_id": "457924__2026-01-04_0872",
+            "channel_id": 521,
+            "start": 884,
+            "end": 1062
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_1080",
+            "channel_id": 958,
+            "start": 1080,
+            "end": 1200
+        },
+        {
+            "program_id": "457627__2026-01-04_1186",
+            "channel_id": 234,
+            "start": 1200,
+            "end": 1242
+        },
+        {
+            "program_id": "490529__2026-01-04_1230",
+            "channel_id": 1162,
+            "start": 1242,
+            "end": 1278
+        },
+        {
+            "program_id": "490331_newswatch_2026-01-04_1260",
+            "channel_id": 965,
+            "start": 1278,
+            "end": 1308
+        },
+        {
+            "program_id": "464613__2026-01-04_1232",
+            "channel_id": 802,
+            "start": 1308,
+            "end": 1342
+        },
+        {
+            "program_id": "457682_10_2026-01-04_1330",
+            "channel_id": 288,
+            "start": 1342,
+            "end": 1372
+        }
+    ]
+}

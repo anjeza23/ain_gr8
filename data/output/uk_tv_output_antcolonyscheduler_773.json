@@ -1,0 +1,112 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Sky_One_0",
+            "channel_id": 5,
+            "start": 480,
+            "end": 510
+        },
+        {
+            "program_id": "Channel_49_1",
+            "channel_id": 49,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "Channel_38_1",
+            "channel_id": 38,
+            "start": 540,
+            "end": 585
+        },
+        {
+            "program_id": "Channel_115_2",
+            "channel_id": 115,
+            "start": 585,
+            "end": 630
+        },
+        {
+            "program_id": "Channel_27_3",
+            "channel_id": 27,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "Channel_103_3",
+            "channel_id": 103,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "Channel_57_2",
+            "channel_id": 57,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "ITV_5",
+            "channel_id": 2,
+            "start": 720,
+            "end": 765
+        },
+        {
+            "program_id": "ITV_6",
+            "channel_id": 2,
+            "start": 765,
+            "end": 810
+        },
+        {
+            "program_id": "Film4_4",
+            "channel_id": 17,
+            "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "Channel_71_7",
+            "channel_id": 71,
+            "start": 840,
+            "end": 870
+        },
+        {
+            "program_id": "5Star_5",
+            "channel_id": 15,
+            "start": 870,
+            "end": 915
+        },
+        {
+            "program_id": "Channel_48_7",
+            "channel_id": 48,
+            "start": 915,
+            "end": 1005
+        },
+        {
+            "program_id": "Channel_72_9",
+            "channel_id": 72,
+            "start": 1005,
+            "end": 1095
+        },
+        {
+            "program_id": "Channel_102_9",
+            "channel_id": 102,
+            "start": 1095,
+            "end": 1155
+        },
+        {
+            "program_id": "Channel_72_11",
+            "channel_id": 72,
+            "start": 1155,
+            "end": 1185
+        },
+        {
+            "program_id": "Sky_News_9",
+            "channel_id": 6,
+            "start": 1185,
+            "end": 1290
+        },
+        {
+            "program_id": "Sky_News_10",
+            "channel_id": 6,
+            "start": 1290,
+            "end": 1380
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Gold_0",
+            "channel_id": 13,
+            "start": 480,
+            "end": 525
+        },
+        {
+            "program_id": "BBC_Two_3",
+            "channel_id": 68,
+            "start": 480,
+            "end": 600
+        },
+        {
+            "program_id": "Channel_75_1",
+            "channel_id": 17,
+            "start": 525,
+            "end": 645
+        },
+        {
+            "program_id": "Gold_2",
+            "channel_id": 104,
+            "start": 555,
+            "end": 600
+        },
+        {
+            "program_id": "Channel_104_1",
+            "channel_id": 104,
+            "start": 600,
+            "end": 720
+        },
+        {
+            "program_id": "Channel_68_7",
+            "channel_id": 1,
+            "start": 720,
+            "end": 840
+        },
+        {
+            "program_id": "Film4_4",
+            "channel_id": 17,
+            "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "Dave_7",
+            "channel_id": 17,
+            "start": 840,
+            "end": 870
+        },
+        {
+            "program_id": "ITV2_10",
+            "channel_id": 4,
+            "start": 870,
+            "end": 990
+        },
+        {
+            "program_id": "Channel_44_7",
+            "channel_id": 44,
+            "start": 900,
+            "end": 930
+        },
+        {
+            "program_id": "Sky_News_10",
+            "channel_id": 6,
+            "start": 912,
+            "end": 1002
+        },
+        {
+            "program_id": "Channel_102_7",
+            "channel_id": 102,
+            "start": 1005,
+            "end": 1035
+        },
+        {
+            "program_id": "Channel_71_12",
+            "channel_id": 102,
+            "start": 1035,
+            "end": 1125
+        },
+        {
+            "program_id": "Channel_38_12",
+            "channel_id": 102,
+            "start": 1125,
+            "end": 1155
+        },
+        {
+            "program_id": "Channel_72_11",
+            "channel_id": 2,
+            "start": 1155,
+            "end": 1185
+        },
+        {
+            "program_id": "ITV_14",
+            "channel_id": 2,
+            "start": 1185,
+            "end": 1215
+        },
+        {
+            "program_id": "ITV_15",
+            "channel_id": 2,
+            "start": 1215,
+            "end": 1305
+        },
+        {
+            "program_id": "Channel_5_5",
+            "channel_id": 2,
+            "start": 1335,
+            "end": 1380
+        }
+    ]
+}

@@ -13,14 +13,20 @@
             "end": 540
         },
         {
+            "program_id": "ZDF_Morgenmagazin",
+            "channel_id": 1,
+            "start": 540,
+            "end": 570
+        },
+        {
             "program_id": "WDR_morningmag",
             "channel_id": 4,
-            "start": 540,
+            "start": 570,
             "end": 600
         },
         {
-            "program_id": "P7_comedy",
-            "channel_id": 3,
+            "program_id": "WDR_doc",
+            "channel_id": 4,
             "start": 600,
             "end": 630
         },
@@ -31,20 +37,14 @@
             "end": 670
         },
         {
-            "program_id": "ARD_lunch_news",
-            "channel_id": 0,
-            "start": 670,
-            "end": 700
-        },
-        {
             "program_id": "ZDF_lunch_news",
             "channel_id": 1,
-            "start": 700,
+            "start": 670,
             "end": 730
         },
         {
-            "program_id": "ZDF_sportsmag",
-            "channel_id": 1,
+            "program_id": "ARD_afternoonmag",
+            "channel_id": 0,
             "start": 730,
             "end": 780
         },
@@ -58,6 +58,12 @@
             "program_id": "ZDF_prime_movie",
             "channel_id": 1,
             "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "ARD_prime_time",
+            "channel_id": 0,
+            "start": 840,
             "end": 900
         },
         {
@@ -85,20 +91,14 @@
             "end": 1020
         },
         {
-            "program_id": "ZDF_late_movie",
-            "channel_id": 1,
-            "start": 1020,
-            "end": 1050
-        },
-        {
             "program_id": "P7_prime_movie",
             "channel_id": 3,
-            "start": 1050,
+            "start": 1020,
             "end": 1080
         },
         {
-            "program_id": "P7_latenight_comedy",
-            "channel_id": 3,
+            "program_id": "RTL_night_ent",
+            "channel_id": 2,
             "start": 1080,
             "end": 1110
         },
@@ -109,26 +109,32 @@
             "end": 1140
         },
         {
-            "program_id": "RTL_night_ent",
-            "channel_id": 2,
+            "program_id": "ZDF_late_movie",
+            "channel_id": 1,
             "start": 1140,
-            "end": 1200
+            "end": 1240
         },
         {
             "program_id": "P7_music_playlist",
             "channel_id": 3,
-            "start": 1200,
-            "end": 1320
+            "start": 1240,
+            "end": 1270
         },
         {
-            "program_id": "P7_midnight_news",
-            "channel_id": 3,
-            "start": 1320,
-            "end": 1350
+            "program_id": "ARD_late_show",
+            "channel_id": 0,
+            "start": 1270,
+            "end": 1320
         },
         {
             "program_id": "ARD_night_music",
             "channel_id": 0,
+            "start": 1320,
+            "end": 1350
+        },
+        {
+            "program_id": "ZDF_night_doc",
+            "channel_id": 1,
             "start": 1350,
             "end": 1380
         }

@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470534_the_big_fight_2026-01-04_0060",
+            "channel_id": 245,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470691_phineas_and_ferb_2026-01-04_0090",
+            "channel_id": 402,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470463_live_sports_30_2026-01-04_0120",
+            "channel_id": 175,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "470763_martha_knows_best_2026-01-04_0150",
+            "channel_id": 474,
+            "start": 150,
+            "end": 180
+        },
+        {
+            "program_id": "470532_cbc_music_vancouver_cbu__2026-01-04_0180",
+            "channel_id": 243,
+            "start": 180,
+            "end": 385
+        },
+        {
+            "program_id": "470374_live_nhl_hockey_2026-01-04_0360",
+            "channel_id": 86,
+            "start": 385,
+            "end": 445
+        },
+        {
+            "program_id": "470650_live_nhl_hockey_2026-01-04_0360",
+            "channel_id": 361,
+            "start": 445,
+            "end": 510
+        },
+        {
+            "program_id": "470577_mlb_extra_innings_info_2026-01-04_0480",
+            "channel_id": 288,
+            "start": 510,
+            "end": 541
+        },
+        {
+            "program_id": "470813_nhl_center_ice_2026-01-04_0480",
+            "channel_id": 524,
+            "start": 541,
+            "end": 575
+        },
+        {
+            "program_id": "470351_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 63,
+            "start": 575,
+            "end": 605
+        },
+        {
+            "program_id": "470468_tg5_2026-01-04_0605",
+            "channel_id": 180,
+            "start": 605,
+            "end": 635
+        },
+        {
+            "program_id": "470345_live_nfl_football_2026-01-04_0600",
+            "channel_id": 57,
+            "start": 635,
+            "end": 665
+        },
+        {
+            "program_id": "470436_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 148,
+            "start": 665,
+            "end": 720
+        },
+        {
+            "program_id": "470629_nfl_sunday_ticket_2026-01-04_0720",
+            "channel_id": 340,
+            "start": 720,
+            "end": 865
+        },
+        {
+            "program_id": "470868_assembl_e_nationale_2026-01-04_0840",
+            "channel_id": 579,
+            "start": 865,
+            "end": 910
+        },
+        {
+            "program_id": "470774_nhl_center_ice_2026-01-04_0840",
+            "channel_id": 485,
+            "start": 910,
+            "end": 961
+        },
+        {
+            "program_id": "470711_nba_league_pass_info_2026-01-04_0840",
+            "channel_id": 422,
+            "start": 961,
+            "end": 1010
+        },
+        {
+            "program_id": "470908_mlb_extra_innings_info_2026-01-04_0720",
+            "channel_id": 619,
+            "start": 1010,
+            "end": 1100
+        },
+        {
+            "program_id": "470403_from_the_world_of_john_w_2026-01-04_1005",
+            "channel_id": 115,
+            "start": 1100,
+            "end": 1130
+        },
+        {
+            "program_id": "470826_mlb_extra_innings_info_2026-01-04_1080",
+            "channel_id": 537,
+            "start": 1130,
+            "end": 1160
+        },
+        {
+            "program_id": "470774_nhl_center_ice_2026-01-04_1080",
+            "channel_id": 485,
+            "start": 1160,
+            "end": 1200
+        },
+        {
+            "program_id": "470339_sports_30_2026-01-04_1200",
+            "channel_id": 51,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "470442_legislative_assembly_of__2026-01-04_1140",
+            "channel_id": 154,
+            "start": 1230,
+            "end": 1297
+        },
+        {
+            "program_id": "470636_hpitv_west_2026-01-04_1140",
+            "channel_id": 347,
+            "start": 1297,
+            "end": 1327
+        },
+        {
+            "program_id": "470319_rock_solid_builds_2026-01-04_1320",
+            "channel_id": 31,
+            "start": 1327,
+            "end": 1357
+        },
+        {
+            "program_id": "470891_land_of_broken_hearts_2026-01-04_1300",
+            "channel_id": 602,
+            "start": 1357,
+            "end": 1389
+        },
+        {
+            "program_id": "470294_lo_and_behold_2026-01-04_1380",
+            "channel_id": 6,
+            "start": 1389,
+            "end": 1430
+        }
+    ]
+}

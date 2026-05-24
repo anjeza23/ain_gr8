@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "378940__2026-01-04_0060",
+            "channel_id": 82,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "458026__2026-01-04_0068",
+            "channel_id": 618,
+            "start": 90,
+            "end": 332
+        },
+        {
+            "program_id": "490552_macau_2026-01-04_0210",
+            "channel_id": 1185,
+            "start": 332,
+            "end": 362
+        },
+        {
+            "program_id": "490349__2026-01-04_0100",
+            "channel_id": 983,
+            "start": 362,
+            "end": 431
+        },
+        {
+            "program_id": "464645__2026-01-04_0431",
+            "channel_id": 834,
+            "start": 431,
+            "end": 462
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_0360",
+            "channel_id": 958,
+            "start": 462,
+            "end": 511
+        },
+        {
+            "program_id": "458004__2026-01-04_0500",
+            "channel_id": 597,
+            "start": 511,
+            "end": 651
+        },
+        {
+            "program_id": "457993__2026-01-04_0598",
+            "channel_id": 586,
+            "start": 651,
+            "end": 728
+        },
+        {
+            "program_id": "490332_2021_2022nba_d_live_2026-01-04_0690",
+            "channel_id": 966,
+            "start": 728,
+            "end": 799
+        },
+        {
+            "program_id": "378864_1200_2026-01-04_0780",
+            "channel_id": 51,
+            "start": 799,
+            "end": 830
+        },
+        {
+            "program_id": "490350__2026-01-04_0830",
+            "channel_id": 984,
+            "start": 830,
+            "end": 860
+        },
+        {
+            "program_id": "457757_telejornal_rtpi_diferido_2026-01-04_0870",
+            "channel_id": 360,
+            "start": 870,
+            "end": 930
+        },
+        {
+            "program_id": "458127__2026-01-04_0910",
+            "channel_id": 717,
+            "start": 930,
+            "end": 962
+        },
+        {
+            "program_id": "457959__2026-01-04_0805",
+            "channel_id": 554,
+            "start": 962,
+            "end": 1009
+        },
+        {
+            "program_id": "464602_2025_top_11_2026-01-04_0983",
+            "channel_id": 791,
+            "start": 1009,
+            "end": 1041
+        },
+        {
+            "program_id": "490377__2026-01-04_0910",
+            "channel_id": 1010,
+            "start": 1041,
+            "end": 1075
+        },
+        {
+            "program_id": "490452__2026-01-04_1075",
+            "channel_id": 1085,
+            "start": 1075,
+            "end": 1112
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_1080",
+            "channel_id": 958,
+            "start": 1112,
+            "end": 1169
+        },
+        {
+            "program_id": "458124__2026-01-04_1169",
+            "channel_id": 714,
+            "start": 1169,
+            "end": 1199
+        },
+        {
+            "program_id": "490332_2021_2022sbl_live_2026-01-04_1080",
+            "channel_id": 966,
+            "start": 1199,
+            "end": 1229
+        },
+        {
+            "program_id": "417053__2026-01-04_1229",
+            "channel_id": 102,
+            "start": 1229,
+            "end": 1260
+        },
+        {
+            "program_id": "490497__2026-01-04_1260",
+            "channel_id": 1130,
+            "start": 1260,
+            "end": 1324
+        },
+        {
+            "program_id": "457757_na_nossa_natureza_estrei_2026-01-04_1305",
+            "channel_id": 360,
+            "start": 1324,
+            "end": 1360
+        },
+        {
+            "program_id": "490574_4_2026-01-04_1290",
+            "channel_id": 1207,
+            "start": 1360,
+            "end": 1400
+        },
+        {
+            "program_id": "457649__2026-01-04_1389",
+            "channel_id": 256,
+            "start": 1400,
+            "end": 1430
+        }
+    ]
+}

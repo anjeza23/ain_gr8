@@ -1,0 +1,184 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "skysports_26_vig_no_event_today_2026-01-04_0000",
+            "channel_id": 686,
+            "start": 0,
+            "end": 35
+        },
+        {
+            "program_id": "celtic_spfl_signing_off_2026-01-04_0000",
+            "channel_id": 175,
+            "start": 35,
+            "end": 140
+        },
+        {
+            "program_id": "tntsports9_uk_channel_off_air_2026-01-04_0000",
+            "channel_id": 818,
+            "start": 140,
+            "end": 197
+        },
+        {
+            "program_id": "dazn9_uk_signing_off_2026-01-04_0197",
+            "channel_id": 217,
+            "start": 197,
+            "end": 227
+        },
+        {
+            "program_id": "skycinemagreats_uk_men_in_black_ii_2026-01-04_0190",
+            "channel_id": 645,
+            "start": 227,
+            "end": 260
+        },
+        {
+            "program_id": "epl02_v_no_event_today_2026-01-04_0240",
+            "channel_id": 274,
+            "start": 260,
+            "end": 332
+        },
+        {
+            "program_id": "amazonukevent8_uk_no_game_today_2026-01-04_0180",
+            "channel_id": 72,
+            "start": 332,
+            "end": 373
+        },
+        {
+            "program_id": "dazn5_uk_signing_off_2026-01-04_0373",
+            "channel_id": 213,
+            "start": 373,
+            "end": 429
+        },
+        {
+            "program_id": "nfl14_vig_no_event_today_2026-01-04_0240",
+            "channel_id": 464,
+            "start": 429,
+            "end": 460
+        },
+        {
+            "program_id": "charltonathletic_e_no_game_today_2026-01-04_0420",
+            "channel_id": 182,
+            "start": 460,
+            "end": 545
+        },
+        {
+            "program_id": "nottinghamforest_e_no_game_today_2026-01-04_0540",
+            "channel_id": 494,
+            "start": 545,
+            "end": 585
+        },
+        {
+            "program_id": "efl18_v_no_event_today_2026-01-04_0480",
+            "channel_id": 256,
+            "start": 585,
+            "end": 650
+        },
+        {
+            "program_id": "arisenews_uk_the_morning_show_2026-01-04_0540",
+            "channel_id": 77,
+            "start": 650,
+            "end": 684
+        },
+        {
+            "program_id": "nfl12_vig_no_event_today_2026-01-04_0480",
+            "channel_id": 462,
+            "start": 684,
+            "end": 715
+        },
+        {
+            "program_id": "phoenixcnechannel__chit_chat_with_me_2026-01-04_0675",
+            "channel_id": 515,
+            "start": 715,
+            "end": 780
+        },
+        {
+            "program_id": "stmirren_spfl_no_game_today_2026-01-04_0780",
+            "channel_id": 795,
+            "start": 780,
+            "end": 818
+        },
+        {
+            "program_id": "aldershottown_nati_no_game_today_2026-01-04_0660",
+            "channel_id": 21,
+            "start": 818,
+            "end": 869
+        },
+        {
+            "program_id": "skyshowcase_uk_wicked_one_wonderful_nig_2026-01-04_0855",
+            "channel_id": 667,
+            "start": 869,
+            "end": 935
+        },
+        {
+            "program_id": "amazonukevent29_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 45,
+            "start": 935,
+            "end": 965
+        },
+        {
+            "program_id": "amazonukevent7_uk_no_game_today_2026-01-04_0900",
+            "channel_id": 71,
+            "start": 965,
+            "end": 1000
+        },
+        {
+            "program_id": "skysports_48_vig_no_event_today_2026-01-04_0960",
+            "channel_id": 710,
+            "start": 1000,
+            "end": 1065
+        },
+        {
+            "program_id": "celtic_spfl_no_game_today_2026-01-04_1020",
+            "channel_id": 175,
+            "start": 1065,
+            "end": 1114
+        },
+        {
+            "program_id": "newcastleunited_ep_signing_off_2026-01-04_1095",
+            "channel_id": 482,
+            "start": 1114,
+            "end": 1161
+        },
+        {
+            "program_id": "itv1wales_1_uk_the_super_mario_bros_mov_2026-01-04_1130",
+            "channel_id": 371,
+            "start": 1161,
+            "end": 1191
+        },
+        {
+            "program_id": "falkirk_spfl_no_game_today_2026-01-04_1020",
+            "channel_id": 297,
+            "start": 1191,
+            "end": 1240
+        },
+        {
+            "program_id": "brentfordfc_epl_signing_off_2026-01-04_1095",
+            "channel_id": 154,
+            "start": 1240,
+            "end": 1285
+        },
+        {
+            "program_id": "virginmediamore_ie_virgin_media_2026-01-04_1140",
+            "channel_id": 873,
+            "start": 1285,
+            "end": 1315
+        },
+        {
+            "program_id": "more4_1_uk_the_dog_house_2026-01-04_1315",
+            "channel_id": 444,
+            "start": 1315,
+            "end": 1345
+        },
+        {
+            "program_id": "ss_event12_uk_no_game_today_2026-01-04_1140",
+            "channel_id": 568,
+            "start": 1345,
+            "end": 1380
+        },
+        {
+            "program_id": "atn_uk_matir_subash_2026-01-04_1380",
+            "channel_id": 12,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

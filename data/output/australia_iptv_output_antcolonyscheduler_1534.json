@@ -1,0 +1,136 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "northmelbournekang_no_match_today_2026-01-04_0000",
+            "channel_id": 355,
+            "start": 0,
+            "end": 35
+        },
+        {
+            "program_id": "channel9sydney_au_united_cup_day_3_2026-01-04_0030",
+            "channel_id": 170,
+            "start": 35,
+            "end": 88
+        },
+        {
+            "program_id": "nsw_sydneyfoxleagu_nrl_grand_final_storm_v__2026-01-04_0060",
+            "channel_id": 344,
+            "start": 88,
+            "end": 120
+        },
+        {
+            "program_id": "espnplay43_au_no_match_today_2026-01-04_0120",
+            "channel_id": 229,
+            "start": 120,
+            "end": 209
+        },
+        {
+            "program_id": "stan16_au_no_match_today_2026-01-04_0120",
+            "channel_id": 436,
+            "start": 209,
+            "end": 331
+        },
+        {
+            "program_id": "abcmelbourne_au_long_lost_family_2026-01-04_0331",
+            "channel_id": 118,
+            "start": 331,
+            "end": 361
+        },
+        {
+            "program_id": "espnplay83_au_no_match_today_2026-01-04_0360",
+            "channel_id": 273,
+            "start": 361,
+            "end": 542
+        },
+        {
+            "program_id": "9hobart_au_selling_houses_australia_2026-01-04_0542",
+            "channel_id": 78,
+            "start": 542,
+            "end": 572
+        },
+        {
+            "program_id": "sbsworldmoviesbris_the_boy_and_the_heron_2026-01-04_0555",
+            "channel_id": 415,
+            "start": 572,
+            "end": 650
+        },
+        {
+            "program_id": "9gobrisbane_au_brisbane_international_d_2026-01-04_0480",
+            "channel_id": 74,
+            "start": 650,
+            "end": 680
+        },
+        {
+            "program_id": "optussport8_au_no_match_today_2026-01-04_0600",
+            "channel_id": 367,
+            "start": 680,
+            "end": 715
+        },
+        {
+            "program_id": "10boldbrisbane_au_ncis_2026-01-04_0690",
+            "channel_id": 1,
+            "start": 715,
+            "end": 745
+        },
+        {
+            "program_id": "10boldadelaide_au_ncis_2026-01-04_0745",
+            "channel_id": 0,
+            "start": 745,
+            "end": 775
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0775",
+            "channel_id": 2,
+            "start": 775,
+            "end": 824
+        },
+        {
+            "program_id": "sbsworldmoviesadel_lawless_2026-01-04_0795",
+            "channel_id": 414,
+            "start": 824,
+            "end": 887
+        },
+        {
+            "program_id": "macarthurfc_a_leag_next_match_auckland_fc_m_2026-01-04_0840",
+            "channel_id": 333,
+            "start": 887,
+            "end": 1068
+        },
+        {
+            "program_id": "sbsmelbourne_au_24_hours_in_emergency_2026-01-04_1055",
+            "channel_id": 401,
+            "start": 1068,
+            "end": 1110
+        },
+        {
+            "program_id": "sbsmelbourne_au_off_the_beaten_track_wit_2026-01-04_1110",
+            "channel_id": 401,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "espnplay39_au_no_match_today_2026-01-04_1080",
+            "channel_id": 224,
+            "start": 1140,
+            "end": 1177
+        },
+        {
+            "program_id": "sbsworldmoviesdarw_paris_13th_district_2026-01-04_1115",
+            "channel_id": 417,
+            "start": 1177,
+            "end": 1214
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1252",
+            "channel_id": 2,
+            "start": 1275,
+            "end": 1328
+        },
+        {
+            "program_id": "10bolddarwin_au_home_shopping_2026-01-04_1350",
+            "channel_id": 2,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

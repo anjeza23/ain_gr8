@@ -1,0 +1,112 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "490609__2026-01-04_0060",
+            "channel_id": 1242,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "457812__2026-01-04_0060",
+            "channel_id": 413,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0150",
+            "channel_id": 966,
+            "start": 150,
+            "end": 300
+        },
+        {
+            "program_id": "490567__2026-01-04_0070",
+            "channel_id": 1200,
+            "start": 300,
+            "end": 422
+        },
+        {
+            "program_id": "458028__2026-01-04_0095",
+            "channel_id": 620,
+            "start": 422,
+            "end": 464
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_0360",
+            "channel_id": 958,
+            "start": 464,
+            "end": 561
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0480",
+            "channel_id": 966,
+            "start": 561,
+            "end": 651
+        },
+        {
+            "program_id": "490296__2026-01-04_0610",
+            "channel_id": 930,
+            "start": 651,
+            "end": 685
+        },
+        {
+            "program_id": "457828__2026-01-04_0558",
+            "channel_id": 429,
+            "start": 685,
+            "end": 734
+        },
+        {
+            "program_id": "490332_2021_2022nba_d_live_2026-01-04_0690",
+            "channel_id": 966,
+            "start": 734,
+            "end": 778
+        },
+        {
+            "program_id": "378845__2026-01-04_0778",
+            "channel_id": 33,
+            "start": 778,
+            "end": 808
+        },
+        {
+            "program_id": "457787_40_2026-01-04_0765",
+            "channel_id": 389,
+            "start": 808,
+            "end": 852
+        },
+        {
+            "program_id": "457757_telejornal_rtpi_diferido_2026-01-04_0870",
+            "channel_id": 360,
+            "start": 870,
+            "end": 930
+        },
+        {
+            "program_id": "490375__2026-01-04_0870",
+            "channel_id": 1008,
+            "start": 930,
+            "end": 1028
+        },
+        {
+            "program_id": "490318__2026-01-04_1020",
+            "channel_id": 952,
+            "start": 1028,
+            "end": 1076
+        },
+        {
+            "program_id": "490332_2021_2022sbl_live_2026-01-04_1080",
+            "channel_id": 966,
+            "start": 1080,
+            "end": 1350
+        },
+        {
+            "program_id": "457857__2026-01-04_1350",
+            "channel_id": 456,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "457659__2026-01-04_1370",
+            "channel_id": 265,
+            "start": 1380,
+            "end": 1423
+        }
+    ]
+}

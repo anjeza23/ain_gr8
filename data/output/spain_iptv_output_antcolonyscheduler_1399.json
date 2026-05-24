@@ -1,0 +1,148 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "mtv00s_es_fin_de_emisi_n_2026-01-04_0000",
+            "channel_id": 185,
+            "start": 0,
+            "end": 186
+        },
+        {
+            "program_id": "m_ligadecampeones7_m_liga_de_campeones_7_2026-01-04_0000",
+            "channel_id": 173,
+            "start": 186,
+            "end": 216
+        },
+        {
+            "program_id": "m_copa_es_primera_federaci_n_2026-01-04_0195",
+            "channel_id": 134,
+            "start": 216,
+            "end": 260
+        },
+        {
+            "program_id": "m_ligadecampeones4_m_liga_de_campeones_4_2026-01-04_0000",
+            "channel_id": 170,
+            "start": 260,
+            "end": 400
+        },
+        {
+            "program_id": "rcdmallorca_laliga_no_game_today_2026-01-04_0360",
+            "channel_id": 215,
+            "start": 400,
+            "end": 430
+        },
+        {
+            "program_id": "tpa_es_redifusi_n_2026-01-04_0155",
+            "channel_id": 236,
+            "start": 430,
+            "end": 460
+        },
+        {
+            "program_id": "la1catalunya_es_noticias_24h_2026-01-04_0420",
+            "channel_id": 118,
+            "start": 460,
+            "end": 496
+        },
+        {
+            "program_id": "m_clasicos_es_scarface_el_terror_del_h_2026-01-04_0460",
+            "channel_id": 132,
+            "start": 496,
+            "end": 526
+        },
+        {
+            "program_id": "dark_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 64,
+            "start": 526,
+            "end": 556
+        },
+        {
+            "program_id": "m_suspense_es_la_hora_de_la_1_la_hora__2026-01-04_0510",
+            "channel_id": 182,
+            "start": 556,
+            "end": 635
+        },
+        {
+            "program_id": "m_series_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 181,
+            "start": 635,
+            "end": 849
+        },
+        {
+            "program_id": "atleticodemadrid_l_no_game_today_2026-01-04_0840",
+            "channel_id": 20,
+            "start": 849,
+            "end": 885
+        },
+        {
+            "program_id": "athleticclub_lalig_no_game_today_2026-01-04_0780",
+            "channel_id": 19,
+            "start": 885,
+            "end": 945
+        },
+        {
+            "program_id": "eurosport1_es_copa_del_mundo_de_esqu_a_2026-01-04_0945",
+            "channel_id": 95,
+            "start": 945,
+            "end": 975
+        },
+        {
+            "program_id": "deportivoalaves_la_no_game_today_2026-01-04_0840",
+            "channel_id": 74,
+            "start": 975,
+            "end": 1005
+        },
+        {
+            "program_id": "hollywood_es_tercera_identidad_2026-01-04_1005",
+            "channel_id": 109,
+            "start": 1005,
+            "end": 1100
+        },
+        {
+            "program_id": "m_accion_es_liga_de_la_justicia_2026-01-04_1087",
+            "channel_id": 131,
+            "start": 1100,
+            "end": 1130
+        },
+        {
+            "program_id": "m_laligauhd_es_laliga_ea_sports_t25_26__2026-01-04_1104",
+            "channel_id": 161,
+            "start": 1130,
+            "end": 1170
+        },
+        {
+            "program_id": "m_documentales_es_revisando_la_teor_a_de_l_2026-01-04_1160",
+            "channel_id": 144,
+            "start": 1170,
+            "end": 1215
+        },
+        {
+            "program_id": "dkiss_es_mi_vida_con_300_kilos_2026-01-04_1155",
+            "channel_id": 73,
+            "start": 1215,
+            "end": 1247
+        },
+        {
+            "program_id": "tpa_es_tpa_noticias_2026-01-04_1230",
+            "channel_id": 236,
+            "start": 1247,
+            "end": 1286
+        },
+        {
+            "program_id": "atleticodemadrid_l_laliga_santander_real_so_2026-01-04_1260",
+            "channel_id": 20,
+            "start": 1286,
+            "end": 1354
+        },
+        {
+            "program_id": "la1_es_cine_2026-01-04_1320",
+            "channel_id": 112,
+            "start": 1354,
+            "end": 1400
+        },
+        {
+            "program_id": "alquiler_es_un_gran_viaje_atrevido_y_2026-01-04_1320",
+            "channel_id": 13,
+            "start": 1400,
+            "end": 1435
+        }
+    ]
+}

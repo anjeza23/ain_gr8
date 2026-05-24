@@ -1,0 +1,130 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "369729_bbc_news_2026-01-04_0060",
+            "channel_id": 10,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369770_tropic_thunder_2026-01-04_0090",
+            "channel_id": 31,
+            "start": 90,
+            "end": 142
+        },
+        {
+            "program_id": "412170_kaun_banega_crorepati_20_2026-01-04_0090",
+            "channel_id": 146,
+            "start": 142,
+            "end": 180
+        },
+        {
+            "program_id": "412175_part_2_the_84_cup_win_wa_2026-01-04_0180",
+            "channel_id": 149,
+            "start": 180,
+            "end": 210
+        },
+        {
+            "program_id": "412151_ep_201_the_owner_s_box_2026-01-04_0210",
+            "channel_id": 132,
+            "start": 210,
+            "end": 240
+        },
+        {
+            "program_id": "369844_maati_se_bandhi_dor_2026-01-04_0180",
+            "channel_id": 73,
+            "start": 240,
+            "end": 305
+        },
+        {
+            "program_id": "412167_laliga_2025_26_espanyol__2026-01-04_0295",
+            "channel_id": 143,
+            "start": 305,
+            "end": 335
+        },
+        {
+            "program_id": "412094_breakfree_2026-01-04_0270",
+            "channel_id": 86,
+            "start": 335,
+            "end": 434
+        },
+        {
+            "program_id": "369775_end_of_transmission_2026-01-04_0420",
+            "channel_id": 36,
+            "start": 434,
+            "end": 464
+        },
+        {
+            "program_id": "369824_terbelenggu_rindu_eps_42_2026-01-04_0450",
+            "channel_id": 62,
+            "start": 464,
+            "end": 500
+        },
+        {
+            "program_id": "369741_united_cup_2026_day_3_li_2026-01-04_0480",
+            "channel_id": 16,
+            "start": 500,
+            "end": 650
+        },
+        {
+            "program_id": "369717_closed_2026-01-04_0420",
+            "channel_id": 2,
+            "start": 650,
+            "end": 770
+        },
+        {
+            "program_id": "369840_jersey_girl_2026-01-04_0760",
+            "channel_id": 71,
+            "start": 770,
+            "end": 854
+        },
+        {
+            "program_id": "412151_dubai_international_baja_2026-01-04_0840",
+            "channel_id": 132,
+            "start": 854,
+            "end": 895
+        },
+        {
+            "program_id": "472551_end_of_transmission_2026-01-04_0780",
+            "channel_id": 194,
+            "start": 895,
+            "end": 1035
+        },
+        {
+            "program_id": "412116_movie_p_t_sir_u_2026-01-04_1020",
+            "channel_id": 103,
+            "start": 1035,
+            "end": 1192
+        },
+        {
+            "program_id": "369723_movie_2026-01-04_1110",
+            "channel_id": 6,
+            "start": 1192,
+            "end": 1230
+        },
+        {
+            "program_id": "415456_sound_trek_2025_2026-01-04_1230",
+            "channel_id": 176,
+            "start": 1230,
+            "end": 1306
+        },
+        {
+            "program_id": "412112_beetlejuice_2026-01-04_1290",
+            "channel_id": 100,
+            "start": 1306,
+            "end": 1368
+        },
+        {
+            "program_id": "412192_paapan_2026-01-04_1230",
+            "channel_id": 165,
+            "start": 1368,
+            "end": 1405
+        },
+        {
+            "program_id": "369790_premiership_rugby_northa_2026-01-04_1320",
+            "channel_id": 44,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

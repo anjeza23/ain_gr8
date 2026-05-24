@@ -90,47 +90,10 @@ Ky kombinim i eksplorimit **Beam Search** dhe heuristikave të avancuara **Looka
 - Shpejtëzi e mirë pasi fillon nga zgjidhje e mirë
 - Thjeshtësi në implementim dhe kontroll
 
-## Arkitektura e Tre Fazave
-
-Sistemi përdor një arkitekturë tre-fazore për optimizim të plotë:
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│ FAZA 1: Ant Colony Optimization (Kërkimi Global)           │
-├─────────────────────────────────────────────────────────────┤
-│ - Eksploro hapësirën gjerësisht                             │
-│ - Gjenero zgjidhje premtuese                                │
-│ - Output: Zgjidhja më e mirë e gjetjehur                    │
-└────────────────────┬────────────────────────────────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────────────────────────┐
-│ FAZA 2: Beam Search (Kërkimi Paralel)                      │
-├─────────────────────────────────────────────────────────────┤
-│ - Eksploro më shumë degë paralelisht                        │
-│ - Përmirësim deterministik                                  │
-│ - Output: Zgjidhja më e mirë nga kërkimi                    │
-└────────────────────┬────────────────────────────────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────────────────────────┐
-│ FAZA 3: Local Search (Përpunimi Lokal)                     │
-├─────────────────────────────────────────────────────────────┤
-│ - Nis nga zgjidhja më e mirë e ACO                          │
-│ - Eksploro fqinjësinë (neighbor solutions)                  │
-│ - Përmirësim iterativ                                       │
-│ - Output: Zgjidhja përfundimtare optimizuar                │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ## Benchmarking - Matja e Performancës
 
-Për të matjët performancën e algoritmeve në më shumë ekzekutime:
-
-```bash
-# Ekzekuto 10 herë çdo algoritëm
-python3 utils/benchmark.py --input data/input/toy.json --executions 10 --timeout 300
-```
+Për të matur performancën e algoritmeve në më shumë ekzekutime:
 
 **Parametra:**
 - `--input` (`-i`): Path i fajlit input
@@ -143,103 +106,28 @@ python3 utils/benchmark.py --input data/input/toy.json --executions 10 --timeout
 - Përmirësim gjatë Local Search
 - Krahasim midis ACO, Beam Search, dhe ACO + Local Search
 
-### Shembull i Rezultateve:
 
-```
-ACO:
-  Pikë më të mira:      850
-  Pikë më të këqija:    720
-  Pikë mesatare:        792.5
-  Ekzekutime të dështuara: 0
-
-Beam Search:
-  Pikë më të mira:      880
-  Pikë më të këqija:    800
-  Pikë mesatare:        840.0
-  Ekzekutime të dështuara: 0
-
-ACO + Local Search:
-  Pikë ACO:             850
-  Pikë pas Local Search: 885
-  Përmirësim:           +35 pikë (+4.1%)
-```
 
 ## Rezultatet e Benchmark-ut Aktual
 
 Për të ekzekutuar benchmark-un me 10 ekzekutime për secilën kombinim parametrash (të paktën 3 kombinime):
 
 ```bash
-python utils/run_10_tests.py --group tv
+python utils/run_10_tests.py
 ```
 
-**Parametrat e përdorur për ACO:**
-- Kombinimi 1: ants=15, iterations=40
-- Kombinimi 2: ants=20, iterations=50
-- Kombinimi 3: ants=25, iterations=60
+Ky script ekzekuton të gjitha instancat në `data/input/` (përjashton `toy.json`) në rendin e lehtë deri në të vështirë, bazuar në madhësinë e skedarit.
 
-**Rezultatet (shembull nga benchmark i fundit):**
 
-| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final |
-|---|---:|---:|---:|---|---:|
-| australia_iptv.json | 1754 | 1581.3 | 1485 | ants=3, iter=3 | 1754 |
-| canada_pw.json | 2102 | 1702.7 | 1287 | ants=3, iter=5 | 2102 |
-| china_pw.json | 987 | 892.3 | 807 | ants=2, iter=4 | 987 |
-| france_iptv.json | 1367 | 1207.3 | 915 | ants=4, iter=4 | 1367 |
-| singapore_pw.json | 1250 | 1047.3 | 810 | ants=3, iter=5 | 1250 |
-| spain_iptv.json | 1585 | 1306.2 | 984 | ants=4, iter=4 | 1585 |
-| uk_iptv.json | 1869 | 1869.0 | 1869 | ants=2, iter=3 | 1869 |
-| us_iptv.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
-| youtube_gold.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
-| youtube_premium.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
+### Rregulla të ekzekutimit
+- Për instancat më të vogla, bëhet `10x` ACO dhe pastaj 1x Local Search në zgjidhjen më të mirë të ACO.
+- Për instancat e mëdha, përdoret kohë buxhet deri në 15 minuta për instancë.
+- Local Search merr zgjidhjen më të mirë të ACO dhe përpiqet të përmirësojë atë përmes levizjeve të programeve dhe ricalimit të pikëve.
 
-## Ekzekutimi i Projektit
-
-Për të ekzekutuar projektin në mënyrë standarde:
-
-1.  Sigurohuni që keni të instaluar Python 3.
-2.  Hapni terminalin në direktorinë kryesore të projektit.
-3.  Ekzekutoni komandën:
-    ```bash
-    python3 main.py
-    ```
-4.  Do t'ju shfaqet një listë e fajllave hyrës (input) të disponueshëm.
-5.  Shkruani numrin e indeksit dhe shtypni Enter.
-
-**Opsionet e ekzekutimit:**
-
-```bash
-# Algoritem Beam Search
-python3 main.py --algorithm beam
-
-# Ant Colony me parametra të ndryshëm
-python3 main.py --algorithm aco --ants 30 --iterations 100
-
-# Me seed të caktuar për rezultate reproducible
-python3 main.py --seed 42
-```
-
-Algoritmi do të fillojë ekzekutimin dhe në fund do të ruajë rezultatin në folderin `data/output/`.
-
-## Parameter Tuning
-
-Për të gjetur parametrat më të mirë, provoje kombinacione të ndryshme:
-
-**ACO Parameters:**
-```bash
-# Ants default: 20 | Range: 10-50
-# Iterations default: 50 | Range: 20-200
-python3 main.py --ants 30 --iterations 100
-
-# Alpha (pheromone influence): 0.5-2.0
-# Beta (heuristic influence): 1.0-3.0
-```
-
-**Beam Search Parameters:**
-```bash
-# Beam width default: 100 | Range: 50-200
-# Lookahead default: 4 | Range: 2-8
-python3 main.py --algorithm beam
-```
+### Rezultate dhe analiza
+- Local Search është projektuar të punojë mbi zgjidhjen më të mirë të ACO dhe të përmirësojë rezultatet nëse një vendosje alternative ul penalitetet ose rrit përfitimet.
+- Në testet tona, për kombinimet standarde të ACO, modeli që mbajti më mirë balancën score/kohë ishte `ants=20, iterations=50` për instancat mesatare.
+- Instancat shumë të mëdha shpesh lehtësohen nga profilet më të lehta të ACO (`ants=2..4`, `iterations=3..5`) për të respektuar kufirin kohor dhe më pas të rafinohen me Local Search.
 
 ## BENCHMARK REZULTATE - 10 EKZEKUTIME PER INSTANCE
 
@@ -247,45 +135,43 @@ python3 main.py --algorithm beam
 
 - Për secilën instancë janë bërë **10 ekzekutime ACO** me parametra të ndryshëm (`ants`, `iterations`).
 - Kufizimi i kohës është respektuar me buxhet **maksimum 5 minuta për instancë**.
-- Pas zgjedhjes së zgjidhjes më të mirë nga 10 run-et, është bërë **1 ekzekutim Local Search**.
-- `toy.json` është trajtuar më herët; këtu janë instancat e tjera `*_tv_input.json`.
+-Rezultatet e fundit jane ruajtur ne C:\Users\HP\ain_gr8\benchmark_10x_all_instances_20260524_165649.json
 
 ### Rezultatet (ACO 10x + Local Search 1x)
 
-| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final |
-|---|---:|---:|---:|---|---:|
-| croatia_tv_input.json | 1822 | 1530.3 | 1190 | ants=18, iter=60 | 1822 |
-| germany_tv_input.json | 1456 | 1377.9 | 1325 | ants=12, iter=50 | 1456 |
-| kosovo_tv_input.json | 2414 | 2251.9 | 2134 | ants=35, iter=90 | 2414 |
-| netherlands_tv_input.json | 2256 | 2166.1 | 2051 | ants=20, iter=50 | 2256 |
-| uk_tv_input.json | 633 | 417.3 | 265 | ants=12, iter=50 | 633 |
-| usa_tv_input.json | 2019 | 1925.0 | 1831 | ants=6, iter=12 | 2019 |
-
-### Rezultatet për instancat e mëdha (`iptv/pw/youtube`)
-
-Këtu është përdorur profil ultra-light i ACO (parametra më të vegjël) për të respektuar kufirin kohor.
-
-| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final |
-|---|---:|---:|---:|---|---:|
-| australia_iptv.json | 1754 | 1581.3 | 1485 | ants=3, iter=3 | 1754 |
-| canada_pw.json | 2102 | 1702.7 | 1287 | ants=3, iter=5 | 2102 |
-| china_pw.json | 987 | 892.3 | 807 | ants=2, iter=4 | 987 |
-| france_pw.json | 1367 | 1207.3 | 915 | ants=4, iter=4 | 1367 |
-| singapore_pw.json | 1250 | 1047.3 | 810 | ants=3, iter=5 | 1250 |
-| spain_iptv.json | 1585 | 1306.2 | 984 | ants=4, iter=4 | 1585 |
-| uk_iptv.json | 1869 | 1869.0 | 1869 | ants=2, iter=3 | 1869 |
-| us_iptv.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
-| youtube_gold.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 |
+| Instance | ACO Best | ACO Avg | ACO Worst | Best Params | LS Final | LS Improvement |
+|---|---:|---:|---:|---|---:|---:|
+| germany_tv_input.json | 1456 | 1378.3 | 1324 | ants=15, iter=40 | 1921 | 465 |
+| kosovo_tv_input.json | 2428 | 2262.7 | 2127 | ants=20, iter=50 | 2969 | 541 |
+| netherlands_tv_input.json | 2404 | 2158.7 | 1990 | ants=25, iter=60 | 2989 | 585 |
+| croatia_tv_input.json | 1922 | 1603.2 | 1167 | ants=25, iter=60 | 2207 | 285 |
+| uk_tv_input.json | 1397 | 596.9 | 129 | ants=25, iter=60 | 1397 | - |
+| singapore_pw.json | 1523 | 1131.2 | 810 | ants=4, iter=5 | 2129 | 606 |
+| spain_iptv.json | 1780 | 1345.2 | 979 | ants=3, iter=4 | 2545 | 765 |
+| france_iptv.json | 1525 | 1161.5 | 915 | ants=4, iter=5 | 2111 | 586 |
+| australia_iptv.json | 1969 | 1639.8 | 1401 | ants=4, iter=5 | 2427 | 458 |
+| canada_pw.json | 2102 | 1651.8 | 1287 | ants=2, iter=3 | 2843 | 741 |
+| uk_iptv.json | 1869 | 1566.2 | 1235 | ants=2, iter=3 | 2478 | 609 |
+| usa_tv_input.json | 2515 | 2030.4 | 1494 | ants=6, iter=12 | 2755 | 240 |
+| china_pw.json | 1256 | 999.6 | 753 | ants=3, iter=4 | 2241 | 985 |
+| youtube_gold.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
 | youtube_premium.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
+| us_iptv.json | 0 | 0.0 | 0 | ants=2, iter=3 | 0 | - |
 
-Te `us_iptv` dhe dy instancat `youtube`, edhe profili ultra-light nuk arriti të prodhojë zgjidhje valide brenda timeout-it aktual.
+Ky tabelë përdor të dhënat reale të benchmark-ut të plotë: 10 run-e ACO për secilën instancë dhe një ekzekutim Local Search mbi zgjidhjen më të mirë ACO.
 
 ### Analiza e parametrave
 
-- Për instancat mesatare (`croatia`, `germany`, `netherlands`) kombinimet **12-20 ants** dhe **50-60 iterations** japin balancë të mirë score/kohë.
-- Për instancën `kosovo_tv_input.json`, cilësia më e mirë u arrit me konfigurim më të fortë (**35 ants, 90 iterations**).
-- `uk_tv_input.json` ka sjellje më të ndjeshme ndaj kohës; konfigurimi më stabil brenda kufirit ishte **12 ants, 50 iterations**.
-- `usa_tv_input.json` kërkon konfigurime më të lehta; konfigurimi më i mirë brenda kufirit ishte **6 ants, 12 iterations**.
+- Në instancat `germany_tv_input.json`, `kosovo_tv_input.json`, `netherlands_tv_input.json`, dhe `croatia_tv_input.json`, Local Search sjell përmirësime të konsiderueshme mbi ACO.
+- `uk_tv_input.json` nuk përfitoi nga Local Search në këtë konfigurim, pasi zgjidhja më e mirë ACO ishte tashmë e mirë e optimizuar.
+- Në grupin `*_pw.json` dhe `*_iptv.json`, ACO me parametra të lehtë (`ants=2-4`, `iterations=3-5`) jep zgjidhje të vlefshme brenda buxhetit të kohës, dhe Local Search rrit rezultatet në mënyrë domethënëse.
+- `youtube_gold.json`, `youtube_premium.json`, dhe `us_iptv.json` nuk prodhuan zgjidhje valide me timeout-in standard (25s). I kemi rikthyer këto tre instanca me timeout të rritur në `120s` për çdo ACO run (30 run-e totale) dhe Local Search.
+
+- **Rezultati i ekzekutimit me `--timeout 120 --instances youtube_gold.json,youtube_premium.json,us_iptv.json`:**
+  - Edhe me `timeout=120s` për çdo run, këto instanca përfunduan me `score=0` (best ACO = 0).
+
+- **Përfundim:** Pavarësisht rritjes së timeout-it në 120s, këto tre instanca nuk arritën një zgjidhje valide.
+
 
 ### Rekomandimi kryesor i algoritmit
 
@@ -294,146 +180,6 @@ Për problemin tonë praktik rekomandohet:
 1. **Faza 1 (Global Search):** `Ant Colony Optimization (ACO)` me tuning të parametrave sipas instancës.
 2. **Faza 2 (Refinement):** `Local Search` mbi zgjidhjen më të mirë të ACO (1 ekzekutim).
 
-Në testet aktuale, Local Search nuk dha përmirësim numerik (`+0`) mbi zgjidhjen më të mirë të ACO, por mbetet hap i dobishëm për raste ku ACO ndalet në minimum lokal.
-
-### Parametra të rekomanduar për përdorim fillestar
-
-```bash
-# Default i rekomanduar për shumicën e instancave tv_input
-python main.py --algorithm aco --ants 20 --iterations 50
-```
-
-```bash
-# Për instanca më të vështira (p.sh. kosovo_tv_input)
-python main.py --algorithm aco --ants 35 --iterations 90
-```
-
-## Ekzekutimi me Local Search
-
-Për të përmirësuar zgjidhjen përmes Local Search:
-
-```bash
-# ACO me Local Search
-python3 main.py --local-search
-
-# ACO me Local Search me parametra të ndryshëm
-python3 main.py --local-search --ls-iterations 200 --ls-neighborhood 30
-
-# Beam Search me Local Search
-python3 main.py --algorithm beam --local-search
-```
-
-**Parametra Local Search:**
-- `--local-search`: Aktivizo Local Search optimization
-- `--ls-iterations`: Max iteracione (default 100)
-- `--ls-neighborhood`: Madhësia e fqinjësisë (default 20)
-
-## Shembuj Praktikë
-
-### 1. Klasa e shpejtë dhe bazike
-```bash
-# Një ekzekutim bazik me parametra default
-python3 main.py --input data/input/toy.json
-```
-
-### 2. Optimizim i plotë me Local Search
-```bash
-# ACO + Local Search
-python3 main.py --input data/input/toy.json --local-search
-```
-
-### 3. Benchmarking për krahasim
-```bash
-# Testuese 10 ekzekutime të çdo algoritmi
-python3 utils/benchmark.py --input data/input/toy.json --executions 10
-```
-
-### 4. Gjetja e parametrave më të mirë
-```bash
-# Testuese kombinacione të parametrave ACO
-python3 utils/parameter_tuner.py --input data/input/toy.json --algorithm aco --runs 5
-
-# Testuese kombinacione të parametrave Beam Search
-python3 utils/parameter_tuner.py --input data/input/toy.json --algorithm beam --runs 5
-```
-
-## Struktura e Rezultateve
-
-Fajlet e output ruhen në `data/output/` me emrat formuar si:
-```
-{input_name}_output_{algorithm_name}_{score}.json
-```
-
-Shembull:
-```
-toy_output_antcolonyscheduler_380.json
-```
-
-## Struktura e Projektit
-
-```
-ain_gr8/
-├── main.py                          # Skript i ciklit
-├── README.md                        # Ky dokument
-├── models/                          # Data models
-│   ├── channel.py
-│   ├── program.py
-│   ├── schedule.py
-│   ├── solution.py
-│   └── ...
-├── scheduler/                       # Algoritme planifikimi
-│   ├── ant_colony_scheduler.py      # ACO
-│   ├── beam_search_scheduler.py     # Beam Search
-│   └── local_search_scheduler.py    # Local Search
-├── parser/                          # Leximi i input
-│   ├── parser.py
-│   └── file_selector.py
-├── serializer/                      # Ruajtje i output
-│   └── serializer.py
-├── utils/                           # Utility functions
-│   ├── benchmark.py                 # Benchmarking framework
-│   ├── parameter_tuner.py           # Parameter tuning
-│   ├── utils.py
-│   └── algorithm_utils.py
-├── validator/                       # Validimi i zgjidhjeve
-│   └── validator.py
-└── data/
-    ├── input/                       # Fajlet input
-    └── output/                      # Fajlet output
-```
-
-## Teori dhe Koncepte
-
-### Problemi i Optimizmit
-
-Ky projekt zgjidh **Problemin e Planifikimit Televiziv (TV Scheduling)** i cili është **NP-Hard**. Qëllimi është:
-
-**Maksimizimi:** Pikë totale të programeve të planifikuara
-**Nën kufizimet:** 
-- Koha (no overlap, time window)
-- Kanalet (priority blocks, channel constraints)
-- Zhanret (genre repetition rules)
-- Preferenca kohore (time preference bonuses)
-
-### Algoritmet
-
-| Algoritëm | Tip | Përcaktim | Përparësi |
-|-----------|-----|----------|----------|
-| **ACO** | Stokastik | Imitim i milingonave | Gjen zgjidhje shumë të mira |
-| **Beam Search** | Deterministik | Kërkimi paralel | Riprodhueshëm, radhë më e mirë |
-| **Local Search** | Përmirësues | Kërkimi fqinjës | Përmirëson zgjidhjet ekzistuese |
-
-### Kombinimi i Algoritmeve
-
-**Strategjia Hibride:**
-1. **ACO** gjen zgjidhje premtuese në mënyrë stokastike
-2. **Beam Search** kryeson kërkimin paralel deterministik
-3. **Local Search** merr zgjidhjen më të mirë dhe e përmirëson lokalisht
-
-Kjo kombinim mundëson:
-- Eksplorimin efikas të hapësirës
-- Shmangien e minimumeve lokale
-- Përmirësimin sistemtaik të zgjidhjes
 
 
 ## Konkluzioni

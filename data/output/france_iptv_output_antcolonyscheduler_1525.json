@@ -1,0 +1,166 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "ligue1_fr_le_club_2026-01-04_0000",
+            "channel_id": 204,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "alarabiya_fr_cha_ne_d_information_sao_2026-01-04_0000",
+            "channel_id": 11,
+            "start": 30,
+            "end": 94
+        },
+        {
+            "program_id": "canal_sport360_fr_en_pole_la_soir_e_des_ch_2026-01-04_0075",
+            "channel_id": 81,
+            "start": 94,
+            "end": 124
+        },
+        {
+            "program_id": "france3_alpes_fr_la_belle_au_bois_dormant_2026-01-04_0015",
+            "channel_id": 145,
+            "start": 124,
+            "end": 156
+        },
+        {
+            "program_id": "seasons_fr_seasons_hebdo_2026-01-04_0144",
+            "channel_id": 311,
+            "start": 156,
+            "end": 187
+        },
+        {
+            "program_id": "lille_fr_no_match_today_2026-01-04_0180",
+            "channel_id": 214,
+            "start": 187,
+            "end": 218
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_0180",
+            "channel_id": 271,
+            "start": 218,
+            "end": 313
+        },
+        {
+            "program_id": "francetvdocs_fr_rendez_vous_10h_2026-01-04_0142",
+            "channel_id": 173,
+            "start": 313,
+            "end": 473
+        },
+        {
+            "program_id": "rmcmecanic_fr_vintage_mecanic_2026-01-04_0439",
+            "channel_id": 288,
+            "start": 473,
+            "end": 505
+        },
+        {
+            "program_id": "l_equipe_fr_rallye_rallye_dakar_2026-01-04_0420",
+            "channel_id": 195,
+            "start": 505,
+            "end": 560
+        },
+        {
+            "program_id": "canal_grandecran_f_mamma_mia_2026-01-04_0515",
+            "channel_id": 59,
+            "start": 560,
+            "end": 606
+        },
+        {
+            "program_id": "beinsportsmax8_fr_bein_sports_le_plus_gran_2026-01-04_0540",
+            "channel_id": 392,
+            "start": 606,
+            "end": 659
+        },
+        {
+            "program_id": "teleschiltigheim_c_la_t_l_vision_locale_de__2026-01-04_0600",
+            "channel_id": 329,
+            "start": 659,
+            "end": 752
+        },
+        {
+            "program_id": "j_one_fr_arr_t_de_la_cha_ne_2026-01-04_0600",
+            "channel_id": 189,
+            "start": 752,
+            "end": 791
+        },
+        {
+            "program_id": "recordnews_fr_informa_o_para_voc_cresc_2026-01-04_0780",
+            "channel_id": 308,
+            "start": 791,
+            "end": 916
+        },
+        {
+            "program_id": "angerssco_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 20,
+            "start": 916,
+            "end": 955
+        },
+        {
+            "program_id": "tf1_fr_les_docs_du_week_end_2026-01-04_0945",
+            "channel_id": 330,
+            "start": 955,
+            "end": 985
+        },
+        {
+            "program_id": "auxerre_fr_no_match_today_2026-01-04_0900",
+            "channel_id": 32,
+            "start": 985,
+            "end": 1040
+        },
+        {
+            "program_id": "ligue1_9_fr_ligue_1_9_2026-01-04_0960",
+            "channel_id": 213,
+            "start": 1040,
+            "end": 1074
+        },
+        {
+            "program_id": "ntd_fr_weekend_classic_movie_th_2026-01-04_0990",
+            "channel_id": 242,
+            "start": 1074,
+            "end": 1106
+        },
+        {
+            "program_id": "tvmonaco_fr_one_and_not_done_2026-01-04_1035",
+            "channel_id": 351,
+            "start": 1106,
+            "end": 1140
+        },
+        {
+            "program_id": "rcstrasbourg_fr_no_match_today_2026-01-04_1140",
+            "channel_id": 284,
+            "start": 1140,
+            "end": 1188
+        },
+        {
+            "program_id": "canal_fr_manchester_city_chelsea_2026-01-04_1110",
+            "channel_id": 54,
+            "start": 1188,
+            "end": 1227
+        },
+        {
+            "program_id": "primevideoliguecha_no_match_today_2026-01-04_1140",
+            "channel_id": 278,
+            "start": 1227,
+            "end": 1341
+        },
+        {
+            "program_id": "idf1_fr_les_myst_res_de_l_amour_2026-01-04_1317",
+            "channel_id": 185,
+            "start": 1341,
+            "end": 1373
+        },
+        {
+            "program_id": "c_sport_fr_l_ann_e_sail_gp_2026-01-04_1336",
+            "channel_id": 53,
+            "start": 1373,
+            "end": 1405
+        },
+        {
+            "program_id": "lesmarseillais24_2_les_marseillais_2026-01-04_1405",
+            "channel_id": 203,
+            "start": 1405,
+            "end": 1435
+        }
+    ]
+}

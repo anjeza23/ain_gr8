@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_ligadecampeones7_m_liga_de_campeones_7_2026-01-04_0000",
+            "channel_id": 173,
+            "start": 0,
+            "end": 30
+        },
+        {
+            "program_id": "sevillafc_laliga_next_game_laliga_santand_2026-01-04_0000",
+            "channel_id": 226,
+            "start": 30,
+            "end": 96
+        },
+        {
+            "program_id": "la8burgos_es_serie_2026-01-04_0090",
+            "channel_id": 120,
+            "start": 96,
+            "end": 248
+        },
+        {
+            "program_id": "m_deportes4_es_m_deportes_5_2026-01-04_0000",
+            "channel_id": 140,
+            "start": 248,
+            "end": 375
+        },
+        {
+            "program_id": "m_deportes6_es_m_deportes_7_2026-01-04_0000",
+            "channel_id": 142,
+            "start": 375,
+            "end": 430
+        },
+        {
+            "program_id": "barcatv_es_telediario_matinal_2026-01-04_0420",
+            "channel_id": 32,
+            "start": 430,
+            "end": 460
+        },
+        {
+            "program_id": "m_laligatv3_es_m_laliga_3_2026-01-04_0000",
+            "channel_id": 156,
+            "start": 460,
+            "end": 558
+        },
+        {
+            "program_id": "esport3_es_liga_endesa_t25_26_joven_2026-01-04_0510",
+            "channel_id": 93,
+            "start": 558,
+            "end": 608
+        },
+        {
+            "program_id": "canaldelasestrella_mi_esposa_y_la_otra_2026-01-04_0520",
+            "channel_id": 53,
+            "start": 608,
+            "end": 640
+        },
+        {
+            "program_id": "m_ligadecampeones2_m_liga_de_campeones_2_2026-01-04_0480",
+            "channel_id": 167,
+            "start": 640,
+            "end": 675
+        },
+        {
+            "program_id": "m_ligadecampeonesu_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 176,
+            "start": 675,
+            "end": 720
+        },
+        {
+            "program_id": "rtfrance_es_ma_aneros_360_2026-01-04_0635",
+            "channel_id": 217,
+            "start": 720,
+            "end": 837
+        },
+        {
+            "program_id": "m_ligadecampeones3_m_liga_de_campeones_3_2026-01-04_0480",
+            "channel_id": 169,
+            "start": 837,
+            "end": 959
+        },
+        {
+            "program_id": "ewtn_es_ewtn_2026-01-04_0780",
+            "channel_id": 87,
+            "start": 959,
+            "end": 989
+        },
+        {
+            "program_id": "valenciacf_laliga_no_game_today_2026-01-04_0780",
+            "channel_id": 261,
+            "start": 989,
+            "end": 1020
+        },
+        {
+            "program_id": "getafecf_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 104,
+            "start": 1020,
+            "end": 1067
+        },
+        {
+            "program_id": "m_fest_es_valle_salvaje_2026-01-04_1055",
+            "channel_id": 148,
+            "start": 1067,
+            "end": 1106
+        },
+        {
+            "program_id": "realbetis_laliga_signing_off_2026-01-04_1080",
+            "channel_id": 219,
+            "start": 1106,
+            "end": 1145
+        },
+        {
+            "program_id": "alquiler_es_el_gran_premio_a_todo_ga_2026-01-04_1120",
+            "channel_id": 13,
+            "start": 1145,
+            "end": 1210
+        },
+        {
+            "program_id": "hollywood_es_cuando_ramos_soldados_2026-01-04_1140",
+            "channel_id": 109,
+            "start": 1210,
+            "end": 1260
+        },
+        {
+            "program_id": "daznlaliga2_es_laliga_ea_sports_se_al_m_2026-01-04_1260",
+            "channel_id": 72,
+            "start": 1260,
+            "end": 1294
+        },
+        {
+            "program_id": "realsociedad_lalig_laliga_santander_real_so_2026-01-04_1260",
+            "channel_id": 222,
+            "start": 1294,
+            "end": 1350
+        },
+        {
+            "program_id": "alquiler_es_un_gran_viaje_atrevido_y_2026-01-04_1320",
+            "channel_id": 13,
+            "start": 1350,
+            "end": 1408
+        }
+    ]
+}

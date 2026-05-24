@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470534_the_big_fight_2026-01-04_0060",
+            "channel_id": 245,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470879_schitt_s_creek_2026-01-04_0090",
+            "channel_id": 590,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470869_nba_league_pass_info_2026-01-04_0120",
+            "channel_id": 580,
+            "start": 120,
+            "end": 220
+        },
+        {
+            "program_id": "470513_live_college_basketball_2026-01-04_0180",
+            "channel_id": 224,
+            "start": 220,
+            "end": 260
+        },
+        {
+            "program_id": "470652_ace_ventura_pet_detectiv_2026-01-04_0260",
+            "channel_id": 363,
+            "start": 260,
+            "end": 290
+        },
+        {
+            "program_id": "470304_sportsnet_one_edmonton_o_2026-01-04_0180",
+            "channel_id": 16,
+            "start": 290,
+            "end": 320
+        },
+        {
+            "program_id": "470758_live_nhl_hockey_2026-01-04_0300",
+            "channel_id": 469,
+            "start": 320,
+            "end": 405
+        },
+        {
+            "program_id": "470301_the_lavender_hill_mob_2026-01-04_0360",
+            "channel_id": 13,
+            "start": 405,
+            "end": 480
+        },
+        {
+            "program_id": "470521_live_nhl_postgame_2026-01-04_0480",
+            "channel_id": 232,
+            "start": 480,
+            "end": 510
+        },
+        {
+            "program_id": "470430_nhl_center_ice_2026-01-04_0510",
+            "channel_id": 142,
+            "start": 510,
+            "end": 545
+        },
+        {
+            "program_id": "470880_legislative_assemblies_o_2026-01-04_0540",
+            "channel_id": 591,
+            "start": 545,
+            "end": 599
+        },
+        {
+            "program_id": "470357_hpitv_international_2026-01-04_0420",
+            "channel_id": 69,
+            "start": 599,
+            "end": 653
+        },
+        {
+            "program_id": "470533_live_nhl_hockey_2026-01-04_0540",
+            "channel_id": 244,
+            "start": 653,
+            "end": 693
+        },
+        {
+            "program_id": "470345_live_nfl_football_2026-01-04_0600",
+            "channel_id": 57,
+            "start": 693,
+            "end": 723
+        },
+        {
+            "program_id": "470299_top_chef_canada_2026-01-04_0720",
+            "channel_id": 11,
+            "start": 723,
+            "end": 753
+        },
+        {
+            "program_id": "470831_live_nhl_hockey_2026-01-04_0720",
+            "channel_id": 542,
+            "start": 753,
+            "end": 875
+        },
+        {
+            "program_id": "470850_radio_ici_radio_canada_p_2026-01-04_0720",
+            "channel_id": 561,
+            "start": 875,
+            "end": 933
+        },
+        {
+            "program_id": "470536_nhl_center_ice_2026-01-04_0930",
+            "channel_id": 247,
+            "start": 933,
+            "end": 1015
+        },
+        {
+            "program_id": "470401_nba_basketball_2026-01-04_0900",
+            "channel_id": 113,
+            "start": 1015,
+            "end": 1050
+        },
+        {
+            "program_id": "470771_ligue_nationale_de_hocke_2026-01-04_0960",
+            "channel_id": 482,
+            "start": 1050,
+            "end": 1095
+        },
+        {
+            "program_id": "470400_fin_des_programmes_2026-01-04_1080",
+            "channel_id": 112,
+            "start": 1095,
+            "end": 1142
+        },
+        {
+            "program_id": "470303_nba_league_pass_info_2026-01-04_1080",
+            "channel_id": 15,
+            "start": 1142,
+            "end": 1197
+        },
+        {
+            "program_id": "470350_sportsnet_one_vancouver__2026-01-04_1140",
+            "channel_id": 62,
+            "start": 1197,
+            "end": 1310
+        },
+        {
+            "program_id": "470396_entertainment_tonight_2026-01-04_1290",
+            "channel_id": 108,
+            "start": 1310,
+            "end": 1350
+        },
+        {
+            "program_id": "470297_the_littlest_hobo_2026-01-04_1350",
+            "channel_id": 9,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "470466_the_magic_school_bus_rid_2026-01-04_1380",
+            "channel_id": 178,
+            "start": 1380,
+            "end": 1420
+        }
+    ]
+}

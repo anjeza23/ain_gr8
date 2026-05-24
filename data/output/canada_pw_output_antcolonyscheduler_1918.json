@@ -1,0 +1,178 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470301_nightline_2026-01-04_0060",
+            "channel_id": 13,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "470399_le_sport_en_toute_libert_2026-01-04_0090",
+            "channel_id": 111,
+            "start": 90,
+            "end": 120
+        },
+        {
+            "program_id": "470313_ctv_news_weekend_2026-01-04_0120",
+            "channel_id": 25,
+            "start": 120,
+            "end": 150
+        },
+        {
+            "program_id": "470755_movie_2026-01-04_0150",
+            "channel_id": 466,
+            "start": 150,
+            "end": 235
+        },
+        {
+            "program_id": "470920_live_premiership_rugby_2026-01-04_0150",
+            "channel_id": 631,
+            "start": 235,
+            "end": 270
+        },
+        {
+            "program_id": "470503_live_pwhl_hockey_2026-01-04_0240",
+            "channel_id": 215,
+            "start": 270,
+            "end": 315
+        },
+        {
+            "program_id": "470475_get_winter_ready_with_fr_2026-01-04_0300",
+            "channel_id": 187,
+            "start": 315,
+            "end": 355
+        },
+        {
+            "program_id": "470432_live_nfl_countdown_2026-01-04_0300",
+            "channel_id": 144,
+            "start": 355,
+            "end": 390
+        },
+        {
+            "program_id": "470842_live_nfl_football_2026-01-04_0390",
+            "channel_id": 553,
+            "start": 390,
+            "end": 429
+        },
+        {
+            "program_id": "470428_les_33_2026-01-04_0330",
+            "channel_id": 140,
+            "start": 429,
+            "end": 460
+        },
+        {
+            "program_id": "470558_live_nhl_hockey_2026-01-04_0360",
+            "channel_id": 269,
+            "start": 460,
+            "end": 505
+        },
+        {
+            "program_id": "470593_nhl_center_ice_2026-01-04_0480",
+            "channel_id": 304,
+            "start": 505,
+            "end": 535
+        },
+        {
+            "program_id": "470306_harry_potter_et_les_reli_2026-01-04_0510",
+            "channel_id": 18,
+            "start": 535,
+            "end": 585
+        },
+        {
+            "program_id": "470506_live_hockey_nhl_2026-01-04_0540",
+            "channel_id": 218,
+            "start": 585,
+            "end": 635
+        },
+        {
+            "program_id": "470872_live_nfl_football_2026-01-04_0600",
+            "channel_id": 583,
+            "start": 635,
+            "end": 690
+        },
+        {
+            "program_id": "470527_logan_2026-01-04_0660",
+            "channel_id": 238,
+            "start": 690,
+            "end": 720
+        },
+        {
+            "program_id": "470919_ligue_nationale_de_hocke_2026-01-04_0720",
+            "channel_id": 630,
+            "start": 720,
+            "end": 779
+        },
+        {
+            "program_id": "470893_mlb_extra_innings_info_2026-01-04_0720",
+            "channel_id": 604,
+            "start": 779,
+            "end": 925
+        },
+        {
+            "program_id": "470887_saturday_night_live_2026-01-04_0900",
+            "channel_id": 598,
+            "start": 925,
+            "end": 960
+        },
+        {
+            "program_id": "470676_the_raccoons_2026-01-04_0960",
+            "channel_id": 387,
+            "start": 960,
+            "end": 990
+        },
+        {
+            "program_id": "470760_cbc_newsroom_with_deana__2026-01-04_0990",
+            "channel_id": 471,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "470717_nhl_centre_ice_info_2026-01-04_0840",
+            "channel_id": 428,
+            "start": 1020,
+            "end": 1060
+        },
+        {
+            "program_id": "470412_enemy_2026-01-04_1050",
+            "channel_id": 124,
+            "start": 1060,
+            "end": 1090
+        },
+        {
+            "program_id": "470826_mlb_extra_innings_info_2026-01-04_1080",
+            "channel_id": 537,
+            "start": 1090,
+            "end": 1177
+        },
+        {
+            "program_id": "470597_atn_live_gurubani_2026-01-04_1170",
+            "channel_id": 308,
+            "start": 1177,
+            "end": 1230
+        },
+        {
+            "program_id": "470339_sports_30_2026-01-04_1230",
+            "channel_id": 51,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "470330_anjelica_s_22_minute_wor_2026-01-04_1260",
+            "channel_id": 42,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "470801_cbc_radio_one_vancouver__2026-01-04_1140",
+            "channel_id": 512,
+            "start": 1290,
+            "end": 1365
+        },
+        {
+            "program_id": "470519_ribbit_prince_malgr_lui_2026-01-04_1320",
+            "channel_id": 230,
+            "start": 1365,
+            "end": 1409
+        }
+    ]
+}
